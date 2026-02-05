@@ -7,3 +7,15 @@ lib/
 *.egg-info
 __pycache__
 venv/
+
+# Logs
+*.log
+
+# Temp test/output files
+nhs-kg.*
+nhs-knowledge-graph.html
+nhs-knowledge-graph.json
+sample-output-format.json
+test-output.html
+data/tiny-test.txt
+data/nhs-test.txt
