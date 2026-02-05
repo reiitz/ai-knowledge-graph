@@ -1,0 +1,5969 @@
+{
+  "metadata": {
+    "evaluated_at": "2026-02-05T08:42:37.089592",
+    "total_pages": 285,
+    "total_triples": 840,
+    "thresholds": {
+      "coherent": 0.7,
+      "ambiguous": 0.4
+    }
+  },
+  "pages": {
+    "page_0001": {
+      "title": "NHS England \u00bb Social prescribing",
+      "triple_count": 4,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "personalised care",
+        "na",
+        "personalised",
+        "conditions",
+        "social care",
+        "service",
+        "long",
+        "wellbeing",
+        "needs"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0004": {
+      "title": "NHS England \u00bb Service specifications",
+      "triple_count": 4,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "mental",
+        "standard",
+        "service",
+        "development",
+        "core",
+        "development needs"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Training type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0005": {
+      "title": "NHS England \u00bb 10 Year Workforce Plan call for evidence",
+      "triple_count": 5,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "public",
+        "plan",
+        "health"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0011": {
+      "title": "NHS England \u00bb Ed Smith confirmed as Audit Committee Chair of NHS Commissioning Board Authority",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "health"
+      ],
+      "matched_categories": [
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0012": {
+      "title": "Ciar\u00e1n Devane confirmed as Non-Executive Director of NHS Commissioning Board Authority | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "health"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0013": {
+      "title": "NHS England \u00bb Ciar\u00e1n Devane confirmed as Non-Executive Director of NHS Commissioning Board Authority",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "health"
+      ],
+      "matched_categories": [
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0014": {
+      "title": "Board meeting \u2013 2 February 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "public",
+        "meeting",
+        "board"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0018": {
+      "title": "Chief Nursing Officer appointed | NHS England",
+      "triple_count": 5,
+      "coherence_score": 0.775,
+      "entity_count": 8,
+      "matched_entities": [
+        "west",
+        "east of england",
+        "north",
+        "england",
+        "board",
+        "north west"
+      ],
+      "matched_categories": [
+        "Region",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0019": {
+      "title": "NHS England \u00bb Chief Nursing Officer appointed",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "west",
+        "east of england",
+        "south west",
+        "south east",
+        "north",
+        "england",
+        "board",
+        "north west"
+      ],
+      "matched_categories": [
+        "Region",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0021": {
+      "title": "Board meeting \u2013 13 April 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "inter",
+        "public",
+        "board",
+        "open",
+        "meeting"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Event type",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0025": {
+      "title": "Bulletin for proposed CCGs \u2013 Issue 13, 1 May 2012 | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "clinical",
+        "document",
+        "na"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0030": {
+      "title": "Commissioning support services: Outcome of Checkpoint 2 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "plan",
+        "service",
+        "development",
+        "board",
+        "services"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Career stage",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0031": {
+      "title": "Preparation for commissioning picks up pace \u2013 Barbara Hakin | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.82,
+      "entity_count": 8,
+      "matched_entities": [
+        "best practice",
+        "access",
+        "evidence",
+        "patient",
+        "any",
+        "communities",
+        "service",
+        "general practice",
+        "practice",
+        "base"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0032": {
+      "title": "The Power of Information | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.933,
+      "entity_count": 3,
+      "matched_entities": [
+        "information",
+        "management",
+        "transformation",
+        "improvement",
+        "patient information",
+        "people"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0033": {
+      "title": "CCG authorisation waves agreed | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0034": {
+      "title": "Great Expectations \u2013 Johnny Marshall | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.667,
+      "entity_count": 6,
+      "matched_entities": [
+        "long",
+        "first",
+        "training",
+        "board",
+        "grants"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Training type",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0035": {
+      "title": "Application waves for CCG authorisation | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.0,
+      "entity_count": 5,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0036": {
+      "title": "Board meeting \u2013 31 May 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.72,
+      "entity_count": 5,
+      "matched_entities": [
+        "west",
+        "public",
+        "board",
+        "open",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0037": {
+      "title": "Bulletin for proposed CCGs \u2013 Issue 14, 24 May 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "practice",
+        "bulletin"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "News type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0038": {
+      "title": "Proposed CCG configuration and member practices published | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "east of england",
+        "england"
+      ],
+      "matched_categories": [
+        "Region",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0039": {
+      "title": "National Director for Patients and Information appointed | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "national",
+        "information",
+        "na",
+        "patient",
+        "board"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0040": {
+      "title": "Checkpoint 2 customer survey  | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.407,
+      "entity_count": 4,
+      "matched_entities": [
+        "optimisation",
+        "collaboration",
+        "evaluation",
+        "authentication"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0041": {
+      "title": "Commissioning Support Bulletin \u2013 Issue 2, 28 May 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.667,
+      "entity_count": 6,
+      "matched_entities": [
+        "access",
+        "na",
+        "bulletin"
+      ],
+      "matched_categories": [
+        "News type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0042": {
+      "title": "Landmark moment on the road to authorisation \u2013 Barbara Hakin | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "acute care common stem",
+        "practice",
+        "england",
+        "communities of practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0043": {
+      "title": "NHS England \u00bb Board meeting \u2013 31 May 2012",
+      "triple_count": 3,
+      "coherence_score": 0.964,
+      "entity_count": 6,
+      "matched_entities": [
+        "vocational",
+        "inter",
+        "board",
+        "open",
+        "meeting",
+        "conference"
+      ],
+      "matched_categories": [
+        "Event type",
+        "Tags",
+        "Career stage",
+        "Training qualification"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0044": {
+      "title": "NHS England \u00bb Clinical commissioning groups: proposed configurations agreed",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0045": {
+      "title": "NHS England \u00bb Proposed CCG configuration and member practices published",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "plan",
+        "practice",
+        "planning",
+        "first",
+        "time",
+        "board"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Publication type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0046": {
+      "title": "NHS England \u00bb CCG authorisation waves agreed",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "board",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0048": {
+      "title": "NHS England \u00bb Landmark moment on the road to authorisation \u2013 Barbara Hakin",
+      "triple_count": 3,
+      "coherence_score": 0.867,
+      "entity_count": 6,
+      "matched_entities": [
+        "west",
+        "east of england",
+        "stem",
+        "service",
+        "practice",
+        "england",
+        "communities of practice",
+        "services",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0049": {
+      "title": "NHS England \u00bb National Director for Patients and Information appointed",
+      "triple_count": 2,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "national",
+        "information",
+        "na",
+        "patient",
+        "board"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0051": {
+      "title": "NHS England \u00bb Regional Directors appointed",
+      "triple_count": 5,
+      "coherence_score": 0.857,
+      "entity_count": 10,
+      "matched_entities": [
+        "west",
+        "south",
+        "primary care",
+        "na",
+        "midlands",
+        "young",
+        "north",
+        "england",
+        "board",
+        "regional"
+      ],
+      "matched_categories": [
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0052": {
+      "title": "NHS England \u00bb The Power of Information",
+      "triple_count": 3,
+      "coherence_score": 0.933,
+      "entity_count": 3,
+      "matched_entities": [
+        "information",
+        "management",
+        "transformation",
+        "improvement",
+        "patient information",
+        "people"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0054": {
+      "title": "Authorisation assessors guide published | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0055": {
+      "title": "NHS England \u00bb Skills and behaviours to engage, motivate and lead others (including across your CCG membership)",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "leader",
+        "na",
+        "leadership",
+        "workshop",
+        "people"
+      ],
+      "matched_categories": [
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0067": {
+      "title": "NHS England \u00bb Awareness and skills to ensure the financial affairs of the CCG are well managed",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "stem",
+        "inter",
+        "na",
+        "management",
+        "review",
+        "term",
+        "framework",
+        "occupational frameworks"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0069": {
+      "title": "NHS England \u00bb Understanding and skill to identify requirements, secure support and monitor performance",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "leader",
+        "national",
+        "health",
+        "information",
+        "self",
+        "systems",
+        "stem",
+        "na",
+        "development",
+        "leadership"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Training type",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0070": {
+      "title": "NHS England \u00bb Knowledge of the issues involved in partnering with officers and members in local government, and in giving public account for CCG decisions. Understanding of the importance of effective relationships. Skills in presenting plans to a public committee",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "west",
+        "national",
+        "health",
+        "na",
+        "roles",
+        "clinical",
+        "north",
+        "wellbeing",
+        "guidance",
+        "north west"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0075": {
+      "title": "Single Operating Model for Commissioning Primary Care | NHS England",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "primary care",
+        "stem",
+        "systems",
+        "patient",
+        "primary",
+        "service",
+        "england",
+        "care",
+        "dementia",
+        "nurses"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0076": {
+      "title": "Who\u2019s inside the tent? \u2013 Johnny Marshall | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.52,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "public",
+        "public health professionals",
+        "england",
+        "public health"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Region",
+        "Clinical discipline"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0079": {
+      "title": "NHS England \u00bb Single Operating Model for Commissioning Primary Care",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "systems",
+        "any",
+        "dementia",
+        "board"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Career stage",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0080": {
+      "title": "Full set of first wave authorisation applications received on time  | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "board",
+        "national",
+        "development",
+        "na"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0081": {
+      "title": "Our NHS care objectives: a draft mandate to the NHS Commissioning Board | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "east of england",
+        "people",
+        "health",
+        "public",
+        "england",
+        "care",
+        "board"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0082": {
+      "title": "Bulletin for proposed CCGs \u2013 Issue 16, 4 July 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "bulletin"
+      ],
+      "matched_categories": [
+        "News type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0083": {
+      "title": "CCG clinical leaders invited to join new commissioning assembly | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "leader",
+        "formal",
+        "senior",
+        "collaboration",
+        "board",
+        "team",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Training type",
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0084": {
+      "title": "Your chance to work with the NHS to help challenge and shape the health system of the future | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.712,
+      "entity_count": 5,
+      "matched_entities": [
+        "long",
+        "access",
+        "board"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0085": {
+      "title": "The Matrix \u2013 Johnny Marshall | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "plan",
+        "health",
+        "na",
+        "healthcare",
+        "profession",
+        "service",
+        "planning",
+        "professionals",
+        "services",
+        "professional"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0086": {
+      "title": "NHS Commissioning Board Authority recruits Very Senior Managers (VSM) | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "systems",
+        "senior",
+        "na",
+        "development",
+        "strategy",
+        "framework",
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Publication type",
+        "Recruitment format",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0088": {
+      "title": "Board Authority appoints first CSS managing directors and announces decision to host | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.52,
+      "entity_count": 5,
+      "matched_entities": [
+        "board"
+      ],
+      "matched_categories": [
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0091": {
+      "title": "Moving on at pace \u2013 Barbara Hakin | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.592,
+      "entity_count": 5,
+      "matched_entities": [
+        "access",
+        "na"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0093": {
+      "title": "Appointment of the first local area team directors | NHS England",
+      "triple_count": 6,
+      "coherence_score": 0.7,
+      "entity_count": 12,
+      "matched_entities": [
+        "south",
+        "east",
+        "midlands",
+        "north",
+        "yorkshire",
+        "long",
+        "england",
+        "board"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0095": {
+      "title": "The Local Health Resilience Partnerships: Implementation information and joint resource pack | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "plan",
+        "health",
+        "social care",
+        "planning",
+        "care",
+        "social",
+        "emergency",
+        "partnership"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0096": {
+      "title": "Our commitment to improve \u2013 Jane Cummings | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "patient",
+        "profession",
+        "england",
+        "improvement",
+        "care",
+        "nurses"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0100": {
+      "title": "NHS England \u00bb Board Authority appoints first CSS managing directors and announces decision to host",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 2,
+      "matched_entities": [
+        "board"
+      ],
+      "matched_categories": [
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0101": {
+      "title": "NHS England \u00bb Operations directorate: key directors appointed",
+      "triple_count": 3,
+      "coherence_score": 0.764,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "plan",
+        "na",
+        "consultation",
+        "planning",
+        "emergency",
+        "framework",
+        "board"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0102": {
+      "title": "NHS England \u00bb Full set of first wave authorisation applications received on time",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "board"
+      ],
+      "matched_categories": [
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0104": {
+      "title": "NHS England \u00bb The Local Health Resilience Partnerships: Implementation information and joint resource pack",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "stem",
+        "health",
+        "social care",
+        "care",
+        "emergency",
+        "social",
+        "partnership"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0105": {
+      "title": "NHS England \u00bb The Local Health Resilience Partnerships: Implementation information and joint resource pack",
+      "triple_count": 2,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "stem",
+        "health",
+        "nhs and healthcare systems",
+        "emergency",
+        "partnership"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0109": {
+      "title": "NICE reveals its recommended measures for the NHS Commissioning Outcomes Framework | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "access",
+        "health",
+        "information",
+        "data",
+        "social care",
+        "service",
+        "care",
+        "social",
+        "outcomes",
+        "framework"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0111": {
+      "title": "Insights from scenario workshop published | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "leader",
+        "national",
+        "na",
+        "development",
+        "independent"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0114": {
+      "title": "A new relationship between citizens and the NHS begins \u2026 \u2013 Roz Davies | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "open",
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0116": {
+      "title": "Bulletin for proposed CCGs \u2013 Issue 19, 24 August 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.65,
+      "entity_count": 4,
+      "matched_entities": [
+        "scientists",
+        "scientist",
+        "clinical",
+        "bulletin"
+      ],
+      "matched_categories": [
+        "News type",
+        "Topic",
+        "Profession",
+        "Training type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0117": {
+      "title": "Citius, Altius, Fortius \u2013 Johnny Marshall | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "team",
+        "london",
+        "na",
+        "events"
+      ],
+      "matched_categories": [
+        "Region",
+        "Profession",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0118": {
+      "title": "Introducing the NHS.UK Alpha | NHS.UK Alpha",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "any",
+        "innovation",
+        "people"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0119": {
+      "title": "NHS.UK: tackling the big questions | NHS.UK Alpha",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "mental health",
+        "nurses",
+        "business",
+        "team",
+        "services",
+        "user"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0121": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "healthcare scientists",
+        "health",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "care",
+        "health informaticians"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0124": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.72,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "surgery",
+        "advanced practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0125": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "healthcare scientists",
+        "health",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "care",
+        "health informaticians"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0126": {
+      "title": "Home - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "people",
+        "data",
+        "inter",
+        "patient",
+        "digital",
+        "service",
+        "nhs digital academy",
+        "data and statistics",
+        "practice",
+        "placements"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Career stage",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0127": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.347,
+      "entity_count": 5,
+      "matched_entities": [
+        "surgery"
+      ],
+      "matched_categories": [
+        "Clinical discipline"
+      ],
+      "routing": "CONFLICT"
+    },
+    "page_0129": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "service",
+        "practice",
+        "practitioners",
+        "advanced practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0131": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "healthcare scientists",
+        "health",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "care",
+        "health informaticians"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0132": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "best practice",
+        "healthcare scientists",
+        "health",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "care",
+        "health informaticians"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0133": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "information",
+        "digital",
+        "informaticians",
+        "general practice",
+        "nhs digital academy",
+        "transformation",
+        "practice",
+        "practitioners",
+        "innovation"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0134": {
+      "title": "Home - NHS Digital",
+      "triple_count": 1,
+      "coherence_score": 0.7,
+      "entity_count": 2,
+      "matched_entities": [
+        "nhs digital academy",
+        "digital"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0135": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "healthcare scientists",
+        "health",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "care",
+        "health informaticians"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0136": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "team",
+        "advanced practice",
+        "user"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0139": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.767,
+      "entity_count": 6,
+      "matched_entities": [
+        "best practice",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "surgery",
+        "team",
+        "advanced practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0143": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.72,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "practitioners",
+        "surgery",
+        "advanced practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0145": {
+      "title": "Accessibility - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.809,
+      "entity_count": 4,
+      "matched_entities": [
+        "west",
+        "health",
+        "information",
+        "digital",
+        "nhs digital academy",
+        "social care",
+        "care",
+        "social",
+        "suite"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Career stage",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0147": {
+      "title": "GPES Data for Pandemic Planning and Research \u2013 Data Protection Impact Assessment PDF - disproportionate burden assessment - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "access",
+        "plan",
+        "data",
+        "public",
+        "planning",
+        "research",
+        "user"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0148": {
+      "title": "Historic PDF conversion: Disproportionate burden assessment - NHS Digital",
+      "triple_count": 4,
+      "coherence_score": 0.828,
+      "entity_count": 6,
+      "matched_entities": [
+        "access",
+        "data",
+        "information",
+        "public",
+        "assessments",
+        "suite"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Career stage",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0150": {
+      "title": "NHS App disproportionate burden assessment - NHS Digital",
+      "triple_count": 4,
+      "coherence_score": 0.829,
+      "entity_count": 7,
+      "matched_entities": [
+        "public",
+        "access",
+        "na",
+        "statement"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0151": {
+      "title": "Breaking down barriers - women in IT - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "nhs digital academy",
+        "technology",
+        "na",
+        "digital"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0153": {
+      "title": "Emma Summers - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "nhs digital academy",
+        "programme",
+        "digital"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0157": {
+      "title": "Sally Bogg - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "nhs digital academy",
+        "digital"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0161": {
+      "title": "Careers - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.97,
+      "entity_count": 4,
+      "matched_entities": [
+        "roles",
+        "digital",
+        "professions",
+        "nhs digital academy",
+        "profession",
+        "blended",
+        "leavers",
+        "needs",
+        "wider profession",
+        "professionals"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0163": {
+      "title": "Shadow Me Programme - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "practitioner training programme",
+        "plan",
+        "programme",
+        "improvement"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Training type",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0165": {
+      "title": "Apprenticeship scheme - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.849,
+      "entity_count": 6,
+      "matched_entities": [
+        "digital",
+        "nhs digital academy",
+        "apprenticeship",
+        "practice",
+        "training"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Training type",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0166": {
+      "title": "Graduate scheme - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.812,
+      "entity_count": 4,
+      "matched_entities": [
+        "graduates",
+        "nhs digital academy",
+        "training",
+        "digital"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0168": {
+      "title": "Product and delivery management graduate scheme - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "na",
+        "digital",
+        "roles",
+        "nhs digital academy",
+        "management",
+        "delivery"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0169": {
+      "title": "Summer internships - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "minutes",
+        "inter"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0170": {
+      "title": "Trainee stories - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "na",
+        "digital",
+        "professions",
+        "service",
+        "profession",
+        "management",
+        "nhs digital academy"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0171": {
+      "title": "User centred design graduate scheme - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "roles",
+        "digital",
+        "digital skills",
+        "service",
+        "nhs digital academy",
+        "needs",
+        "care",
+        "research",
+        "services"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0172": {
+      "title": "Working at NHS Digital - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 3,
+      "matched_entities": [
+        "value",
+        "na",
+        "digital",
+        "nhs digital academy",
+        "profession",
+        "professionals",
+        "professional networks",
+        "professional"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0173": {
+      "title": "Contact us - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "services",
+        "systems",
+        "digital",
+        "public",
+        "service",
+        "general",
+        "team"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0177": {
+      "title": "Disclosure Log - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "information",
+        "nhs digital academy",
+        "mental",
+        "digital"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0178": {
+      "title": "Freedom of information request NIC-563233-P5Y0W - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "information",
+        "na",
+        "standard",
+        "management",
+        "transformation",
+        "policy",
+        "england",
+        "improvement",
+        "material",
+        "associate"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0179": {
+      "title": "Freedom of information request NIC-422731-F5H0J - NHS Digital",
+      "triple_count": 5,
+      "coherence_score": 0.7,
+      "entity_count": 2,
+      "matched_entities": [
+        "information"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0183": {
+      "title": "Freedom of Information disclosure log March 2021 - NHS Digital",
+      "triple_count": 4,
+      "coherence_score": 0.829,
+      "entity_count": 7,
+      "matched_entities": [
+        "south",
+        "information"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0184": {
+      "title": "Freedom of information request NIC-440206-R0L0Q - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "data",
+        "information",
+        "na"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Publication type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0185": {
+      "title": "Freedom of information request NIC-440574-D9V9P - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "information",
+        "digital",
+        "nhs digital academy",
+        "patient information",
+        "team",
+        "digital literacy"
+      ],
+      "matched_categories": [
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0189": {
+      "title": "Freedom of information request NIC-409137-W1S2H - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "leavers",
+        "leaver",
+        "information",
+        "doctors"
+      ],
+      "matched_categories": [
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0192": {
+      "title": "Cookies we use on our site - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "long",
+        "report"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0197": {
+      "title": "Annual inclusion report 2021-22 - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "report",
+        "east of england",
+        "digital",
+        "nhs digital academy",
+        "england",
+        "improvement",
+        "team"
+      ],
+      "matched_categories": [
+        "Region",
+        "Profession",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0201": {
+      "title": "Our pay gaps - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "children",
+        "report",
+        "school",
+        "na"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Publication type",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0204": {
+      "title": "Workforce Disability Equality Standard (WDES) - NHS England Digital",
+      "triple_count": 4,
+      "coherence_score": 0.743,
+      "entity_count": 7,
+      "matched_entities": [
+        "data",
+        "na",
+        "digital",
+        "standard",
+        "nhs digital academy",
+        "disability",
+        "quality",
+        "equality",
+        "workforce"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0206": {
+      "title": "A look at the diversity of our workforce today - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "diversity",
+        "report",
+        "workforce"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0208": {
+      "title": "Our workforce demographics 2018 - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "data",
+        "stem",
+        "na",
+        "digital",
+        "nhs digital academy",
+        "electronic",
+        "base",
+        "statistics",
+        "workforce"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0211": {
+      "title": "Data we collect, analyse, publish and share - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "data",
+        "information",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "care",
+        "social"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0212": {
+      "title": "Digital inclusion for health and social care - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "report",
+        "digital health leadership",
+        "health",
+        "self",
+        "east",
+        "digital",
+        "global health",
+        "service",
+        "social care",
+        "care"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0217": {
+      "title": "Who we can work with - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "stem",
+        "health",
+        "systems",
+        "digital",
+        "global health",
+        "service",
+        "transformation",
+        "sustainability",
+        "partnership"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0218": {
+      "title": "Digital, research, informatics and virtual environments (DRIVE) partnership - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "industry",
+        "academic",
+        "digital",
+        "long",
+        "virtual",
+        "research",
+        "partnership"
+      ],
+      "matched_categories": [
+        "Delivery method",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0220": {
+      "title": "Data Provision Notices (DPNs) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "data",
+        "information",
+        "na"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Publication type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0222": {
+      "title": "Adult Social Care Data Collections - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "data",
+        "na",
+        "service",
+        "social care",
+        "england",
+        "care",
+        "social",
+        "services"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0223": {
+      "title": "Adult social care management system coronavirus (COVID-19) status collection - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "data",
+        "stem",
+        "na",
+        "digital",
+        "social care",
+        "management",
+        "service",
+        "nhs digital academy",
+        "care",
+        "social"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0224": {
+      "title": "Alcohol Dependence Programme Patient Level Data Collection - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "plan",
+        "health",
+        "data",
+        "patient",
+        "impact",
+        "inequalities",
+        "long",
+        "term",
+        "care",
+        "team"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0225": {
+      "title": "Ambulance Data Set Pilot (ADS) Data Provision Notice - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "data",
+        "stem",
+        "systems",
+        "na",
+        "patient",
+        "digital",
+        "service",
+        "nhs digital academy",
+        "delivery"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0227": {
+      "title": "Board Vacancies and Commercial Spend - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "talent",
+        "digital",
+        "nhs digital academy",
+        "improvement",
+        "england",
+        "care",
+        "board",
+        "team",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0228": {
+      "title": "Breast and cosmetic implant registry (NHS and private providers) Data Provision Notice - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "plan",
+        "health",
+        "east",
+        "digital",
+        "nhs digital academy",
+        "review",
+        "mental health",
+        "cosmetic"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0229": {
+      "title": "Breast and Cosmetic Implant Registry for Northern Ireland - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 3,
+      "matched_entities": [
+        "plan",
+        "health",
+        "east",
+        "digital",
+        "nhs digital academy",
+        "social care",
+        "england",
+        "care",
+        "social",
+        "cosmetic"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0230": {
+      "title": "Cancer Pathways Analysis - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "health",
+        "data",
+        "na",
+        "patient",
+        "public",
+        "management",
+        "england",
+        "practitioner training programme",
+        "long"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Training type",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0238": {
+      "title": "GPES Cardiovascular Disease Prevention Audit - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.93,
+      "entity_count": 5,
+      "matched_entities": [
+        "east of england",
+        "data",
+        "na",
+        "digital",
+        "nhs digital academy",
+        "prevention",
+        "england"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0244": {
+      "title": "Client-Level Adult Social Care Data (No. 2) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "health",
+        "data",
+        "na",
+        "social care",
+        "service",
+        "care",
+        "social",
+        "user",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0245": {
+      "title": "Cloud-based telephony - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "access",
+        "east of england",
+        "data",
+        "inter",
+        "general practice",
+        "service",
+        "practice",
+        "england",
+        "base",
+        "improvement"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0246": {
+      "title": "Cloud-based telephony - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "east of england",
+        "data",
+        "general practice",
+        "consultation",
+        "base",
+        "england",
+        "practice",
+        "general"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0247": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "contract",
+        "health",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "practice",
+        "england",
+        "care",
+        "social"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0248": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "health",
+        "na",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "practice",
+        "england",
+        "care"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0249": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "care",
+        "social",
+        "covid",
+        "clinical"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0251": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 1,
+      "coherence_score": 1.0,
+      "entity_count": 2,
+      "matched_entities": [
+        "nhs digital academy",
+        "patient",
+        "clinical",
+        "digital"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0254": {
+      "title": "COVID-19 At Risk Patients - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "data",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "practice",
+        "england",
+        "care",
+        "social"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0255": {
+      "title": "COVID-19 At Risk Patients - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "data",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "england",
+        "care",
+        "social",
+        "covid"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0258": {
+      "title": "COVID-19 At Risk Patients - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "england",
+        "care",
+        "social"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0259": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "contract",
+        "health",
+        "patient",
+        "digital",
+        "social care",
+        "nhs digital academy",
+        "care",
+        "social",
+        "covid",
+        "clinical"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0261": {
+      "title": "COVID-19 Situation Reports - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "report",
+        "data",
+        "information",
+        "resource",
+        "service",
+        "resources",
+        "planning",
+        "time",
+        "urgent",
+        "services"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0262": {
+      "title": "COVID-19 Unpaid Carers Data - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "east of england",
+        "data",
+        "information",
+        "na",
+        "digital",
+        "england",
+        "foundation",
+        "care",
+        "programme"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Training type",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0263": {
+      "title": "COVID-19 Vaccine Data - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "data",
+        "health",
+        "na",
+        "digital",
+        "social care",
+        "service",
+        "england",
+        "care",
+        "programme",
+        "social"
+      ],
+      "matched_categories": [
+        "Region",
+        "Training type",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0264": {
+      "title": "COVID-19 Vaccine Data transparency notice - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.833,
+      "entity_count": 5,
+      "matched_entities": [
+        "data",
+        "na",
+        "patient",
+        "placements",
+        "covid"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Publication type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0267": {
+      "title": "CP-IS extract to NHS England for Coronavirus (COVID-19)\u00a0child health safeguarding actions - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 2,
+      "matched_entities": [
+        "health",
+        "stem",
+        "na",
+        "england",
+        "covid"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0268": {
+      "title": "Data Services for Commissioners Data Provision Notice - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "plan",
+        "data",
+        "health",
+        "patient",
+        "digital",
+        "service",
+        "healthcare",
+        "nhs digital academy",
+        "planning",
+        "term"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0270": {
+      "title": "Diabetes Transition and Young Adult Care Pilots \u2013 Evaluation - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "health",
+        "information",
+        "social care",
+        "service",
+        "young",
+        "care",
+        "social",
+        "services"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0271": {
+      "title": "Electronic Prescribing and Medicines Administration (EPMA) Data - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 2,
+      "matched_entities": [
+        "nhs digital academy",
+        "stem",
+        "systems",
+        "digital"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0274": {
+      "title": "General Practice and Primary Care Network Workforce - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 3,
+      "matched_entities": [
+        "national",
+        "data",
+        "na",
+        "general practice",
+        "practice",
+        "general",
+        "workforce"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0275": {
+      "title": "General Practice Data for Planning and Research - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "plan",
+        "health",
+        "data",
+        "advanced clinical practice",
+        "digital",
+        "general practice",
+        "social care",
+        "nhs digital academy",
+        "practice"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0277": {
+      "title": "GP appointments data collection in support of winter pressures version 2: categorisation - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "data",
+        "na",
+        "digital",
+        "general practice",
+        "standard",
+        "nhs digital academy",
+        "public",
+        "practice",
+        "general"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0279": {
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "best practice",
+        "advanced clinical practice",
+        "data",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "general"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0281": {
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "data",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "general",
+        "medical"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0284": {
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "data",
+        "digital",
+        "general practice",
+        "nhs digital academy",
+        "practice",
+        "general"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0286": {
+      "title": "Health Education England\u2019s inaugural Board meeting | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "na",
+        "england",
+        "meeting",
+        "board"
+      ],
+      "matched_categories": [
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0287": {
+      "title": "Ian Cumming confirmed as Chief Executive of Health Education England | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0288": {
+      "title": "HEE appoints its senior management team | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "east of england",
+        "health",
+        "health inequalities",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Region"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0289": {
+      "title": "Three Non-Executive Directors appointed | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.0,
+      "entity_count": 4,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0290": {
+      "title": "BTBC steps forward | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.86,
+      "entity_count": 6,
+      "matched_entities": [
+        "finance",
+        "patient",
+        "assessments",
+        "base",
+        "care",
+        "programme"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Training type",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0291": {
+      "title": "Testing out technology | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.762,
+      "entity_count": 6,
+      "matched_entities": [
+        "leader",
+        "plan",
+        "planning",
+        "needs",
+        "training",
+        "experience",
+        "medical",
+        "workshop",
+        "team"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "Training type",
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0292": {
+      "title": "Medical Director appointed | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "medical",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0293": {
+      "title": "Our Strategic Intent | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "board",
+        "health",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0296": {
+      "title": "HEE recommends authorisation of 13 Local Education and Training Boards | Health Education England",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "training",
+        "na"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0297": {
+      "title": "Health Education England \u00bb Health Education England to pilot healthcare experience for aspirant nurses before university",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "academic",
+        "inter",
+        "health",
+        "healthcare",
+        "care",
+        "first",
+        "time",
+        "experience",
+        "nurses",
+        "value"
+      ],
+      "matched_categories": [
+        "Training type",
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0299": {
+      "title": "Health Education England \u00bb Shadowing for Foundation Year 1 (F1) Doctors",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "graduates",
+        "evidence",
+        "medical"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0301": {
+      "title": "Health Education England \u00bb Top nurses to oversee pilots on pre-degree care experience",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "health",
+        "na",
+        "england",
+        "nurses"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities",
+        "Profession",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0303": {
+      "title": "Health Education England \u00bb New national dementia training launched for healthcare staff",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "electronic resources",
+        "health",
+        "resource",
+        "social care",
+        "healthcare",
+        "nhs and healthcare systems",
+        "care",
+        "dementia",
+        "social",
+        "knowledge for healthcare"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0305": {
+      "title": "Health Education England \u00bb Help support and shape workforce planning within the NHS",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "first",
+        "health",
+        "guidance",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Career stage",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0306": {
+      "title": "Health Education England \u00bb Designing HEE\u2019s new Multi Professional Advisory Body (MPAB)",
+      "triple_count": 2,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "stem",
+        "patient",
+        "needs",
+        "decision",
+        "wider",
+        "outcomes",
+        "partnership"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Clinical discipline",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0307": {
+      "title": "Health Education England \u00bb Celebrating our people \u2013 65 years of NHS workforce development",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "health",
+        "na",
+        "service",
+        "time"
+      ],
+      "matched_categories": [
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0309": {
+      "title": "Health Education England \u00bb Health Education West Midlands wins top national patient safety award",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "west",
+        "health",
+        "doctors",
+        "patient",
+        "midlands",
+        "medicine",
+        "awards",
+        "learning"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0310": {
+      "title": "Health Education England \u00bb HEE responds to the Don Berwick report",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "east of england",
+        "health inequalities",
+        "health",
+        "england",
+        "workforce"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Region"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0311": {
+      "title": "Health Education England \u00bb HEE welcomes new generation of doctors",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "east of england",
+        "health",
+        "workforce",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0313": {
+      "title": "Health Education England \u00bb  Pre-nursing experience pilots recruit aspirant nurses to get caring experience",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "evidence",
+        "health",
+        "course",
+        "healthcare",
+        "care",
+        "training",
+        "higher",
+        "experience",
+        "value"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Training type",
+        "Event type",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0314": {
+      "title": "Health Education England \u00bb New Non-Executive Director announced for HEE",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "east",
+        "england",
+        "foundation",
+        "mental health",
+        "london"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0316": {
+      "title": "Health Education England \u00bb Supplying pharmacy graduates \u2013 a consultation",
+      "triple_count": 3,
+      "coherence_score": 0.72,
+      "entity_count": 5,
+      "matched_entities": [
+        "intelligence",
+        "conditions",
+        "management",
+        "consultation",
+        "improvement",
+        "foundation",
+        "circulation",
+        "collaboration",
+        "workforce"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0321": {
+      "title": "Health Education England \u00bb Postgraduate Dean receives award for surgical education and training",
+      "triple_count": 3,
+      "coherence_score": 0.36,
+      "entity_count": 5,
+      "matched_entities": [
+        "professionals",
+        "professions",
+        "profession",
+        "professional"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "CONFLICT"
+    },
+    "page_0322": {
+      "title": "Health Education England \u00bb HEE supports improved training for paramedics",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "na",
+        "standard",
+        "profession",
+        "england",
+        "training",
+        "gp workforce",
+        "armed forces",
+        "professionals",
+        "professional"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Training type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0323": {
+      "title": "Health Education England \u00bb HEE supports improved training for paramedics",
+      "triple_count": 3,
+      "coherence_score": 0.867,
+      "entity_count": 6,
+      "matched_entities": [
+        "report",
+        "evidence",
+        "health",
+        "armed",
+        "paediatrics",
+        "medicines",
+        "base",
+        "england",
+        "college",
+        "armed forces"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0324": {
+      "title": "Health Education England \u00bb HEE supports fourteen areas leading the way in delivering better joined up care.",
+      "triple_count": 4,
+      "coherence_score": 0.625,
+      "entity_count": 8,
+      "matched_entities": [
+        "health",
+        "na",
+        "social care",
+        "service",
+        "care",
+        "social",
+        "services"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0325": {
+      "title": "Health Education England \u00bb HEE Chief Executive on Francis Response",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "nurses",
+        "management professionals",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Region"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0326": {
+      "title": "Health Education England \u00bb HEE delivers dementia awareness training to more than 100,000 staff to improve care for patients",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "west",
+        "south",
+        "health",
+        "south west",
+        "england"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0327": {
+      "title": "Health Education England \u00bb Non-surgical cosmetic interventions: Call for Evidence",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "west",
+        "health",
+        "na",
+        "managing",
+        "north",
+        "england",
+        "north west"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Region",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0330": {
+      "title": "Health Education England \u00bb Aspirant nurses describe journey so far on pioneering care pilots",
+      "triple_count": 1,
+      "coherence_score": 1.0,
+      "entity_count": 2,
+      "matched_entities": [
+        "health",
+        "nurses",
+        "england"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Profession",
+        "Region"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0331": {
+      "title": "Health Education England \u00bb Broadening the Foundation Programme report",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "report",
+        "east of england",
+        "health",
+        "paediatrics",
+        "general practice",
+        "practice",
+        "england",
+        "foundation",
+        "programme",
+        "psychiatry"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Training type",
+        "Publication type",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0333": {
+      "title": "Health Education England \u00bb Consultation skills for pharmacy practice framework launched",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "patient",
+        "consultation",
+        "england",
+        "pharmacy"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0334": {
+      "title": "Health Education England \u00bb New values mapping tool launched",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "programme",
+        "value",
+        "base"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0335": {
+      "title": "Health Education England \u00bb Government and NHS discuss expansion of healthcare army reservists",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "leader",
+        "health",
+        "england",
+        "practitioner training programme",
+        "training",
+        "programme",
+        "scientist training programme"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Training type",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0336": {
+      "title": "Health Education England \u00bb Government and NHS discuss expansion of healthcare army reservists",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "west",
+        "national",
+        "na",
+        "capability",
+        "training",
+        "nhs screening services"
+      ],
+      "matched_categories": [
+        "Region",
+        "Training type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0339": {
+      "title": "NHS England \u00bb Board Meeting \u2013 9 December 2011",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 6,
+      "matched_entities": [
+        "public",
+        "board",
+        "first",
+        "higher",
+        "meeting"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Event type",
+        "Training type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0340": {
+      "title": "NHS England \u00bb NHS Commissioning Board Special Health Authority announces designate executive directors at first meeting",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "health",
+        "na",
+        "medical",
+        "board"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0343": {
+      "title": "NHS England \u00bb Equality Analysis of NHS Commissioning Board Authority Functions",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "na",
+        "public",
+        "meeting",
+        "quality",
+        "board",
+        "equality"
+      ],
+      "matched_categories": [
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0344": {
+      "title": "Commissioning Outcomes Framework consultation  | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.79,
+      "entity_count": 4,
+      "matched_entities": [
+        "national",
+        "health",
+        "na",
+        "outcomes",
+        "framework",
+        "cancer",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0345": {
+      "title": "National Director of Finance appointed | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "finance",
+        "na",
+        "national"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0346": {
+      "title": "NHS England \u00bb Commissioning Outcomes Framework consultation",
+      "triple_count": 3,
+      "coherence_score": 0.712,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "health",
+        "na",
+        "outcomes",
+        "framework",
+        "cancer",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0347": {
+      "title": "NHS England \u00bb Commissioning intelligence report",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "intelligence",
+        "report",
+        "emerging",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0348": {
+      "title": "NHS England \u00bb National Director of Finance appointed",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "board",
+        "national",
+        "finance",
+        "na"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0350": {
+      "title": "NHS England \u00bb Board meeting \u2013 13 April 2012",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "inter",
+        "board",
+        "public",
+        "open",
+        "meeting"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Event type",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0351": {
+      "title": "Wave 1 applications for CCG authorisation | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0353": {
+      "title": "CCG indicative running cost allowances | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "patient",
+        "public",
+        "service",
+        "england",
+        "meeting",
+        "quality",
+        "board",
+        "services"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0356": {
+      "title": "Secretary of State\u2019s second accountability meeting with the Commissioning Board Authority | NHS England",
+      "triple_count": 4,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "public",
+        "minutes",
+        "meeting",
+        "policy"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Event type",
+        "Publication type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0357": {
+      "title": "Clinical commissioning groups: proposed configurations agreed | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "east of england",
+        "na",
+        "practice",
+        "england",
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0358": {
+      "title": "NHS England \u00bb Secretary of State\u2019s second accountability meeting with the Commissioning Board Authority",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "minutes",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Event type",
+        "Publication type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0359": {
+      "title": "NHS England \u00bb Briefing note on CCG indicative running cost allowances",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "statistics",
+        "board",
+        "national",
+        "na"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0361": {
+      "title": "NHS England \u00bb CCG indicative running cost allowances",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0362": {
+      "title": "NHS England \u00bb Transfer of Patient Safety function to the NHS Commissioning Board Authority",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "national",
+        "report",
+        "stem",
+        "na",
+        "patient",
+        "board",
+        "learning"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0363": {
+      "title": "NHS England \u00bb Wave 1 applications for CCG authorisation",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0364": {
+      "title": "NHS England \u00bb Videos of the Board meeting held on 31 May 2012",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "public",
+        "minutes",
+        "board",
+        "programme",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0365": {
+      "title": "NHS England \u00bb Awareness and skills to ensure the CCG will be able to undertake procurement in accordance with best practice",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "contract",
+        "leader",
+        "academy",
+        "information",
+        "self",
+        "informaticians",
+        "transformation",
+        "leadership",
+        "patient information",
+        "innovation"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Training type",
+        "Publication type",
+        "Profession",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0367": {
+      "title": "NHS England \u00bb Skills in crafting messages for patients and public, capability in handling interviews with the Press",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "leader",
+        "electronic resources",
+        "resource",
+        "na",
+        "service",
+        "marketing",
+        "delivery",
+        "resources",
+        "leadership",
+        "social"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0369": {
+      "title": "Awareness of and plans for succession planning and talent management | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "healthcare scientists",
+        "health",
+        "doctors",
+        "healthcare",
+        "nhs and healthcare systems",
+        "care",
+        "business plan",
+        "business",
+        "board"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "National priorities",
+        "Profession",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0370": {
+      "title": "New web tool signposts learning and development opportunities | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.862,
+      "entity_count": 6,
+      "matched_entities": [
+        "leader",
+        "electronic resources",
+        "resource",
+        "clinical",
+        "tools",
+        "resources",
+        "leadership",
+        "development",
+        "outcomes",
+        "development needs"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0371": {
+      "title": "New director appointments to the NHS Commissioning Board | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "board"
+      ],
+      "matched_categories": [
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0372": {
+      "title": "Choice and Competition Framework | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "social care",
+        "care",
+        "social",
+        "evaluation framework",
+        "framework",
+        "board",
+        "conference",
+        "occupational frameworks"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "National priorities",
+        "Tags",
+        "Event type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0373": {
+      "title": "NHS Commissioning Board Authority at the NHS Confederation Annual Conference | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.0,
+      "entity_count": 5,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0374": {
+      "title": "eXhibition eXchange at Commissioning 2012 | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "team"
+      ],
+      "matched_categories": [
+        "Profession",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0375": {
+      "title": "NHS England \u00bb New web tool signposts learning and development opportunities",
+      "triple_count": 3,
+      "coherence_score": 0.962,
+      "entity_count": 6,
+      "matched_entities": [
+        "access",
+        "leader",
+        "clinical",
+        "tools",
+        "development",
+        "leadership",
+        "outcomes",
+        "development needs",
+        "learning"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0377": {
+      "title": "NHS England \u00bb eXhibition eXchange at Commissioning 2012",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "south",
+        "stem",
+        "inter",
+        "development",
+        "policy",
+        "time",
+        "senior",
+        "framework",
+        "board",
+        "london"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0378": {
+      "title": "NHS England \u00bb New director appointments to the NHS Commissioning Board",
+      "triple_count": 2,
+      "coherence_score": 0.0,
+      "entity_count": 3,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0379": {
+      "title": "NHS England \u00bb New director appointments to the NHS Commissioning Board",
+      "triple_count": 3,
+      "coherence_score": 0.0,
+      "entity_count": 4,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0380": {
+      "title": "Annual Report and Accounts 2011/12 published | NHS England",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "report",
+        "board",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0381": {
+      "title": "Strategic clinical networks | NHS England",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "plan",
+        "stem",
+        "na",
+        "conditions",
+        "planning",
+        "loan",
+        "board",
+        "networks",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0383": {
+      "title": "NHS England \u00bb Annual report",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "board",
+        "report",
+        "england"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0385": {
+      "title": "NHS England \u00bb Babies to get new test for eye cancer in the womb to save their sight",
+      "triple_count": 3,
+      "coherence_score": 0.5,
+      "entity_count": 6,
+      "matched_entities": [
+        "foundation",
+        "children"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Clinical discipline"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0386": {
+      "title": "NHS England \u00bb The new Congenital Heart Disease review",
+      "triple_count": 3,
+      "coherence_score": 0.712,
+      "entity_count": 5,
+      "matched_entities": [
+        "east of england",
+        "service",
+        "england",
+        "long",
+        "people",
+        "services"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Region"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0390": {
+      "title": "NHS England \u00bb Bulletins",
+      "triple_count": 2,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "east of england",
+        "health",
+        "na",
+        "profession",
+        "consultation",
+        "england",
+        "events",
+        "news",
+        "professionals",
+        "professional"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "News type",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0393": {
+      "title": "NHS England \u00bb Health visitors bulletin",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 3,
+      "matched_entities": [
+        "children",
+        "health",
+        "england",
+        "news",
+        "letter"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "News type",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0398": {
+      "title": "NHS England \u00bb Business as usual",
+      "triple_count": 3,
+      "coherence_score": 0.0,
+      "entity_count": 2,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0400": {
+      "title": "NHS England \u00bb Our 2022/23 business plan",
+      "triple_count": 2,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "business",
+        "plan",
+        "business plan",
+        "england"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0401": {
+      "title": "NHS England \u00bb 1. Support the NHS to attract and retain more people, working differently in a compassionate and inclusive culture",
+      "triple_count": 3,
+      "coherence_score": 0.767,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "inter",
+        "na",
+        "authentication",
+        "patient",
+        "care",
+        "gp workforce",
+        "strategy",
+        "nurses",
+        "workforce"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0402": {
+      "title": "NHS England \u00bb 10. Improve productivity and reduce variation across the health system",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "na",
+        "review",
+        "care",
+        "programme",
+        "board",
+        "nhs screening services"
+      ],
+      "matched_categories": [
+        "Region",
+        "Training type",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0403": {
+      "title": "NHS England \u00bb 2. Continue to lead the NHS in responding to COVID-19 ever more effectively",
+      "triple_count": 4,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "any",
+        "communities",
+        "service",
+        "delivery",
+        "transformation",
+        "service delivery"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0405": {
+      "title": "NHS England \u00bb 2. Continue to lead the NHS in responding to COVID-19 ever more effectively",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 3,
+      "matched_entities": [
+        "public",
+        "term",
+        "communities"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0406": {
+      "title": "NHS England \u00bb 2. Continue to lead the NHS in responding to COVID-19 ever more effectively",
+      "triple_count": 4,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "any",
+        "communities",
+        "service",
+        "delivery",
+        "transformation",
+        "service delivery"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0408": {
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 1,
+      "coherence_score": 0.7,
+      "entity_count": 2,
+      "matched_entities": [
+        "patient"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0409": {
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "patient"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0410": {
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "delivery",
+        "plan",
+        "time"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Publication type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0411": {
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "plan",
+        "document",
+        "patient",
+        "delivery",
+        "impact",
+        "long",
+        "material",
+        "care",
+        "covid",
+        "cancer"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0413": {
+      "title": "NHS England \u00bb 4. Improve the responsiveness of urgent and emergency care and increase its capacity",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "plan"
+      ],
+      "matched_categories": [
+        "Publication type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0414": {
+      "title": "NHS England \u00bb 4. Improve the responsiveness of urgent and emergency care and increase its capacity",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "service",
+        "plan",
+        "services"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0415": {
+      "title": "NHS England \u00bb 4. Improve the responsiveness of urgent and emergency care and increase its capacity",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "urgent",
+        "patient",
+        "service",
+        "impact",
+        "england",
+        "improvement",
+        "urgent and emergency care",
+        "emergency",
+        "covid",
+        "pathways"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0416": {
+      "title": "NHS England \u00bb 4. Improve the responsiveness of urgent and emergency care and increase its capacity",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "east of england",
+        "england"
+      ],
+      "matched_categories": [
+        "Region"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0417": {
+      "title": "NHS England \u00bb 5. Improve access to primary care",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "access",
+        "east of england",
+        "stem",
+        "collaboration",
+        "na",
+        "roles",
+        "systems",
+        "improvement",
+        "england",
+        "care"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0418": {
+      "title": "NHS England \u00bb 5. Improve access to primary care",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "access",
+        "east of england",
+        "england",
+        "care",
+        "urgent",
+        "team"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0420": {
+      "title": "NHS England \u00bb 7. Deliver improvements in maternity care",
+      "triple_count": 3,
+      "coherence_score": 0.84,
+      "entity_count": 5,
+      "matched_entities": [
+        "west",
+        "na",
+        "neonatal",
+        "personalised",
+        "service",
+        "care",
+        "maternity",
+        "services",
+        "workforce"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0423": {
+      "title": "NHS England \u00bb Foreword from our chair",
+      "triple_count": 3,
+      "coherence_score": 0.771,
+      "entity_count": 6,
+      "matched_entities": [
+        "east of england",
+        "talent",
+        "patient",
+        "management",
+        "england",
+        "improvement",
+        "placements"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0424": {
+      "title": "NHS England \u00bb Introduction from our chief executive",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "east of england",
+        "plan",
+        "na",
+        "patient",
+        "service",
+        "england",
+        "press",
+        "care",
+        "covid",
+        "pathways"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "News type",
+        "Event type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0425": {
+      "title": "Services - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.923,
+      "entity_count": 3,
+      "matched_entities": [
+        "data",
+        "na",
+        "service",
+        "profession",
+        "physical",
+        "professionals",
+        "services",
+        "professional"
+      ],
+      "matched_categories": [
+        "Delivery method",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0426": {
+      "title": "Systems and services - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "stem",
+        "information",
+        "systems",
+        "data",
+        "self",
+        "service",
+        "services"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0429": {
+      "title": "Acute Data Alignment Programme (ADAPt) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "data",
+        "information",
+        "health",
+        "digital",
+        "acute",
+        "nhs digital academy",
+        "healthcare",
+        "care",
+        "programme"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0430": {
+      "title": "Acute Data Alignment Programme (ADAPt) - Piloting private healthcare data in NHS Digital - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "information",
+        "data",
+        "digital",
+        "acute",
+        "healthcare",
+        "nhs digital academy",
+        "care",
+        "programme"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0431": {
+      "title": "Acute Data Alignment Programme (ADAPt) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "data",
+        "digital",
+        "acute",
+        "standard",
+        "nhs digital academy",
+        "programme",
+        "common"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Publication type",
+        "Training type",
+        "Recruitment format",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0435": {
+      "title": "Add or correct your contact details service - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "na",
+        "service",
+        "team",
+        "services",
+        "clinical"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Recruitment format",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0440": {
+      "title": "Case studies - NHS England Digital",
+      "triple_count": 2,
+      "coherence_score": 0.792,
+      "entity_count": 4,
+      "matched_entities": [
+        "plan",
+        "health",
+        "nhs and healthcare systems",
+        "long",
+        "term",
+        "care"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0443": {
+      "title": "Spread and scale AI - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "leader",
+        "school leavers",
+        "technology",
+        "na",
+        "school college leaver",
+        "use of technology",
+        "letter"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Publication type",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0445": {
+      "title": "API platform - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "healthcare scientists",
+        "health",
+        "healthcare",
+        "service",
+        "england",
+        "nhs screening services",
+        "care",
+        "team",
+        "services",
+        "health academia"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0446": {
+      "title": "Building healthcare APIs - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "regional skills development networks",
+        "healthcare",
+        "help",
+        "development",
+        "england",
+        "care"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Region",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0447": {
+      "title": "Developer integration survey - January 2023 - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "na",
+        "management",
+        "profession",
+        "development",
+        "programme",
+        "professionals",
+        "professional"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Training type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0448": {
+      "title": "Artificial data pilot - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "service",
+        "data",
+        "artificial"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0450": {
+      "title": "Better Connectivity for Health and Care (BC4HC) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "healthcare scientists",
+        "access",
+        "health",
+        "digital",
+        "nhs digital academy",
+        "healthcare",
+        "care",
+        "programme",
+        "health informaticians"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Profession",
+        "Training type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0451": {
+      "title": "Birth notification service - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "health",
+        "patient",
+        "service",
+        "healthcare",
+        "electronic",
+        "england",
+        "long",
+        "care",
+        "life"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Region"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0455": {
+      "title": "The birth notification process - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.0,
+      "entity_count": 5,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0457": {
+      "title": "Things to know about the Birth Notification Application - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "time",
+        "health",
+        "na"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0458": {
+      "title": "Birth Notification Application guide for maternity - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "inter",
+        "service",
+        "stem"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0459": {
+      "title": "Accessing the Birth Notification Application - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "care",
+        "na",
+        "user",
+        "patient"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0462": {
+      "title": "Registering a birth - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.946,
+      "entity_count": 4,
+      "matched_entities": [
+        "maternity",
+        "infection",
+        "stem",
+        "authentication"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Topic",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0463": {
+      "title": "Things to know about the Birth Notification Application - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "maternity",
+        "time",
+        "na"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0464": {
+      "title": "Birth Notification Application (BNA) - quick reference guide - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.832,
+      "entity_count": 5,
+      "matched_entities": [
+        "na",
+        "advanced",
+        "searching",
+        "research",
+        "advanced practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0465": {
+      "title": "Blueprinting - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "health",
+        "na",
+        "patient",
+        "digital",
+        "help",
+        "practitioner training programme",
+        "programme",
+        "experience",
+        "outcomes"
+      ],
+      "matched_categories": [
+        "Region",
+        "Training type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0466": {
+      "title": "Booking and Referral Standard - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "patient information",
+        "standard",
+        "patient"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0467": {
+      "title": "Information governance - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.969,
+      "entity_count": 6,
+      "matched_entities": [
+        "best practice",
+        "health",
+        "data",
+        "na",
+        "patient",
+        "personalised",
+        "personalised care",
+        "healthcare",
+        "promotional material",
+        "systems"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0470": {
+      "title": "Supplier status: all suppliers and applications - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "stem",
+        "health",
+        "healthcare",
+        "standard",
+        "care",
+        "programme",
+        "release"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "Recruitment format",
+        "National priorities",
+        "Tags",
+        "News type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0471": {
+      "title": "Supplier status: Ambulance service referral (including validation) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "board development",
+        "standard",
+        "service",
+        "development",
+        "ambulance",
+        "ambulance service team"
+      ],
+      "matched_categories": [
+        "Profession",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0473": {
+      "title": "Supplier status: Emergency department referral (and booking) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "inter",
+        "stem",
+        "systems",
+        "capability",
+        "standard",
+        "care",
+        "emergency"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0474": {
+      "title": "Supplier status: GP to Pharmacy CPCS Minor Illness - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 2,
+      "matched_entities": [
+        "pharmacy",
+        "standard",
+        "stem"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Clinical discipline",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0475": {
+      "title": "Bureau Service Portal - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "health",
+        "data",
+        "na",
+        "digital",
+        "service",
+        "services"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0476": {
+      "title": "Calculating Quality Reporting Service (CQRS) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.961,
+      "entity_count": 4,
+      "matched_entities": [
+        "best practice",
+        "access",
+        "report",
+        "information",
+        "general practice",
+        "service",
+        "practice",
+        "networking",
+        "practitioners",
+        "training"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0477": {
+      "title": "Calculating Quality Reporting Service (CQRS) releases - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.94,
+      "entity_count": 4,
+      "matched_entities": [
+        "report",
+        "service",
+        "release",
+        "quality",
+        "team",
+        "postgraduate"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Profession",
+        "News type",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0478": {
+      "title": "CQRS user guides - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "report",
+        "primary care",
+        "inter",
+        "na",
+        "primary",
+        "service",
+        "quality",
+        "services",
+        "user"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Recruitment format",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0479": {
+      "title": "Enhanced services 2019-2020 CQRS manual entry user guide - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "report",
+        "general practice",
+        "service",
+        "practice",
+        "term",
+        "general",
+        "quality",
+        "services",
+        "user"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0480": {
+      "title": "Full QOF manual entry guide In the event the automated extract fails - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.5,
+      "entity_count": 6,
+      "matched_entities": [
+        "information"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0482": {
+      "title": "Calculating Quality Reporting Service (CQRS) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "data",
+        "practice",
+        "outcomes",
+        "best practice",
+        "health",
+        "service",
+        "planning",
+        "framework",
+        "health informaticians",
+        "report"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Region",
+        "Publication type",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0486": {
+      "title": "NHS Surplus Land data collection - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "health",
+        "data",
+        "public",
+        "social care",
+        "care",
+        "programme",
+        "social",
+        "release"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Publication type",
+        "National priorities",
+        "News type",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0488": {
+      "title": "Patient-Led Assessments of the Care Environment (PLACE) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "patient",
+        "standard",
+        "assessments",
+        "improvement",
+        "care"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0489": {
+      "title": "Patient-led assessments of the care environment dementia-friendly environments: guidance for assessors - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.914,
+      "entity_count": 7,
+      "matched_entities": [
+        "mental",
+        "research",
+        "document",
+        "dental",
+        "development",
+        "dementia",
+        "people"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Clinical discipline",
+        "Publication type",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0490": {
+      "title": "Guidance and information for patient assessors - NHS England Digital",
+      "triple_count": 2,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "health",
+        "patient",
+        "healthcare",
+        "assessments",
+        "care",
+        "independent"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0493": {
+      "title": "Domain 1 - Preventing people from dying prematurely - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "specialist",
+        "acute",
+        "england",
+        "patient"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Training type",
+        "Clinical discipline"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0495": {
+      "title": "Domain 4 - Ensuring people have a positive experience of care - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.957,
+      "entity_count": 4,
+      "matched_entities": [
+        "national",
+        "east of england",
+        "na",
+        "patient",
+        "england",
+        "needs",
+        "cancer and diagnostics",
+        "diagnostics",
+        "value"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0496": {
+      "title": "Domain 5 - Treating and caring for people in a safe environment and protecting them from avoidable harm - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "report",
+        "infection",
+        "patient"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Tags",
+        "Publication type"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0497": {
+      "title": "Maternity and Neonatal Data Hub - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "data",
+        "information",
+        "na",
+        "neonatal",
+        "public",
+        "service",
+        "england",
+        "guidance",
+        "maternity",
+        "services"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0498": {
+      "title": "Prescribing - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "information",
+        "na",
+        "public",
+        "community",
+        "policy",
+        "england",
+        "pharmacy",
+        "team"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities",
+        "Profession",
+        "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0502": {
+      "title": "Primary care - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.933,
+      "entity_count": 9,
+      "matched_entities": [
+        "electronic resources",
+        "primary care",
+        "stem",
+        "systems",
+        "primary",
+        "service",
+        "community",
+        "public",
+        "electronic",
+        "practice"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Tags",
+        "Clinical discipline"
+      ],
+      "routing": "COHERENT"
+    }
+  },
+  "summary": {
+    "coherent": 234,
+    "ambiguous": 42,
+    "conflict": 9,
+    "coherent_pct": 82.1,
+    "ambiguous_pct": 14.7,
+    "conflict_pct": 3.2
+  },
+  "category_coverage": {
+    "National priorities": 195,
+    "Tags": 212,
+    "Recruitment format": 89,
+    "Training type": 40,
+    "Publication type": 112,
+    "Career stage": 88,
+    "Event type": 21,
+    "Region": 104,
+    "Topic": 71,
+    "Clinical discipline": 74,
+    "Profession": 48,
+    "News type": 10,
+    "Training qualification": 1,
+    "Delivery method": 2
+  }
+}

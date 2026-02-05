@@ -1,0 +1,3950 @@
+{
+  "version": "1.0",
+  "created": "2026-02-03",
+  "description": "NHS Knowledge Graph Taxonomy for entity extraction and classification",
+  "categories": [
+    {
+      "name": "Topic",
+      "description": "Subject matter categories for health content",
+      "items": [
+        {
+          "id": "topic_addiction",
+          "label": "Addiction",
+          "description": "Information related to substance abuse, dependence, and addiction treatment, including alcohol, drugs, and behavioral addictions."
+        },
+        {
+          "id": "topic_advanced_clinical_practice",
+          "label": "Advanced clinical practice",
+          "description": "Resources and information related to advanced clinical practice roles, such as advanced nurse practitioners, physician associates, and other advanced healthcare professionals."
+        },
+        {
+          "id": "topic_antimicrobial_resistance",
+          "label": "Antimicrobial resistance",
+          "description": "Content focused on the growing problem of antimicrobial resistance, strategies for prevention, and responsible use of antibiotics and other antimicrobial agents."
+        },
+        {
+          "id": "topic_armed_forces",
+          "label": "Armed forces",
+          "description": "Information pertaining to the healthcare and wellbeing of armed forces personnel, veterans, and their families."
+        },
+        {
+          "id": "topic_cancer",
+          "label": "Cancer",
+          "description": "Information and resources regarding cancer prevention, diagnosis, treatment, research, and support services."
+        },
+        {
+          "id": "topic_children_young_people",
+          "label": "Children and young people",
+          "description": "Content related to the health and wellbeing of children and young people, including physical, mental, and social aspects."
+        },
+        {
+          "id": "topic_community_care",
+          "label": "Community care",
+          "description": "Resources pertaining to healthcare services delivered in community settings, such as homes, clinics, and community centers."
+        },
+        {
+          "id": "topic_cosmetic_procedures",
+          "label": "Cosmetic procedures",
+          "description": "Information concerning cosmetic procedures, including surgical and non-surgical treatments, regulations, and ethical considerations."
+        },
+        {
+          "id": "topic_covid_19",
+          "label": "Covid 19",
+          "description": "Information, guidance, research, and updates specifically related to the COVID-19 pandemic."
+        },
+        {
+          "id": "topic_critical_care",
+          "label": "Critical care",
+          "description": "Information on the management of critically ill patients in intensive care units and other critical care settings."
+        },
+        {
+          "id": "topic_dementia",
+          "label": "Dementia",
+          "description": "Resources related to dementia, including diagnosis, care, support, and research."
+        },
+        {
+          "id": "topic_digital_skills",
+          "label": "Digital skills",
+          "description": "Content focusing on the development and enhancement of digital skills for healthcare professionals and patients."
+        },
+        {
+          "id": "topic_end_of_life_care",
+          "label": "End of life care",
+          "description": "Information concerning palliative care, hospice care, and support for patients and families facing the end of life."
+        },
+        {
+          "id": "topic_genomics",
+          "label": "Genomics",
+          "description": "Resources related to genomics and its application in healthcare, including genetic testing, personalized medicine, and genomic research."
+        },
+        {
+          "id": "topic_global_health",
+          "label": "Global health",
+          "description": "Content focused on health issues and challenges that transcend national borders, including international collaborations and health disparities."
+        },
+        {
+          "id": "topic_health_academia",
+          "label": "Health academia",
+          "description": "Information related to health-related academic research, education, and training programs."
+        },
+        {
+          "id": "topic_health_inequalities",
+          "label": "Health inequalities",
+          "description": "Content focusing on disparities in health outcomes and access to healthcare based on factors such as socioeconomic status, ethnicity, and geographic location."
+        },
+        {
+          "id": "topic_infection_management",
+          "label": "Infection management",
+          "description": "Resources and information regarding the prevention, diagnosis, and treatment of infections in healthcare settings."
+        },
+        {
+          "id": "topic_knowledge_management",
+          "label": "Knowledge management",
+          "description": "Content related to the organization, storage, and sharing of knowledge and information within the healthcare sector."
+        },
+        {
+          "id": "topic_learning_disability_autism",
+          "label": "Learning disability and autism",
+          "description": "Information and resources concerning the care and support of individuals with learning disabilities and autism."
+        },
+        {
+          "id": "topic_long_term_conditions",
+          "label": "Long term conditions",
+          "description": "Content related to the management of chronic diseases and long-term health conditions."
+        },
+        {
+          "id": "topic_maternity",
+          "label": "Maternity",
+          "description": "Resources pertaining to pregnancy, childbirth, and postnatal care."
+        },
+        {
+          "id": "topic_medicines_optimisation",
+          "label": "Medicines optimisation",
+          "description": "Information focused on improving the safety, effectiveness, and efficiency of medication use."
+        },
+        {
+          "id": "topic_mental_health",
+          "label": "Mental health",
+          "description": "Content related to mental health conditions, treatment, and support services."
+        },
+        {
+          "id": "topic_neonatal",
+          "label": "Neonatal",
+          "description": "Resources focused on the care of newborn infants, especially those who are premature or have medical complications."
+        },
+        {
+          "id": "topic_nhs_screening_services",
+          "label": "NHS Screening Services",
+          "description": "Information about the various screening programs offered by the NHS for early detection of diseases."
+        },
+        {
+          "id": "topic_personalised_care",
+          "label": "Personalised care",
+          "description": "Content regarding tailoring healthcare to individual needs and preferences."
+        },
+        {
+          "id": "topic_prevention_public_health",
+          "label": "Prevention and public health",
+          "description": "Resources and information on preventing diseases and promoting public health through various interventions and strategies."
+        },
+        {
+          "id": "topic_primary_care",
+          "label": "Primary care",
+          "description": "Information related to healthcare services provided by general practitioners and other primary care providers."
+        },
+        {
+          "id": "topic_quality",
+          "label": "Quality",
+          "description": "Content focusing on quality improvement initiatives and standards in healthcare."
+        },
+        {
+          "id": "topic_sexual_reproductive_health",
+          "label": "Sexual and reproductive health",
+          "description": "Resources pertaining to sexual health, contraception, and reproductive health services."
+        },
+        {
+          "id": "topic_urgent_emergency_care",
+          "label": "Urgent and emergency care",
+          "description": "Information related to the provision of urgent and emergency medical care."
+        },
+        {
+          "id": "topic_workforce_planning",
+          "label": "Workforce planning",
+          "description": "Information about planning and forecasting the healthcare workforce needs, including skills, shortages, and recruitment."
+        },
+        {
+          "id": "topic_workforce_transformation",
+          "label": "Workforce transformation",
+          "description": "Information about transforming the healthcare workforce to meet changing demands and improve care delivery, involving technology, and skill uplift."
+        }
+      ]
+    },
+    {
+      "name": "Profession",
+      "description": "Healthcare professional roles and occupations",
+      "items": [
+        {
+          "id": "prof_advanced_critical_care_practitioners",
+          "label": "Advanced critical care practitioners",
+          "description": "Professionals who are equipped to deal with emergencies in critical care, working in a multi disciplinary team."
+        },
+        {
+          "id": "prof_allied_health_professionals",
+          "label": "Allied health professionals",
+          "description": "This includes the following occupations that all work within the NHS."
+        },
+        {
+          "id": "prof_ambulance_service_team",
+          "label": "Ambulance service team",
+          "description": "Includes all staff within the ambulance service who respond to and deal with medical emergencies."
+        },
+        {
+          "id": "prof_dental_professionals",
+          "label": "Dental professionals",
+          "description": "Including dentist and dental nurses, professional responsible for dealing with dental health issues and performing procedures."
+        },
+        {
+          "id": "prof_health_informaticians",
+          "label": "Health informaticians",
+          "description": "IT jobs within healthcare that are linked to data collection and presentation, often with a focus on improving efficiency."
+        },
+        {
+          "id": "prof_healthcare_scientists",
+          "label": "Healthcare scientists",
+          "description": "Scientists working within the NHS often analysing samples and interpreting results in a laboratory."
+        },
+        {
+          "id": "prof_management_professionals",
+          "label": "Management professionals",
+          "description": "Administrative roles within the NHS focused on running a healthcare institution, a team or project."
+        },
+        {
+          "id": "prof_medical_associate_professionals",
+          "label": "Medical associate professionals",
+          "description": "Medical professionals with varied specialities who operate under medical supervision but are not a doctor or nurse."
+        },
+        {
+          "id": "prof_medical_doctors",
+          "label": "Medical doctors professionals",
+          "description": "Medical doctors with a varied range of specialities."
+        },
+        {
+          "id": "prof_midwife",
+          "label": "Midwife",
+          "description": "A healthcare professional trained to assist women during pregnancy, childbirth, and the postpartum period."
+        },
+        {
+          "id": "prof_nurses",
+          "label": "Nurses",
+          "description": "Registered nurses who provide direct patient care in various settings."
+        },
+        {
+          "id": "prof_pharmacy_professionals",
+          "label": "Pharmacy professionals",
+          "description": "Professionals dedicated to dispensing medication and delivering pharmaceutical advice and treatment."
+        },
+        {
+          "id": "prof_psychological_professionals",
+          "label": "Psychological professionals",
+          "description": "Professional focused on improving psychological health and wellbeing."
+        },
+        {
+          "id": "prof_public_health_professionals",
+          "label": "Public health professionals",
+          "description": "Professionals that provide public health information and advice at a local and national level."
+        }
+      ]
+    },
+    {
+      "name": "Tags",
+      "description": "Cross-cutting themes and keywords",
+      "items": [
+        {
+          "id": "tag_advocacy",
+          "label": "Advocacy",
+          "description": "Supporting and promoting the rights and interests of patients and healthcare professionals."
+        },
+        {
+          "id": "tag_apprenticeship",
+          "label": "Apprenticeship",
+          "description": "Structured training programs combining on-the-job experience with formal education."
+        },
+        {
+          "id": "tag_ai_robotics",
+          "label": "Artificial intelligence and robotics",
+          "description": "Application of AI and robotics to improve healthcare processes and outcomes."
+        },
+        {
+          "id": "tag_authentication",
+          "label": "Authentication",
+          "description": "Verifying the identity of users and ensuring secure access to healthcare systems."
+        },
+        {
+          "id": "tag_best_practice",
+          "label": "Best practice",
+          "description": "Evidence-based guidelines and recommendations for optimal clinical and administrative practices."
+        },
+        {
+          "id": "tag_blended_learning",
+          "label": "Blended learning",
+          "description": "Combining online and in-person learning methods for healthcare education and training."
+        },
+        {
+          "id": "tag_board_development",
+          "label": "Board development",
+          "description": "Training and support for healthcare organization boards to improve governance and decision-making."
+        },
+        {
+          "id": "tag_bursaries_grants_awards",
+          "label": "Bursaries grants and awards",
+          "description": "Financial assistance programs to support healthcare education, research, and professional development."
+        },
+        {
+          "id": "tag_cataloguing",
+          "label": "Cataloguing",
+          "description": "Organizing and describing health information resources for easy retrieval."
+        },
+        {
+          "id": "tag_circulation_counter",
+          "label": "Circulation and counter activities",
+          "description": "Managing the lending and return of physical resources in healthcare libraries."
+        },
+        {
+          "id": "tag_collaboration_partnership",
+          "label": "Collaboration and partnership",
+          "description": "Working with other organizations and stakeholders to achieve common healthcare goals."
+        },
+        {
+          "id": "tag_consultation",
+          "label": "Consultation",
+          "description": "Seeking expert advice and feedback on healthcare policies, programs, and practices."
+        },
+        {
+          "id": "tag_covid_19",
+          "label": "COVID 19",
+          "description": "Information specifically related to the COVID 19 pandemic."
+        },
+        {
+          "id": "tag_cpd",
+          "label": "Continuing professional development",
+          "description": "Ongoing learning activities to maintain and enhance healthcare professionals' skills and knowledge."
+        },
+        {
+          "id": "tag_copyright_licensing",
+          "label": "Copyright and licensing",
+          "description": "Legal aspects of using and sharing copyrighted health information resources."
+        },
+        {
+          "id": "tag_databases",
+          "label": "Databases",
+          "description": "Collections of health information organized for efficient searching and retrieval."
+        },
+        {
+          "id": "tag_development_needs",
+          "label": "Development needs",
+          "description": "Identifying and addressing the training and skill gaps of healthcare professionals."
+        },
+        {
+          "id": "tag_digital_capability_frameworks",
+          "label": "Digital capability frameworks",
+          "description": "Frameworks for assessing and developing digital skills in the healthcare workforce."
+        },
+        {
+          "id": "tag_digital_health_leadership",
+          "label": "Digital health leadership",
+          "description": "Strategies and skills for leading digital transformation initiatives in healthcare organizations."
+        },
+        {
+          "id": "tag_digital_literacy",
+          "label": "Digital literacy",
+          "description": "The ability to use digital tools and technologies effectively in healthcare settings."
+        },
+        {
+          "id": "tag_digital_roles_career",
+          "label": "Digital roles and career pathways",
+          "description": "Defining roles and career paths for healthcare professionals with digital skills."
+        },
+        {
+          "id": "tag_discovery",
+          "label": "Discovery",
+          "description": "Tools and methods for finding health information resources."
+        },
+        {
+          "id": "tag_electronic_resources",
+          "label": "Electronic resources",
+          "description": "Health information resources available in digital formats."
+        },
+        {
+          "id": "tag_emerging_technology",
+          "label": "Emerging technology",
+          "description": "New and innovative technologies with potential applications in healthcare."
+        },
+        {
+          "id": "tag_equality_diversity",
+          "label": "Equality impact and diversity",
+          "description": "Assessing the impact of healthcare policies and programs on different population groups and promoting diversity."
+        },
+        {
+          "id": "tag_evaluation_framework",
+          "label": "Evaluation framework",
+          "description": "Frameworks for assessing the effectiveness of healthcare interventions and programs."
+        },
+        {
+          "id": "tag_events",
+          "label": "Events",
+          "description": "Health events such as conferences and workshops."
+        },
+        {
+          "id": "tag_evidence_self_assessments",
+          "label": "Evidence and knowledge self assessments",
+          "description": "Tools for healthcare professionals to assess their knowledge and skills in specific areas."
+        },
+        {
+          "id": "tag_fellowships_scholarships",
+          "label": "Fellowships and scholarships",
+          "description": "Financial support for advanced training and research in healthcare."
+        },
+        {
+          "id": "tag_finance",
+          "label": "Finance",
+          "description": "Information related to healthcare finance."
+        },
+        {
+          "id": "tag_graduates",
+          "label": "Graduates",
+          "description": "Healthcare graduates, their experiences and career prospects."
+        },
+        {
+          "id": "tag_communities_of_practice",
+          "label": "Communities of practice",
+          "description": "Groups of healthcare professionals who share knowledge and expertise in specific areas."
+        },
+        {
+          "id": "tag_health_literacy",
+          "label": "Health literacy",
+          "description": "The ability of individuals to understand and use health information to make informed decisions."
+        },
+        {
+          "id": "tag_help_guidance",
+          "label": "Help and guidance",
+          "description": "Resources providing support and direction for healthcare professionals and patients."
+        },
+        {
+          "id": "tag_impact_value",
+          "label": "Impact and value",
+          "description": "Measuring the impact and value of healthcare interventions and programs."
+        },
+        {
+          "id": "tag_industry",
+          "label": "Industry",
+          "description": "The healthcare industry, trends and related information."
+        },
+        {
+          "id": "tag_innovation",
+          "label": "Innovation",
+          "description": "New ideas and approaches to improve healthcare delivery and outcomes."
+        },
+        {
+          "id": "tag_inter_library_loan",
+          "label": "Inter library loan and document supply",
+          "description": "Obtaining health information resources from other libraries and providers."
+        },
+        {
+          "id": "tag_knowledge_for_healthcare",
+          "label": "Knowledge for Healthcare",
+          "description": "Initiatives for promoting knowledge sharing and evidence-based practice in healthcare."
+        },
+        {
+          "id": "tag_learning_development",
+          "label": "Learning and development",
+          "description": "Activities and resources for healthcare education and training."
+        },
+        {
+          "id": "tag_learning_zone",
+          "label": "Learning zone",
+          "description": "Online platforms for health education and training."
+        },
+        {
+          "id": "tag_libkey_nomad",
+          "label": "LibKey Nomad",
+          "description": "A browser extension that provides direct access to full-text articles from library subscriptions."
+        },
+        {
+          "id": "tag_library_management_systems",
+          "label": "Library management systems",
+          "description": "Software for managing library resources and services."
+        },
+        {
+          "id": "tag_literature_searching",
+          "label": "Literature searching",
+          "description": "Strategies and techniques for finding relevant health information in the literature."
+        },
+        {
+          "id": "tag_managing_talent",
+          "label": "Managing talent",
+          "description": "Strategies for effectively attracting, developing, and retaining healthcare professionals."
+        },
+        {
+          "id": "tag_marketing_campaigns",
+          "label": "Marketing and campaigns",
+          "description": "Promotional activities to raise awareness of health services and programs."
+        },
+        {
+          "id": "tag_mentoring",
+          "label": "Mentoring",
+          "description": "Guidance and support provided by experienced healthcare professionals to those early in their career."
+        },
+        {
+          "id": "tag_mergers",
+          "label": "Mergers",
+          "description": "Mergers of healthcare institutions."
+        },
+        {
+          "id": "tag_mobilising_evidence",
+          "label": "Mobilising evidence and knowledge",
+          "description": "Strategies for translating research evidence into practice."
+        },
+        {
+          "id": "tag_networking",
+          "label": "Networking",
+          "description": "Health specific networking events."
+        },
+        {
+          "id": "tag_nhs_systems",
+          "label": "NHS and healthcare systems",
+          "description": "Information about these systems."
+        },
+        {
+          "id": "tag_nhs_digital_academy",
+          "label": "NHS Digital Academy",
+          "description": "A program for developing digital skills in healthcare leaders."
+        },
+        {
+          "id": "tag_occupational_frameworks",
+          "label": "Occupational frameworks",
+          "description": "Frameworks for defining roles and skills in the healthcare workforce."
+        },
+        {
+          "id": "tag_open_access",
+          "label": "Open access",
+          "description": "Freely available health information resources."
+        },
+        {
+          "id": "tag_patient_information",
+          "label": "Patient information",
+          "description": "Health information intended for patients."
+        },
+        {
+          "id": "tag_pksb",
+          "label": "Professional Knowledge and Skills Base PKSB",
+          "description": "A framework for defining the knowledge and skills required for healthcare professionals."
+        },
+        {
+          "id": "tag_placements",
+          "label": "Placements",
+          "description": "Health related work placements."
+        },
+        {
+          "id": "tag_policy",
+          "label": "Policy",
+          "description": "Information relating to national healthcare policy."
+        },
+        {
+          "id": "tag_professional_networks",
+          "label": "Professional networks",
+          "description": "Networks of healthcare professionals with specific skills."
+        },
+        {
+          "id": "tag_quality",
+          "label": "Quality",
+          "description": "Information relating to improving health quality."
+        },
+        {
+          "id": "tag_quality_improvement_outcomes",
+          "label": "Quality and Improvement Outcomes",
+          "description": "Measuring and improving the quality of healthcare services and outcomes."
+        },
+        {
+          "id": "tag_regional_skills_networks",
+          "label": "Regional Skills Development Networks",
+          "description": "Networks to promote skills development in specific regions."
+        },
+        {
+          "id": "tag_repositories",
+          "label": "Repositories",
+          "description": "Online archives for health information resources."
+        },
+        {
+          "id": "tag_research",
+          "label": "Research",
+          "description": "Health research findings and publications."
+        },
+        {
+          "id": "tag_resource_discovery",
+          "label": "Resource Discovery",
+          "description": "Tools and methods for finding health resources."
+        },
+        {
+          "id": "tag_school_leavers",
+          "label": "School leavers",
+          "description": "Information relating to school leavers involved in healthcare."
+        },
+        {
+          "id": "tag_service_delivery",
+          "label": "Service delivery",
+          "description": "Models for healthcare service delivery."
+        },
+        {
+          "id": "tag_social_care",
+          "label": "Social care",
+          "description": "Integration of healthcare and social care."
+        },
+        {
+          "id": "tag_statistics_data",
+          "label": "Statistics and data",
+          "description": "Data concerning health."
+        },
+        {
+          "id": "tag_strategy",
+          "label": "Strategy",
+          "description": "National health strategies."
+        },
+        {
+          "id": "tag_streamlining",
+          "label": "Streamlining",
+          "description": "Improving health efficiency."
+        },
+        {
+          "id": "tag_sustainability",
+          "label": "Sustainability",
+          "description": "The goal of sustainable healthcare."
+        },
+        {
+          "id": "tag_tools_techniques",
+          "label": "Tools and techniques",
+          "description": "Resources for healthcare interventions."
+        },
+        {
+          "id": "tag_training",
+          "label": "Training",
+          "description": "Training and education for healthcare professionals."
+        },
+        {
+          "id": "tag_use_of_technology",
+          "label": "Use of technology",
+          "description": "Technology related data in healthcare."
+        },
+        {
+          "id": "tag_user_experience",
+          "label": "User experience",
+          "description": "Methods to improve a patients experience."
+        },
+        {
+          "id": "tag_wellbeing",
+          "label": "Wellbeing",
+          "description": "Resources to improve wellbeing."
+        },
+        {
+          "id": "tag_wider_profession",
+          "label": "Wider profession",
+          "description": "Involving the wider profession with strategic topics."
+        },
+        {
+          "id": "tag_workforce",
+          "label": "Workforce",
+          "description": "Workforce related stats and strategies."
+        }
+      ]
+    },
+    {
+      "name": "Region",
+      "description": "Geographic regions of the UK",
+      "items": [
+        {
+          "id": "region_east_of_england",
+          "label": "East of England",
+          "description": "Information relating to the East of England in UK."
+        },
+        {
+          "id": "region_london",
+          "label": "London",
+          "description": "Data concerning Greater London, UK or surrounding areas."
+        },
+        {
+          "id": "region_midlands",
+          "label": "Midlands",
+          "description": "Health data relating to the Midlands region of the UK."
+        },
+        {
+          "id": "region_north_east_yorkshire",
+          "label": "North east and Yorkshire",
+          "description": "Health and social care data in the North East and Yorkshire UK."
+        },
+        {
+          "id": "region_north_west",
+          "label": "North west",
+          "description": "Medical news and statistics for North West."
+        },
+        {
+          "id": "region_south_east",
+          "label": "South east",
+          "description": "Health and social care information for the South East and coastal areas of the UK."
+        },
+        {
+          "id": "region_south_west",
+          "label": "South west",
+          "description": "Health information from South West UK."
+        },
+        {
+          "id": "region_national",
+          "label": "National",
+          "description": "UK-wide national content."
+        }
+      ]
+    },
+    {
+      "name": "Publication type",
+      "description": "Types of published content",
+      "items": [
+        {
+          "id": "pub_briefing",
+          "label": "Briefing",
+          "description": "Short reports providing concise summaries of key information."
+        },
+        {
+          "id": "pub_consultation",
+          "label": "Consultation",
+          "description": "Documents seeking feedback and input from stakeholders on proposed policies or programs."
+        },
+        {
+          "id": "pub_data_statistics",
+          "label": "Data and statistics",
+          "description": "Collections of numerical data and statistical analyses related to healthcare."
+        },
+        {
+          "id": "pub_decision",
+          "label": "Decision",
+          "description": "Official decisions made by healthcare organizations or government bodies."
+        },
+        {
+          "id": "pub_foi_release",
+          "label": "FOI release",
+          "description": "Information released in response to Freedom of Information requests."
+        },
+        {
+          "id": "pub_guidance",
+          "label": "Guidance",
+          "description": "Recommendations and advice on best practices for healthcare professionals."
+        },
+        {
+          "id": "pub_independent_report",
+          "label": "Independent report",
+          "description": "Reports prepared by independent organizations or experts on healthcare issues."
+        },
+        {
+          "id": "pub_letter",
+          "label": "Letter",
+          "description": "Official correspondence related to healthcare matters."
+        },
+        {
+          "id": "pub_meeting_papers",
+          "label": "Meeting papers and minutes",
+          "description": "Documents related to healthcare meetings, including agendas, minutes, and supporting materials."
+        },
+        {
+          "id": "pub_contract",
+          "label": "Contract",
+          "description": "Legal agreements related to specific health projects or other health services or products."
+        },
+        {
+          "id": "pub_policy_strategy",
+          "label": "Policy or strategy",
+          "description": "Documents outlining the goals, objectives, and approaches of healthcare organizations or government bodies."
+        },
+        {
+          "id": "pub_promotional",
+          "label": "Promotional material",
+          "description": "Materials designed to promote health services, products, or programs."
+        },
+        {
+          "id": "pub_regulatory",
+          "label": "Regulatory",
+          "description": "Documents outlining rules, standards and regulations within the NHS."
+        },
+        {
+          "id": "pub_report",
+          "label": "Report",
+          "description": "Comprehensive documents providing detailed information and analysis on healthcare topics."
+        },
+        {
+          "id": "pub_research",
+          "label": "Research",
+          "description": "Documents about findings within health research."
+        },
+        {
+          "id": "pub_statement",
+          "label": "Statement",
+          "description": "Healthcare facts or data."
+        },
+        {
+          "id": "pub_data",
+          "label": "Data",
+          "description": "Data points and sets."
+        },
+        {
+          "id": "pub_review",
+          "label": "Review",
+          "description": "Information that has been reviewed professionally."
+        },
+        {
+          "id": "pub_business_plan",
+          "label": "Business Plan",
+          "description": "A health service or company business plan."
+        },
+        {
+          "id": "pub_framework",
+          "label": "Framework",
+          "description": "Key points and concepts for an organisation model."
+        }
+      ]
+    },
+    {
+      "name": "Event type",
+      "description": "Types of healthcare events",
+      "items": [
+        {
+          "id": "event_seminar",
+          "label": "Seminar",
+          "description": "A gathering to present information relating to healthcare."
+        },
+        {
+          "id": "event_workshop",
+          "label": "Workshop",
+          "description": "An educational gathering that aims to educate through interactive participation."
+        },
+        {
+          "id": "event_course",
+          "label": "Course",
+          "description": "Healthcare related course for educational purposes."
+        },
+        {
+          "id": "event_webinar",
+          "label": "Webinar",
+          "description": "An online based medical course."
+        },
+        {
+          "id": "event_conference",
+          "label": "Conference",
+          "description": "Medical conference."
+        },
+        {
+          "id": "event_meeting",
+          "label": "Meeting",
+          "description": "Meeting about healthcare topic."
+        }
+      ]
+    },
+    {
+      "name": "Media",
+      "description": "Media content types",
+      "items": [
+        {
+          "id": "media_video",
+          "label": "Video",
+          "description": "Video content."
+        },
+        {
+          "id": "media_image",
+          "label": "Image",
+          "description": "Image or photo."
+        },
+        {
+          "id": "media_podcast",
+          "label": "Podcast",
+          "description": "An audio file."
+        }
+      ]
+    },
+    {
+      "name": "Recruitment format",
+      "description": "Types of recruitment processes",
+      "items": [
+        {
+          "id": "recruit_uncoupled",
+          "label": "Uncoupled",
+          "description": "Uncoupled recruitment system."
+        },
+        {
+          "id": "recruit_runthrough",
+          "label": "Runthrough",
+          "description": "Recruitment process that is runthrough."
+        },
+        {
+          "id": "recruit_standard",
+          "label": "Standard",
+          "description": "Recruitment process that is standard."
+        },
+        {
+          "id": "recruit_na",
+          "label": "NA",
+          "description": "Not Applicable."
+        }
+      ]
+    },
+    {
+      "name": "Training type",
+      "description": "Types of healthcare training",
+      "items": [
+        {
+          "id": "train_foundation",
+          "label": "Foundation",
+          "description": "Foundational healthcare training."
+        },
+        {
+          "id": "train_core",
+          "label": "Core",
+          "description": "Core medical training."
+        },
+        {
+          "id": "train_speciality",
+          "label": "Speciality",
+          "description": "Specific medical training."
+        },
+        {
+          "id": "train_higher_speciality",
+          "label": "Higher speciality",
+          "description": "Higher specialty training."
+        },
+        {
+          "id": "train_academic",
+          "label": "Academic",
+          "description": "Academic training."
+        },
+        {
+          "id": "train_higher_specialist_scientist",
+          "label": "Higher specialist scientist training",
+          "description": "Specialist training specifically for scientists."
+        },
+        {
+          "id": "train_scientist_programme",
+          "label": "Scientist training programme",
+          "description": "A program aimed at training scientists for the future."
+        },
+        {
+          "id": "train_practitioner_programme",
+          "label": "Practitioner training programme",
+          "description": "Training plan for a practitioner."
+        },
+        {
+          "id": "train_formal",
+          "label": "Formal training",
+          "description": "Standard training plan and regime."
+        },
+        {
+          "id": "train_self_learning",
+          "label": "Self learning",
+          "description": "Self-directed learning."
+        },
+        {
+          "id": "train_mentoring",
+          "label": "Mentoring",
+          "description": "Training from a mentor."
+        }
+      ]
+    },
+    {
+      "name": "Clinical discipline",
+      "description": "Medical and clinical specialties",
+      "items": [
+        {
+          "id": "clin_foundation",
+          "label": "Foundation",
+          "description": "Foundational clinical specialisation."
+        },
+        {
+          "id": "clin_acute_care",
+          "label": "Acute Care Common Stem",
+          "description": "An acute clinical specialisation."
+        },
+        {
+          "id": "clin_anaesthesia",
+          "label": "Anaesthesia",
+          "description": "Clinical discipline around anaesthesia."
+        },
+        {
+          "id": "clin_dental",
+          "label": "Dental",
+          "description": "Dental related clinical course."
+        },
+        {
+          "id": "clin_emergency_medicine",
+          "label": "Emergency Medicine",
+          "description": "Emergency medicine training and teaching."
+        },
+        {
+          "id": "clin_general_practice",
+          "label": "General Practice",
+          "description": "General practice training."
+        },
+        {
+          "id": "clin_medicine",
+          "label": "Medicine",
+          "description": "Medicine training."
+        },
+        {
+          "id": "clin_obstetrics_gynaecology",
+          "label": "Obstetrics & Gynaecology",
+          "description": "Training related to pregnancy and childbirth."
+        },
+        {
+          "id": "clin_ophthalmology",
+          "label": "Ophthalmology",
+          "description": "Eye related training."
+        },
+        {
+          "id": "clin_paediatrics",
+          "label": "Paediatrics",
+          "description": "Training for children's healthcare."
+        },
+        {
+          "id": "clin_pathology",
+          "label": "Pathology",
+          "description": "Studying disease through samples."
+        },
+        {
+          "id": "clin_psychiatry",
+          "label": "Psychiatry",
+          "description": "Training for mental health and psychology."
+        },
+        {
+          "id": "clin_public_health",
+          "label": "Public Health",
+          "description": "Health with a focus on the population."
+        },
+        {
+          "id": "clin_radiology",
+          "label": "Radiology",
+          "description": "Medical use of radiation and diagnostic methods."
+        },
+        {
+          "id": "clin_surgery",
+          "label": "Surgery",
+          "description": "Surgical training and knowledge."
+        }
+      ]
+    },
+    {
+      "name": "Training qualification",
+      "description": "Types of training qualifications",
+      "items": [
+        {
+          "id": "qual_cpd",
+          "label": "CPD",
+          "description": "Continuing professional development qualification."
+        },
+        {
+          "id": "qual_pgdip",
+          "label": "PGDip",
+          "description": "Post graduate diploma."
+        },
+        {
+          "id": "qual_vocational",
+          "label": "Vocational",
+          "description": "Working within a profession to be qualified."
+        }
+      ]
+    },
+    {
+      "name": "Delivery method",
+      "description": "How training or events are delivered",
+      "items": [
+        {
+          "id": "delivery_virtual",
+          "label": "Virtual",
+          "description": "Online delivery method."
+        },
+        {
+          "id": "delivery_physical",
+          "label": "Physical",
+          "description": "Physical in-person delivery method."
+        },
+        {
+          "id": "delivery_hybrid",
+          "label": "Hybrid",
+          "description": "In-person and some online sessions."
+        }
+      ]
+    },
+    {
+      "name": "Career stage",
+      "description": "Stages in healthcare careers",
+      "items": [
+        {
+          "id": "career_any",
+          "label": "Any",
+          "description": "Any career stage."
+        },
+        {
+          "id": "career_school_leaver",
+          "label": "School college leaver",
+          "description": "Having just left schooling and education."
+        },
+        {
+          "id": "career_undergraduate",
+          "label": "Undergraduate",
+          "description": "An undergraduate medical student."
+        },
+        {
+          "id": "career_postgraduate",
+          "label": "Postgraduate",
+          "description": "Doing a post graduate medical course."
+        },
+        {
+          "id": "career_first_time_leader",
+          "label": "First time leader",
+          "description": "Leading for the first time."
+        },
+        {
+          "id": "career_senior_leader",
+          "label": "Senior leader C suite",
+          "description": "A senior leader in the C suite of a company."
+        },
+        {
+          "id": "career_board",
+          "label": "Board",
+          "description": "Has a role on the board."
+        }
+      ]
+    },
+    {
+      "name": "News type",
+      "description": "Types of news content",
+      "items": [
+        {
+          "id": "news_press_release",
+          "label": "Press release",
+          "description": "Information released to the press."
+        },
+        {
+          "id": "news_announcement",
+          "label": "Announcement",
+          "description": "Healthcare related announcement."
+        },
+        {
+          "id": "news_news",
+          "label": "News",
+          "description": "Health news."
+        },
+        {
+          "id": "news_bulletin",
+          "label": "Bulletin",
+          "description": "Bulletins regarding healthcare and health policy."
+        }
+      ]
+    },
+    {
+      "name": "National priorities",
+      "description": "UK national health priorities",
+      "items": [
+        {
+          "id": "priority_primary_care",
+          "label": "Primary care",
+          "description": "A national health priority that is primary care."
+        },
+        {
+          "id": "priority_community_care",
+          "label": "Community Care",
+          "description": "Important health considerations for the community."
+        },
+        {
+          "id": "priority_personalised_care",
+          "label": "Personalised Care",
+          "description": "Considering individual health for the best care."
+        },
+        {
+          "id": "priority_allied_health",
+          "label": "Allied Health Professionals",
+          "description": "Information for the professional development of medics."
+        },
+        {
+          "id": "priority_advanced_practice",
+          "label": "Advanced Practice",
+          "description": "Increasing skill through advanced practice."
+        },
+        {
+          "id": "priority_cancer_diagnostics",
+          "label": "Cancer and Diagnostics",
+          "description": "Cancer diagnostic information."
+        },
+        {
+          "id": "priority_children_young_people",
+          "label": "Children and Young People",
+          "description": "Health specifically related to young people."
+        },
+        {
+          "id": "priority_maternity",
+          "label": "Maternity",
+          "description": "Maternity information national goal."
+        },
+        {
+          "id": "priority_long_term_conditions",
+          "label": "Long Term Conditions",
+          "description": "Conditions that will likely last a long time priority for state health."
+        },
+        {
+          "id": "priority_prevention_public_health",
+          "label": "Prevention and Public Health",
+          "description": "A national health priority that prevents diseases."
+        },
+        {
+          "id": "priority_mental_health",
+          "label": "Mental Health",
+          "description": "Information relating to mental health."
+        },
+        {
+          "id": "priority_learning_disability_autism",
+          "label": "Learning Disability and Autism",
+          "description": "Information from the perspective of learning disability and autism."
+        },
+        {
+          "id": "priority_medical_associate",
+          "label": "Medical Associate Professions",
+          "description": "Medical associate professional knowledge."
+        },
+        {
+          "id": "priority_pharmacy",
+          "label": "Pharmacy",
+          "description": "Focusing on the pharmacy profession."
+        },
+        {
+          "id": "priority_gp_workforce",
+          "label": "GP Workforce",
+          "description": "GP workforce stats and news."
+        },
+        {
+          "id": "priority_expanding_undergraduate",
+          "label": "Expanding undergraduate medical pharmacy and dentistry",
+          "description": "Expanding the numbers of these undergraduate courses."
+        },
+        {
+          "id": "priority_critical_care",
+          "label": "Critical Care",
+          "description": "Critical care resources."
+        },
+        {
+          "id": "priority_nhs_screening",
+          "label": "NHS Screening Services",
+          "description": "Official screening services offered throughout the NHS."
+        }
+      ]
+    }
+  ],
+  "lookup": {
+    "by_id": {
+      "topic_addiction": {
+        "id": "topic_addiction",
+        "label": "Addiction",
+        "description": "Information related to substance abuse, dependence, and addiction treatment, including alcohol, drugs, and behavioral addictions.",
+        "category": "Topic"
+      },
+      "topic_advanced_clinical_practice": {
+        "id": "topic_advanced_clinical_practice",
+        "label": "Advanced clinical practice",
+        "description": "Resources and information related to advanced clinical practice roles, such as advanced nurse practitioners, physician associates, and other advanced healthcare professionals.",
+        "category": "Topic"
+      },
+      "topic_antimicrobial_resistance": {
+        "id": "topic_antimicrobial_resistance",
+        "label": "Antimicrobial resistance",
+        "description": "Content focused on the growing problem of antimicrobial resistance, strategies for prevention, and responsible use of antibiotics and other antimicrobial agents.",
+        "category": "Topic"
+      },
+      "topic_armed_forces": {
+        "id": "topic_armed_forces",
+        "label": "Armed forces",
+        "description": "Information pertaining to the healthcare and wellbeing of armed forces personnel, veterans, and their families.",
+        "category": "Topic"
+      },
+      "topic_cancer": {
+        "id": "topic_cancer",
+        "label": "Cancer",
+        "description": "Information and resources regarding cancer prevention, diagnosis, treatment, research, and support services.",
+        "category": "Topic"
+      },
+      "topic_children_young_people": {
+        "id": "topic_children_young_people",
+        "label": "Children and young people",
+        "description": "Content related to the health and wellbeing of children and young people, including physical, mental, and social aspects.",
+        "category": "Topic"
+      },
+      "topic_community_care": {
+        "id": "topic_community_care",
+        "label": "Community care",
+        "description": "Resources pertaining to healthcare services delivered in community settings, such as homes, clinics, and community centers.",
+        "category": "Topic"
+      },
+      "topic_cosmetic_procedures": {
+        "id": "topic_cosmetic_procedures",
+        "label": "Cosmetic procedures",
+        "description": "Information concerning cosmetic procedures, including surgical and non-surgical treatments, regulations, and ethical considerations.",
+        "category": "Topic"
+      },
+      "topic_covid_19": {
+        "id": "topic_covid_19",
+        "label": "Covid 19",
+        "description": "Information, guidance, research, and updates specifically related to the COVID-19 pandemic.",
+        "category": "Topic"
+      },
+      "topic_critical_care": {
+        "id": "topic_critical_care",
+        "label": "Critical care",
+        "description": "Information on the management of critically ill patients in intensive care units and other critical care settings.",
+        "category": "Topic"
+      },
+      "topic_dementia": {
+        "id": "topic_dementia",
+        "label": "Dementia",
+        "description": "Resources related to dementia, including diagnosis, care, support, and research.",
+        "category": "Topic"
+      },
+      "topic_digital_skills": {
+        "id": "topic_digital_skills",
+        "label": "Digital skills",
+        "description": "Content focusing on the development and enhancement of digital skills for healthcare professionals and patients.",
+        "category": "Topic"
+      },
+      "topic_end_of_life_care": {
+        "id": "topic_end_of_life_care",
+        "label": "End of life care",
+        "description": "Information concerning palliative care, hospice care, and support for patients and families facing the end of life.",
+        "category": "Topic"
+      },
+      "topic_genomics": {
+        "id": "topic_genomics",
+        "label": "Genomics",
+        "description": "Resources related to genomics and its application in healthcare, including genetic testing, personalized medicine, and genomic research.",
+        "category": "Topic"
+      },
+      "topic_global_health": {
+        "id": "topic_global_health",
+        "label": "Global health",
+        "description": "Content focused on health issues and challenges that transcend national borders, including international collaborations and health disparities.",
+        "category": "Topic"
+      },
+      "topic_health_academia": {
+        "id": "topic_health_academia",
+        "label": "Health academia",
+        "description": "Information related to health-related academic research, education, and training programs.",
+        "category": "Topic"
+      },
+      "topic_health_inequalities": {
+        "id": "topic_health_inequalities",
+        "label": "Health inequalities",
+        "description": "Content focusing on disparities in health outcomes and access to healthcare based on factors such as socioeconomic status, ethnicity, and geographic location.",
+        "category": "Topic"
+      },
+      "topic_infection_management": {
+        "id": "topic_infection_management",
+        "label": "Infection management",
+        "description": "Resources and information regarding the prevention, diagnosis, and treatment of infections in healthcare settings.",
+        "category": "Topic"
+      },
+      "topic_knowledge_management": {
+        "id": "topic_knowledge_management",
+        "label": "Knowledge management",
+        "description": "Content related to the organization, storage, and sharing of knowledge and information within the healthcare sector.",
+        "category": "Topic"
+      },
+      "topic_learning_disability_autism": {
+        "id": "topic_learning_disability_autism",
+        "label": "Learning disability and autism",
+        "description": "Information and resources concerning the care and support of individuals with learning disabilities and autism.",
+        "category": "Topic"
+      },
+      "topic_long_term_conditions": {
+        "id": "topic_long_term_conditions",
+        "label": "Long term conditions",
+        "description": "Content related to the management of chronic diseases and long-term health conditions.",
+        "category": "Topic"
+      },
+      "topic_maternity": {
+        "id": "topic_maternity",
+        "label": "Maternity",
+        "description": "Resources pertaining to pregnancy, childbirth, and postnatal care.",
+        "category": "Topic"
+      },
+      "topic_medicines_optimisation": {
+        "id": "topic_medicines_optimisation",
+        "label": "Medicines optimisation",
+        "description": "Information focused on improving the safety, effectiveness, and efficiency of medication use.",
+        "category": "Topic"
+      },
+      "topic_mental_health": {
+        "id": "topic_mental_health",
+        "label": "Mental health",
+        "description": "Content related to mental health conditions, treatment, and support services.",
+        "category": "Topic"
+      },
+      "topic_neonatal": {
+        "id": "topic_neonatal",
+        "label": "Neonatal",
+        "description": "Resources focused on the care of newborn infants, especially those who are premature or have medical complications.",
+        "category": "Topic"
+      },
+      "topic_nhs_screening_services": {
+        "id": "topic_nhs_screening_services",
+        "label": "NHS Screening Services",
+        "description": "Information about the various screening programs offered by the NHS for early detection of diseases.",
+        "category": "Topic"
+      },
+      "topic_personalised_care": {
+        "id": "topic_personalised_care",
+        "label": "Personalised care",
+        "description": "Content regarding tailoring healthcare to individual needs and preferences.",
+        "category": "Topic"
+      },
+      "topic_prevention_public_health": {
+        "id": "topic_prevention_public_health",
+        "label": "Prevention and public health",
+        "description": "Resources and information on preventing diseases and promoting public health through various interventions and strategies.",
+        "category": "Topic"
+      },
+      "topic_primary_care": {
+        "id": "topic_primary_care",
+        "label": "Primary care",
+        "description": "Information related to healthcare services provided by general practitioners and other primary care providers.",
+        "category": "Topic"
+      },
+      "topic_quality": {
+        "id": "topic_quality",
+        "label": "Quality",
+        "description": "Content focusing on quality improvement initiatives and standards in healthcare.",
+        "category": "Topic"
+      },
+      "topic_sexual_reproductive_health": {
+        "id": "topic_sexual_reproductive_health",
+        "label": "Sexual and reproductive health",
+        "description": "Resources pertaining to sexual health, contraception, and reproductive health services.",
+        "category": "Topic"
+      },
+      "topic_urgent_emergency_care": {
+        "id": "topic_urgent_emergency_care",
+        "label": "Urgent and emergency care",
+        "description": "Information related to the provision of urgent and emergency medical care.",
+        "category": "Topic"
+      },
+      "topic_workforce_planning": {
+        "id": "topic_workforce_planning",
+        "label": "Workforce planning",
+        "description": "Information about planning and forecasting the healthcare workforce needs, including skills, shortages, and recruitment.",
+        "category": "Topic"
+      },
+      "topic_workforce_transformation": {
+        "id": "topic_workforce_transformation",
+        "label": "Workforce transformation",
+        "description": "Information about transforming the healthcare workforce to meet changing demands and improve care delivery, involving technology, and skill uplift.",
+        "category": "Topic"
+      },
+      "prof_advanced_critical_care_practitioners": {
+        "id": "prof_advanced_critical_care_practitioners",
+        "label": "Advanced critical care practitioners",
+        "description": "Professionals who are equipped to deal with emergencies in critical care, working in a multi disciplinary team.",
+        "category": "Profession"
+      },
+      "prof_allied_health_professionals": {
+        "id": "prof_allied_health_professionals",
+        "label": "Allied health professionals",
+        "description": "This includes the following occupations that all work within the NHS.",
+        "category": "Profession"
+      },
+      "prof_ambulance_service_team": {
+        "id": "prof_ambulance_service_team",
+        "label": "Ambulance service team",
+        "description": "Includes all staff within the ambulance service who respond to and deal with medical emergencies.",
+        "category": "Profession"
+      },
+      "prof_dental_professionals": {
+        "id": "prof_dental_professionals",
+        "label": "Dental professionals",
+        "description": "Including dentist and dental nurses, professional responsible for dealing with dental health issues and performing procedures.",
+        "category": "Profession"
+      },
+      "prof_health_informaticians": {
+        "id": "prof_health_informaticians",
+        "label": "Health informaticians",
+        "description": "IT jobs within healthcare that are linked to data collection and presentation, often with a focus on improving efficiency.",
+        "category": "Profession"
+      },
+      "prof_healthcare_scientists": {
+        "id": "prof_healthcare_scientists",
+        "label": "Healthcare scientists",
+        "description": "Scientists working within the NHS often analysing samples and interpreting results in a laboratory.",
+        "category": "Profession"
+      },
+      "prof_management_professionals": {
+        "id": "prof_management_professionals",
+        "label": "Management professionals",
+        "description": "Administrative roles within the NHS focused on running a healthcare institution, a team or project.",
+        "category": "Profession"
+      },
+      "prof_medical_associate_professionals": {
+        "id": "prof_medical_associate_professionals",
+        "label": "Medical associate professionals",
+        "description": "Medical professionals with varied specialities who operate under medical supervision but are not a doctor or nurse.",
+        "category": "Profession"
+      },
+      "prof_medical_doctors": {
+        "id": "prof_medical_doctors",
+        "label": "Medical doctors professionals",
+        "description": "Medical doctors with a varied range of specialities.",
+        "category": "Profession"
+      },
+      "prof_midwife": {
+        "id": "prof_midwife",
+        "label": "Midwife",
+        "description": "A healthcare professional trained to assist women during pregnancy, childbirth, and the postpartum period.",
+        "category": "Profession"
+      },
+      "prof_nurses": {
+        "id": "prof_nurses",
+        "label": "Nurses",
+        "description": "Registered nurses who provide direct patient care in various settings.",
+        "category": "Profession"
+      },
+      "prof_pharmacy_professionals": {
+        "id": "prof_pharmacy_professionals",
+        "label": "Pharmacy professionals",
+        "description": "Professionals dedicated to dispensing medication and delivering pharmaceutical advice and treatment.",
+        "category": "Profession"
+      },
+      "prof_psychological_professionals": {
+        "id": "prof_psychological_professionals",
+        "label": "Psychological professionals",
+        "description": "Professional focused on improving psychological health and wellbeing.",
+        "category": "Profession"
+      },
+      "prof_public_health_professionals": {
+        "id": "prof_public_health_professionals",
+        "label": "Public health professionals",
+        "description": "Professionals that provide public health information and advice at a local and national level.",
+        "category": "Profession"
+      },
+      "tag_advocacy": {
+        "id": "tag_advocacy",
+        "label": "Advocacy",
+        "description": "Supporting and promoting the rights and interests of patients and healthcare professionals.",
+        "category": "Tags"
+      },
+      "tag_apprenticeship": {
+        "id": "tag_apprenticeship",
+        "label": "Apprenticeship",
+        "description": "Structured training programs combining on-the-job experience with formal education.",
+        "category": "Tags"
+      },
+      "tag_ai_robotics": {
+        "id": "tag_ai_robotics",
+        "label": "Artificial intelligence and robotics",
+        "description": "Application of AI and robotics to improve healthcare processes and outcomes.",
+        "category": "Tags"
+      },
+      "tag_authentication": {
+        "id": "tag_authentication",
+        "label": "Authentication",
+        "description": "Verifying the identity of users and ensuring secure access to healthcare systems.",
+        "category": "Tags"
+      },
+      "tag_best_practice": {
+        "id": "tag_best_practice",
+        "label": "Best practice",
+        "description": "Evidence-based guidelines and recommendations for optimal clinical and administrative practices.",
+        "category": "Tags"
+      },
+      "tag_blended_learning": {
+        "id": "tag_blended_learning",
+        "label": "Blended learning",
+        "description": "Combining online and in-person learning methods for healthcare education and training.",
+        "category": "Tags"
+      },
+      "tag_board_development": {
+        "id": "tag_board_development",
+        "label": "Board development",
+        "description": "Training and support for healthcare organization boards to improve governance and decision-making.",
+        "category": "Tags"
+      },
+      "tag_bursaries_grants_awards": {
+        "id": "tag_bursaries_grants_awards",
+        "label": "Bursaries grants and awards",
+        "description": "Financial assistance programs to support healthcare education, research, and professional development.",
+        "category": "Tags"
+      },
+      "tag_cataloguing": {
+        "id": "tag_cataloguing",
+        "label": "Cataloguing",
+        "description": "Organizing and describing health information resources for easy retrieval.",
+        "category": "Tags"
+      },
+      "tag_circulation_counter": {
+        "id": "tag_circulation_counter",
+        "label": "Circulation and counter activities",
+        "description": "Managing the lending and return of physical resources in healthcare libraries.",
+        "category": "Tags"
+      },
+      "tag_collaboration_partnership": {
+        "id": "tag_collaboration_partnership",
+        "label": "Collaboration and partnership",
+        "description": "Working with other organizations and stakeholders to achieve common healthcare goals.",
+        "category": "Tags"
+      },
+      "tag_consultation": {
+        "id": "tag_consultation",
+        "label": "Consultation",
+        "description": "Seeking expert advice and feedback on healthcare policies, programs, and practices.",
+        "category": "Tags"
+      },
+      "tag_covid_19": {
+        "id": "tag_covid_19",
+        "label": "COVID 19",
+        "description": "Information specifically related to the COVID 19 pandemic.",
+        "category": "Tags"
+      },
+      "tag_cpd": {
+        "id": "tag_cpd",
+        "label": "Continuing professional development",
+        "description": "Ongoing learning activities to maintain and enhance healthcare professionals' skills and knowledge.",
+        "category": "Tags"
+      },
+      "tag_copyright_licensing": {
+        "id": "tag_copyright_licensing",
+        "label": "Copyright and licensing",
+        "description": "Legal aspects of using and sharing copyrighted health information resources.",
+        "category": "Tags"
+      },
+      "tag_databases": {
+        "id": "tag_databases",
+        "label": "Databases",
+        "description": "Collections of health information organized for efficient searching and retrieval.",
+        "category": "Tags"
+      },
+      "tag_development_needs": {
+        "id": "tag_development_needs",
+        "label": "Development needs",
+        "description": "Identifying and addressing the training and skill gaps of healthcare professionals.",
+        "category": "Tags"
+      },
+      "tag_digital_capability_frameworks": {
+        "id": "tag_digital_capability_frameworks",
+        "label": "Digital capability frameworks",
+        "description": "Frameworks for assessing and developing digital skills in the healthcare workforce.",
+        "category": "Tags"
+      },
+      "tag_digital_health_leadership": {
+        "id": "tag_digital_health_leadership",
+        "label": "Digital health leadership",
+        "description": "Strategies and skills for leading digital transformation initiatives in healthcare organizations.",
+        "category": "Tags"
+      },
+      "tag_digital_literacy": {
+        "id": "tag_digital_literacy",
+        "label": "Digital literacy",
+        "description": "The ability to use digital tools and technologies effectively in healthcare settings.",
+        "category": "Tags"
+      },
+      "tag_digital_roles_career": {
+        "id": "tag_digital_roles_career",
+        "label": "Digital roles and career pathways",
+        "description": "Defining roles and career paths for healthcare professionals with digital skills.",
+        "category": "Tags"
+      },
+      "tag_discovery": {
+        "id": "tag_discovery",
+        "label": "Discovery",
+        "description": "Tools and methods for finding health information resources.",
+        "category": "Tags"
+      },
+      "tag_electronic_resources": {
+        "id": "tag_electronic_resources",
+        "label": "Electronic resources",
+        "description": "Health information resources available in digital formats.",
+        "category": "Tags"
+      },
+      "tag_emerging_technology": {
+        "id": "tag_emerging_technology",
+        "label": "Emerging technology",
+        "description": "New and innovative technologies with potential applications in healthcare.",
+        "category": "Tags"
+      },
+      "tag_equality_diversity": {
+        "id": "tag_equality_diversity",
+        "label": "Equality impact and diversity",
+        "description": "Assessing the impact of healthcare policies and programs on different population groups and promoting diversity.",
+        "category": "Tags"
+      },
+      "tag_evaluation_framework": {
+        "id": "tag_evaluation_framework",
+        "label": "Evaluation framework",
+        "description": "Frameworks for assessing the effectiveness of healthcare interventions and programs.",
+        "category": "Tags"
+      },
+      "tag_events": {
+        "id": "tag_events",
+        "label": "Events",
+        "description": "Health events such as conferences and workshops.",
+        "category": "Tags"
+      },
+      "tag_evidence_self_assessments": {
+        "id": "tag_evidence_self_assessments",
+        "label": "Evidence and knowledge self assessments",
+        "description": "Tools for healthcare professionals to assess their knowledge and skills in specific areas.",
+        "category": "Tags"
+      },
+      "tag_fellowships_scholarships": {
+        "id": "tag_fellowships_scholarships",
+        "label": "Fellowships and scholarships",
+        "description": "Financial support for advanced training and research in healthcare.",
+        "category": "Tags"
+      },
+      "tag_finance": {
+        "id": "tag_finance",
+        "label": "Finance",
+        "description": "Information related to healthcare finance.",
+        "category": "Tags"
+      },
+      "tag_graduates": {
+        "id": "tag_graduates",
+        "label": "Graduates",
+        "description": "Healthcare graduates, their experiences and career prospects.",
+        "category": "Tags"
+      },
+      "tag_communities_of_practice": {
+        "id": "tag_communities_of_practice",
+        "label": "Communities of practice",
+        "description": "Groups of healthcare professionals who share knowledge and expertise in specific areas.",
+        "category": "Tags"
+      },
+      "tag_health_literacy": {
+        "id": "tag_health_literacy",
+        "label": "Health literacy",
+        "description": "The ability of individuals to understand and use health information to make informed decisions.",
+        "category": "Tags"
+      },
+      "tag_help_guidance": {
+        "id": "tag_help_guidance",
+        "label": "Help and guidance",
+        "description": "Resources providing support and direction for healthcare professionals and patients.",
+        "category": "Tags"
+      },
+      "tag_impact_value": {
+        "id": "tag_impact_value",
+        "label": "Impact and value",
+        "description": "Measuring the impact and value of healthcare interventions and programs.",
+        "category": "Tags"
+      },
+      "tag_industry": {
+        "id": "tag_industry",
+        "label": "Industry",
+        "description": "The healthcare industry, trends and related information.",
+        "category": "Tags"
+      },
+      "tag_innovation": {
+        "id": "tag_innovation",
+        "label": "Innovation",
+        "description": "New ideas and approaches to improve healthcare delivery and outcomes.",
+        "category": "Tags"
+      },
+      "tag_inter_library_loan": {
+        "id": "tag_inter_library_loan",
+        "label": "Inter library loan and document supply",
+        "description": "Obtaining health information resources from other libraries and providers.",
+        "category": "Tags"
+      },
+      "tag_knowledge_for_healthcare": {
+        "id": "tag_knowledge_for_healthcare",
+        "label": "Knowledge for Healthcare",
+        "description": "Initiatives for promoting knowledge sharing and evidence-based practice in healthcare.",
+        "category": "Tags"
+      },
+      "tag_learning_development": {
+        "id": "tag_learning_development",
+        "label": "Learning and development",
+        "description": "Activities and resources for healthcare education and training.",
+        "category": "Tags"
+      },
+      "tag_learning_zone": {
+        "id": "tag_learning_zone",
+        "label": "Learning zone",
+        "description": "Online platforms for health education and training.",
+        "category": "Tags"
+      },
+      "tag_libkey_nomad": {
+        "id": "tag_libkey_nomad",
+        "label": "LibKey Nomad",
+        "description": "A browser extension that provides direct access to full-text articles from library subscriptions.",
+        "category": "Tags"
+      },
+      "tag_library_management_systems": {
+        "id": "tag_library_management_systems",
+        "label": "Library management systems",
+        "description": "Software for managing library resources and services.",
+        "category": "Tags"
+      },
+      "tag_literature_searching": {
+        "id": "tag_literature_searching",
+        "label": "Literature searching",
+        "description": "Strategies and techniques for finding relevant health information in the literature.",
+        "category": "Tags"
+      },
+      "tag_managing_talent": {
+        "id": "tag_managing_talent",
+        "label": "Managing talent",
+        "description": "Strategies for effectively attracting, developing, and retaining healthcare professionals.",
+        "category": "Tags"
+      },
+      "tag_marketing_campaigns": {
+        "id": "tag_marketing_campaigns",
+        "label": "Marketing and campaigns",
+        "description": "Promotional activities to raise awareness of health services and programs.",
+        "category": "Tags"
+      },
+      "tag_mentoring": {
+        "id": "tag_mentoring",
+        "label": "Mentoring",
+        "description": "Guidance and support provided by experienced healthcare professionals to those early in their career.",
+        "category": "Tags"
+      },
+      "tag_mergers": {
+        "id": "tag_mergers",
+        "label": "Mergers",
+        "description": "Mergers of healthcare institutions.",
+        "category": "Tags"
+      },
+      "tag_mobilising_evidence": {
+        "id": "tag_mobilising_evidence",
+        "label": "Mobilising evidence and knowledge",
+        "description": "Strategies for translating research evidence into practice.",
+        "category": "Tags"
+      },
+      "tag_networking": {
+        "id": "tag_networking",
+        "label": "Networking",
+        "description": "Health specific networking events.",
+        "category": "Tags"
+      },
+      "tag_nhs_systems": {
+        "id": "tag_nhs_systems",
+        "label": "NHS and healthcare systems",
+        "description": "Information about these systems.",
+        "category": "Tags"
+      },
+      "tag_nhs_digital_academy": {
+        "id": "tag_nhs_digital_academy",
+        "label": "NHS Digital Academy",
+        "description": "A program for developing digital skills in healthcare leaders.",
+        "category": "Tags"
+      },
+      "tag_occupational_frameworks": {
+        "id": "tag_occupational_frameworks",
+        "label": "Occupational frameworks",
+        "description": "Frameworks for defining roles and skills in the healthcare workforce.",
+        "category": "Tags"
+      },
+      "tag_open_access": {
+        "id": "tag_open_access",
+        "label": "Open access",
+        "description": "Freely available health information resources.",
+        "category": "Tags"
+      },
+      "tag_patient_information": {
+        "id": "tag_patient_information",
+        "label": "Patient information",
+        "description": "Health information intended for patients.",
+        "category": "Tags"
+      },
+      "tag_pksb": {
+        "id": "tag_pksb",
+        "label": "Professional Knowledge and Skills Base PKSB",
+        "description": "A framework for defining the knowledge and skills required for healthcare professionals.",
+        "category": "Tags"
+      },
+      "tag_placements": {
+        "id": "tag_placements",
+        "label": "Placements",
+        "description": "Health related work placements.",
+        "category": "Tags"
+      },
+      "tag_policy": {
+        "id": "tag_policy",
+        "label": "Policy",
+        "description": "Information relating to national healthcare policy.",
+        "category": "Tags"
+      },
+      "tag_professional_networks": {
+        "id": "tag_professional_networks",
+        "label": "Professional networks",
+        "description": "Networks of healthcare professionals with specific skills.",
+        "category": "Tags"
+      },
+      "tag_quality": {
+        "id": "tag_quality",
+        "label": "Quality",
+        "description": "Information relating to improving health quality.",
+        "category": "Tags"
+      },
+      "tag_quality_improvement_outcomes": {
+        "id": "tag_quality_improvement_outcomes",
+        "label": "Quality and Improvement Outcomes",
+        "description": "Measuring and improving the quality of healthcare services and outcomes.",
+        "category": "Tags"
+      },
+      "tag_regional_skills_networks": {
+        "id": "tag_regional_skills_networks",
+        "label": "Regional Skills Development Networks",
+        "description": "Networks to promote skills development in specific regions.",
+        "category": "Tags"
+      },
+      "tag_repositories": {
+        "id": "tag_repositories",
+        "label": "Repositories",
+        "description": "Online archives for health information resources.",
+        "category": "Tags"
+      },
+      "tag_research": {
+        "id": "tag_research",
+        "label": "Research",
+        "description": "Health research findings and publications.",
+        "category": "Tags"
+      },
+      "tag_resource_discovery": {
+        "id": "tag_resource_discovery",
+        "label": "Resource Discovery",
+        "description": "Tools and methods for finding health resources.",
+        "category": "Tags"
+      },
+      "tag_school_leavers": {
+        "id": "tag_school_leavers",
+        "label": "School leavers",
+        "description": "Information relating to school leavers involved in healthcare.",
+        "category": "Tags"
+      },
+      "tag_service_delivery": {
+        "id": "tag_service_delivery",
+        "label": "Service delivery",
+        "description": "Models for healthcare service delivery.",
+        "category": "Tags"
+      },
+      "tag_social_care": {
+        "id": "tag_social_care",
+        "label": "Social care",
+        "description": "Integration of healthcare and social care.",
+        "category": "Tags"
+      },
+      "tag_statistics_data": {
+        "id": "tag_statistics_data",
+        "label": "Statistics and data",
+        "description": "Data concerning health.",
+        "category": "Tags"
+      },
+      "tag_strategy": {
+        "id": "tag_strategy",
+        "label": "Strategy",
+        "description": "National health strategies.",
+        "category": "Tags"
+      },
+      "tag_streamlining": {
+        "id": "tag_streamlining",
+        "label": "Streamlining",
+        "description": "Improving health efficiency.",
+        "category": "Tags"
+      },
+      "tag_sustainability": {
+        "id": "tag_sustainability",
+        "label": "Sustainability",
+        "description": "The goal of sustainable healthcare.",
+        "category": "Tags"
+      },
+      "tag_tools_techniques": {
+        "id": "tag_tools_techniques",
+        "label": "Tools and techniques",
+        "description": "Resources for healthcare interventions.",
+        "category": "Tags"
+      },
+      "tag_training": {
+        "id": "tag_training",
+        "label": "Training",
+        "description": "Training and education for healthcare professionals.",
+        "category": "Tags"
+      },
+      "tag_use_of_technology": {
+        "id": "tag_use_of_technology",
+        "label": "Use of technology",
+        "description": "Technology related data in healthcare.",
+        "category": "Tags"
+      },
+      "tag_user_experience": {
+        "id": "tag_user_experience",
+        "label": "User experience",
+        "description": "Methods to improve a patients experience.",
+        "category": "Tags"
+      },
+      "tag_wellbeing": {
+        "id": "tag_wellbeing",
+        "label": "Wellbeing",
+        "description": "Resources to improve wellbeing.",
+        "category": "Tags"
+      },
+      "tag_wider_profession": {
+        "id": "tag_wider_profession",
+        "label": "Wider profession",
+        "description": "Involving the wider profession with strategic topics.",
+        "category": "Tags"
+      },
+      "tag_workforce": {
+        "id": "tag_workforce",
+        "label": "Workforce",
+        "description": "Workforce related stats and strategies.",
+        "category": "Tags"
+      },
+      "region_east_of_england": {
+        "id": "region_east_of_england",
+        "label": "East of England",
+        "description": "Information relating to the East of England in UK.",
+        "category": "Region"
+      },
+      "region_london": {
+        "id": "region_london",
+        "label": "London",
+        "description": "Data concerning Greater London, UK or surrounding areas.",
+        "category": "Region"
+      },
+      "region_midlands": {
+        "id": "region_midlands",
+        "label": "Midlands",
+        "description": "Health data relating to the Midlands region of the UK.",
+        "category": "Region"
+      },
+      "region_north_east_yorkshire": {
+        "id": "region_north_east_yorkshire",
+        "label": "North east and Yorkshire",
+        "description": "Health and social care data in the North East and Yorkshire UK.",
+        "category": "Region"
+      },
+      "region_north_west": {
+        "id": "region_north_west",
+        "label": "North west",
+        "description": "Medical news and statistics for North West.",
+        "category": "Region"
+      },
+      "region_south_east": {
+        "id": "region_south_east",
+        "label": "South east",
+        "description": "Health and social care information for the South East and coastal areas of the UK.",
+        "category": "Region"
+      },
+      "region_south_west": {
+        "id": "region_south_west",
+        "label": "South west",
+        "description": "Health information from South West UK.",
+        "category": "Region"
+      },
+      "region_national": {
+        "id": "region_national",
+        "label": "National",
+        "description": "UK-wide national content.",
+        "category": "Region"
+      },
+      "pub_briefing": {
+        "id": "pub_briefing",
+        "label": "Briefing",
+        "description": "Short reports providing concise summaries of key information.",
+        "category": "Publication type"
+      },
+      "pub_consultation": {
+        "id": "pub_consultation",
+        "label": "Consultation",
+        "description": "Documents seeking feedback and input from stakeholders on proposed policies or programs.",
+        "category": "Publication type"
+      },
+      "pub_data_statistics": {
+        "id": "pub_data_statistics",
+        "label": "Data and statistics",
+        "description": "Collections of numerical data and statistical analyses related to healthcare.",
+        "category": "Publication type"
+      },
+      "pub_decision": {
+        "id": "pub_decision",
+        "label": "Decision",
+        "description": "Official decisions made by healthcare organizations or government bodies.",
+        "category": "Publication type"
+      },
+      "pub_foi_release": {
+        "id": "pub_foi_release",
+        "label": "FOI release",
+        "description": "Information released in response to Freedom of Information requests.",
+        "category": "Publication type"
+      },
+      "pub_guidance": {
+        "id": "pub_guidance",
+        "label": "Guidance",
+        "description": "Recommendations and advice on best practices for healthcare professionals.",
+        "category": "Publication type"
+      },
+      "pub_independent_report": {
+        "id": "pub_independent_report",
+        "label": "Independent report",
+        "description": "Reports prepared by independent organizations or experts on healthcare issues.",
+        "category": "Publication type"
+      },
+      "pub_letter": {
+        "id": "pub_letter",
+        "label": "Letter",
+        "description": "Official correspondence related to healthcare matters.",
+        "category": "Publication type"
+      },
+      "pub_meeting_papers": {
+        "id": "pub_meeting_papers",
+        "label": "Meeting papers and minutes",
+        "description": "Documents related to healthcare meetings, including agendas, minutes, and supporting materials.",
+        "category": "Publication type"
+      },
+      "pub_contract": {
+        "id": "pub_contract",
+        "label": "Contract",
+        "description": "Legal agreements related to specific health projects or other health services or products.",
+        "category": "Publication type"
+      },
+      "pub_policy_strategy": {
+        "id": "pub_policy_strategy",
+        "label": "Policy or strategy",
+        "description": "Documents outlining the goals, objectives, and approaches of healthcare organizations or government bodies.",
+        "category": "Publication type"
+      },
+      "pub_promotional": {
+        "id": "pub_promotional",
+        "label": "Promotional material",
+        "description": "Materials designed to promote health services, products, or programs.",
+        "category": "Publication type"
+      },
+      "pub_regulatory": {
+        "id": "pub_regulatory",
+        "label": "Regulatory",
+        "description": "Documents outlining rules, standards and regulations within the NHS.",
+        "category": "Publication type"
+      },
+      "pub_report": {
+        "id": "pub_report",
+        "label": "Report",
+        "description": "Comprehensive documents providing detailed information and analysis on healthcare topics.",
+        "category": "Publication type"
+      },
+      "pub_research": {
+        "id": "pub_research",
+        "label": "Research",
+        "description": "Documents about findings within health research.",
+        "category": "Publication type"
+      },
+      "pub_statement": {
+        "id": "pub_statement",
+        "label": "Statement",
+        "description": "Healthcare facts or data.",
+        "category": "Publication type"
+      },
+      "pub_data": {
+        "id": "pub_data",
+        "label": "Data",
+        "description": "Data points and sets.",
+        "category": "Publication type"
+      },
+      "pub_review": {
+        "id": "pub_review",
+        "label": "Review",
+        "description": "Information that has been reviewed professionally.",
+        "category": "Publication type"
+      },
+      "pub_business_plan": {
+        "id": "pub_business_plan",
+        "label": "Business Plan",
+        "description": "A health service or company business plan.",
+        "category": "Publication type"
+      },
+      "pub_framework": {
+        "id": "pub_framework",
+        "label": "Framework",
+        "description": "Key points and concepts for an organisation model.",
+        "category": "Publication type"
+      },
+      "event_seminar": {
+        "id": "event_seminar",
+        "label": "Seminar",
+        "description": "A gathering to present information relating to healthcare.",
+        "category": "Event type"
+      },
+      "event_workshop": {
+        "id": "event_workshop",
+        "label": "Workshop",
+        "description": "An educational gathering that aims to educate through interactive participation.",
+        "category": "Event type"
+      },
+      "event_course": {
+        "id": "event_course",
+        "label": "Course",
+        "description": "Healthcare related course for educational purposes.",
+        "category": "Event type"
+      },
+      "event_webinar": {
+        "id": "event_webinar",
+        "label": "Webinar",
+        "description": "An online based medical course.",
+        "category": "Event type"
+      },
+      "event_conference": {
+        "id": "event_conference",
+        "label": "Conference",
+        "description": "Medical conference.",
+        "category": "Event type"
+      },
+      "event_meeting": {
+        "id": "event_meeting",
+        "label": "Meeting",
+        "description": "Meeting about healthcare topic.",
+        "category": "Event type"
+      },
+      "media_video": {
+        "id": "media_video",
+        "label": "Video",
+        "description": "Video content.",
+        "category": "Media"
+      },
+      "media_image": {
+        "id": "media_image",
+        "label": "Image",
+        "description": "Image or photo.",
+        "category": "Media"
+      },
+      "media_podcast": {
+        "id": "media_podcast",
+        "label": "Podcast",
+        "description": "An audio file.",
+        "category": "Media"
+      },
+      "recruit_uncoupled": {
+        "id": "recruit_uncoupled",
+        "label": "Uncoupled",
+        "description": "Uncoupled recruitment system.",
+        "category": "Recruitment format"
+      },
+      "recruit_runthrough": {
+        "id": "recruit_runthrough",
+        "label": "Runthrough",
+        "description": "Recruitment process that is runthrough.",
+        "category": "Recruitment format"
+      },
+      "recruit_standard": {
+        "id": "recruit_standard",
+        "label": "Standard",
+        "description": "Recruitment process that is standard.",
+        "category": "Recruitment format"
+      },
+      "recruit_na": {
+        "id": "recruit_na",
+        "label": "NA",
+        "description": "Not Applicable.",
+        "category": "Recruitment format"
+      },
+      "train_foundation": {
+        "id": "train_foundation",
+        "label": "Foundation",
+        "description": "Foundational healthcare training.",
+        "category": "Training type"
+      },
+      "train_core": {
+        "id": "train_core",
+        "label": "Core",
+        "description": "Core medical training.",
+        "category": "Training type"
+      },
+      "train_speciality": {
+        "id": "train_speciality",
+        "label": "Speciality",
+        "description": "Specific medical training.",
+        "category": "Training type"
+      },
+      "train_higher_speciality": {
+        "id": "train_higher_speciality",
+        "label": "Higher speciality",
+        "description": "Higher specialty training.",
+        "category": "Training type"
+      },
+      "train_academic": {
+        "id": "train_academic",
+        "label": "Academic",
+        "description": "Academic training.",
+        "category": "Training type"
+      },
+      "train_higher_specialist_scientist": {
+        "id": "train_higher_specialist_scientist",
+        "label": "Higher specialist scientist training",
+        "description": "Specialist training specifically for scientists.",
+        "category": "Training type"
+      },
+      "train_scientist_programme": {
+        "id": "train_scientist_programme",
+        "label": "Scientist training programme",
+        "description": "A program aimed at training scientists for the future.",
+        "category": "Training type"
+      },
+      "train_practitioner_programme": {
+        "id": "train_practitioner_programme",
+        "label": "Practitioner training programme",
+        "description": "Training plan for a practitioner.",
+        "category": "Training type"
+      },
+      "train_formal": {
+        "id": "train_formal",
+        "label": "Formal training",
+        "description": "Standard training plan and regime.",
+        "category": "Training type"
+      },
+      "train_self_learning": {
+        "id": "train_self_learning",
+        "label": "Self learning",
+        "description": "Self-directed learning.",
+        "category": "Training type"
+      },
+      "train_mentoring": {
+        "id": "train_mentoring",
+        "label": "Mentoring",
+        "description": "Training from a mentor.",
+        "category": "Training type"
+      },
+      "clin_foundation": {
+        "id": "clin_foundation",
+        "label": "Foundation",
+        "description": "Foundational clinical specialisation.",
+        "category": "Clinical discipline"
+      },
+      "clin_acute_care": {
+        "id": "clin_acute_care",
+        "label": "Acute Care Common Stem",
+        "description": "An acute clinical specialisation.",
+        "category": "Clinical discipline"
+      },
+      "clin_anaesthesia": {
+        "id": "clin_anaesthesia",
+        "label": "Anaesthesia",
+        "description": "Clinical discipline around anaesthesia.",
+        "category": "Clinical discipline"
+      },
+      "clin_dental": {
+        "id": "clin_dental",
+        "label": "Dental",
+        "description": "Dental related clinical course.",
+        "category": "Clinical discipline"
+      },
+      "clin_emergency_medicine": {
+        "id": "clin_emergency_medicine",
+        "label": "Emergency Medicine",
+        "description": "Emergency medicine training and teaching.",
+        "category": "Clinical discipline"
+      },
+      "clin_general_practice": {
+        "id": "clin_general_practice",
+        "label": "General Practice",
+        "description": "General practice training.",
+        "category": "Clinical discipline"
+      },
+      "clin_medicine": {
+        "id": "clin_medicine",
+        "label": "Medicine",
+        "description": "Medicine training.",
+        "category": "Clinical discipline"
+      },
+      "clin_obstetrics_gynaecology": {
+        "id": "clin_obstetrics_gynaecology",
+        "label": "Obstetrics & Gynaecology",
+        "description": "Training related to pregnancy and childbirth.",
+        "category": "Clinical discipline"
+      },
+      "clin_ophthalmology": {
+        "id": "clin_ophthalmology",
+        "label": "Ophthalmology",
+        "description": "Eye related training.",
+        "category": "Clinical discipline"
+      },
+      "clin_paediatrics": {
+        "id": "clin_paediatrics",
+        "label": "Paediatrics",
+        "description": "Training for children's healthcare.",
+        "category": "Clinical discipline"
+      },
+      "clin_pathology": {
+        "id": "clin_pathology",
+        "label": "Pathology",
+        "description": "Studying disease through samples.",
+        "category": "Clinical discipline"
+      },
+      "clin_psychiatry": {
+        "id": "clin_psychiatry",
+        "label": "Psychiatry",
+        "description": "Training for mental health and psychology.",
+        "category": "Clinical discipline"
+      },
+      "clin_public_health": {
+        "id": "clin_public_health",
+        "label": "Public Health",
+        "description": "Health with a focus on the population.",
+        "category": "Clinical discipline"
+      },
+      "clin_radiology": {
+        "id": "clin_radiology",
+        "label": "Radiology",
+        "description": "Medical use of radiation and diagnostic methods.",
+        "category": "Clinical discipline"
+      },
+      "clin_surgery": {
+        "id": "clin_surgery",
+        "label": "Surgery",
+        "description": "Surgical training and knowledge.",
+        "category": "Clinical discipline"
+      },
+      "qual_cpd": {
+        "id": "qual_cpd",
+        "label": "CPD",
+        "description": "Continuing professional development qualification.",
+        "category": "Training qualification"
+      },
+      "qual_pgdip": {
+        "id": "qual_pgdip",
+        "label": "PGDip",
+        "description": "Post graduate diploma.",
+        "category": "Training qualification"
+      },
+      "qual_vocational": {
+        "id": "qual_vocational",
+        "label": "Vocational",
+        "description": "Working within a profession to be qualified.",
+        "category": "Training qualification"
+      },
+      "delivery_virtual": {
+        "id": "delivery_virtual",
+        "label": "Virtual",
+        "description": "Online delivery method.",
+        "category": "Delivery method"
+      },
+      "delivery_physical": {
+        "id": "delivery_physical",
+        "label": "Physical",
+        "description": "Physical in-person delivery method.",
+        "category": "Delivery method"
+      },
+      "delivery_hybrid": {
+        "id": "delivery_hybrid",
+        "label": "Hybrid",
+        "description": "In-person and some online sessions.",
+        "category": "Delivery method"
+      },
+      "career_any": {
+        "id": "career_any",
+        "label": "Any",
+        "description": "Any career stage.",
+        "category": "Career stage"
+      },
+      "career_school_leaver": {
+        "id": "career_school_leaver",
+        "label": "School college leaver",
+        "description": "Having just left schooling and education.",
+        "category": "Career stage"
+      },
+      "career_undergraduate": {
+        "id": "career_undergraduate",
+        "label": "Undergraduate",
+        "description": "An undergraduate medical student.",
+        "category": "Career stage"
+      },
+      "career_postgraduate": {
+        "id": "career_postgraduate",
+        "label": "Postgraduate",
+        "description": "Doing a post graduate medical course.",
+        "category": "Career stage"
+      },
+      "career_first_time_leader": {
+        "id": "career_first_time_leader",
+        "label": "First time leader",
+        "description": "Leading for the first time.",
+        "category": "Career stage"
+      },
+      "career_senior_leader": {
+        "id": "career_senior_leader",
+        "label": "Senior leader C suite",
+        "description": "A senior leader in the C suite of a company.",
+        "category": "Career stage"
+      },
+      "career_board": {
+        "id": "career_board",
+        "label": "Board",
+        "description": "Has a role on the board.",
+        "category": "Career stage"
+      },
+      "news_press_release": {
+        "id": "news_press_release",
+        "label": "Press release",
+        "description": "Information released to the press.",
+        "category": "News type"
+      },
+      "news_announcement": {
+        "id": "news_announcement",
+        "label": "Announcement",
+        "description": "Healthcare related announcement.",
+        "category": "News type"
+      },
+      "news_news": {
+        "id": "news_news",
+        "label": "News",
+        "description": "Health news.",
+        "category": "News type"
+      },
+      "news_bulletin": {
+        "id": "news_bulletin",
+        "label": "Bulletin",
+        "description": "Bulletins regarding healthcare and health policy.",
+        "category": "News type"
+      },
+      "priority_primary_care": {
+        "id": "priority_primary_care",
+        "label": "Primary care",
+        "description": "A national health priority that is primary care.",
+        "category": "National priorities"
+      },
+      "priority_community_care": {
+        "id": "priority_community_care",
+        "label": "Community Care",
+        "description": "Important health considerations for the community.",
+        "category": "National priorities"
+      },
+      "priority_personalised_care": {
+        "id": "priority_personalised_care",
+        "label": "Personalised Care",
+        "description": "Considering individual health for the best care.",
+        "category": "National priorities"
+      },
+      "priority_allied_health": {
+        "id": "priority_allied_health",
+        "label": "Allied Health Professionals",
+        "description": "Information for the professional development of medics.",
+        "category": "National priorities"
+      },
+      "priority_advanced_practice": {
+        "id": "priority_advanced_practice",
+        "label": "Advanced Practice",
+        "description": "Increasing skill through advanced practice.",
+        "category": "National priorities"
+      },
+      "priority_cancer_diagnostics": {
+        "id": "priority_cancer_diagnostics",
+        "label": "Cancer and Diagnostics",
+        "description": "Cancer diagnostic information.",
+        "category": "National priorities"
+      },
+      "priority_children_young_people": {
+        "id": "priority_children_young_people",
+        "label": "Children and Young People",
+        "description": "Health specifically related to young people.",
+        "category": "National priorities"
+      },
+      "priority_maternity": {
+        "id": "priority_maternity",
+        "label": "Maternity",
+        "description": "Maternity information national goal.",
+        "category": "National priorities"
+      },
+      "priority_long_term_conditions": {
+        "id": "priority_long_term_conditions",
+        "label": "Long Term Conditions",
+        "description": "Conditions that will likely last a long time priority for state health.",
+        "category": "National priorities"
+      },
+      "priority_prevention_public_health": {
+        "id": "priority_prevention_public_health",
+        "label": "Prevention and Public Health",
+        "description": "A national health priority that prevents diseases.",
+        "category": "National priorities"
+      },
+      "priority_mental_health": {
+        "id": "priority_mental_health",
+        "label": "Mental Health",
+        "description": "Information relating to mental health.",
+        "category": "National priorities"
+      },
+      "priority_learning_disability_autism": {
+        "id": "priority_learning_disability_autism",
+        "label": "Learning Disability and Autism",
+        "description": "Information from the perspective of learning disability and autism.",
+        "category": "National priorities"
+      },
+      "priority_medical_associate": {
+        "id": "priority_medical_associate",
+        "label": "Medical Associate Professions",
+        "description": "Medical associate professional knowledge.",
+        "category": "National priorities"
+      },
+      "priority_pharmacy": {
+        "id": "priority_pharmacy",
+        "label": "Pharmacy",
+        "description": "Focusing on the pharmacy profession.",
+        "category": "National priorities"
+      },
+      "priority_gp_workforce": {
+        "id": "priority_gp_workforce",
+        "label": "GP Workforce",
+        "description": "GP workforce stats and news.",
+        "category": "National priorities"
+      },
+      "priority_expanding_undergraduate": {
+        "id": "priority_expanding_undergraduate",
+        "label": "Expanding undergraduate medical pharmacy and dentistry",
+        "description": "Expanding the numbers of these undergraduate courses.",
+        "category": "National priorities"
+      },
+      "priority_critical_care": {
+        "id": "priority_critical_care",
+        "label": "Critical Care",
+        "description": "Critical care resources.",
+        "category": "National priorities"
+      },
+      "priority_nhs_screening": {
+        "id": "priority_nhs_screening",
+        "label": "NHS Screening Services",
+        "description": "Official screening services offered throughout the NHS.",
+        "category": "National priorities"
+      }
+    },
+    "by_label": {
+      "addiction": {
+        "id": "topic_addiction",
+        "label": "Addiction",
+        "description": "Information related to substance abuse, dependence, and addiction treatment, including alcohol, drugs, and behavioral addictions.",
+        "category": "Topic"
+      },
+      "advanced clinical practice": {
+        "id": "topic_advanced_clinical_practice",
+        "label": "Advanced clinical practice",
+        "description": "Resources and information related to advanced clinical practice roles, such as advanced nurse practitioners, physician associates, and other advanced healthcare professionals.",
+        "category": "Topic"
+      },
+      "antimicrobial resistance": {
+        "id": "topic_antimicrobial_resistance",
+        "label": "Antimicrobial resistance",
+        "description": "Content focused on the growing problem of antimicrobial resistance, strategies for prevention, and responsible use of antibiotics and other antimicrobial agents.",
+        "category": "Topic"
+      },
+      "armed forces": {
+        "id": "topic_armed_forces",
+        "label": "Armed forces",
+        "description": "Information pertaining to the healthcare and wellbeing of armed forces personnel, veterans, and their families.",
+        "category": "Topic"
+      },
+      "cancer": {
+        "id": "topic_cancer",
+        "label": "Cancer",
+        "description": "Information and resources regarding cancer prevention, diagnosis, treatment, research, and support services.",
+        "category": "Topic"
+      },
+      "children and young people": {
+        "id": "priority_children_young_people",
+        "label": "Children and Young People",
+        "description": "Health specifically related to young people.",
+        "category": "National priorities"
+      },
+      "community care": {
+        "id": "priority_community_care",
+        "label": "Community Care",
+        "description": "Important health considerations for the community.",
+        "category": "National priorities"
+      },
+      "cosmetic procedures": {
+        "id": "topic_cosmetic_procedures",
+        "label": "Cosmetic procedures",
+        "description": "Information concerning cosmetic procedures, including surgical and non-surgical treatments, regulations, and ethical considerations.",
+        "category": "Topic"
+      },
+      "covid 19": {
+        "id": "tag_covid_19",
+        "label": "COVID 19",
+        "description": "Information specifically related to the COVID 19 pandemic.",
+        "category": "Tags"
+      },
+      "critical care": {
+        "id": "priority_critical_care",
+        "label": "Critical Care",
+        "description": "Critical care resources.",
+        "category": "National priorities"
+      },
+      "dementia": {
+        "id": "topic_dementia",
+        "label": "Dementia",
+        "description": "Resources related to dementia, including diagnosis, care, support, and research.",
+        "category": "Topic"
+      },
+      "digital skills": {
+        "id": "topic_digital_skills",
+        "label": "Digital skills",
+        "description": "Content focusing on the development and enhancement of digital skills for healthcare professionals and patients.",
+        "category": "Topic"
+      },
+      "end of life care": {
+        "id": "topic_end_of_life_care",
+        "label": "End of life care",
+        "description": "Information concerning palliative care, hospice care, and support for patients and families facing the end of life.",
+        "category": "Topic"
+      },
+      "genomics": {
+        "id": "topic_genomics",
+        "label": "Genomics",
+        "description": "Resources related to genomics and its application in healthcare, including genetic testing, personalized medicine, and genomic research.",
+        "category": "Topic"
+      },
+      "global health": {
+        "id": "topic_global_health",
+        "label": "Global health",
+        "description": "Content focused on health issues and challenges that transcend national borders, including international collaborations and health disparities.",
+        "category": "Topic"
+      },
+      "health academia": {
+        "id": "topic_health_academia",
+        "label": "Health academia",
+        "description": "Information related to health-related academic research, education, and training programs.",
+        "category": "Topic"
+      },
+      "health inequalities": {
+        "id": "topic_health_inequalities",
+        "label": "Health inequalities",
+        "description": "Content focusing on disparities in health outcomes and access to healthcare based on factors such as socioeconomic status, ethnicity, and geographic location.",
+        "category": "Topic"
+      },
+      "infection management": {
+        "id": "topic_infection_management",
+        "label": "Infection management",
+        "description": "Resources and information regarding the prevention, diagnosis, and treatment of infections in healthcare settings.",
+        "category": "Topic"
+      },
+      "knowledge management": {
+        "id": "topic_knowledge_management",
+        "label": "Knowledge management",
+        "description": "Content related to the organization, storage, and sharing of knowledge and information within the healthcare sector.",
+        "category": "Topic"
+      },
+      "learning disability and autism": {
+        "id": "priority_learning_disability_autism",
+        "label": "Learning Disability and Autism",
+        "description": "Information from the perspective of learning disability and autism.",
+        "category": "National priorities"
+      },
+      "long term conditions": {
+        "id": "priority_long_term_conditions",
+        "label": "Long Term Conditions",
+        "description": "Conditions that will likely last a long time priority for state health.",
+        "category": "National priorities"
+      },
+      "maternity": {
+        "id": "priority_maternity",
+        "label": "Maternity",
+        "description": "Maternity information national goal.",
+        "category": "National priorities"
+      },
+      "medicines optimisation": {
+        "id": "topic_medicines_optimisation",
+        "label": "Medicines optimisation",
+        "description": "Information focused on improving the safety, effectiveness, and efficiency of medication use.",
+        "category": "Topic"
+      },
+      "mental health": {
+        "id": "priority_mental_health",
+        "label": "Mental Health",
+        "description": "Information relating to mental health.",
+        "category": "National priorities"
+      },
+      "neonatal": {
+        "id": "topic_neonatal",
+        "label": "Neonatal",
+        "description": "Resources focused on the care of newborn infants, especially those who are premature or have medical complications.",
+        "category": "Topic"
+      },
+      "nhs screening services": {
+        "id": "priority_nhs_screening",
+        "label": "NHS Screening Services",
+        "description": "Official screening services offered throughout the NHS.",
+        "category": "National priorities"
+      },
+      "personalised care": {
+        "id": "priority_personalised_care",
+        "label": "Personalised Care",
+        "description": "Considering individual health for the best care.",
+        "category": "National priorities"
+      },
+      "prevention and public health": {
+        "id": "priority_prevention_public_health",
+        "label": "Prevention and Public Health",
+        "description": "A national health priority that prevents diseases.",
+        "category": "National priorities"
+      },
+      "primary care": {
+        "id": "priority_primary_care",
+        "label": "Primary care",
+        "description": "A national health priority that is primary care.",
+        "category": "National priorities"
+      },
+      "quality": {
+        "id": "tag_quality",
+        "label": "Quality",
+        "description": "Information relating to improving health quality.",
+        "category": "Tags"
+      },
+      "sexual and reproductive health": {
+        "id": "topic_sexual_reproductive_health",
+        "label": "Sexual and reproductive health",
+        "description": "Resources pertaining to sexual health, contraception, and reproductive health services.",
+        "category": "Topic"
+      },
+      "urgent and emergency care": {
+        "id": "topic_urgent_emergency_care",
+        "label": "Urgent and emergency care",
+        "description": "Information related to the provision of urgent and emergency medical care.",
+        "category": "Topic"
+      },
+      "workforce planning": {
+        "id": "topic_workforce_planning",
+        "label": "Workforce planning",
+        "description": "Information about planning and forecasting the healthcare workforce needs, including skills, shortages, and recruitment.",
+        "category": "Topic"
+      },
+      "workforce transformation": {
+        "id": "topic_workforce_transformation",
+        "label": "Workforce transformation",
+        "description": "Information about transforming the healthcare workforce to meet changing demands and improve care delivery, involving technology, and skill uplift.",
+        "category": "Topic"
+      },
+      "advanced critical care practitioners": {
+        "id": "prof_advanced_critical_care_practitioners",
+        "label": "Advanced critical care practitioners",
+        "description": "Professionals who are equipped to deal with emergencies in critical care, working in a multi disciplinary team.",
+        "category": "Profession"
+      },
+      "allied health professionals": {
+        "id": "priority_allied_health",
+        "label": "Allied Health Professionals",
+        "description": "Information for the professional development of medics.",
+        "category": "National priorities"
+      },
+      "ambulance service team": {
+        "id": "prof_ambulance_service_team",
+        "label": "Ambulance service team",
+        "description": "Includes all staff within the ambulance service who respond to and deal with medical emergencies.",
+        "category": "Profession"
+      },
+      "dental professionals": {
+        "id": "prof_dental_professionals",
+        "label": "Dental professionals",
+        "description": "Including dentist and dental nurses, professional responsible for dealing with dental health issues and performing procedures.",
+        "category": "Profession"
+      },
+      "health informaticians": {
+        "id": "prof_health_informaticians",
+        "label": "Health informaticians",
+        "description": "IT jobs within healthcare that are linked to data collection and presentation, often with a focus on improving efficiency.",
+        "category": "Profession"
+      },
+      "healthcare scientists": {
+        "id": "prof_healthcare_scientists",
+        "label": "Healthcare scientists",
+        "description": "Scientists working within the NHS often analysing samples and interpreting results in a laboratory.",
+        "category": "Profession"
+      },
+      "management professionals": {
+        "id": "prof_management_professionals",
+        "label": "Management professionals",
+        "description": "Administrative roles within the NHS focused on running a healthcare institution, a team or project.",
+        "category": "Profession"
+      },
+      "medical associate professionals": {
+        "id": "prof_medical_associate_professionals",
+        "label": "Medical associate professionals",
+        "description": "Medical professionals with varied specialities who operate under medical supervision but are not a doctor or nurse.",
+        "category": "Profession"
+      },
+      "medical doctors professionals": {
+        "id": "prof_medical_doctors",
+        "label": "Medical doctors professionals",
+        "description": "Medical doctors with a varied range of specialities.",
+        "category": "Profession"
+      },
+      "midwife": {
+        "id": "prof_midwife",
+        "label": "Midwife",
+        "description": "A healthcare professional trained to assist women during pregnancy, childbirth, and the postpartum period.",
+        "category": "Profession"
+      },
+      "nurses": {
+        "id": "prof_nurses",
+        "label": "Nurses",
+        "description": "Registered nurses who provide direct patient care in various settings.",
+        "category": "Profession"
+      },
+      "pharmacy professionals": {
+        "id": "prof_pharmacy_professionals",
+        "label": "Pharmacy professionals",
+        "description": "Professionals dedicated to dispensing medication and delivering pharmaceutical advice and treatment.",
+        "category": "Profession"
+      },
+      "psychological professionals": {
+        "id": "prof_psychological_professionals",
+        "label": "Psychological professionals",
+        "description": "Professional focused on improving psychological health and wellbeing.",
+        "category": "Profession"
+      },
+      "public health professionals": {
+        "id": "prof_public_health_professionals",
+        "label": "Public health professionals",
+        "description": "Professionals that provide public health information and advice at a local and national level.",
+        "category": "Profession"
+      },
+      "advocacy": {
+        "id": "tag_advocacy",
+        "label": "Advocacy",
+        "description": "Supporting and promoting the rights and interests of patients and healthcare professionals.",
+        "category": "Tags"
+      },
+      "apprenticeship": {
+        "id": "tag_apprenticeship",
+        "label": "Apprenticeship",
+        "description": "Structured training programs combining on-the-job experience with formal education.",
+        "category": "Tags"
+      },
+      "artificial intelligence and robotics": {
+        "id": "tag_ai_robotics",
+        "label": "Artificial intelligence and robotics",
+        "description": "Application of AI and robotics to improve healthcare processes and outcomes.",
+        "category": "Tags"
+      },
+      "authentication": {
+        "id": "tag_authentication",
+        "label": "Authentication",
+        "description": "Verifying the identity of users and ensuring secure access to healthcare systems.",
+        "category": "Tags"
+      },
+      "best practice": {
+        "id": "tag_best_practice",
+        "label": "Best practice",
+        "description": "Evidence-based guidelines and recommendations for optimal clinical and administrative practices.",
+        "category": "Tags"
+      },
+      "blended learning": {
+        "id": "tag_blended_learning",
+        "label": "Blended learning",
+        "description": "Combining online and in-person learning methods for healthcare education and training.",
+        "category": "Tags"
+      },
+      "board development": {
+        "id": "tag_board_development",
+        "label": "Board development",
+        "description": "Training and support for healthcare organization boards to improve governance and decision-making.",
+        "category": "Tags"
+      },
+      "bursaries grants and awards": {
+        "id": "tag_bursaries_grants_awards",
+        "label": "Bursaries grants and awards",
+        "description": "Financial assistance programs to support healthcare education, research, and professional development.",
+        "category": "Tags"
+      },
+      "cataloguing": {
+        "id": "tag_cataloguing",
+        "label": "Cataloguing",
+        "description": "Organizing and describing health information resources for easy retrieval.",
+        "category": "Tags"
+      },
+      "circulation and counter activities": {
+        "id": "tag_circulation_counter",
+        "label": "Circulation and counter activities",
+        "description": "Managing the lending and return of physical resources in healthcare libraries.",
+        "category": "Tags"
+      },
+      "collaboration and partnership": {
+        "id": "tag_collaboration_partnership",
+        "label": "Collaboration and partnership",
+        "description": "Working with other organizations and stakeholders to achieve common healthcare goals.",
+        "category": "Tags"
+      },
+      "consultation": {
+        "id": "pub_consultation",
+        "label": "Consultation",
+        "description": "Documents seeking feedback and input from stakeholders on proposed policies or programs.",
+        "category": "Publication type"
+      },
+      "continuing professional development": {
+        "id": "tag_cpd",
+        "label": "Continuing professional development",
+        "description": "Ongoing learning activities to maintain and enhance healthcare professionals' skills and knowledge.",
+        "category": "Tags"
+      },
+      "copyright and licensing": {
+        "id": "tag_copyright_licensing",
+        "label": "Copyright and licensing",
+        "description": "Legal aspects of using and sharing copyrighted health information resources.",
+        "category": "Tags"
+      },
+      "databases": {
+        "id": "tag_databases",
+        "label": "Databases",
+        "description": "Collections of health information organized for efficient searching and retrieval.",
+        "category": "Tags"
+      },
+      "development needs": {
+        "id": "tag_development_needs",
+        "label": "Development needs",
+        "description": "Identifying and addressing the training and skill gaps of healthcare professionals.",
+        "category": "Tags"
+      },
+      "digital capability frameworks": {
+        "id": "tag_digital_capability_frameworks",
+        "label": "Digital capability frameworks",
+        "description": "Frameworks for assessing and developing digital skills in the healthcare workforce.",
+        "category": "Tags"
+      },
+      "digital health leadership": {
+        "id": "tag_digital_health_leadership",
+        "label": "Digital health leadership",
+        "description": "Strategies and skills for leading digital transformation initiatives in healthcare organizations.",
+        "category": "Tags"
+      },
+      "digital literacy": {
+        "id": "tag_digital_literacy",
+        "label": "Digital literacy",
+        "description": "The ability to use digital tools and technologies effectively in healthcare settings.",
+        "category": "Tags"
+      },
+      "digital roles and career pathways": {
+        "id": "tag_digital_roles_career",
+        "label": "Digital roles and career pathways",
+        "description": "Defining roles and career paths for healthcare professionals with digital skills.",
+        "category": "Tags"
+      },
+      "discovery": {
+        "id": "tag_discovery",
+        "label": "Discovery",
+        "description": "Tools and methods for finding health information resources.",
+        "category": "Tags"
+      },
+      "electronic resources": {
+        "id": "tag_electronic_resources",
+        "label": "Electronic resources",
+        "description": "Health information resources available in digital formats.",
+        "category": "Tags"
+      },
+      "emerging technology": {
+        "id": "tag_emerging_technology",
+        "label": "Emerging technology",
+        "description": "New and innovative technologies with potential applications in healthcare.",
+        "category": "Tags"
+      },
+      "equality impact and diversity": {
+        "id": "tag_equality_diversity",
+        "label": "Equality impact and diversity",
+        "description": "Assessing the impact of healthcare policies and programs on different population groups and promoting diversity.",
+        "category": "Tags"
+      },
+      "evaluation framework": {
+        "id": "tag_evaluation_framework",
+        "label": "Evaluation framework",
+        "description": "Frameworks for assessing the effectiveness of healthcare interventions and programs.",
+        "category": "Tags"
+      },
+      "events": {
+        "id": "tag_events",
+        "label": "Events",
+        "description": "Health events such as conferences and workshops.",
+        "category": "Tags"
+      },
+      "evidence and knowledge self assessments": {
+        "id": "tag_evidence_self_assessments",
+        "label": "Evidence and knowledge self assessments",
+        "description": "Tools for healthcare professionals to assess their knowledge and skills in specific areas.",
+        "category": "Tags"
+      },
+      "fellowships and scholarships": {
+        "id": "tag_fellowships_scholarships",
+        "label": "Fellowships and scholarships",
+        "description": "Financial support for advanced training and research in healthcare.",
+        "category": "Tags"
+      },
+      "finance": {
+        "id": "tag_finance",
+        "label": "Finance",
+        "description": "Information related to healthcare finance.",
+        "category": "Tags"
+      },
+      "graduates": {
+        "id": "tag_graduates",
+        "label": "Graduates",
+        "description": "Healthcare graduates, their experiences and career prospects.",
+        "category": "Tags"
+      },
+      "communities of practice": {
+        "id": "tag_communities_of_practice",
+        "label": "Communities of practice",
+        "description": "Groups of healthcare professionals who share knowledge and expertise in specific areas.",
+        "category": "Tags"
+      },
+      "health literacy": {
+        "id": "tag_health_literacy",
+        "label": "Health literacy",
+        "description": "The ability of individuals to understand and use health information to make informed decisions.",
+        "category": "Tags"
+      },
+      "help and guidance": {
+        "id": "tag_help_guidance",
+        "label": "Help and guidance",
+        "description": "Resources providing support and direction for healthcare professionals and patients.",
+        "category": "Tags"
+      },
+      "impact and value": {
+        "id": "tag_impact_value",
+        "label": "Impact and value",
+        "description": "Measuring the impact and value of healthcare interventions and programs.",
+        "category": "Tags"
+      },
+      "industry": {
+        "id": "tag_industry",
+        "label": "Industry",
+        "description": "The healthcare industry, trends and related information.",
+        "category": "Tags"
+      },
+      "innovation": {
+        "id": "tag_innovation",
+        "label": "Innovation",
+        "description": "New ideas and approaches to improve healthcare delivery and outcomes.",
+        "category": "Tags"
+      },
+      "inter library loan and document supply": {
+        "id": "tag_inter_library_loan",
+        "label": "Inter library loan and document supply",
+        "description": "Obtaining health information resources from other libraries and providers.",
+        "category": "Tags"
+      },
+      "knowledge for healthcare": {
+        "id": "tag_knowledge_for_healthcare",
+        "label": "Knowledge for Healthcare",
+        "description": "Initiatives for promoting knowledge sharing and evidence-based practice in healthcare.",
+        "category": "Tags"
+      },
+      "learning and development": {
+        "id": "tag_learning_development",
+        "label": "Learning and development",
+        "description": "Activities and resources for healthcare education and training.",
+        "category": "Tags"
+      },
+      "learning zone": {
+        "id": "tag_learning_zone",
+        "label": "Learning zone",
+        "description": "Online platforms for health education and training.",
+        "category": "Tags"
+      },
+      "libkey nomad": {
+        "id": "tag_libkey_nomad",
+        "label": "LibKey Nomad",
+        "description": "A browser extension that provides direct access to full-text articles from library subscriptions.",
+        "category": "Tags"
+      },
+      "library management systems": {
+        "id": "tag_library_management_systems",
+        "label": "Library management systems",
+        "description": "Software for managing library resources and services.",
+        "category": "Tags"
+      },
+      "literature searching": {
+        "id": "tag_literature_searching",
+        "label": "Literature searching",
+        "description": "Strategies and techniques for finding relevant health information in the literature.",
+        "category": "Tags"
+      },
+      "managing talent": {
+        "id": "tag_managing_talent",
+        "label": "Managing talent",
+        "description": "Strategies for effectively attracting, developing, and retaining healthcare professionals.",
+        "category": "Tags"
+      },
+      "marketing and campaigns": {
+        "id": "tag_marketing_campaigns",
+        "label": "Marketing and campaigns",
+        "description": "Promotional activities to raise awareness of health services and programs.",
+        "category": "Tags"
+      },
+      "mentoring": {
+        "id": "train_mentoring",
+        "label": "Mentoring",
+        "description": "Training from a mentor.",
+        "category": "Training type"
+      },
+      "mergers": {
+        "id": "tag_mergers",
+        "label": "Mergers",
+        "description": "Mergers of healthcare institutions.",
+        "category": "Tags"
+      },
+      "mobilising evidence and knowledge": {
+        "id": "tag_mobilising_evidence",
+        "label": "Mobilising evidence and knowledge",
+        "description": "Strategies for translating research evidence into practice.",
+        "category": "Tags"
+      },
+      "networking": {
+        "id": "tag_networking",
+        "label": "Networking",
+        "description": "Health specific networking events.",
+        "category": "Tags"
+      },
+      "nhs and healthcare systems": {
+        "id": "tag_nhs_systems",
+        "label": "NHS and healthcare systems",
+        "description": "Information about these systems.",
+        "category": "Tags"
+      },
+      "nhs digital academy": {
+        "id": "tag_nhs_digital_academy",
+        "label": "NHS Digital Academy",
+        "description": "A program for developing digital skills in healthcare leaders.",
+        "category": "Tags"
+      },
+      "occupational frameworks": {
+        "id": "tag_occupational_frameworks",
+        "label": "Occupational frameworks",
+        "description": "Frameworks for defining roles and skills in the healthcare workforce.",
+        "category": "Tags"
+      },
+      "open access": {
+        "id": "tag_open_access",
+        "label": "Open access",
+        "description": "Freely available health information resources.",
+        "category": "Tags"
+      },
+      "patient information": {
+        "id": "tag_patient_information",
+        "label": "Patient information",
+        "description": "Health information intended for patients.",
+        "category": "Tags"
+      },
+      "professional knowledge and skills base pksb": {
+        "id": "tag_pksb",
+        "label": "Professional Knowledge and Skills Base PKSB",
+        "description": "A framework for defining the knowledge and skills required for healthcare professionals.",
+        "category": "Tags"
+      },
+      "placements": {
+        "id": "tag_placements",
+        "label": "Placements",
+        "description": "Health related work placements.",
+        "category": "Tags"
+      },
+      "policy": {
+        "id": "tag_policy",
+        "label": "Policy",
+        "description": "Information relating to national healthcare policy.",
+        "category": "Tags"
+      },
+      "professional networks": {
+        "id": "tag_professional_networks",
+        "label": "Professional networks",
+        "description": "Networks of healthcare professionals with specific skills.",
+        "category": "Tags"
+      },
+      "quality and improvement outcomes": {
+        "id": "tag_quality_improvement_outcomes",
+        "label": "Quality and Improvement Outcomes",
+        "description": "Measuring and improving the quality of healthcare services and outcomes.",
+        "category": "Tags"
+      },
+      "regional skills development networks": {
+        "id": "tag_regional_skills_networks",
+        "label": "Regional Skills Development Networks",
+        "description": "Networks to promote skills development in specific regions.",
+        "category": "Tags"
+      },
+      "repositories": {
+        "id": "tag_repositories",
+        "label": "Repositories",
+        "description": "Online archives for health information resources.",
+        "category": "Tags"
+      },
+      "research": {
+        "id": "pub_research",
+        "label": "Research",
+        "description": "Documents about findings within health research.",
+        "category": "Publication type"
+      },
+      "resource discovery": {
+        "id": "tag_resource_discovery",
+        "label": "Resource Discovery",
+        "description": "Tools and methods for finding health resources.",
+        "category": "Tags"
+      },
+      "school leavers": {
+        "id": "tag_school_leavers",
+        "label": "School leavers",
+        "description": "Information relating to school leavers involved in healthcare.",
+        "category": "Tags"
+      },
+      "service delivery": {
+        "id": "tag_service_delivery",
+        "label": "Service delivery",
+        "description": "Models for healthcare service delivery.",
+        "category": "Tags"
+      },
+      "social care": {
+        "id": "tag_social_care",
+        "label": "Social care",
+        "description": "Integration of healthcare and social care.",
+        "category": "Tags"
+      },
+      "statistics and data": {
+        "id": "tag_statistics_data",
+        "label": "Statistics and data",
+        "description": "Data concerning health.",
+        "category": "Tags"
+      },
+      "strategy": {
+        "id": "tag_strategy",
+        "label": "Strategy",
+        "description": "National health strategies.",
+        "category": "Tags"
+      },
+      "streamlining": {
+        "id": "tag_streamlining",
+        "label": "Streamlining",
+        "description": "Improving health efficiency.",
+        "category": "Tags"
+      },
+      "sustainability": {
+        "id": "tag_sustainability",
+        "label": "Sustainability",
+        "description": "The goal of sustainable healthcare.",
+        "category": "Tags"
+      },
+      "tools and techniques": {
+        "id": "tag_tools_techniques",
+        "label": "Tools and techniques",
+        "description": "Resources for healthcare interventions.",
+        "category": "Tags"
+      },
+      "training": {
+        "id": "tag_training",
+        "label": "Training",
+        "description": "Training and education for healthcare professionals.",
+        "category": "Tags"
+      },
+      "use of technology": {
+        "id": "tag_use_of_technology",
+        "label": "Use of technology",
+        "description": "Technology related data in healthcare.",
+        "category": "Tags"
+      },
+      "user experience": {
+        "id": "tag_user_experience",
+        "label": "User experience",
+        "description": "Methods to improve a patients experience.",
+        "category": "Tags"
+      },
+      "wellbeing": {
+        "id": "tag_wellbeing",
+        "label": "Wellbeing",
+        "description": "Resources to improve wellbeing.",
+        "category": "Tags"
+      },
+      "wider profession": {
+        "id": "tag_wider_profession",
+        "label": "Wider profession",
+        "description": "Involving the wider profession with strategic topics.",
+        "category": "Tags"
+      },
+      "workforce": {
+        "id": "tag_workforce",
+        "label": "Workforce",
+        "description": "Workforce related stats and strategies.",
+        "category": "Tags"
+      },
+      "east of england": {
+        "id": "region_east_of_england",
+        "label": "East of England",
+        "description": "Information relating to the East of England in UK.",
+        "category": "Region"
+      },
+      "london": {
+        "id": "region_london",
+        "label": "London",
+        "description": "Data concerning Greater London, UK or surrounding areas.",
+        "category": "Region"
+      },
+      "midlands": {
+        "id": "region_midlands",
+        "label": "Midlands",
+        "description": "Health data relating to the Midlands region of the UK.",
+        "category": "Region"
+      },
+      "north east and yorkshire": {
+        "id": "region_north_east_yorkshire",
+        "label": "North east and Yorkshire",
+        "description": "Health and social care data in the North East and Yorkshire UK.",
+        "category": "Region"
+      },
+      "north west": {
+        "id": "region_north_west",
+        "label": "North west",
+        "description": "Medical news and statistics for North West.",
+        "category": "Region"
+      },
+      "south east": {
+        "id": "region_south_east",
+        "label": "South east",
+        "description": "Health and social care information for the South East and coastal areas of the UK.",
+        "category": "Region"
+      },
+      "south west": {
+        "id": "region_south_west",
+        "label": "South west",
+        "description": "Health information from South West UK.",
+        "category": "Region"
+      },
+      "national": {
+        "id": "region_national",
+        "label": "National",
+        "description": "UK-wide national content.",
+        "category": "Region"
+      },
+      "briefing": {
+        "id": "pub_briefing",
+        "label": "Briefing",
+        "description": "Short reports providing concise summaries of key information.",
+        "category": "Publication type"
+      },
+      "data and statistics": {
+        "id": "pub_data_statistics",
+        "label": "Data and statistics",
+        "description": "Collections of numerical data and statistical analyses related to healthcare.",
+        "category": "Publication type"
+      },
+      "decision": {
+        "id": "pub_decision",
+        "label": "Decision",
+        "description": "Official decisions made by healthcare organizations or government bodies.",
+        "category": "Publication type"
+      },
+      "foi release": {
+        "id": "pub_foi_release",
+        "label": "FOI release",
+        "description": "Information released in response to Freedom of Information requests.",
+        "category": "Publication type"
+      },
+      "guidance": {
+        "id": "pub_guidance",
+        "label": "Guidance",
+        "description": "Recommendations and advice on best practices for healthcare professionals.",
+        "category": "Publication type"
+      },
+      "independent report": {
+        "id": "pub_independent_report",
+        "label": "Independent report",
+        "description": "Reports prepared by independent organizations or experts on healthcare issues.",
+        "category": "Publication type"
+      },
+      "letter": {
+        "id": "pub_letter",
+        "label": "Letter",
+        "description": "Official correspondence related to healthcare matters.",
+        "category": "Publication type"
+      },
+      "meeting papers and minutes": {
+        "id": "pub_meeting_papers",
+        "label": "Meeting papers and minutes",
+        "description": "Documents related to healthcare meetings, including agendas, minutes, and supporting materials.",
+        "category": "Publication type"
+      },
+      "contract": {
+        "id": "pub_contract",
+        "label": "Contract",
+        "description": "Legal agreements related to specific health projects or other health services or products.",
+        "category": "Publication type"
+      },
+      "policy or strategy": {
+        "id": "pub_policy_strategy",
+        "label": "Policy or strategy",
+        "description": "Documents outlining the goals, objectives, and approaches of healthcare organizations or government bodies.",
+        "category": "Publication type"
+      },
+      "promotional material": {
+        "id": "pub_promotional",
+        "label": "Promotional material",
+        "description": "Materials designed to promote health services, products, or programs.",
+        "category": "Publication type"
+      },
+      "regulatory": {
+        "id": "pub_regulatory",
+        "label": "Regulatory",
+        "description": "Documents outlining rules, standards and regulations within the NHS.",
+        "category": "Publication type"
+      },
+      "report": {
+        "id": "pub_report",
+        "label": "Report",
+        "description": "Comprehensive documents providing detailed information and analysis on healthcare topics.",
+        "category": "Publication type"
+      },
+      "statement": {
+        "id": "pub_statement",
+        "label": "Statement",
+        "description": "Healthcare facts or data.",
+        "category": "Publication type"
+      },
+      "data": {
+        "id": "pub_data",
+        "label": "Data",
+        "description": "Data points and sets.",
+        "category": "Publication type"
+      },
+      "review": {
+        "id": "pub_review",
+        "label": "Review",
+        "description": "Information that has been reviewed professionally.",
+        "category": "Publication type"
+      },
+      "business plan": {
+        "id": "pub_business_plan",
+        "label": "Business Plan",
+        "description": "A health service or company business plan.",
+        "category": "Publication type"
+      },
+      "framework": {
+        "id": "pub_framework",
+        "label": "Framework",
+        "description": "Key points and concepts for an organisation model.",
+        "category": "Publication type"
+      },
+      "seminar": {
+        "id": "event_seminar",
+        "label": "Seminar",
+        "description": "A gathering to present information relating to healthcare.",
+        "category": "Event type"
+      },
+      "workshop": {
+        "id": "event_workshop",
+        "label": "Workshop",
+        "description": "An educational gathering that aims to educate through interactive participation.",
+        "category": "Event type"
+      },
+      "course": {
+        "id": "event_course",
+        "label": "Course",
+        "description": "Healthcare related course for educational purposes.",
+        "category": "Event type"
+      },
+      "webinar": {
+        "id": "event_webinar",
+        "label": "Webinar",
+        "description": "An online based medical course.",
+        "category": "Event type"
+      },
+      "conference": {
+        "id": "event_conference",
+        "label": "Conference",
+        "description": "Medical conference.",
+        "category": "Event type"
+      },
+      "meeting": {
+        "id": "event_meeting",
+        "label": "Meeting",
+        "description": "Meeting about healthcare topic.",
+        "category": "Event type"
+      },
+      "video": {
+        "id": "media_video",
+        "label": "Video",
+        "description": "Video content.",
+        "category": "Media"
+      },
+      "image": {
+        "id": "media_image",
+        "label": "Image",
+        "description": "Image or photo.",
+        "category": "Media"
+      },
+      "podcast": {
+        "id": "media_podcast",
+        "label": "Podcast",
+        "description": "An audio file.",
+        "category": "Media"
+      },
+      "uncoupled": {
+        "id": "recruit_uncoupled",
+        "label": "Uncoupled",
+        "description": "Uncoupled recruitment system.",
+        "category": "Recruitment format"
+      },
+      "runthrough": {
+        "id": "recruit_runthrough",
+        "label": "Runthrough",
+        "description": "Recruitment process that is runthrough.",
+        "category": "Recruitment format"
+      },
+      "standard": {
+        "id": "recruit_standard",
+        "label": "Standard",
+        "description": "Recruitment process that is standard.",
+        "category": "Recruitment format"
+      },
+      "na": {
+        "id": "recruit_na",
+        "label": "NA",
+        "description": "Not Applicable.",
+        "category": "Recruitment format"
+      },
+      "foundation": {
+        "id": "clin_foundation",
+        "label": "Foundation",
+        "description": "Foundational clinical specialisation.",
+        "category": "Clinical discipline"
+      },
+      "core": {
+        "id": "train_core",
+        "label": "Core",
+        "description": "Core medical training.",
+        "category": "Training type"
+      },
+      "speciality": {
+        "id": "train_speciality",
+        "label": "Speciality",
+        "description": "Specific medical training.",
+        "category": "Training type"
+      },
+      "higher speciality": {
+        "id": "train_higher_speciality",
+        "label": "Higher speciality",
+        "description": "Higher specialty training.",
+        "category": "Training type"
+      },
+      "academic": {
+        "id": "train_academic",
+        "label": "Academic",
+        "description": "Academic training.",
+        "category": "Training type"
+      },
+      "higher specialist scientist training": {
+        "id": "train_higher_specialist_scientist",
+        "label": "Higher specialist scientist training",
+        "description": "Specialist training specifically for scientists.",
+        "category": "Training type"
+      },
+      "scientist training programme": {
+        "id": "train_scientist_programme",
+        "label": "Scientist training programme",
+        "description": "A program aimed at training scientists for the future.",
+        "category": "Training type"
+      },
+      "practitioner training programme": {
+        "id": "train_practitioner_programme",
+        "label": "Practitioner training programme",
+        "description": "Training plan for a practitioner.",
+        "category": "Training type"
+      },
+      "formal training": {
+        "id": "train_formal",
+        "label": "Formal training",
+        "description": "Standard training plan and regime.",
+        "category": "Training type"
+      },
+      "self learning": {
+        "id": "train_self_learning",
+        "label": "Self learning",
+        "description": "Self-directed learning.",
+        "category": "Training type"
+      },
+      "acute care common stem": {
+        "id": "clin_acute_care",
+        "label": "Acute Care Common Stem",
+        "description": "An acute clinical specialisation.",
+        "category": "Clinical discipline"
+      },
+      "anaesthesia": {
+        "id": "clin_anaesthesia",
+        "label": "Anaesthesia",
+        "description": "Clinical discipline around anaesthesia.",
+        "category": "Clinical discipline"
+      },
+      "dental": {
+        "id": "clin_dental",
+        "label": "Dental",
+        "description": "Dental related clinical course.",
+        "category": "Clinical discipline"
+      },
+      "emergency medicine": {
+        "id": "clin_emergency_medicine",
+        "label": "Emergency Medicine",
+        "description": "Emergency medicine training and teaching.",
+        "category": "Clinical discipline"
+      },
+      "general practice": {
+        "id": "clin_general_practice",
+        "label": "General Practice",
+        "description": "General practice training.",
+        "category": "Clinical discipline"
+      },
+      "medicine": {
+        "id": "clin_medicine",
+        "label": "Medicine",
+        "description": "Medicine training.",
+        "category": "Clinical discipline"
+      },
+      "obstetrics & gynaecology": {
+        "id": "clin_obstetrics_gynaecology",
+        "label": "Obstetrics & Gynaecology",
+        "description": "Training related to pregnancy and childbirth.",
+        "category": "Clinical discipline"
+      },
+      "ophthalmology": {
+        "id": "clin_ophthalmology",
+        "label": "Ophthalmology",
+        "description": "Eye related training.",
+        "category": "Clinical discipline"
+      },
+      "paediatrics": {
+        "id": "clin_paediatrics",
+        "label": "Paediatrics",
+        "description": "Training for children's healthcare.",
+        "category": "Clinical discipline"
+      },
+      "pathology": {
+        "id": "clin_pathology",
+        "label": "Pathology",
+        "description": "Studying disease through samples.",
+        "category": "Clinical discipline"
+      },
+      "psychiatry": {
+        "id": "clin_psychiatry",
+        "label": "Psychiatry",
+        "description": "Training for mental health and psychology.",
+        "category": "Clinical discipline"
+      },
+      "public health": {
+        "id": "clin_public_health",
+        "label": "Public Health",
+        "description": "Health with a focus on the population.",
+        "category": "Clinical discipline"
+      },
+      "radiology": {
+        "id": "clin_radiology",
+        "label": "Radiology",
+        "description": "Medical use of radiation and diagnostic methods.",
+        "category": "Clinical discipline"
+      },
+      "surgery": {
+        "id": "clin_surgery",
+        "label": "Surgery",
+        "description": "Surgical training and knowledge.",
+        "category": "Clinical discipline"
+      },
+      "cpd": {
+        "id": "qual_cpd",
+        "label": "CPD",
+        "description": "Continuing professional development qualification.",
+        "category": "Training qualification"
+      },
+      "pgdip": {
+        "id": "qual_pgdip",
+        "label": "PGDip",
+        "description": "Post graduate diploma.",
+        "category": "Training qualification"
+      },
+      "vocational": {
+        "id": "qual_vocational",
+        "label": "Vocational",
+        "description": "Working within a profession to be qualified.",
+        "category": "Training qualification"
+      },
+      "virtual": {
+        "id": "delivery_virtual",
+        "label": "Virtual",
+        "description": "Online delivery method.",
+        "category": "Delivery method"
+      },
+      "physical": {
+        "id": "delivery_physical",
+        "label": "Physical",
+        "description": "Physical in-person delivery method.",
+        "category": "Delivery method"
+      },
+      "hybrid": {
+        "id": "delivery_hybrid",
+        "label": "Hybrid",
+        "description": "In-person and some online sessions.",
+        "category": "Delivery method"
+      },
+      "any": {
+        "id": "career_any",
+        "label": "Any",
+        "description": "Any career stage.",
+        "category": "Career stage"
+      },
+      "school college leaver": {
+        "id": "career_school_leaver",
+        "label": "School college leaver",
+        "description": "Having just left schooling and education.",
+        "category": "Career stage"
+      },
+      "undergraduate": {
+        "id": "career_undergraduate",
+        "label": "Undergraduate",
+        "description": "An undergraduate medical student.",
+        "category": "Career stage"
+      },
+      "postgraduate": {
+        "id": "career_postgraduate",
+        "label": "Postgraduate",
+        "description": "Doing a post graduate medical course.",
+        "category": "Career stage"
+      },
+      "first time leader": {
+        "id": "career_first_time_leader",
+        "label": "First time leader",
+        "description": "Leading for the first time.",
+        "category": "Career stage"
+      },
+      "senior leader c suite": {
+        "id": "career_senior_leader",
+        "label": "Senior leader C suite",
+        "description": "A senior leader in the C suite of a company.",
+        "category": "Career stage"
+      },
+      "board": {
+        "id": "career_board",
+        "label": "Board",
+        "description": "Has a role on the board.",
+        "category": "Career stage"
+      },
+      "press release": {
+        "id": "news_press_release",
+        "label": "Press release",
+        "description": "Information released to the press.",
+        "category": "News type"
+      },
+      "announcement": {
+        "id": "news_announcement",
+        "label": "Announcement",
+        "description": "Healthcare related announcement.",
+        "category": "News type"
+      },
+      "news": {
+        "id": "news_news",
+        "label": "News",
+        "description": "Health news.",
+        "category": "News type"
+      },
+      "bulletin": {
+        "id": "news_bulletin",
+        "label": "Bulletin",
+        "description": "Bulletins regarding healthcare and health policy.",
+        "category": "News type"
+      },
+      "advanced practice": {
+        "id": "priority_advanced_practice",
+        "label": "Advanced Practice",
+        "description": "Increasing skill through advanced practice.",
+        "category": "National priorities"
+      },
+      "cancer and diagnostics": {
+        "id": "priority_cancer_diagnostics",
+        "label": "Cancer and Diagnostics",
+        "description": "Cancer diagnostic information.",
+        "category": "National priorities"
+      },
+      "medical associate professions": {
+        "id": "priority_medical_associate",
+        "label": "Medical Associate Professions",
+        "description": "Medical associate professional knowledge.",
+        "category": "National priorities"
+      },
+      "pharmacy": {
+        "id": "priority_pharmacy",
+        "label": "Pharmacy",
+        "description": "Focusing on the pharmacy profession.",
+        "category": "National priorities"
+      },
+      "gp workforce": {
+        "id": "priority_gp_workforce",
+        "label": "GP Workforce",
+        "description": "GP workforce stats and news.",
+        "category": "National priorities"
+      },
+      "expanding undergraduate medical pharmacy and dentistry": {
+        "id": "priority_expanding_undergraduate",
+        "label": "Expanding undergraduate medical pharmacy and dentistry",
+        "description": "Expanding the numbers of these undergraduate courses.",
+        "category": "National priorities"
+      }
+    },
+    "categories": {
+      "Topic": {
+        "description": "Subject matter categories for health content",
+        "item_count": 34
+      },
+      "Profession": {
+        "description": "Healthcare professional roles and occupations",
+        "item_count": 14
+      },
+      "Tags": {
+        "description": "Cross-cutting themes and keywords",
+        "item_count": 79
+      },
+      "Region": {
+        "description": "Geographic regions of the UK",
+        "item_count": 8
+      },
+      "Publication type": {
+        "description": "Types of published content",
+        "item_count": 20
+      },
+      "Event type": {
+        "description": "Types of healthcare events",
+        "item_count": 6
+      },
+      "Media": {
+        "description": "Media content types",
+        "item_count": 3
+      },
+      "Recruitment format": {
+        "description": "Types of recruitment processes",
+        "item_count": 4
+      },
+      "Training type": {
+        "description": "Types of healthcare training",
+        "item_count": 11
+      },
+      "Clinical discipline": {
+        "description": "Medical and clinical specialties",
+        "item_count": 15
+      },
+      "Training qualification": {
+        "description": "Types of training qualifications",
+        "item_count": 3
+      },
+      "Delivery method": {
+        "description": "How training or events are delivered",
+        "item_count": 3
+      },
+      "Career stage": {
+        "description": "Stages in healthcare careers",
+        "item_count": 7
+      },
+      "News type": {
+        "description": "Types of news content",
+        "item_count": 4
+      },
+      "National priorities": {
+        "description": "UK national health priorities",
+        "item_count": 18
+      }
+    }
+  }
+}
