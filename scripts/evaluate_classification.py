@@ -12,6 +12,7 @@ Scoring thresholds:
   < 0.4  : CONFLICT - flag for human review
 """
 
+import csv
 import json
 from pathlib import Path
 from collections import defaultdict
@@ -25,6 +26,7 @@ DATA_DIR = PROJECT_DIR / "data"
 TAXONOMY_FILE = DATA_DIR / "taxonomy.json"
 KG_OUTPUT_FILE = DATA_DIR / "nhs-knowledge-graph.json"
 EVAL_OUTPUT_FILE = DATA_DIR / "evaluation-results.json"
+EVAL_CSV_FILE = DATA_DIR / "classification-scores.csv"
 
 # Thresholds from TESTING_PLAN.md
 COHERENT_THRESHOLD = 0.7
@@ -302,6 +304,29 @@ def print_report(results: dict):
                     print(f"         Categories: {', '.join(p['matched_categories'][:3])}")
 
 
+def save_csv(results: dict):
+    """Export all page scores and routing decisions to CSV."""
+    with open(EVAL_CSV_FILE, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            'page_id', 'title', 'triple_count', 'entity_count',
+            'coherence_score', 'routing', 'matched_categories'
+        ])
+
+        for page_id, page in sorted(results['pages'].items()):
+            writer.writerow([
+                page_id,
+                page.get('title', ''),
+                page.get('triple_count', 0),
+                page.get('entity_count', 0),
+                page.get('coherence_score', 0.0),
+                page.get('routing', ''),
+                '; '.join(page.get('matched_categories', []))
+            ])
+
+    print(f"CSV saved to: {EVAL_CSV_FILE}")
+
+
 def main():
     print("Loading taxonomy...")
     taxonomy = load_taxonomy()
@@ -322,6 +347,8 @@ def main():
     with open(EVAL_OUTPUT_FILE, 'w') as f:
         json.dump(results, f, indent=2)
     print(f"\nResults saved to: {EVAL_OUTPUT_FILE}")
+
+    save_csv(results)
 
     # Print report
     print_report(results)

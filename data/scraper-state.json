@@ -1,0 +1,2648 @@
+{
+  "phase": "complete",
+  "discovered_urls": {
+    "england.nhs.uk": [
+      {
+        "url": "http://www.england.nhs.uk:80/publications/",
+        "timestamp": "20130406155008",
+        "wayback_url": "https://web.archive.org/web/20130406155008/http://www.england.nhs.uk:80/publications/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/a-equip-a-model-of-clinical-midwifery-supervision/",
+        "timestamp": "20220419180011",
+        "wayback_url": "https://web.archive.org/web/20220419180011/https://www.england.nhs.uk/publications/a-equip-a-model-of-clinical-midwifery-supervision/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/ann-driver/",
+        "timestamp": "20200923002908",
+        "wayback_url": "https://web.archive.org/web/20200923002908/https://www.england.nhs.uk/publications/ann-driver/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/annual",
+        "timestamp": "20220727235407",
+        "wayback_url": "https://web.archive.org/web/20220727235407/https://www.england.nhs.uk/publications/annual"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/annual-%20report/",
+        "timestamp": "20201103204801",
+        "wayback_url": "https://web.archive.org/web/20201103204801/https://www.england.nhs.uk/publications/annual-%20report/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/annual-report/",
+        "timestamp": "20160531231304",
+        "wayback_url": "https://web.archive.org/web/20160531231304/https://www.england.nhs.uk/publications/annual-report/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/annual-report/.Where",
+        "timestamp": "20240620142959",
+        "wayback_url": "https://web.archive.org/web/20240620142959/https://www.england.nhs.uk/publications/annual-report/.Where"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/annual-report/9",
+        "timestamp": "20221107220136",
+        "wayback_url": "https://web.archive.org/web/20221107220136/https://www.england.nhs.uk/publications/annual-report/9"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/b",
+        "timestamp": "20221209233735",
+        "wayback_url": "https://web.archive.org/web/20221209233735/https://www.england.nhs.uk/publications/b"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/",
+        "timestamp": "20130825203214",
+        "wayback_url": "https://web.archive.org/web/20130825203214/http://www.england.nhs.uk:80/publications/blogs/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/alistair-burns/",
+        "timestamp": "20130826045233",
+        "wayback_url": "https://web.archive.org/web/20130826045233/http://www.england.nhs.uk:80/publications/blogs/alistair-burns/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/ann-driver/",
+        "timestamp": "20130826045238",
+        "wayback_url": "https://web.archive.org/web/20130826045238/http://www.england.nhs.uk:80/publications/blogs/ann-driver/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/barbara-hakin/",
+        "timestamp": "20130826002411",
+        "wayback_url": "https://web.archive.org/web/20130826002411/http://www.england.nhs.uk:80/publications/blogs/barbara-hakin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/david-nicholson/",
+        "timestamp": "20130826001659",
+        "wayback_url": "https://web.archive.org/web/20130826001659/http://www.england.nhs.uk:80/publications/blogs/david-nicholson/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/dr-johnny-marshall",
+        "timestamp": "20130824101359",
+        "wayback_url": "https://web.archive.org/web/20130824101359/http://www.england.nhs.uk:80/publications/blogs/dr-johnny-marshall"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/guest-blogs/",
+        "timestamp": "20131007145957",
+        "wayback_url": "https://web.archive.org/web/20131007145957/http://www.england.nhs.uk/publications/blogs/guest-blogs/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/inderjit-singh/",
+        "timestamp": "20130825203233",
+        "wayback_url": "https://web.archive.org/web/20130825203233/http://www.england.nhs.uk:80/publications/blogs/inderjit-singh/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/jane-cummings/",
+        "timestamp": "20130826045243",
+        "wayback_url": "https://web.archive.org/web/20130826045243/http://www.england.nhs.uk:80/publications/blogs/jane-cummings/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/blogs/john-",
+        "timestamp": "20220119074838",
+        "wayback_url": "https://web.archive.org/web/20220119074838/https://www.england.nhs.uk/publications/blogs/john-"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/john-holden",
+        "timestamp": "20130824101404",
+        "wayback_url": "https://web.archive.org/web/20130824101404/http://www.england.nhs.uk:80/publications/blogs/john-holden"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/blogs/mahiben-maruthappu/",
+        "timestamp": "20201222111457",
+        "wayback_url": "https://web.archive.org/web/20201222111457/https://www.england.nhs.uk/publications/blogs/mahiben-maruthappu/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/martin-mcshane/",
+        "timestamp": "20130825202945",
+        "wayback_url": "https://web.archive.org/web/20130825202945/http://www.england.nhs.uk:80/publications/blogs/martin-mcshane/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/mike-bewick/",
+        "timestamp": "20131105140032",
+        "wayback_url": "https://web.archive.org/web/20131105140032/http://www.england.nhs.uk:80/publications/blogs/mike-bewick/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/mike-durkin/",
+        "timestamp": "20130826002416",
+        "wayback_url": "https://web.archive.org/web/20130826002416/http://www.england.nhs.uk:80/publications/blogs/mike-durkin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/olivia-butterworth/",
+        "timestamp": "20130826002545",
+        "wayback_url": "https://web.archive.org/web/20130826002545/http://www.england.nhs.uk:80/publications/blogs/olivia-butterworth/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/page/2/",
+        "timestamp": "20140814175942",
+        "wayback_url": "https://web.archive.org/web/20140814175942/http://www.england.nhs.uk/publications/blogs/page/2/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/page/22/",
+        "timestamp": "20140814182320",
+        "wayback_url": "https://web.archive.org/web/20140814182320/http://www.england.nhs.uk/publications/blogs/page/22/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/page/3/",
+        "timestamp": "20140814184206",
+        "wayback_url": "https://web.archive.org/web/20140814184206/http://www.england.nhs.uk/publications/blogs/page/3/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/page/32/",
+        "timestamp": "20150513024756",
+        "wayback_url": "https://web.archive.org/web/20150513024756/http://www.england.nhs.uk/publications/blogs/page/32/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/page/41/",
+        "timestamp": "20150920050844",
+        "wayback_url": "https://web.archive.org/web/20150920050844/http://www.england.nhs.uk/publications/blogs/page/41/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/roz-davies/",
+        "timestamp": "20130826001733",
+        "wayback_url": "https://web.archive.org/web/20130826001733/http://www.england.nhs.uk:80/publications/blogs/roz-davies/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/simon-bennett",
+        "timestamp": "20131103220633",
+        "wayback_url": "https://web.archive.org/web/20131103220633/http://www.england.nhs.uk:80/publications/blogs/simon-bennett"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/tim-",
+        "timestamp": "20220303025128",
+        "wayback_url": "https://web.archive.org/web/20220303025128/http://www.england.nhs.uk/publications/blogs/tim-"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/blogs/tim-kelsey/",
+        "timestamp": "20130826045253",
+        "wayback_url": "https://web.archive.org/web/20130826045253/http://www.england.nhs.uk:80/publications/blogs/tim-kelsey/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/blogs/tim-kelsey/page/2/",
+        "timestamp": "20151011122226",
+        "wayback_url": "https://web.archive.org/web/20151011122226/http://www.england.nhs.uk/publications/blogs/tim-kelsey/page/2/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/blogs/will-huxter/",
+        "timestamp": "20220425114006",
+        "wayback_url": "https://web.archive.org/web/20220425114006/https://www.england.nhs.uk/publications/blogs/will-huxter/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/",
+        "timestamp": "20130805212610",
+        "wayback_url": "https://web.archive.org/web/20130805212610/http://www.england.nhs.uk:80/publications/bulletins/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/6cs-live-bulletin/",
+        "timestamp": "20140320031308",
+        "wayback_url": "https://web.archive.org/web/20140320031308/http://www.england.nhs.uk:80/publications/bulletins/6cs-live-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/allied-health-professionals-bulletin/",
+        "timestamp": "20140320031720",
+        "wayback_url": "https://web.archive.org/web/20140320031720/http://www.england.nhs.uk:80/publications/bulletins/allied-health-professionals-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/archive/",
+        "timestamp": "20150920071819",
+        "wayback_url": "https://web.archive.org/web/20150920071819/http://www.england.nhs.uk/publications/bulletins/archive/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/archive/revalidation-matters/",
+        "timestamp": "20150914220253",
+        "wayback_url": "https://web.archive.org/web/20150914220253/http://www.england.nhs.uk/publications/bulletins/archive/revalidation-matters/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/",
+        "timestamp": "20140320015939",
+        "wayback_url": "https://web.archive.org/web/20140320015939/http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/page/3/",
+        "timestamp": "20140816121838",
+        "wayback_url": "https://web.archive.org/web/20140816121838/http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/page/3/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/page/6/",
+        "timestamp": "20140816121843",
+        "wayback_url": "https://web.archive.org/web/20140816121843/http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/page/6/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/chief-nursing-officer-bulletin/",
+        "timestamp": "20140320030728",
+        "wayback_url": "https://web.archive.org/web/20140320030728/http://www.england.nhs.uk:80/publications/bulletins/chief-nursing-officer-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/cno-bulletin/",
+        "timestamp": "20150920053333",
+        "wayback_url": "https://web.archive.org/web/20150920053333/http://www.england.nhs.uk/publications/bulletins/cno-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/commissioning-support-bulletin/",
+        "timestamp": "20140320030734",
+        "wayback_url": "https://web.archive.org/web/20140320030734/http://www.england.nhs.uk:80/publications/bulletins/commissioning-support-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/contribute/",
+        "timestamp": "20140216052148",
+        "wayback_url": "https://web.archive.org/web/20140216052148/http://www.england.nhs.uk/publications/bulletins/contribute/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/cso-bulletin/",
+        "timestamp": "20140320015944",
+        "wayback_url": "https://web.archive.org/web/20140320015944/http://www.england.nhs.uk:80/publications/bulletins/cso-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/gp-and-practice-team-bulletin/",
+        "timestamp": "20140320030739",
+        "wayback_url": "https://web.archive.org/web/20140320030739/http://www.england.nhs.uk:80/publications/bulletins/gp-and-practice-team-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/gp-practice-team-bulletin/",
+        "timestamp": "20150921144531",
+        "wayback_url": "https://web.archive.org/web/20150921144531/http://www.england.nhs.uk/publications/bulletins/gp-practice-team-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/hv-bulletin/",
+        "timestamp": "20140612233110",
+        "wayback_url": "https://web.archive.org/web/20140612233110/http://www.england.nhs.uk:80/publications/bulletins/hv-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/in-touch/",
+        "timestamp": "20150318021755",
+        "wayback_url": "https://web.archive.org/web/20150318021755/http://www.england.nhs.uk/publications/bulletins/in-touch/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/informed",
+        "timestamp": "20140814012412",
+        "wayback_url": "https://web.archive.org/web/20140814012412/http://www.england.nhs.uk:80/publications/bulletins/informed"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/informed/page/3/",
+        "timestamp": "20140817074427",
+        "wayback_url": "https://web.archive.org/web/20140817074427/http://www.england.nhs.uk:80/publications/bulletins/informed/page/3/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/informed/page/7/",
+        "timestamp": "20140816121856",
+        "wayback_url": "https://web.archive.org/web/20140816121856/http://www.england.nhs.uk:80/publications/bulletins/informed/page/7/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/ld-bulletin/",
+        "timestamp": "20150920145855",
+        "wayback_url": "https://web.archive.org/web/20150920145855/http://www.england.nhs.uk/publications/bulletins/ld-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/liaison-and-diversion-bulletin/",
+        "timestamp": "20140815140052",
+        "wayback_url": "https://web.archive.org/web/20140815140052/http://www.england.nhs.uk/publications/bulletins/liaison-and-diversion-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/nhs-news/",
+        "timestamp": "20140320020121",
+        "wayback_url": "https://web.archive.org/web/20140320020121/http://www.england.nhs.uk:80/publications/bulletins/nhs-news/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/revalidation-matters/",
+        "timestamp": "20140801030549",
+        "wayback_url": "https://web.archive.org/web/20140801030549/http://www.england.nhs.uk/publications/bulletins/revalidation-matters/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/bulletins/specialised-comms-bulletin/",
+        "timestamp": "20140815121425",
+        "wayback_url": "https://web.archive.org/web/20140815121425/http://www.england.nhs.uk/publications/bulletins/specialised-comms-bulletin/"
+      },
+      {
+        "url": "http://www.england.nhs.uk:80/publications/bulletins/the-month/",
+        "timestamp": "20140131155832",
+        "wayback_url": "https://web.archive.org/web/20140131155832/http://www.england.nhs.uk:80/publications/bulletins/the-month/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/busi-",
+        "timestamp": "20221020022705",
+        "wayback_url": "https://web.archive.org/web/20221020022705/http://www.england.nhs.uk/publications/busi-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/busi-ness-plan/our-2022-23-business-plan/our-funding",
+        "timestamp": "20221020015840",
+        "wayback_url": "https://web.archive.org/web/20221020015840/https://www.england.nhs.uk/publications/busi-ness-plan/our-2022-23-business-plan/our-funding"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/business-",
+        "timestamp": "20230810103956",
+        "wayback_url": "https://web.archive.org/web/20230810103956/http://www.england.nhs.uk/publications/business-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/",
+        "timestamp": "20160601024504",
+        "wayback_url": "https://web.archive.org/web/20160601024504/https://www.england.nhs.uk/publications/business-plan/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/)",
+        "timestamp": "20230320163302",
+        "wayback_url": "https://web.archive.org/web/20230320163302/https://www.england.nhs.uk/publications/business-plan/)"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-",
+        "timestamp": "20240421041552",
+        "wayback_url": "https://web.archive.org/web/20240421041552/https://www.england.nhs.uk/publications/business-plan/our-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-",
+        "timestamp": "20250317214014",
+        "wayback_url": "https://web.archive.org/web/20250317214014/https://www.england.nhs.uk/publications/business-plan/our-2022-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-",
+        "timestamp": "20240520200003",
+        "wayback_url": "https://web.archive.org/web/20240520200003/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/",
+        "timestamp": "20220924230129",
+        "wayback_url": "https://web.archive.org/web/20220924230129/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/1-support-the-nhs-to-attract-and-retain-more-people-working-differently-in-a-compassionate-and-inclusive-culture/",
+        "timestamp": "20220924231357",
+        "wayback_url": "https://web.archive.org/web/20220924231357/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/1-support-the-nhs-to-attract-and-retain-more-people-working-differently-in-a-compassionate-and-inclusive-culture/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/10-",
+        "timestamp": "20240530065805",
+        "wayback_url": "https://web.archive.org/web/20240530065805/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/10-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/10-improve-productivity-and-reduce-variation-across-the-health-system/",
+        "timestamp": "20220924233050",
+        "wayback_url": "https://web.archive.org/web/20220924233050/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/10-improve-productivity-and-reduce-variation-across-the-health-system/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/",
+        "timestamp": "20220924224429",
+        "wayback_url": "https://web.archive.org/web/20220924224429/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/2/",
+        "timestamp": "20250728072111",
+        "wayback_url": "https://web.archive.org/web/20250728072111/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/2/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/3/",
+        "timestamp": "20240813210107",
+        "wayback_url": "https://web.archive.org/web/20240813210107/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/3/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/5/",
+        "timestamp": "20240506114436",
+        "wayback_url": "https://web.archive.org/web/20240506114436/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/2-continue-to-lead-the-nhs-in-responding-to-covid-19-ever-more-effectively/5/"
+      },
+      {
+        "url": "http://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-",
+        "timestamp": "20230321083654",
+        "wayback_url": "https://web.archive.org/web/20230321083654/http://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-",
+        "timestamp": "20240529212018",
+        "wayback_url": "https://web.archive.org/web/20240529212018/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-tive-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-",
+        "timestamp": "20240530041834",
+        "wayback_url": "https://web.archive.org/web/20240530041834/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-tive-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-tive-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/",
+        "timestamp": "20240529210958",
+        "wayback_url": "https://web.archive.org/web/20240529210958/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-tive-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/",
+        "timestamp": "20220924230340",
+        "wayback_url": "https://web.archive.org/web/20220924230340/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/3/",
+        "timestamp": "20250725105957",
+        "wayback_url": "https://web.archive.org/web/20250725105957/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/3/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/5/",
+        "timestamp": "20240506114436",
+        "wayback_url": "https://web.archive.org/web/20240506114436/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/5/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/75/",
+        "timestamp": "20240201090646",
+        "wayback_url": "https://web.archive.org/web/20240201090646/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elective-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/75/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-",
+        "timestamp": "20240529205348",
+        "wayback_url": "https://web.archive.org/web/20240529205348/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capac-",
+        "timestamp": "20240529202921",
+        "wayback_url": "https://web.archive.org/web/20240529202921/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capac-"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capac-ity/",
+        "timestamp": "20240529201115",
+        "wayback_url": "https://web.archive.org/web/20240529201115/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capac-ity/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capacity/",
+        "timestamp": "20220924221217",
+        "wayback_url": "https://web.archive.org/web/20220924221217/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capacity/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capacity/5/",
+        "timestamp": "20240506114257",
+        "wayback_url": "https://web.archive.org/web/20240506114257/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capacity/5/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/5-improve-access-to-primary-care/",
+        "timestamp": "20220812032710",
+        "wayback_url": "https://web.archive.org/web/20220812032710/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/5-improve-access-to-primary-care/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/5-improve-access-to-primary-care/337/",
+        "timestamp": "20231026080458",
+        "wayback_url": "https://web.archive.org/web/20231026080458/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/5-improve-access-to-primary-care/337/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/6-improve-mental-health-services-and-services-for-people-with-a-learning-disability-and-or-autistic-people/",
+        "timestamp": "20220924234126",
+        "wayback_url": "https://web.archive.org/web/20220924234126/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/6-improve-mental-health-services-and-services-for-people-with-a-learning-disability-and-or-autistic-people/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/7-deliver-improvements-in-maternity-care/",
+        "timestamp": "20220924224207",
+        "wayback_url": "https://web.archive.org/web/20220924224207/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/7-deliver-improvements-in-maternity-care/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/8-prevent-ill-health-and-tackle-health-inequalities/",
+        "timestamp": "20220924233123",
+        "wayback_url": "https://web.archive.org/web/20220924233123/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/8-prevent-ill-health-and-tackle-health-inequalities/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/9-drive-the-integration-of-care-and-enable-change/",
+        "timestamp": "20220924225430",
+        "wayback_url": "https://web.archive.org/web/20220924225430/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/9-drive-the-integration-of-care-and-enable-change/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/foreword-from-our-chair/",
+        "timestamp": "20220924234029",
+        "wayback_url": "https://web.archive.org/web/20220924234029/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/foreword-from-our-chair/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/introduction-from-our-chief-executive/",
+        "timestamp": "20220924230147",
+        "wayback_url": "https://web.archive.org/web/20220924230147/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/introduction-from-our-chief-executive/"
+      },
+      {
+        "url": "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/our-",
+        "timestamp": "20240810155235",
+        "wayback_url": "https://web.archive.org/web/20240810155235/https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/our-"
+      }
+    ],
+    "digital.nhs.uk": [
+      {
+        "url": "http://digital.nhs.uk:80/services",
+        "timestamp": "20160806104400",
+        "wayback_url": "https://web.archive.org/web/20160806104400/http://digital.nhs.uk:80/services"
+      },
+      {
+        "url": "https://digital.nhs.uk/services)",
+        "timestamp": "20240415013610",
+        "wayback_url": "https://web.archive.org/web/20240415013610/https://digital.nhs.uk/services)"
+      },
+      {
+        "url": "https://digital.nhs.uk/services-SSD",
+        "timestamp": "20220621041835",
+        "wayback_url": "https://web.archive.org/web/20220621041835/https://digital.nhs.uk/services-SSD"
+      },
+      {
+        "url": "https://digital.nhs.uk/services.nhs-login",
+        "timestamp": "20240901090811",
+        "wayback_url": "https://web.archive.org/web/20240901090811/https://digital.nhs.uk/services.nhs-login"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/%22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAgMTQwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeD0iMHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB5PSIwcHgiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtkaXNwbGF5Om5vbmU7fQoJLnN0MXtkaXNwbGF5OmlubGluZTtmaWxsOiMyMzFmMjA7fQoJLnN0MntmaWxsOiMyMzFmMjA7fQoJLnN0M3tmaWxsOm5vbmU7c3Ryb2tlOiMyMzFmMjA7c3Ryb2tlLXdpZHRoOjEuOTI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30KCS5zdDR7ZmlsbDojMjMxZjIwO30KCS5zdDV7ZmlsbDojMjMxZjIwO30KCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMjMxZjIwO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30KPC9zdHlsZT4KPGcgY2xhc3M9InN0MCI+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzAsNi45NWw1NCwzMS41djYzLjExbC01NCwzMS41bC01NC0zMS41VjM4LjQ1TDcwLDYuOTUgTTcwLDBMMTAsMzV2NzBsNjAsMzVsNjAtMzVWMzVMNzAsMEw3MCwweiIvPgo8L2c+CjxnPgoJPHBhdGggY2xhc3M9InN0MiIgZD0iTTcxLjI1LDk3LjYxaC0yLjc4bC01LjIxLDcuMTVjLTEyLjA4LTMuNTQtMTcuMTUtNy4yMi0yNC4yNC0xNy42NGw1LjE0LTcuMTVsLTAuODMtMi42NEwzNSw3NC42M2wtMC4xNC00LjQ0ICAgYy0wLjI4LTkuOTMsMy40Ny0xNi40Niw5LjM4LTI0LjFsOC4zMywyLjcxbDIuMjktMS42N3YtOC43NWM0LjkzLTEuODEsOS43Mi0zLjE5LDE1LTMuMTljNS4yOCwwLDEwLjA3LDEuMzksMTUsMy4xOXY4Ljc1ICAgbDIuMjksMS42N2w4LjMzLTIuNzFjNS45LDcuNjQsOS42NSwxNC4xNyw5LjM3LDI0LjFsLTAuMTQsNC40NGwtOC4zMywyLjcxbC0wLjgzLDIuNjRsNS4xNCw3LjE1ICAgYy03LjA4LDEwLjQyLTEyLjE1LDE0LjEtMjQuMjQsMTcuNjRMNzEuMjUsOTcuNjF6IE01MS4zOSw4Ny4wNmMyLjI5LDIuNSw1LjA3LDQuNTEsOC4xMiw1LjlsNC4zNy02LjA0ICAgYzEuOTQsMC4zNSwzLjk2LDAuNzYsNS45NywwLjc2YzIuMDEsMCw0LjAzLTAuNDIsNS45Ny0wLjc2bDQuMzgsNi4wNGMzLjA2LTEuMzksNS44My0zLjQsOC4xMi01LjlsLTQuNDQtNi4wNCAgIGMyLjY0LTQuOTMsMi45Mi01LjgzLDMuNjgtMTEuMzJsNy4xNS0yLjM2Yy0wLjQyLTMuMzMtMS40Ni02LjUzLTMuMTItOS40NGwtNy4wOCwyLjI5Yy0zLjg5LTQuMDMtNC42NS00LjU4LTkuNjUtNy4wM",
+        "timestamp": "20231012191857",
+        "wayback_url": "https://web.archive.org/web/20231012191857/https://digital.nhs.uk/services/%22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAgMTQwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeD0iMHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB5PSIwcHgiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtkaXNwbGF5Om5vbmU7fQoJLnN0MXtkaXNwbGF5OmlubGluZTtmaWxsOiMyMzFmMjA7fQoJLnN0MntmaWxsOiMyMzFmMjA7fQoJLnN0M3tmaWxsOm5vbmU7c3Ryb2tlOiMyMzFmMjA7c3Ryb2tlLXdpZHRoOjEuOTI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30KCS5zdDR7ZmlsbDojMjMxZjIwO30KCS5zdDV7ZmlsbDojMjMxZjIwO30KCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMjMxZjIwO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30KPC9zdHlsZT4KPGcgY2xhc3M9InN0MCI+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzAsNi45NWw1NCwzMS41djYzLjExbC01NCwzMS41bC01NC0zMS41VjM4LjQ1TDcwLDYuOTUgTTcwLDBMMTAsMzV2NzBsNjAsMzVsNjAtMzVWMzVMNzAsMEw3MCwweiIvPgo8L2c+CjxnPgoJPHBhdGggY2xhc3M9InN0MiIgZD0iTTcxLjI1LDk3LjYxaC0yLjc4bC01LjIxLDcuMTVjLTEyLjA4LTMuNTQtMTcuMTUtNy4yMi0yNC4yNC0xNy42NGw1LjE0LTcuMTVsLTAuODMtMi42NEwzNSw3NC42M2wtMC4xNC00LjQ0ICAgYy0wLjI4LTkuOTMsMy40Ny0xNi40Niw5LjM4LTI0LjFsOC4zMywyLjcxbDIuMjktMS42N3YtOC43NWM0LjkzLTEuODEsOS43Mi0zLjE5LDE1LTMuMTljNS4yOCwwLDEwLjA3LDEuMzksMTUsMy4xOXY4Ljc1ICAgbDIuMjksMS42N2w4LjMzLTIuNzFjNS45LDcuNjQsOS42NSwxNC4xNyw5LjM3LDI0LjFsLTAuMTQsNC40NGwtOC4zMywyLjcxbC0wLjgzLDIuNjRsNS4xNCw3LjE1ICAgYy03LjA4LDEwLjQyLTEyLjE1LDE0LjEtMjQuMjQsMTcuNjRMNzEuMjUsOTcuNjF6IE01MS4zOSw4Ny4wNmMyLjI5LDIuNSw1LjA3LDQuNTEsOC4xMiw1LjlsNC4zNy02LjA0ICAgYzEuOTQsMC4zNSwzLjk2LDAuNzYsNS45NywwLjc2YzIuMDEsMCw0LjAzLTAuNDIsNS45Ny0wLjc2bDQuMzgsNi4wNGMzLjA2LTEuMzksNS44My0zLjQsOC4xMi01LjlsLTQuNDQtNi4wNCAgIGMyLjY0LTQuOTMsMi45Mi01LjgzLDMuNjgtMTEuMzJsNy4xNS0yLjM2Yy0wLjQyLTMuMzMtMS40Ni02LjUzLTMuMTItOS40NGwtNy4wOCwyLjI5Yy0zLjg5LTQuMDMtNC42NS00LjU4LTkuNjUtNy4wM"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/%22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAgMTQwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeD0iMHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB5PSIwcHgiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtkaXNwbGF5Om5vbmU7fQoJLnN0MXtkaXNwbGF5OmlubGluZTtmaWxsOiMyMzFmMjA7fQoJLnN0MntmaWxsOiMyMzFmMjA7fQoJLnN0M3tmaWxsOm5vbmU7c3Ryb2tlOiMyMzFmMjA7c3Ryb2tlLXdpZHRoOjEuOTI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30KCS5zdDR7ZmlsbDojMjMxZjIwO30KCS5zdDV7ZmlsbDojMjMxZjIwO30KCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMjMxZjIwO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30KPC9zdHlsZT4KPGcgY2xhc3M9InN0MCI+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzAsNi45NWw1NCwzMS41djYzLjExbC01NCwzMS41bC01NC0zMS41VjM4LjQ1TDcwLDYuOTUgTTcwLDBMMTAsMzV2NzBsNjAsMzVsNjAtMzVWMzVMNzAsMEw3MCwweiIvPgo8L2c+Cjxwb2x5Z29uIGNsYXNzPSJzdDUiIHBvaW50cz0iNzEuODMsNTUuNjQgNjQuODMsNjIuMiA2Mi4zMyw2OS4xNSA2OC41NSw3Ny43MiA4MS4wMSw3OS4yNSA5Mi4zOCw3Mi45MSA5NC43OSw2OC41NCAiLz4KPGc+Cgk8Zz4KCQk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNODQuMTQsODIuMTljLTAuMTQsMy4zMy0xLjMyLDYuNTMtMy40LDkuMWMtMi4xNSw2LjY3LTguNTQsMTEuMDQtMTUuNDksMTEuMDRINDcuOTUgICAgYy01LjE0LDAtMTAuMjgtMS40Ni0xNS0zLjQ3bC0xMCwwLjAyVjUyLjMzaDUuNzZjMS4wNC0xLjgsMi4yOS0zLjYxLDMuMjYtNS40MmMwLjQyLTAuNzYsMC44My0xLjUzLDAuOTctMi4zNiAgICBjMC4yMS0xLjM5LDAuMjgtMi42NCwwLjc2LTQuMDNjMS44MS00Ljg2LDYuNTMtOC4xOSwxMS43NC04LjE5YzkuNTgsMCwxNi4yNSw1LjgzLDE2LjI1LDE1Ljc2YzAsMS40Ni0wLjA3LDIuOTItMC4yOCw0LjMxICAgIGMwLjE2LDAuMDIsOC4zMSwwLjA0LDguNDYsMC4wNmM3LjY0LDEuMDQsMTMuOTIsNy40NiwxNC4yNiwxNS4yOWMxLjE4LDIuMjIsMS44MSw0LjcyLDEuODEsNy4yMlM4NS4zMiw3OS45Nyw4NC4xNCw4Mi4xOXogICAgIE03My43Myw3MC41MmMwLjI4LTAuNjIsMC40Mi0xLjM5LDAuNDItMi4xNWMwLTMuNC0zLjE5LTYuMDQtNi40Ni02LjA0SDQ2LjdjMi41LTQuOTMsNS04L",
+        "timestamp": "20231012124719",
+        "wayback_url": "https://web.archive.org/web/20231012124719/https://digital.nhs.uk/services/%22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAgMTQwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeD0iMHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB5PSIwcHgiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtkaXNwbGF5Om5vbmU7fQoJLnN0MXtkaXNwbGF5OmlubGluZTtmaWxsOiMyMzFmMjA7fQoJLnN0MntmaWxsOiMyMzFmMjA7fQoJLnN0M3tmaWxsOm5vbmU7c3Ryb2tlOiMyMzFmMjA7c3Ryb2tlLXdpZHRoOjEuOTI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30KCS5zdDR7ZmlsbDojMjMxZjIwO30KCS5zdDV7ZmlsbDojMjMxZjIwO30KCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMjMxZjIwO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30KPC9zdHlsZT4KPGcgY2xhc3M9InN0MCI+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzAsNi45NWw1NCwzMS41djYzLjExbC01NCwzMS41bC01NC0zMS41VjM4LjQ1TDcwLDYuOTUgTTcwLDBMMTAsMzV2NzBsNjAsMzVsNjAtMzVWMzVMNzAsMEw3MCwweiIvPgo8L2c+Cjxwb2x5Z29uIGNsYXNzPSJzdDUiIHBvaW50cz0iNzEuODMsNTUuNjQgNjQuODMsNjIuMiA2Mi4zMyw2OS4xNSA2OC41NSw3Ny43MiA4MS4wMSw3OS4yNSA5Mi4zOCw3Mi45MSA5NC43OSw2OC41NCAiLz4KPGc+Cgk8Zz4KCQk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNODQuMTQsODIuMTljLTAuMTQsMy4zMy0xLjMyLDYuNTMtMy40LDkuMWMtMi4xNSw2LjY3LTguNTQsMTEuMDQtMTUuNDksMTEuMDRINDcuOTUgICAgYy01LjE0LDAtMTAuMjgtMS40Ni0xNS0zLjQ3bC0xMCwwLjAyVjUyLjMzaDUuNzZjMS4wNC0xLjgsMi4yOS0zLjYxLDMuMjYtNS40MmMwLjQyLTAuNzYsMC44My0xLjUzLDAuOTctMi4zNiAgICBjMC4yMS0xLjM5LDAuMjgtMi42NCwwLjc2LTQuMDNjMS44MS00Ljg2LDYuNTMtOC4xOSwxMS43NC04LjE5YzkuNTgsMCwxNi4yNSw1LjgzLDE2LjI1LDE1Ljc2YzAsMS40Ni0wLjA3LDIuOTItMC4yOCw0LjMxICAgIGMwLjE2LDAuMDIsOC4zMSwwLjA0LDguNDYsMC4wNmM3LjY0LDEuMDQsMTMuOTIsNy40NiwxNC4yNiwxNS4yOWMxLjE4LDIuMjIsMS44MSw0LjcyLDEuODEsNy4yMlM4NS4zMiw3OS45Nyw4NC4xNCw4Mi4xOXogICAgIE03My43Myw3MC41MmMwLjI4LTAuNjIsMC40Mi0xLjM5LDAuNDItMi4xNWMwLTMuNC0zLjE5LTYuMDQtNi40Ni02LjA0SDQ2LjdjMi41LTQuOTMsNS04L"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/--border-color",
+        "timestamp": "20250507150450",
+        "wayback_url": "https://web.archive.org/web/20250507150450/https://digital.nhs.uk/services/--border-color"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/0%20,%200%20,%200",
+        "timestamp": "20250519153509",
+        "wayback_url": "https://web.archive.org/web/20250519153509/https://digital.nhs.uk/services/0%20,%200%20,%200"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/0,%200,%200",
+        "timestamp": "20250105132117",
+        "wayback_url": "https://web.archive.org/web/20250105132117/https://digital.nhs.uk/services/0,%200,%200"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/1939-register-service",
+        "timestamp": "20190204014742",
+        "wayback_url": "https://web.archive.org/web/20190204014742/https://digital.nhs.uk/services/1939-register-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/255%20,%20255%20,%20255",
+        "timestamp": "20250519153509",
+        "wayback_url": "https://web.archive.org/web/20250519153509/https://digital.nhs.uk/services/255%20,%20255%20,%20255"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/255,%20255,%20255",
+        "timestamp": "20250105132117",
+        "wayback_url": "https://web.archive.org/web/20250105132117/https://digital.nhs.uk/services/255,%20255,%20255"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/a-to-z",
+        "timestamp": "20210505103621",
+        "wayback_url": "https://web.archive.org/web/20210505103621/https://digital.nhs.uk/services/a-to-z"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/access-and-store-digital-patient-documents",
+        "timestamp": "20250120161548",
+        "wayback_url": "https://web.archive.org/web/20250120161548/https://digital.nhs.uk/services/access-and-store-digital-patient-documents"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/access-and-store-digital-patient-documents/service-updates",
+        "timestamp": "20250718175130",
+        "wayback_url": "https://web.archive.org/web/20250718175130/https://digital.nhs.uk/services/access-and-store-digital-patient-documents/service-updates"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/acute-data-alignment-programme",
+        "timestamp": "20221206172623",
+        "wayback_url": "https://web.archive.org/web/20221206172623/https://digital.nhs.uk/services/acute-data-alignment-programme"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/acute-data-alignment-programme/acute-data-alignment-programme-piloting-private-healthcare-data-in-nhs-digital",
+        "timestamp": "20221214162316",
+        "wayback_url": "https://web.archive.org/web/20221214162316/https://digital.nhs.uk/services/acute-data-alignment-programme/acute-data-alignment-programme-piloting-private-healthcare-data-in-nhs-digital"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/acute-data-alignment-programme?dm_i=21A8,857OA,CNI0S5,XD7E6,1",
+        "timestamp": "20230113101228",
+        "wayback_url": "https://web.archive.org/web/20230113101228/https://digital.nhs.uk/services/acute-data-alignment-programme?dm_i=21A8,857OA,CNI0S5,XD7E6,1"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/acute-data-alignment-programme?utm_source=The%20King's%20Fund%20newsletters%20(main%20account)&utm_medium=email&utm_campaign=13680154_NEWSL_DHD%202023-01-04&dm_i=21A8,857OA,CNI0S5,XD7E6,1",
+        "timestamp": "20230113101219",
+        "wayback_url": "https://web.archive.org/web/20230113101219/http://digital.nhs.uk/services/acute-data-alignment-programme?utm_source=The%20King's%20Fund%20newsletters%20(main%20account)&utm_medium=email&utm_campaign=13680154_NEWSL_DHD%202023-01-04&dm_i=21A8,857OA,CNI0S5,XD7E6,1"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/add-or-correct-the-contact-details-on-your-nhs-record",
+        "timestamp": "20230815022809",
+        "wayback_url": "https://web.archive.org/web/20230815022809/https://digital.nhs.uk/services/add-or-correct-the-contact-details-on-your-nhs-record"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/add-or-correct-the-contact-details-on-your-nhs-record/step-by-step-guide",
+        "timestamp": "20240111175325",
+        "wayback_url": "https://web.archive.org/web/20240111175325/https://digital.nhs.uk/services/add-or-correct-the-contact-details-on-your-nhs-record/step-by-step-guide"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/add-or-correct-your-contact-details-service",
+        "timestamp": "20230406173928",
+        "wayback_url": "https://web.archive.org/web/20230406173928/https://digital.nhs.uk/services/add-or-correct-your-contact-details-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/adjust/falsify",
+        "timestamp": "20190716024600",
+        "wayback_url": "https://web.archive.org/web/20190716024600/https://digital.nhs.uk/services/adjust/falsify"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/adoption-registration-service",
+        "timestamp": "20190822044442",
+        "wayback_url": "https://web.archive.org/web/20190822044442/https://digital.nhs.uk/services/adoption-registration-service"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/adoption-registration-service/death-registration-",
+        "timestamp": "20250808122903",
+        "wayback_url": "https://web.archive.org/web/20250808122903/http://digital.nhs.uk/services/adoption-registration-service/death-registration-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/adoption-registration-service/death-registration-enquiries",
+        "timestamp": "20210414043206",
+        "wayback_url": "https://web.archive.org/web/20210414043206/https://digital.nhs.uk/services/adoption-registration-service/death-registration-enquiries"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/adoption-registration-service/hereditary-medical-",
+        "timestamp": "20250808122158",
+        "wayback_url": "https://web.archive.org/web/20250808122158/http://digital.nhs.uk/services/adoption-registration-service/hereditary-medical-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/adoption-registration-service/hereditary-medical-conditions",
+        "timestamp": "20210414053403",
+        "wayback_url": "https://web.archive.org/web/20210414053403/https://digital.nhs.uk/services/adoption-registration-service/hereditary-medical-conditions"
+      },
+      {
+        "url": "http://digital.nhs.uk:80/services/adoptionregistration",
+        "timestamp": "20160806104405",
+        "wayback_url": "https://web.archive.org/web/20160806104405/http://digital.nhs.uk:80/services/adoptionregistration"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ae-self-service-tool",
+        "timestamp": "20210306155419",
+        "wayback_url": "https://web.archive.org/web/20210306155419/https://digital.nhs.uk/services/ae-self-service-tool"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository",
+        "timestamp": "20250503231301",
+        "wayback_url": "https://web.archive.org/web/20250503231301/https://digital.nhs.uk/services/ai-knowledge-repository"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/ai-knowledge-repository.%E2%80%94%E2%80%94%E2%80%94",
+        "timestamp": "20260101133053",
+        "wayback_url": "https://web.archive.org/web/20260101133053/http://digital.nhs.uk/services/ai-knowledge-repository.%E2%80%94%E2%80%94%E2%80%94"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/case-studies",
+        "timestamp": "20250620113804",
+        "wayback_url": "https://web.archive.org/web/20250620113804/https://digital.nhs.uk/services/ai-knowledge-repository/case-studies"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/case-studies/ai-in-adult-social-care",
+        "timestamp": "20250618055246",
+        "wayback_url": "https://web.archive.org/web/20250618055246/https://digital.nhs.uk/services/ai-knowledge-repository/case-studies/ai-in-adult-social-care"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai",
+        "timestamp": "20250613093437",
+        "wayback_url": "https://web.archive.org/web/20250613093437/https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai$",
+        "timestamp": "20251230035822",
+        "wayback_url": "https://web.archive.org/web/20251230035822/https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai$"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai/a-buyers-guide-to-ai-in-health-and-care/assessment-template",
+        "timestamp": "20260104235238",
+        "wayback_url": "https://web.archive.org/web/20260104235238/https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai/a-buyers-guide-to-ai-in-health-and-care/assessment-template"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/spread-and-scale-ai",
+        "timestamp": "20250620113414",
+        "wayback_url": "https://web.archive.org/web/20250620113414/https://digital.nhs.uk/services/ai-knowledge-repository/spread-and-scale-ai"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/ai-knowledge-repository/understand-ai",
+        "timestamp": "20250617163103",
+        "wayback_url": "https://web.archive.org/web/20250617163103/https://digital.nhs.uk/services/ai-knowledge-repository/understand-ai"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/api-platform",
+        "timestamp": "20220505094520",
+        "wayback_url": "https://web.archive.org/web/20220505094520/https://digital.nhs.uk/services/api-platform"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/api-platform/api-platform-new",
+        "timestamp": "20250124164451",
+        "wayback_url": "https://web.archive.org/web/20250124164451/https://digital.nhs.uk/services/api-platform/api-platform-new"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/api-platform/building-healthcare-apis",
+        "timestamp": "20250708030448",
+        "wayback_url": "https://web.archive.org/web/20250708030448/https://digital.nhs.uk/services/api-platform/building-healthcare-apis"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/api-platform/developer-integration-survey-january-2023",
+        "timestamp": "20230425073943",
+        "wayback_url": "https://web.archive.org/web/20230425073943/https://digital.nhs.uk/services/api-platform/developer-integration-survey-january-2023"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/artificial-data",
+        "timestamp": "20230515132916",
+        "wayback_url": "https://web.archive.org/web/20230515132916/https://digital.nhs.uk/services/artificial-data"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/benefits-",
+        "timestamp": "20250504104014",
+        "wayback_url": "https://web.archive.org/web/20250504104014/http://digital.nhs.uk/services/benefits-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/benefits-management",
+        "timestamp": "20190822045837",
+        "wayback_url": "https://web.archive.org/web/20190822045837/https://digital.nhs.uk/services/benefits-management"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/better-connectivity-for-health-and-care",
+        "timestamp": "20210918135427",
+        "wayback_url": "https://web.archive.org/web/20210918135427/https://digital.nhs.uk/services/better-connectivity-for-health-and-care"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-",
+        "timestamp": "20230803003756",
+        "wayback_url": "https://web.archive.org/web/20230803003756/https://digital.nhs.uk/services/birth-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-noti",
+        "timestamp": "20230517235412",
+        "wayback_url": "https://web.archive.org/web/20230517235412/https://digital.nhs.uk/services/birth-noti"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-noti%EF%AC%81ca-",
+        "timestamp": "20231202151921",
+        "wayback_url": "https://web.archive.org/web/20231202151921/https://digital.nhs.uk/services/birth-noti%EF%AC%81ca-"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/birth-noti%EF%AC%81ca-tion-service",
+        "timestamp": "20231202151920",
+        "wayback_url": "https://web.archive.org/web/20231202151920/http://digital.nhs.uk/services/birth-noti%EF%AC%81ca-tion-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-noti%EF%AC%81cation-service",
+        "timestamp": "20221106191500",
+        "wayback_url": "https://web.archive.org/web/20221106191500/https://digital.nhs.uk/services/birth-noti%EF%AC%81cation-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service",
+        "timestamp": "20190824174507",
+        "wayback_url": "https://web.archive.org/web/20190824174507/https://digital.nhs.uk/services/birth-notification-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health",
+        "timestamp": "20191020214434",
+        "wayback_url": "https://web.archive.org/web/20191020214434/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/allocate-or-notify",
+        "timestamp": "20221224010756",
+        "wayback_url": "https://web.archive.org/web/20221224010756/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/allocate-or-notify"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/appendices",
+        "timestamp": "20221225085159",
+        "wayback_url": "https://web.archive.org/web/20221225085159/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/appendices"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/listing-and-viewing-birth-notifications",
+        "timestamp": "20221224004050",
+        "wayback_url": "https://web.archive.org/web/20221224004050/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/listing-and-viewing-birth-notifications"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/the-birth-notification-process",
+        "timestamp": "20221225085601",
+        "wayback_url": "https://web.archive.org/web/20221225085601/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/the-birth-notification-process"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/the-birth-notification-process?key=",
+        "timestamp": "20220513110311",
+        "wayback_url": "https://web.archive.org/web/20220513110311/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/the-birth-notification-process?key="
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/things-to-know-about-the-birth-notification-application",
+        "timestamp": "20221225110157",
+        "wayback_url": "https://web.archive.org/web/20221225110157/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/things-to-know-about-the-birth-notification-application"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity",
+        "timestamp": "20201129100447",
+        "wayback_url": "https://web.archive.org/web/20201129100447/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/accessing-the-birth-notification-application",
+        "timestamp": "20230206145232",
+        "wayback_url": "https://web.archive.org/web/20230206145232/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/accessing-the-birth-notification-application"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/appendix-a---exporting-the-birth-notifications-to-a-file",
+        "timestamp": "20230206145233",
+        "wayback_url": "https://web.archive.org/web/20230206145233/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/appendix-a---exporting-the-birth-notifications-to-a-file"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/entering-birth-details-into-another-system",
+        "timestamp": "20230206175952",
+        "wayback_url": "https://web.archive.org/web/20230206175952/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/entering-birth-details-into-another-system"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/listing-and-viewing-birth-notifications",
+        "timestamp": "20230206145233",
+        "wayback_url": "https://web.archive.org/web/20230206145233/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/listing-and-viewing-birth-notifications"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/registering-a-birth",
+        "timestamp": "20210427070027",
+        "wayback_url": "https://web.archive.org/web/20210427070027/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/registering-a-birth"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/things-to-know-about-the-birth-notification-application",
+        "timestamp": "20230206145232",
+        "wayback_url": "https://web.archive.org/web/20230206145232/https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/things-to-know-about-the-birth-notification-application"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/birth-notification-service/bna-quick-reference-guide",
+        "timestamp": "20190916221638",
+        "wayback_url": "https://web.archive.org/web/20190916221638/https://digital.nhs.uk/services/birth-notification-service/bna-quick-reference-guide"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/blueprinting",
+        "timestamp": "20250120144606",
+        "wayback_url": "https://web.archive.org/web/20250120144606/https://digital.nhs.uk/services/blueprinting"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-",
+        "timestamp": "20230624132418",
+        "wayback_url": "https://web.archive.org/web/20230624132418/https://digital.nhs.uk/services/booking-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and",
+        "timestamp": "20240406062619",
+        "wayback_url": "https://web.archive.org/web/20240406062619/https://digital.nhs.uk/services/booking-and"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard",
+        "timestamp": "20211206055940",
+        "wayback_url": "https://web.archive.org/web/20211206055940/https://digital.nhs.uk/services/booking-and-referral-standard"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/booking-and-referral-standard-implementation-guide/bars-applications",
+        "timestamp": "20230327154331",
+        "wayback_url": "https://web.archive.org/web/20230327154331/https://digital.nhs.uk/services/booking-and-referral-standard/booking-and-referral-standard-implementation-guide/bars-applications"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/booking-and-referral-standard/booking-and-referral-standard-implementation-guide/bars-core",
+        "timestamp": "20230327154330",
+        "wayback_url": "https://web.archive.org/web/20230327154330/http://digital.nhs.uk/services/booking-and-referral-standard/booking-and-referral-standard-implementation-guide/bars-core"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/information-governance",
+        "timestamp": "20240424025744",
+        "wayback_url": "https://web.archive.org/web/20240424025744/https://digital.nhs.uk/services/booking-and-referral-standard/information-governance"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status",
+        "timestamp": "20230327154643",
+        "wayback_url": "https://web.archive.org/web/20230327154643/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/999-to-cas-for-ambulance-validation",
+        "timestamp": "20240229215837",
+        "wayback_url": "https://web.archive.org/web/20240229215837/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/999-to-cas-for-ambulance-validation"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/999-to-cas-referrals",
+        "timestamp": "20240229223348",
+        "wayback_url": "https://web.archive.org/web/20240229223348/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/999-to-cas-referrals"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/all-supplier-status",
+        "timestamp": "20230617062215",
+        "wayback_url": "https://web.archive.org/web/20230617062215/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/all-supplier-status"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/ambulance-service-referral-including-validation",
+        "timestamp": "20220520042928",
+        "wayback_url": "https://web.archive.org/web/20220520042928/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/ambulance-service-referral-including-validation"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/clinical-assessment-services-referral-and-booking",
+        "timestamp": "20220521090207",
+        "wayback_url": "https://web.archive.org/web/20220521090207/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/clinical-assessment-services-referral-and-booking"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/emergency-department-referral-and-booking",
+        "timestamp": "20220521084631",
+        "wayback_url": "https://web.archive.org/web/20220521084631/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/emergency-department-referral-and-booking"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/supplier-status-referrals-into-pharmacy-application-5",
+        "timestamp": "20240229211109",
+        "wayback_url": "https://web.archive.org/web/20240229211109/https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status/supplier-status-referrals-into-pharmacy-application-5"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/bureau-service-portal",
+        "timestamp": "20190824182338",
+        "wayback_url": "https://web.archive.org/web/20190824182338/https://digital.nhs.uk/services/bureau-service-portal"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-",
+        "timestamp": "20240808011555",
+        "wayback_url": "https://web.archive.org/web/20240808011555/https://digital.nhs.uk/services/calculating-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-",
+        "timestamp": "20231218052347",
+        "wayback_url": "https://web.archive.org/web/20231218052347/https://digital.nhs.uk/services/calculating-quality-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-",
+        "timestamp": "20231220060351",
+        "wayback_url": "https://web.archive.org/web/20231220060351/https://digital.nhs.uk/services/calculating-quality-reporting-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service",
+        "timestamp": "20190822044130",
+        "wayback_url": "https://web.archive.org/web/20190822044130/https://digital.nhs.uk/services/calculating-quality-reporting-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service-bureau",
+        "timestamp": "20190824180224",
+        "wayback_url": "https://web.archive.org/web/20190824180224/https://digital.nhs.uk/services/calculating-quality-reporting-service-bureau"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service/calculating-quality-reporting-service-cqrs-releases",
+        "timestamp": "20200923102358",
+        "wayback_url": "https://web.archive.org/web/20200923102358/https://digital.nhs.uk/services/calculating-quality-reporting-service/calculating-quality-reporting-service-cqrs-releases"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides",
+        "timestamp": "20200923104828",
+        "wayback_url": "https://web.archive.org/web/20200923104828/https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides/enhanced-services-2019-2020-cqrs-manual-entry-user-guide",
+        "timestamp": "20200809232507",
+        "wayback_url": "https://web.archive.org/web/20200809232507/https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides/enhanced-services-2019-2020-cqrs-manual-entry-user-guide"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides/full-qof-manual-entry-guide",
+        "timestamp": "20200809233415",
+        "wayback_url": "https://web.archive.org/web/20200809233415/https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides/full-qof-manual-entry-guide"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides/primary-care-networks-user-guidance",
+        "timestamp": "20200809235415",
+        "wayback_url": "https://web.archive.org/web/20200809235415/https://digital.nhs.uk/services/calculating-quality-reporting-service/user-guides/primary-care-networks-user-guidance"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/calculating-quality-reporting-service?_cldee=ZGFyc2hhbi5rYXVyQG5ocy5uZXQ%3D&recipientid=contact-09187a618409e311ad9f005056ab5ef8-658ab32c70c34154969c7c5e360db0d2&esid=677ac883-5ab5-ea11-a812-002248007f84",
+        "timestamp": "20200814004304",
+        "wayback_url": "https://web.archive.org/web/20200814004304/https://digital.nhs.uk/services/calculating-quality-reporting-service?_cldee=ZGFyc2hhbi5rYXVyQG5ocy5uZXQ%3D&recipientid=contact-09187a618409e311ad9f005056ab5ef8-658ab32c70c34154969c7c5e360db0d2&esid=677ac883-5ab5-ea11-a812-002248007f84"
+      },
+      {
+        "url": "http://digital.nhs.uk/services/care-identity-",
+        "timestamp": "20231022215617",
+        "wayback_url": "https://web.archive.org/web/20231022215617/http://digital.nhs.uk/services/care-identity-"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/care-identity-service",
+        "timestamp": "20230612190322",
+        "wayback_url": "https://web.archive.org/web/20230612190322/https://digital.nhs.uk/services/care-identity-service"
+      },
+      {
+        "url": "https://digital.nhs.uk/services/care-identity-service/applications-and-",
+        "timestamp": "20240819022114",
+        "wayback_url": "https://web.archive.org/web/20240819022114/https://digital.nhs.uk/services/care-identity-service/applications-and-"
+      },
+      {
+        "url": "http://digital.nhs.uk:80/data-and-information",
+        "timestamp": "20180304212401",
+        "wayback_url": "https://web.archive.org/web/20180304212401/http://digital.nhs.uk:80/data-and-information"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information%E2%80%A2",
+        "timestamp": "20230403034302",
+        "wayback_url": "https://web.archive.org/web/20230403034302/https://digital.nhs.uk/data-and-information%E2%80%A2"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information)",
+        "timestamp": "20221007074237",
+        "wayback_url": "https://web.archive.org/web/20221007074237/https://digital.nhs.uk/data-and-information)"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult",
+        "timestamp": "20231129235654",
+        "wayback_url": "https://web.archive.org/web/20231129235654/http://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-",
+        "timestamp": "20240808112704",
+        "wayback_url": "https://web.archive.org/web/20240808112704/https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatricmorbidity-%0Asurvey-survey-of-mental-health-and-wellbeing-england-",
+        "timestamp": "20240808112641",
+        "wayback_url": "https://web.archive.org/web/20240808112641/https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatricmorbidity-%0Asurvey-survey-of-mental-health-and-wellbeing-england-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatricmorbidity-%0Asurvey-survey-of-mental-health-and-wellbeing-england-2014%0A",
+        "timestamp": "20240808111619",
+        "wayback_url": "https://web.archive.org/web/20240808111619/https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatricmorbidity-%0Asurvey-survey-of-mental-health-and-wellbeing-england-2014%0A"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%0Bpublications/statistical/hospital-outpatient-activity/%0B2019-20",
+        "timestamp": "20220707113316",
+        "wayback_url": "https://web.archive.org/web/20220707113316/https://digital.nhs.uk/data-and-information/%0Bpublications/statistical/hospital-outpatient-activity/%0B2019-20"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/%20data-tools-and-services/data-services/hospital-episode-statistics/%20hospital-episode-statistics-data-dictionary",
+        "timestamp": "20250412024258",
+        "wayback_url": "https://web.archive.org/web/20250412024258/http://digital.nhs.uk/data-and-information/%20data-tools-and-services/data-services/hospital-episode-statistics/%20hospital-episode-statistics-data-dictionary"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/%20publications/%20statistical/%20national-diabetes-audit/national-diabetes-audit-2009-10",
+        "timestamp": "20231021164438",
+        "wayback_url": "https://web.archive.org/web/20231021164438/http://digital.nhs.uk/data-and-information/%20publications/%20statistical/%20national-diabetes-audit/national-diabetes-audit-2009-10"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/appointments-in-general-practice",
+        "timestamp": "20231223125358",
+        "wayback_url": "https://web.archive.org/web/20231223125358/https://digital.nhs.uk/data-and-information/%20publications/statistical/appointments-in-general-practice"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/appointments-in-general-practice/%20april-2019",
+        "timestamp": "20211104072245",
+        "wayback_url": "https://web.archive.org/web/20211104072245/https://digital.nhs.uk/data-and-information/%20publications/statistical/appointments-in-general-practice/%20april-2019"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/child-death-reviews/2019/content",
+        "timestamp": "20240303174609",
+        "wayback_url": "https://web.archive.org/web/20240303174609/https://digital.nhs.uk/data-and-information/%20publications/statistical/child-death-reviews/2019/content"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/hospital-admitted-patientcare-activity/2017-18",
+        "timestamp": "20220901072002",
+        "wayback_url": "https://web.archive.org/web/20220901072002/https://digital.nhs.uk/data-and-information/%20publications/statistical/hospital-admitted-patientcare-activity/2017-18"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/mental-health-of-children-and-young-people-in-england/2020-wave-1-follow-up",
+        "timestamp": "20240708151402",
+        "wayback_url": "https://web.archive.org/web/20240708151402/https://digital.nhs.uk/data-and-information/%20publications/statistical/mental-health-of-children-and-young-people-in-england/2020-wave-1-follow-up"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/nhs-sickness-absence-rates",
+        "timestamp": "20231223125354",
+        "wayback_url": "https://web.archive.org/web/20231223125354/https://digital.nhs.uk/data-and-information/%20publications/statistical/nhs-sickness-absence-rates"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%20publications/statistical/psychological-therapies-report-on-the-use-of-iapt-services/%20psychological-therapies-annual-report-on-the-use-of-iapt-services-england-2016-17",
+        "timestamp": "20220503115425",
+        "wayback_url": "https://web.archive.org/web/20220503115425/https://digital.nhs.uk/data-and-information/%20publications/statistical/psychological-therapies-report-on-the-use-of-iapt-services/%20psychological-therapies-annual-report-on-the-use-of-iapt-services-england-2016-17"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/",
+        "timestamp": "20240804181356",
+        "wayback_url": "https://web.archive.org/web/20240804181356/https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supple",
+        "timestamp": "20220615181545",
+        "wayback_url": "https://web.archive.org/web/20220615181545/https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supple"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-inform",
+        "timestamp": "20240719051055",
+        "wayback_url": "https://web.archive.org/web/20240719051055/https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-inform"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/admissions-to-hospital-for-dog-bite-injuries",
+        "timestamp": "20240719094702",
+        "wayback_url": "https://web.archive.org/web/20240719094702/https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/admissions-to-hospital-for-dog-bite-injuries"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/admissions-to-hospital-for-dog-bite-injuries2",
+        "timestamp": "20240719053256",
+        "wayback_url": "https://web.archive.org/web/20240719053256/https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/admissions-to-hospital-for-dog-bite-injuries2"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/leavers-and-joiners/leavers-",
+        "timestamp": "20240804172726",
+        "wayback_url": "https://web.archive.org/web/20240804172726/http://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/leavers-and-joiners/leavers-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/leavers-and-joiners/leavers-from-the-nhs-by-age-and-reason-for-leaving",
+        "timestamp": "20240804225956",
+        "wayback_url": "https://web.archive.org/web/20240804225956/https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/leavers-and-joiners/leavers-from-the-nhs-by-age-and-reason-for-leaving"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/*As",
+        "timestamp": "20240814021924",
+        "wayback_url": "https://web.archive.org/web/20240814021924/https://digital.nhs.uk/data-and-information/*As"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/.../statistical/statistics-on-alcohol/2018",
+        "timestamp": "20240626105418",
+        "wayback_url": "https://web.archive.org/web/20240626105418/https://digital.nhs.uk/data-and-information/.../statistical/statistics-on-alcohol/2018"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-",
+        "timestamp": "20220121095131",
+        "wayback_url": "https://web.archive.org/web/20220121095131/https://digital.nhs.uk/data-and-information/areas-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of",
+        "timestamp": "20220504080534",
+        "wayback_url": "https://web.archive.org/web/20220504080534/https://digital.nhs.uk/data-and-information/areas-of"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-",
+        "timestamp": "20220120045030",
+        "wayback_url": "https://web.archive.org/web/20220120045030/https://digital.nhs.uk/data-and-information/areas-of-"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-inter",
+        "timestamp": "20231118102402",
+        "wayback_url": "https://web.archive.org/web/20231118102402/http://digital.nhs.uk/data-and-information/areas-of-inter"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-inter-est/workforce?area=secondary-care-publications",
+        "timestamp": "20251229215801",
+        "wayback_url": "https://web.archive.org/web/20251229215801/http://digital.nhs.uk/data-and-information/areas-of-inter-est/workforce?area=secondary-care-publications"
+      },
+      {
+        "url": "http://digital.nhs.uk:80/data-and-information/areas-of-interest",
+        "timestamp": "20180305002613",
+        "wayback_url": "https://web.archive.org/web/20180305002613/http://digital.nhs.uk:80/data-and-information/areas-of-interest"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-interest/estates-",
+        "timestamp": "20221103194929",
+        "wayback_url": "https://web.archive.org/web/20221103194929/http://digital.nhs.uk/data-and-information/areas-of-interest/estates-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-",
+        "timestamp": "20240602221710",
+        "wayback_url": "https://web.archive.org/web/20240602221710/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities",
+        "timestamp": "20190811201443",
+        "wayback_url": "https://web.archive.org/web/20190811201443/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/estates-and-facilities-management-information-system",
+        "timestamp": "20191017005832",
+        "wayback_url": "https://web.archive.org/web/20191017005832/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/estates-and-facilities-management-information-system"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/hospital-estates-and-facilities-statistics",
+        "timestamp": "20190921214353",
+        "wayback_url": "https://web.archive.org/web/20190921214353/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/hospital-estates-and-facilities-statistics"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/nhs-surplus-land-data-collection",
+        "timestamp": "20250714161450",
+        "wayback_url": "https://web.archive.org/web/20250714161450/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/nhs-surplus-land-data-collection"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-",
+        "timestamp": "20220308044111",
+        "wayback_url": "https://web.archive.org/web/20220308044111/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-environment-assessment-team-peat",
+        "timestamp": "20190811184352",
+        "wayback_url": "https://web.archive.org/web/20190811184352/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-environment-assessment-team-peat"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-",
+        "timestamp": "20240920183523",
+        "wayback_url": "https://web.archive.org/web/20240920183523/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assess-",
+        "timestamp": "20220709120303",
+        "wayback_url": "https://web.archive.org/web/20220709120303/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assess-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assess-ments-of-the-care-environment-place",
+        "timestamp": "20220710035727",
+        "wayback_url": "https://web.archive.org/web/20220710035727/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assess-ments-of-the-care-environment-place"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-",
+        "timestamp": "20221016193140",
+        "wayback_url": "https://web.archive.org/web/20221016193140/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-",
+        "timestamp": "20240814151241",
+        "wayback_url": "https://web.archive.org/web/20240814151241/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-",
+        "timestamp": "20241118185428",
+        "wayback_url": "https://web.archive.org/web/20241118185428/http://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-",
+        "timestamp": "20240416195131",
+        "wayback_url": "https://web.archive.org/web/20240416195131/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-place",
+        "timestamp": "20190921053209",
+        "wayback_url": "https://web.archive.org/web/20190921053209/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-place"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-place/dementia-friendly-environments-guidance-for-assessors",
+        "timestamp": "20240416202250",
+        "wayback_url": "https://web.archive.org/web/20240416202250/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-place/dementia-friendly-environments-guidance-for-assessors"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-place/guidance-and-information-for-patient-assessors",
+        "timestamp": "20260102221819",
+        "wayback_url": "https://web.archive.org/web/20260102221819/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-place/guidance-and-information-for-patient-assessors"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities?area=data-definitions",
+        "timestamp": "20240705081204",
+        "wayback_url": "https://web.archive.org/web/20240705081204/https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities?area=data-definitions"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/ethnicity",
+        "timestamp": "20210119090221",
+        "wayback_url": "https://web.archive.org/web/20210119090221/https://digital.nhs.uk/data-and-information/areas-of-interest/ethnicity"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-interest/hospital",
+        "timestamp": "20231011033030",
+        "wayback_url": "https://web.archive.org/web/20231011033030/http://digital.nhs.uk/data-and-information/areas-of-interest/hospital"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-",
+        "timestamp": "20220708121758",
+        "wayback_url": "https://web.archive.org/web/20220708121758/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care",
+        "timestamp": "20181005170730",
+        "wayback_url": "https://web.archive.org/web/20181005170730/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-",
+        "timestamp": "20220119201559",
+        "wayback_url": "https://web.archive.org/web/20220119201559/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts",
+        "timestamp": "20190921211559",
+        "wayback_url": "https://web.archive.org/web/20190921211559/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts)",
+        "timestamp": "20221022002259",
+        "wayback_url": "https://web.archive.org/web/20221022002259/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts)"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-1-preventing-people-from-dying-prematurely",
+        "timestamp": "20190824223001",
+        "wayback_url": "https://web.archive.org/web/20190824223001/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-1-preventing-people-from-dying-prematurely"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-2-enhancing-quality-of-life-for-people-with-long-term-",
+        "timestamp": "20240516223751",
+        "wayback_url": "https://web.archive.org/web/20240516223751/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-2-enhancing-quality-of-life-for-people-with-long-term-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-2-enhancing-quality-of-life-for-people-with-long-term-conditions",
+        "timestamp": "20190824091252",
+        "wayback_url": "https://web.archive.org/web/20190824091252/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-2-enhancing-quality-of-life-for-people-with-long-term-conditions"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-3-helping-people-to-",
+        "timestamp": "20240526172847",
+        "wayback_url": "https://web.archive.org/web/20240526172847/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-3-helping-people-to-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-3-helping-people-to-recover-from-episodes-of-ill-health-or-following-injury",
+        "timestamp": "20190824231548",
+        "wayback_url": "https://web.archive.org/web/20190824231548/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-3-helping-people-to-recover-from-episodes-of-ill-health-or-following-injury"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-4-ensuring-people-have-a-positive-",
+        "timestamp": "20240209125712",
+        "wayback_url": "https://web.archive.org/web/20240209125712/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-4-ensuring-people-have-a-positive-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-4-ensuring-people-have-a-positive-experience-of-care",
+        "timestamp": "20190824215846",
+        "wayback_url": "https://web.archive.org/web/20190824215846/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-4-ensuring-people-have-a-positive-experience-of-care"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-5-treating-and-caring-for-people-in-a-safe-environment-and-protecting-them-from-avoidable-harm",
+        "timestamp": "20190824230709",
+        "wayback_url": "https://web.archive.org/web/20190824230709/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-5-treating-and-caring-for-people-in-a-safe-environment-and-protecting-them-from-avoidable-harm"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts148",
+        "timestamp": "20230607182345",
+        "wayback_url": "https://web.archive.org/web/20230607182345/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts148"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accountsIn",
+        "timestamp": "20220308034629",
+        "wayback_url": "https://web.archive.org/web/20220308034629/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accountsIn"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-carehttps://digital.nhs.uk/data-and-",
+        "timestamp": "20240330170430",
+        "wayback_url": "https://web.archive.org/web/20240330170430/https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-carehttps://digital.nhs.uk/data-and-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/maternity",
+        "timestamp": "20240303175151",
+        "wayback_url": "https://web.archive.org/web/20240303175151/https://digital.nhs.uk/data-and-information/areas-of-interest/maternity"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/pr",
+        "timestamp": "20240715024518",
+        "wayback_url": "https://web.archive.org/web/20240715024518/https://digital.nhs.uk/data-and-information/areas-of-interest/pr"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescrib-",
+        "timestamp": "20240629094625",
+        "wayback_url": "https://web.archive.org/web/20240629094625/https://digital.nhs.uk/data-and-information/areas-of-interest/prescrib-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescrib-ing/practice-level-prescribing-in-england-a-summary",
+        "timestamp": "20240630230910",
+        "wayback_url": "https://web.archive.org/web/20240630230910/https://digital.nhs.uk/data-and-information/areas-of-interest/prescrib-ing/practice-level-prescribing-in-england-a-summary"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing",
+        "timestamp": "20190822045310",
+        "wayback_url": "https://web.archive.org/web/20190822045310/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-",
+        "timestamp": "20230315173923",
+        "wayback_url": "https://web.archive.org/web/20230315173923/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-",
+        "timestamp": "20240531140023",
+        "wayback_url": "https://web.archive.org/web/20240531140023/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-",
+        "timestamp": "20221010103044",
+        "wayback_url": "https://web.archive.org/web/20221010103044/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-",
+        "timestamp": "20220219033509",
+        "wayback_url": "https://web.archive.org/web/20220219033509/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-",
+        "timestamp": "20220121084652",
+        "wayback_url": "https://web.archive.org/web/20220121084652/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary",
+        "timestamp": "20190807103617",
+        "wayback_url": "https://web.archive.org/web/20190807103617/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary,2019",
+        "timestamp": "20240415190219",
+        "wayback_url": "https://web.archive.org/web/20240415190219/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary,2019"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary,2019.[Online",
+        "timestamp": "20240415192714",
+        "wayback_url": "https://web.archive.org/web/20240415192714/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary,2019.[Online"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-",
+        "timestamp": "20241023024829",
+        "wayback_url": "https://web.archive.org/web/20241023024829/http://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-",
+        "timestamp": "20240807194335",
+        "wayback_url": "https://web.archive.org/web/20240807194335/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-",
+        "timestamp": "20231202145234",
+        "wayback_url": "https://web.archive.org/web/20231202145234/http://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-",
+        "timestamp": "20240616014152",
+        "wayback_url": "https://web.archive.org/web/20240616014152/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-information",
+        "timestamp": "20190824100400",
+        "wayback_url": "https://web.archive.org/web/20190824100400/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-information"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-information3BNF",
+        "timestamp": "20240616043810",
+        "wayback_url": "https://web.archive.org/web/20240616043810/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-information3BNF"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-glossary-of-terms",
+        "timestamp": "20190824215457",
+        "wayback_url": "https://web.archive.org/web/20190824215457/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-glossary-of-terms"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary[40",
+        "timestamp": "20230315173933",
+        "wayback_url": "https://web.archive.org/web/20230315173933/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary[40"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing15",
+        "timestamp": "20230405004257",
+        "wayback_url": "https://web.archive.org/web/20230405004257/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing15"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing15.XTITSA:",
+        "timestamp": "20230405032918",
+        "wayback_url": "https://web.archive.org/web/20230405032918/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing15.XTITSA:"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribingSelf",
+        "timestamp": "20221122204142",
+        "wayback_url": "https://web.archive.org/web/20221122204142/https://digital.nhs.uk/data-and-information/areas-of-interest/prescribingSelf"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/primary-care",
+        "timestamp": "20180731054707",
+        "wayback_url": "https://web.archive.org/web/20180731054707/https://digital.nhs.uk/data-and-information/areas-of-interest/primary-care"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/primary-care/learning-disabilities-health-check-scheme",
+        "timestamp": "20191020220500",
+        "wayback_url": "https://web.archive.org/web/20191020220500/https://digital.nhs.uk/data-and-information/areas-of-interest/primary-care/learning-disabilities-health-check-scheme"
+      },
+      {
+        "url": "http://digital.nhs.uk/data-and-information/areas-of-interest/primary-careHospital",
+        "timestamp": "20221122204145",
+        "wayback_url": "https://web.archive.org/web/20221122204145/http://digital.nhs.uk/data-and-information/areas-of-interest/primary-careHospital"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/public-",
+        "timestamp": "20220120083110",
+        "wayback_url": "https://web.archive.org/web/20220120083110/https://digital.nhs.uk/data-and-information/areas-of-interest/public-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/public-health",
+        "timestamp": "20180306173610",
+        "wayback_url": "https://web.archive.org/web/20180306173610/https://digital.nhs.uk/data-and-information/areas-of-interest/public-health"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/adult-",
+        "timestamp": "20240703084645",
+        "wayback_url": "https://web.archive.org/web/20240703084645/https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/adult-"
+      },
+      {
+        "url": "https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/adult-dental-health-survey",
+        "timestamp": "20191017050108",
+        "wayback_url": "https://web.archive.org/web/20191017050108/https://digital.nhs.uk/data-and-information/areas-of-interest/public-health/adult-dental-health-survey"
+      }
+    ],
+    "hee.nhs.uk": [
+      {
+        "url": "http://www.hee.nhs.uk:80/our-work",
+        "timestamp": "20180515154808",
+        "wayback_url": "https://web.archive.org/web/20180515154808/http://www.hee.nhs.uk:80/our-work"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work-1",
+        "timestamp": "20160221150100",
+        "wayback_url": "https://web.archive.org/web/20160221150100/https://www.hee.nhs.uk/our-work-1"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work-clinical-supervision",
+        "timestamp": "20240614051559",
+        "wayback_url": "https://web.archive.org/web/20240614051559/https://www.hee.nhs.uk/our-work-clinical-supervision"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work-page/a?combine=",
+        "timestamp": "20250226173830",
+        "wayback_url": "https://web.archive.org/web/20250226173830/https://www.hee.nhs.uk/our-work-page/a?combine="
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work-page/b?combine=",
+        "timestamp": "20250308091258",
+        "wayback_url": "https://web.archive.org/web/20250308091258/https://www.hee.nhs.uk/our-work-page/b?combine="
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work-page/c?combine=",
+        "timestamp": "20250308003328",
+        "wayback_url": "https://web.archive.org/web/20250308003328/https://www.hee.nhs.uk/our-work-page/c?combine="
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work-page/m?combine=",
+        "timestamp": "20250320001039",
+        "wayback_url": "https://web.archive.org/web/20250320001039/https://www.hee.nhs.uk/our-work-page/m?combine="
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/adva",
+        "timestamp": "20240615193415",
+        "wayback_url": "https://web.archive.org/web/20240615193415/http://www.hee.nhs.uk/our-work/adva"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advan",
+        "timestamp": "20230329020612",
+        "wayback_url": "https://web.archive.org/web/20230329020612/http://www.hee.nhs.uk/our-work/advan"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanc-",
+        "timestamp": "20240428085156",
+        "wayback_url": "https://web.archive.org/web/20240428085156/https://www.hee.nhs.uk/our-work/advanc-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanc-ing-dentistry",
+        "timestamp": "20240428085243",
+        "wayback_url": "https://web.archive.org/web/20240428085243/https://www.hee.nhs.uk/our-work/advanc-ing-dentistry"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-",
+        "timestamp": "20220302000255",
+        "wayback_url": "https://web.archive.org/web/20220302000255/https://www.hee.nhs.uk/our-work/advanced-"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clini",
+        "timestamp": "20231117081103",
+        "wayback_url": "https://web.archive.org/web/20231117081103/http://www.hee.nhs.uk/our-work/advanced-clini"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-",
+        "timestamp": "20220121045919",
+        "wayback_url": "https://web.archive.org/web/20220121045919/https://www.hee.nhs.uk/our-work/advanced-clinical-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-pract",
+        "timestamp": "20250724145244",
+        "wayback_url": "https://web.archive.org/web/20250724145244/https://www.hee.nhs.uk/our-work/advanced-clinical-pract"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice",
+        "timestamp": "20181002164048",
+        "wayback_url": "https://web.archive.org/web/20181002164048/https://www.hee.nhs.uk/our-work/advanced-clinical-practice"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice%E2%80%A2",
+        "timestamp": "20220704113645",
+        "wayback_url": "https://web.archive.org/web/20220704113645/https://www.hee.nhs.uk/our-work/advanced-clinical-practice%E2%80%A2"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/acp-newsletter",
+        "timestamp": "20190920054132",
+        "wayback_url": "https://web.archive.org/web/20190920054132/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/acp-newsletter"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/acp-newsletter?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20210802150828",
+        "wayback_url": "https://web.archive.org/web/20210802150828/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/acp-newsletter?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/acp-newsletter?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn",
+        "timestamp": "20201109101757",
+        "wayback_url": "https://web.archive.org/web/20201109101757/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/acp-newsletter?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-",
+        "timestamp": "20231122141143",
+        "wayback_url": "https://web.archive.org/web/20231122141143/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit",
+        "timestamp": "20201030202133",
+        "wayback_url": "https://web.archive.org/web/20201030202133/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit%E2%80%A2Health",
+        "timestamp": "20230111114712",
+        "wayback_url": "https://web.archive.org/web/20230111114712/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit%E2%80%A2Health"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit.Published",
+        "timestamp": "20220804151419",
+        "wayback_url": "https://web.archive.org/web/20220804151419/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit.Published"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit35",
+        "timestamp": "20231122191901",
+        "wayback_url": "https://web.archive.org/web/20231122191901/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/advanced-clinical-practice-toolkit35"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/advancing-practice-frequently-asked-questions",
+        "timestamp": "20201128110246",
+        "wayback_url": "https://web.archive.org/web/20201128110246/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/advancing-practice-frequently-asked-questions"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/development-advanced-clinical-practice",
+        "timestamp": "20240809132447",
+        "wayback_url": "https://web.archive.org/web/20240809132447/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/development-advanced-clinical-practice"
+      },
+      {
+        "url": "https://hee.nhs.uk/our-work/advanced-clinical-practice/favicon.ico",
+        "timestamp": "20180422062343",
+        "wayback_url": "https://web.archive.org/web/20180422062343/https://hee.nhs.uk/our-work/advanced-clinical-practice/favicon.ico"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-",
+        "timestamp": "20220120113513",
+        "wayback_url": "https://web.archive.org/web/20220120113513/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional",
+        "timestamp": "20240715000933",
+        "wayback_url": "https://web.archive.org/web/20240715000933/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-",
+        "timestamp": "20220807000801",
+        "wayback_url": "https://web.archive.org/web/20220807000801/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework",
+        "timestamp": "20190821201319",
+        "wayback_url": "https://web.archive.org/web/20190821201319/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework%20",
+        "timestamp": "20230619051248",
+        "wayback_url": "https://web.archive.org/web/20230619051248/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework%20"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework%20(30%2005%202022)",
+        "timestamp": "20221219092225",
+        "wayback_url": "https://web.archive.org/web/20221219092225/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework%20(30%2005%202022)"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework%E2%80%A2",
+        "timestamp": "20221122032249",
+        "wayback_url": "https://web.archive.org/web/20221122032249/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework%E2%80%A2"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework14",
+        "timestamp": "20221125190530",
+        "wayback_url": "https://web.archive.org/web/20221125190530/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework14"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework2",
+        "timestamp": "20250503113032",
+        "wayback_url": "https://web.archive.org/web/20250503113032/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework2"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework2.Mental",
+        "timestamp": "20250503110743",
+        "wayback_url": "https://web.archive.org/web/20250503110743/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework2.Mental"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework4",
+        "timestamp": "20230812220218",
+        "wayback_url": "https://web.archive.org/web/20230812220218/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework4"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework5",
+        "timestamp": "20230812220612",
+        "wayback_url": "https://web.archive.org/web/20230812220612/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-framework5"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-frameworkHealth",
+        "timestamp": "20250401034120",
+        "wayback_url": "https://web.archive.org/web/20250401034120/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professional-frameworkHealth"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professionalframework",
+        "timestamp": "20250715122431",
+        "wayback_url": "https://web.archive.org/web/20250715122431/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/multi-professionalframework"
+      },
+      {
+        "url": "http://hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-",
+        "timestamp": "20230308132611",
+        "wayback_url": "https://web.archive.org/web/20230308132611/http://hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-",
+        "timestamp": "20240128041041",
+        "wayback_url": "https://web.archive.org/web/20240128041041/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-",
+        "timestamp": "20221017115117",
+        "wayback_url": "https://web.archive.org/web/20221017115117/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-",
+        "timestamp": "20220303111305",
+        "wayback_url": "https://web.archive.org/web/20220303111305/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-",
+        "timestamp": "20250408034954",
+        "wayback_url": "https://web.archive.org/web/20250408034954/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum",
+        "timestamp": "20190821203740",
+        "wayback_url": "https://web.archive.org/web/20190821203740/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum%20",
+        "timestamp": "20221017115137",
+        "wayback_url": "https://web.archive.org/web/20221017115137/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum%20"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum.10",
+        "timestamp": "20241208153451",
+        "wayback_url": "https://web.archive.org/web/20241208153451/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum.10"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum.7",
+        "timestamp": "20241208150757",
+        "wayback_url": "https://web.archive.org/web/20241208150757/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/ophthalmology-common-clinical-competency-framework-curriculum.7"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/programme-accreditation",
+        "timestamp": "20201030190752",
+        "wayback_url": "https://web.archive.org/web/20201030190752/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/programme-accreditation"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/programme-accreditation%20last%20accessed%2025/1/21",
+        "timestamp": "20240702223124",
+        "wayback_url": "https://web.archive.org/web/20240702223124/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/programme-accreditation%20last%20accessed%2025/1/21"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/virtual-reference-group",
+        "timestamp": "20190923115605",
+        "wayback_url": "https://web.archive.org/web/20190923115605/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/virtual-reference-group"
+      },
+      {
+        "url": "https://hee.nhs.uk/our-work/advanced-clinical-practice/west-midlands",
+        "timestamp": "20180306083304",
+        "wayback_url": "https://web.archive.org/web/20180306083304/https://hee.nhs.uk/our-work/advanced-clinical-practice/west-midlands"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-",
+        "timestamp": "20230512080925",
+        "wayback_url": "https://web.archive.org/web/20230512080925/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advance",
+        "timestamp": "20230417115659",
+        "wayback_url": "https://web.archive.org/web/20230417115659/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advance"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-",
+        "timestamp": "20221007202439",
+        "wayback_url": "https://web.archive.org/web/20221007202439/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-",
+        "timestamp": "20230125090723",
+        "wayback_url": "https://web.archive.org/web/20230125090723/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice",
+        "timestamp": "20201030184430",
+        "wayback_url": "https://web.archive.org/web/20201030184430/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice161",
+        "timestamp": "20230706214613",
+        "wayback_url": "https://web.archive.org/web/20230706214613/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice161"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice:",
+        "timestamp": "20250318145702",
+        "wayback_url": "https://web.archive.org/web/20250318145702/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice:"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice%5Cx26amp;sa%5Cx3dU%5Cx26amp;ved%5Cx3d2ahUKEwjjwaaqgciIAxWbI0QIHcV9LNcQFnoECAwQBg%5Cx26amp;usg%5Cx3dAOvVaw0xiPqBovp1wQLuVxeNNZ9_%5Cx22",
+        "timestamp": "20240916174131",
+        "wayback_url": "https://web.archive.org/web/20240916174131/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practice%5Cx26amp;sa%5Cx3dU%5Cx26amp;ved%5Cx3d2ahUKEwjjwaaqgciIAxWbI0QIHcV9LNcQFnoECAwQBg%5Cx26amp;usg%5Cx3dAOvVaw0xiPqBovp1wQLuVxeNNZ9_%5Cx22"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practicePrimary",
+        "timestamp": "20221209020744",
+        "wayback_url": "https://web.archive.org/web/20221209020744/https://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practicePrimary"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practiceStandards",
+        "timestamp": "20221108145233",
+        "wayback_url": "https://web.archive.org/web/20221108145233/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinical-practiceStandards"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinicalpractice",
+        "timestamp": "20250504084759",
+        "wayback_url": "https://web.archive.org/web/20250504084759/http://www.hee.nhs.uk/our-work/advanced-clinical-practice/what-advanced-clinicalpractice"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice?utm_source=LinkedIn&utm_medium=social&utm_campaign=SocialSignIn",
+        "timestamp": "20210106194139",
+        "wayback_url": "https://web.archive.org/web/20210106194139/https://www.hee.nhs.uk/our-work/advanced-clinical-practice?utm_source=LinkedIn&utm_medium=social&utm_campaign=SocialSignIn"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-clinical-practice?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn",
+        "timestamp": "20201207110255",
+        "wayback_url": "https://web.archive.org/web/20201207110255/https://www.hee.nhs.uk/our-work/advanced-clinical-practice?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinicalpractice/multi-",
+        "timestamp": "20240328184426",
+        "wayback_url": "https://web.archive.org/web/20240328184426/http://www.hee.nhs.uk/our-work/advanced-clinicalpractice/multi-"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-clinicalpractice/multi-professional-framework",
+        "timestamp": "20240328184356",
+        "wayback_url": "https://web.archive.org/web/20240328184356/http://www.hee.nhs.uk/our-work/advanced-clinicalpractice/multi-professional-framework"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-practice/advanced-practice-frameworks/surgical-advanced-practitioner-curriculum-assessment-framework",
+        "timestamp": "20230812220803",
+        "wayback_url": "https://web.archive.org/web/20230812220803/http://www.hee.nhs.uk/our-work/advanced-practice/advanced-practice-frameworks/surgical-advanced-practitioner-curriculum-assessment-framework"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-practice/credentials",
+        "timestamp": "20201109104236",
+        "wayback_url": "https://web.archive.org/web/20201109104236/http://www.hee.nhs.uk/our-work/advanced-practice/credentials"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/credentials/centre-credential-approval-assurance-process-faqs",
+        "timestamp": "20210614193916",
+        "wayback_url": "https://web.archive.org/web/20210614193916/https://www.hee.nhs.uk/our-work/advanced-practice/credentials/centre-credential-approval-assurance-process-faqs"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/credentials/favicon.ico",
+        "timestamp": "20210513093854",
+        "wayback_url": "https://web.archive.org/web/20210513093854/https://www.hee.nhs.uk/our-work/advanced-practice/credentials/favicon.ico"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/credentials/surgical-advanced-practitioner-",
+        "timestamp": "20220704113714",
+        "wayback_url": "https://web.archive.org/web/20220704113714/https://www.hee.nhs.uk/our-work/advanced-practice/credentials/surgical-advanced-practitioner-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/credentials/surgical-advanced-practitioner-curriculum-assessment-framework",
+        "timestamp": "20210406192701",
+        "wayback_url": "https://web.archive.org/web/20210406192701/https://www.hee.nhs.uk/our-work/advanced-practice/credentials/surgical-advanced-practitioner-curriculum-assessment-framework"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/favicon.ico",
+        "timestamp": "20210430231202",
+        "wayback_url": "https://web.archive.org/web/20210430231202/https://www.hee.nhs.uk/our-work/advanced-practice/favicon.ico"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/multi-professional-framework",
+        "timestamp": "20250807100726",
+        "wayback_url": "https://web.archive.org/web/20250807100726/https://www.hee.nhs.uk/our-work/advanced-practice/multi-professional-framework"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-",
+        "timestamp": "20220704113641",
+        "wayback_url": "https://web.archive.org/web/20220704113641/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-",
+        "timestamp": "20240612120836",
+        "wayback_url": "https://web.archive.org/web/20240612120836/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage",
+        "timestamp": "20201102070324",
+        "wayback_url": "https://web.archive.org/web/20201102070324/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage-keynote-speakers",
+        "timestamp": "20210120135528",
+        "wayback_url": "https://web.archive.org/web/20210120135528/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage-keynote-speakers"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn&s=09",
+        "timestamp": "20240612122234",
+        "wayback_url": "https://web.archive.org/web/20240612122234/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn&s=09"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage?utm_content=buffer2a60a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer",
+        "timestamp": "20201109125535",
+        "wayback_url": "https://web.archive.org/web/20201109125535/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage?utm_content=buffer2a60a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn",
+        "timestamp": "20201031102102",
+        "wayback_url": "https://web.archive.org/web/20201031102102/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/advancing-practice-taking-centre-stage?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/east-england-updates",
+        "timestamp": "20220704133616",
+        "wayback_url": "https://web.archive.org/web/20220704133616/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/east-england-updates"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/favicon.ico",
+        "timestamp": "20240612155553",
+        "wayback_url": "https://web.archive.org/web/20240612155553/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/favicon.ico"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/regional-faculties-advancing-practice-announcement",
+        "timestamp": "20210325145831",
+        "wayback_url": "https://web.archive.org/web/20210325145831/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/regional-faculties-advancing-practice-announcement"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/regional-faculties-advancing-practice-announcement?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20210325145445",
+        "wayback_url": "https://web.archive.org/web/20210325145445/https://www.hee.nhs.uk/our-work/advanced-practice/news-views-getting-involved/regional-faculties-advancing-practice-announcement?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/regional-faculty-",
+        "timestamp": "20220704113638",
+        "wayback_url": "https://web.archive.org/web/20220704113638/https://www.hee.nhs.uk/our-work/advanced-practice/regional-faculty-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/regional-faculty-advancing-practice-%E2%80%93-east-englan",
+        "timestamp": "20220704113637",
+        "wayback_url": "https://web.archive.org/web/20220704113637/https://www.hee.nhs.uk/our-work/advanced-practice/regional-faculty-advancing-practice-%E2%80%93-east-englan"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/our-work/advanced-practice/reports-",
+        "timestamp": "20221122031822",
+        "wayback_url": "https://web.archive.org/web/20221122031822/http://www.hee.nhs.uk/our-work/advanced-practice/reports-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/analysis-online-workshop-consider-impact-covid-19-implications-future-advanced-consultant-practice",
+        "timestamp": "20201101070846",
+        "wayback_url": "https://web.archive.org/web/20201101070846/https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/analysis-online-workshop-consider-impact-covid-19-implications-future-advanced-consultant-practice"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/impact-covid-19-future-advanced-consultant-practice",
+        "timestamp": "20210128143954",
+        "wayback_url": "https://web.archive.org/web/20210128143954/https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/impact-covid-19-future-advanced-consultant-practice"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/impact-covid-19-future-advanced-consultant-practice?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20210128143845",
+        "wayback_url": "https://web.archive.org/web/20210128143845/https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/impact-covid-19-future-advanced-consultant-practice?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/signpost-continuing-professional-development",
+        "timestamp": "20210528120316",
+        "wayback_url": "https://web.archive.org/web/20210528120316/https://www.hee.nhs.uk/our-work/advanced-practice/reports-publications/signpost-continuing-professional-development"
+      },
+      {
+        "url": "http://hee.nhs.uk:80/news/",
+        "timestamp": "20130503112937",
+        "wayback_url": "https://web.archive.org/web/20130503112937/http://hee.nhs.uk:80/news/"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-",
+        "timestamp": "20220121020933",
+        "wayback_url": "https://web.archive.org/web/20220121020933/https://www.hee.nhs.uk/news-"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/news-1195",
+        "timestamp": "20231119024814",
+        "wayback_url": "https://web.archive.org/web/20231119024814/http://www.hee.nhs.uk/news-1195"
+      },
+      {
+        "url": "https://hee.nhs.uk/news-blogs-",
+        "timestamp": "20220120135334",
+        "wayback_url": "https://web.archive.org/web/20220120135334/https://hee.nhs.uk/news-blogs-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-e",
+        "timestamp": "20240427201223",
+        "wayback_url": "https://web.archive.org/web/20240427201223/https://www.hee.nhs.uk/news-blogs-e"
+      },
+      {
+        "url": "http://hee.nhs.uk/news-blogs-eve",
+        "timestamp": "20220421210913",
+        "wayback_url": "https://web.archive.org/web/20220421210913/http://hee.nhs.uk/news-blogs-eve"
+      },
+      {
+        "url": "http://www.hee.nhs.uk:80/news-blogs-events",
+        "timestamp": "20180515155202",
+        "wayback_url": "https://web.archive.org/web/20180515155202/http://www.hee.nhs.uk:80/news-blogs-events"
+      },
+      {
+        "url": "https://hee.nhs.uk/news-blogs-events/blogs",
+        "timestamp": "20171005001637",
+        "wayback_url": "https://web.archive.org/web/20171005001637/https://hee.nhs.uk/news-blogs-events/blogs"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80",
+        "timestamp": "20220728090400",
+        "wayback_url": "https://web.archive.org/web/20220728090400/http://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98-%E2%80%AF%E2%80%AFcrisis-now-%E2%80%AFwe-need-%E2%80%AFact-now%E2%80%99-navina-evans-pledges-hee%E2%80%99s-commitment-around-greener-nhs-honour",
+        "timestamp": "20211130034018",
+        "wayback_url": "https://web.archive.org/web/20211130034018/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98-%E2%80%AF%E2%80%AFcrisis-now-%E2%80%AFwe-need-%E2%80%AFact-now%E2%80%99-navina-evans-pledges-hee%E2%80%99s-commitment-around-greener-nhs-honour"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98-challenge-workforce-planning%E2%80%99",
+        "timestamp": "20220309152816",
+        "wayback_url": "https://web.archive.org/web/20220309152816/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98-challenge-workforce-planning%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98-new-organisation%E2%80%99",
+        "timestamp": "20220209164125",
+        "wayback_url": "https://web.archive.org/web/20220209164125/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98-new-organisation%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98apprenticeships-offer-routes-more-350-nhs-careers%E2%80%99",
+        "timestamp": "20220223143904",
+        "wayback_url": "https://web.archive.org/web/20220223143904/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98apprenticeships-offer-routes-more-350-nhs-careers%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98collaboration-only-game-town%E2%80%99",
+        "timestamp": "20211130025556",
+        "wayback_url": "https://web.archive.org/web/20211130025556/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98collaboration-only-game-town%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98collaboration-only-game-town%E2%80%99-0",
+        "timestamp": "20220513091138",
+        "wayback_url": "https://web.archive.org/web/20220513091138/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98collaboration-only-game-town%E2%80%99-0"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98equality-diversity-inclusion-are-underpinning-values-nursing-education%E2%80%99",
+        "timestamp": "20210707173416",
+        "wayback_url": "https://web.archive.org/web/20210707173416/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98equality-diversity-inclusion-are-underpinning-values-nursing-education%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98equality-diversity-inclusion-are-underpinning-values-nursing-education%E2%80%99?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20210708141226",
+        "wayback_url": "https://web.archive.org/web/20210708141226/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98equality-diversity-inclusion-are-underpinning-values-nursing-education%E2%80%99?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98more-different-needs-be-our-future-workforce-goal%E2%80%99",
+        "timestamp": "20230331000955",
+        "wayback_url": "https://web.archive.org/web/20230331000955/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98more-different-needs-be-our-future-workforce-goal%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98our-nhs-people-now-",
+        "timestamp": "20240626105139",
+        "wayback_url": "https://web.archive.org/web/20240626105139/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98our-nhs-people-now-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98our-nhs-people-now-future%E2%80%99",
+        "timestamp": "20220615030642",
+        "wayback_url": "https://web.archive.org/web/20220615030642/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98our-nhs-people-now-future%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98our-nhs-people-now-future%E2%80%99]",
+        "timestamp": "20240627020410",
+        "wayback_url": "https://web.archive.org/web/20240627020410/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98our-nhs-people-now-future%E2%80%99]"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98tackling-workforce-challenge-together%E2%80%99",
+        "timestamp": "20220925072309",
+        "wayback_url": "https://web.archive.org/web/20220925072309/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98tackling-workforce-challenge-together%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98throughout-history-it-has-often-taken-crisis-drive-such-rapid-evolution%E2%80%99",
+        "timestamp": "20210804115042",
+        "wayback_url": "https://web.archive.org/web/20210804115042/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98throughout-history-it-has-often-taken-crisis-drive-such-rapid-evolution%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98together-we-are-nhs%E2%80%99",
+        "timestamp": "20211130040149",
+        "wayback_url": "https://web.archive.org/web/20211130040149/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98together-we-are-nhs%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98we-need-workforce-reflects-communities-we-serve%E2%80%99",
+        "timestamp": "20221126154220",
+        "wayback_url": "https://web.archive.org/web/20221126154220/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98we-need-workforce-reflects-communities-we-serve%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98why-global-learning-so-vital%E2%80%99",
+        "timestamp": "20220223143902",
+        "wayback_url": "https://web.archive.org/web/20220223143902/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%98why-global-learning-so-vital%E2%80%99"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%9Cnursing-chose-me%E2%80%9D-sir-david-behan-professor-soraya-dhillon-visit-croydon-university-centre-2",
+        "timestamp": "20220525131655",
+        "wayback_url": "https://web.archive.org/web/20220525131655/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%9Cnursing-chose-me%E2%80%9D-sir-david-behan-professor-soraya-dhillon-visit-croydon-university-centre-2"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%9Cnursing-chose-me%E2%80%9D-sir-david-behan-professor-soraya-dhillon-visit-croydon-university-centre-2?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20220525125929",
+        "wayback_url": "https://web.archive.org/web/20220525125929/https://www.hee.nhs.uk/news-blogs-events/blogs/%E2%80%9Cnursing-chose-me%E2%80%9D-sir-david-behan-professor-soraya-dhillon-visit-croydon-university-centre-2?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/350-careers-one-nhs-your-future-%E2%80%93-impact-covid",
+        "timestamp": "20210302080817",
+        "wayback_url": "https://web.archive.org/web/20210302080817/https://www.hee.nhs.uk/news-blogs-events/blogs/350-careers-one-nhs-your-future-%E2%80%93-impact-covid"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/addressing-health-inequalities-through-alternative-workforce-models",
+        "timestamp": "20220127195431",
+        "wayback_url": "https://web.archive.org/web/20220127195431/https://www.hee.nhs.uk/news-blogs-events/blogs/addressing-health-inequalities-through-alternative-workforce-models"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/ahp-student-placement-origin-stories",
+        "timestamp": "20201125130607",
+        "wayback_url": "https://web.archive.org/web/20201125130607/https://www.hee.nhs.uk/news-blogs-events/blogs/ahp-student-placement-origin-stories"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/ahp-student-placement-origin-stories?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn&utm_content=Health+Careers",
+        "timestamp": "20201129100328",
+        "wayback_url": "https://web.archive.org/web/20201129100328/https://www.hee.nhs.uk/news-blogs-events/blogs/ahp-student-placement-origin-stories?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn&utm_content=Health+Careers"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/ahp-student-placement-origin-stories?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn",
+        "timestamp": "20201125130516",
+        "wayback_url": "https://web.archive.org/web/20201125130516/https://www.hee.nhs.uk/news-blogs-events/blogs/ahp-student-placement-origin-stories?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/all-together",
+        "timestamp": "20210928075656",
+        "wayback_url": "https://web.archive.org/web/20210928075656/https://www.hee.nhs.uk/news-blogs-events/blogs/all-together"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/arcp-process-should-support-greater-flexibility-better-opportunities-meaningful-feedback-doctors",
+        "timestamp": "20220705113909",
+        "wayback_url": "https://web.archive.org/web/20220705113909/https://www.hee.nhs.uk/news-blogs-events/blogs/arcp-process-should-support-greater-flexibility-better-opportunities-meaningful-feedback-doctors"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/art-possible-new-workforce-plan-mental-health",
+        "timestamp": "20180317161427",
+        "wayback_url": "https://web.archive.org/web/20180317161427/https://www.hee.nhs.uk/news-blogs-events/blogs/art-possible-new-workforce-plan-mental-health"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/biggest-week-nhs-history-%E2%80%A6-workforce-matters",
+        "timestamp": "20210120135251",
+        "wayback_url": "https://web.archive.org/web/20210120135251/https://www.hee.nhs.uk/news-blogs-events/blogs/biggest-week-nhs-history-%E2%80%A6-workforce-matters"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/blog-mental-health-social-work-me-hee",
+        "timestamp": "20220325220128",
+        "wayback_url": "https://web.archive.org/web/20220325220128/https://www.hee.nhs.uk/news-blogs-events/blogs/blog-mental-health-social-work-me-hee"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/blog-mental-health-social-work-me-hee?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20220326161835",
+        "wayback_url": "https://web.archive.org/web/20220326161835/https://www.hee.nhs.uk/news-blogs-events/blogs/blog-mental-health-social-work-me-hee?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/building-partnerships",
+        "timestamp": "20190821201200",
+        "wayback_url": "https://web.archive.org/web/20190821201200/https://www.hee.nhs.uk/news-blogs-events/blogs/building-partnerships"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-allied-health-professions-day-14-october-our-ahp-leadership-fellows",
+        "timestamp": "20191116221739",
+        "wayback_url": "https://web.archive.org/web/20191116221739/https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-allied-health-professions-day-14-october-our-ahp-leadership-fellows"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-century-caring-vulnerable",
+        "timestamp": "20190623124529",
+        "wayback_url": "https://web.archive.org/web/20190623124529/https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-century-caring-vulnerable"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-century-caring-vulnerable?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn&utm_content=Learning+disability",
+        "timestamp": "20190623124500",
+        "wayback_url": "https://web.archive.org/web/20190623124500/https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-century-caring-vulnerable?utm_source=Twitter&utm_medium=social&utm_campaign=SocialSignIn&utm_content=Learning+disability"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-national-nurses-week-international-day-midwife",
+        "timestamp": "20220521211510",
+        "wayback_url": "https://web.archive.org/web/20220521211510/https://www.hee.nhs.uk/news-blogs-events/blogs/celebrating-national-nurses-week-international-day-midwife"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/ceo-stakeholder-briefing",
+        "timestamp": "20201030200518",
+        "wayback_url": "https://web.archive.org/web/20201030200518/https://www.hee.nhs.uk/news-blogs-events/blogs/ceo-stakeholder-briefing"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/challenging-perceptions-traditional-placements",
+        "timestamp": "20200804145946",
+        "wayback_url": "https://web.archive.org/web/20200804145946/https://www.hee.nhs.uk/news-blogs-events/blogs/challenging-perceptions-traditional-placements"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/challenging-perceptions-traditional-placements?utm_campaign=%7B~messageName~%7D&utm_source=emailCampaign&utm_content=%7B~mailVariationId~%7D&utm_medium=email",
+        "timestamp": "20240617002421",
+        "wayback_url": "https://web.archive.org/web/20240617002421/https://www.hee.nhs.uk/news-blogs-events/blogs/challenging-perceptions-traditional-placements?utm_campaign=%7B~messageName~%7D&utm_source=emailCampaign&utm_content=%7B~mailVariationId~%7D&utm_medium=email"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/challenging-status-quo-seizing-opportunity-do-things-differently-can-revolutionise-our-workforce%E2%80%99s",
+        "timestamp": "20201030200241",
+        "wayback_url": "https://web.archive.org/web/20201030200241/https://www.hee.nhs.uk/news-blogs-events/blogs/challenging-status-quo-seizing-opportunity-do-things-differently-can-revolutionise-our-workforce%E2%80%99s"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/championing-our-incredible-midwifery-workforce-during-covid-19-international-day-midwife",
+        "timestamp": "20200510104551",
+        "wayback_url": "https://web.archive.org/web/20200510104551/https://www.hee.nhs.uk/news-blogs-events/blogs/championing-our-incredible-midwifery-workforce-during-covid-19-international-day-midwife"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/news-blogs-events/blogs/coming-together-weather-storm-%E2%80%93-",
+        "timestamp": "20230607051233",
+        "wayback_url": "https://web.archive.org/web/20230607051233/http://www.hee.nhs.uk/news-blogs-events/blogs/coming-together-weather-storm-%E2%80%93-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/coming-together-weather-storm-%E2%80%93-cultural-impact-covid",
+        "timestamp": "20210218105438",
+        "wayback_url": "https://web.archive.org/web/20210218105438/https://www.hee.nhs.uk/news-blogs-events/blogs/coming-together-weather-storm-%E2%80%93-cultural-impact-covid"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/commitment-care-leavers-significant-",
+        "timestamp": "20250425011028",
+        "wayback_url": "https://web.archive.org/web/20250425011028/https://www.hee.nhs.uk/news-blogs-events/blogs/commitment-care-leavers-significant-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/commitment-care-leavers-significant-step",
+        "timestamp": "20221120131324",
+        "wayback_url": "https://web.archive.org/web/20221120131324/https://www.hee.nhs.uk/news-blogs-events/blogs/commitment-care-leavers-significant-step"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/creating-single-better-organisation-workforce-right-its-heart",
+        "timestamp": "20211130030158",
+        "wayback_url": "https://web.archive.org/web/20211130030158/https://www.hee.nhs.uk/news-blogs-events/blogs/creating-single-better-organisation-workforce-right-its-heart"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/despite-covid-we-recognise-we-must-continue-deliver-manifesto-mandated-priorities",
+        "timestamp": "20201128113030",
+        "wayback_url": "https://web.archive.org/web/20201128113030/https://www.hee.nhs.uk/news-blogs-events/blogs/despite-covid-we-recognise-we-must-continue-deliver-manifesto-mandated-priorities"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/difficult-essential-reading",
+        "timestamp": "20220513091203",
+        "wayback_url": "https://web.archive.org/web/20220513091203/https://www.hee.nhs.uk/news-blogs-events/blogs/difficult-essential-reading"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/digital-impact-covid-%E2%80%93-are-you-bystander-fast-paced-digital-world",
+        "timestamp": "20210302075245",
+        "wayback_url": "https://web.archive.org/web/20210302075245/https://www.hee.nhs.uk/news-blogs-events/blogs/digital-impact-covid-%E2%80%93-are-you-bystander-fast-paced-digital-world"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/disability-history-month-our-deputy-medical-director-undergraduate-education-foundation-programmes",
+        "timestamp": "20211203153331",
+        "wayback_url": "https://web.archive.org/web/20211203153331/https://www.hee.nhs.uk/news-blogs-events/blogs/disability-history-month-our-deputy-medical-director-undergraduate-education-foundation-programmes"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/disability-history-month-our-deputy-medical-director-undergraduate-education-foundation-programmes?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20211203153249",
+        "wayback_url": "https://web.archive.org/web/20211203153249/https://www.hee.nhs.uk/news-blogs-events/blogs/disability-history-month-our-deputy-medical-director-undergraduate-education-foundation-programmes?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/doing-right-thing-isn%E2%80%99t-always-easy",
+        "timestamp": "20211130035525",
+        "wayback_url": "https://web.archive.org/web/20211130035525/https://www.hee.nhs.uk/news-blogs-events/blogs/doing-right-thing-isn%E2%80%99t-always-easy"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/doing-right-thing-isn%E2%80%99t-always-easy,",
+        "timestamp": "20220627052225",
+        "wayback_url": "https://web.archive.org/web/20220627052225/https://www.hee.nhs.uk/news-blogs-events/blogs/doing-right-thing-isn%E2%80%99t-always-easy,"
+      },
+      {
+        "url": "http://www.hee.nhs.uk/news-blogs-events/blogs/don%E2%80%99t-let-data-take-humanity-your-leadership",
+        "timestamp": "20231022082112",
+        "wayback_url": "https://web.archive.org/web/20231022082112/http://www.hee.nhs.uk/news-blogs-events/blogs/don%E2%80%99t-let-data-take-humanity-your-leadership"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/during-covid-19-there-have-been-numerous-examples-greater-collaboration-cooperation-across-health",
+        "timestamp": "20201030201638",
+        "wayback_url": "https://web.archive.org/web/20201030201638/https://www.hee.nhs.uk/news-blogs-events/blogs/during-covid-19-there-have-been-numerous-examples-greater-collaboration-cooperation-across-health"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/during-such-challenging-economic-time-we-welcome%C2%A0-dhsc%C2%A0settlement-which-provides-further-investment",
+        "timestamp": "20210120132345",
+        "wayback_url": "https://web.archive.org/web/20210120132345/https://www.hee.nhs.uk/news-blogs-events/blogs/during-such-challenging-economic-time-we-welcome%C2%A0-dhsc%C2%A0settlement-which-provides-further-investment"
+      },
+      {
+        "url": "https://hee.nhs.uk/news-blogs-events/blogs/emerging-careers-technological-advances-our-nhs",
+        "timestamp": "20190425133707",
+        "wayback_url": "https://web.archive.org/web/20190425133707/https://hee.nhs.uk/news-blogs-events/blogs/emerging-careers-technological-advances-our-nhs"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/end-era-new-beginnings",
+        "timestamp": "20230604175457",
+        "wayback_url": "https://web.archive.org/web/20230604175457/https://www.hee.nhs.uk/news-blogs-events/blogs/end-era-new-beginnings"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/enhancing-junior-doctors%E2%80%99-working-lives",
+        "timestamp": "20190920053417",
+        "wayback_url": "https://web.archive.org/web/20190920053417/https://www.hee.nhs.uk/news-blogs-events/blogs/enhancing-junior-doctors%E2%80%99-working-lives"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/ensuring-nhs-england-has-sufficient-inclusive-workforce-knowledge-skills-values-behaviours-deliver",
+        "timestamp": "20221126160403",
+        "wayback_url": "https://web.archive.org/web/20221126160403/https://www.hee.nhs.uk/news-blogs-events/blogs/ensuring-nhs-england-has-sufficient-inclusive-workforce-knowledge-skills-values-behaviours-deliver"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/equality-diversity-inclusion-edi-improvement-plan",
+        "timestamp": "20230801025218",
+        "wayback_url": "https://web.archive.org/web/20230801025218/https://www.hee.nhs.uk/news-blogs-events/blogs/equality-diversity-inclusion-edi-improvement-plan"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/equally-well-mental-physical-health-are-equally-vital",
+        "timestamp": "20190821202236",
+        "wayback_url": "https://web.archive.org/web/20190821202236/https://www.hee.nhs.uk/news-blogs-events/blogs/equally-well-mental-physical-health-are-equally-vital"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/exploring-challenges-facing-health-workplace-professor-wendy-reid",
+        "timestamp": "20220705121655",
+        "wayback_url": "https://web.archive.org/web/20220705121655/https://www.hee.nhs.uk/news-blogs-events/blogs/exploring-challenges-facing-health-workplace-professor-wendy-reid"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/extraordinary-times-call-extraordinary-measures",
+        "timestamp": "20210302082714",
+        "wayback_url": "https://web.archive.org/web/20210302082714/https://www.hee.nhs.uk/news-blogs-events/blogs/extraordinary-times-call-extraordinary-measures"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/favicon.ico",
+        "timestamp": "20190623124518",
+        "wayback_url": "https://web.archive.org/web/20190623124518/https://www.hee.nhs.uk/news-blogs-events/blogs/favicon.ico"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/flexibility-continues-be-key-theme-throughout-our-medical-education-reforms",
+        "timestamp": "20220704101008",
+        "wayback_url": "https://web.archive.org/web/20220704101008/https://www.hee.nhs.uk/news-blogs-events/blogs/flexibility-continues-be-key-theme-throughout-our-medical-education-reforms"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/future-proofing-foot-health-workforce",
+        "timestamp": "20200804144036",
+        "wayback_url": "https://web.archive.org/web/20200804144036/https://www.hee.nhs.uk/news-blogs-events/blogs/future-proofing-foot-health-workforce"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/ged%E2%80%99s-blog-%E2%80%A6-six-%E2%80%9Csmall-cs%E2%80%9D",
+        "timestamp": "20210614173953",
+        "wayback_url": "https://web.archive.org/web/20210614173953/https://www.hee.nhs.uk/news-blogs-events/blogs/ged%E2%80%99s-blog-%E2%80%A6-six-%E2%80%9Csmall-cs%E2%80%9D"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-ondo-not-confine-your-children-your-own-learning",
+        "timestamp": "20210614182718",
+        "wayback_url": "https://web.archive.org/web/20210614182718/https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-ondo-not-confine-your-children-your-own-learning"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-oneducation-education-education",
+        "timestamp": "20210614185753",
+        "wayback_url": "https://web.archive.org/web/20210614185753/https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-oneducation-education-education"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-ongreat-teachers",
+        "timestamp": "20210614183102",
+        "wayback_url": "https://web.archive.org/web/20210614183102/https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-ongreat-teachers"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-ontransforming-learning-environments",
+        "timestamp": "20210614180757",
+        "wayback_url": "https://web.archive.org/web/20210614180757/https://www.hee.nhs.uk/news-blogs-events/blogs/geds-blog-ontransforming-learning-environments"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/get-best-value-out-new-money-workforce-availability-will-be-key",
+        "timestamp": "20210928081508",
+        "wayback_url": "https://web.archive.org/web/20210928081508/https://www.hee.nhs.uk/news-blogs-events/blogs/get-best-value-out-new-money-workforce-availability-will-be-key"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/gp-specialty-training-during-",
+        "timestamp": "20220615131949",
+        "wayback_url": "https://web.archive.org/web/20220615131949/https://www.hee.nhs.uk/news-blogs-events/blogs/gp-specialty-training-during-"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/gp-specialty-training-during-after-covid-pandemic-opportunity-flexibility",
+        "timestamp": "20200527091643",
+        "wayback_url": "https://web.archive.org/web/20200527091643/https://www.hee.nhs.uk/news-blogs-events/blogs/gp-specialty-training-during-after-covid-pandemic-opportunity-flexibility"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/gtm.js",
+        "timestamp": "20231109215542",
+        "wayback_url": "https://web.archive.org/web/20231109215542/https://www.hee.nhs.uk/news-blogs-events/blogs/gtm.js"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/hee%E2%80%99s-%E2%80%98pulse%E2%80%99-survey-national-partners-stakeholders",
+        "timestamp": "20220925090646",
+        "wayback_url": "https://web.archive.org/web/20220925090646/https://www.hee.nhs.uk/news-blogs-events/blogs/hee%E2%80%99s-%E2%80%98pulse%E2%80%99-survey-national-partners-stakeholders"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/hee-has-expertise-experience-proven-track-record-professional-reform",
+        "timestamp": "20220802205433",
+        "wayback_url": "https://web.archive.org/web/20220802205433/https://www.hee.nhs.uk/news-blogs-events/blogs/hee-has-expertise-experience-proven-track-record-professional-reform"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/hee-marks-third-anniversary-nursing-associates-nmc-register",
+        "timestamp": "20220128142323",
+        "wayback_url": "https://web.archive.org/web/20220128142323/https://www.hee.nhs.uk/news-blogs-events/blogs/hee-marks-third-anniversary-nursing-associates-nmc-register"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/hee-marks-third-anniversary-nursing-associates-nmc-register?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20220128142152",
+        "wayback_url": "https://web.archive.org/web/20220128142152/https://www.hee.nhs.uk/news-blogs-events/blogs/hee-marks-third-anniversary-nursing-associates-nmc-register?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/hee-responds-messenger-review",
+        "timestamp": "20220706161424",
+        "wayback_url": "https://web.archive.org/web/20220706161424/https://www.hee.nhs.uk/news-blogs-events/blogs/hee-responds-messenger-review"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/hee-responds-messenger-review?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20220608225759",
+        "wayback_url": "https://web.archive.org/web/20220608225759/https://www.hee.nhs.uk/news-blogs-events/blogs/hee-responds-messenger-review?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-has-built-health-partnerships-across-globe-now-future",
+        "timestamp": "20230328164111",
+        "wayback_url": "https://web.archive.org/web/20230328164111/https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-has-built-health-partnerships-across-globe-now-future"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-has-built-health-partnerships-across-globe-now-future?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20230328165330",
+        "wayback_url": "https://web.archive.org/web/20230328165330/https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-has-built-health-partnerships-across-globe-now-future?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-supporting-nurses-finish-their-studies-post-covid-19",
+        "timestamp": "20210930134418",
+        "wayback_url": "https://web.archive.org/web/20210930134418/https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-supporting-nurses-finish-their-studies-post-covid-19"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-supporting-nurses-finish-their-studies-post-covid-19?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo",
+        "timestamp": "20210930134324",
+        "wayback_url": "https://web.archive.org/web/20210930134324/https://www.hee.nhs.uk/news-blogs-events/blogs/how-hee-supporting-nurses-finish-their-studies-post-covid-19?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/i%E2%80%99ve-always-been-strong-believer-value-feedback",
+        "timestamp": "20201030201030",
+        "wayback_url": "https://web.archive.org/web/20201030201030/https://www.hee.nhs.uk/news-blogs-events/blogs/i%E2%80%99ve-always-been-strong-believer-value-feedback"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/i-am-incredibly-proud-be-part-nation%E2%80%99s-efforts",
+        "timestamp": "20220127210137",
+        "wayback_url": "https://web.archive.org/web/20220127210137/https://www.hee.nhs.uk/news-blogs-events/blogs/i-am-incredibly-proud-be-part-nation%E2%80%99s-efforts"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/i-am-incredibly-proud-my-colleagues-hee-their-work-during-uniquely-difficult-year",
+        "timestamp": "20220707205858",
+        "wayback_url": "https://web.archive.org/web/20220707205858/https://www.hee.nhs.uk/news-blogs-events/blogs/i-am-incredibly-proud-my-colleagues-hee-their-work-during-uniquely-difficult-year"
+      },
+      {
+        "url": "https://www.hee.nhs.uk/news-blogs-events/blogs/i-am-incredibly-proud-my-colleagues-hee-their-work-during-uniquely-difficult-year-0",
+        "timestamp": "20211017001748",
+        "wayback_url": "https://web.archive.org/web/20211017001748/https://www.hee.nhs.uk/news-blogs-events/blogs/i-am-incredibly-proud-my-colleagues-hee-their-work-during-uniquely-difficult-year-0"
+      }
+    ]
+  },
+  "scraped_count": 502,
+  "failed_urls": [
+    "http://www.england.nhs.uk:80/publications/",
+    "https://www.england.nhs.uk/publications/a-equip-a-model-of-clinical-midwifery-supervision/",
+    "https://www.england.nhs.uk/publications/ann-driver/",
+    "https://www.england.nhs.uk/publications/annual",
+    "https://www.england.nhs.uk/publications/annual-%20report/",
+    "https://www.england.nhs.uk/publications/annual-report/9",
+    "http://www.england.nhs.uk:80/publications/blogs/",
+    "http://www.england.nhs.uk:80/publications/blogs/alistair-burns/",
+    "http://www.england.nhs.uk:80/publications/blogs/ann-driver/",
+    "http://www.england.nhs.uk:80/publications/blogs/barbara-hakin/",
+    "http://www.england.nhs.uk:80/publications/blogs/david-nicholson/",
+    "http://www.england.nhs.uk:80/publications/blogs/dr-johnny-marshall",
+    "http://www.england.nhs.uk/publications/blogs/guest-blogs/",
+    "http://www.england.nhs.uk:80/publications/blogs/inderjit-singh/",
+    "http://www.england.nhs.uk:80/publications/blogs/jane-cummings/",
+    "http://www.england.nhs.uk:80/publications/blogs/john-holden",
+    "http://www.england.nhs.uk:80/publications/blogs/martin-mcshane/",
+    "http://www.england.nhs.uk:80/publications/blogs/mike-bewick/",
+    "http://www.england.nhs.uk:80/publications/blogs/mike-durkin/",
+    "http://www.england.nhs.uk:80/publications/blogs/olivia-butterworth/",
+    "http://www.england.nhs.uk/publications/blogs/page/2/",
+    "http://www.england.nhs.uk/publications/blogs/page/22/",
+    "http://www.england.nhs.uk/publications/blogs/page/3/",
+    "http://www.england.nhs.uk/publications/blogs/page/32/",
+    "http://www.england.nhs.uk/publications/blogs/page/41/",
+    "http://www.england.nhs.uk:80/publications/blogs/roz-davies/",
+    "http://www.england.nhs.uk:80/publications/blogs/simon-bennett",
+    "http://www.england.nhs.uk:80/publications/blogs/tim-kelsey/",
+    "http://www.england.nhs.uk/publications/blogs/tim-kelsey/page/2/",
+    "http://www.england.nhs.uk:80/publications/bulletins/6cs-live-bulletin/",
+    "http://www.england.nhs.uk:80/publications/bulletins/allied-health-professionals-bulletin/",
+    "http://www.england.nhs.uk/publications/bulletins/archive/",
+    "http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/",
+    "http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/page/3/",
+    "http://www.england.nhs.uk:80/publications/bulletins/bulletin-for-ccgs/page/6/",
+    "http://www.england.nhs.uk:80/publications/bulletins/chief-nursing-officer-bulletin/",
+    "http://www.england.nhs.uk/publications/bulletins/cno-bulletin/",
+    "http://www.england.nhs.uk:80/publications/bulletins/commissioning-support-bulletin/",
+    "http://www.england.nhs.uk:80/publications/bulletins/cso-bulletin/",
+    "http://www.england.nhs.uk:80/publications/bulletins/gp-and-practice-team-bulletin/",
+    "http://www.england.nhs.uk/publications/bulletins/gp-practice-team-bulletin/",
+    "http://www.england.nhs.uk/publications/bulletins/in-touch/",
+    "http://www.england.nhs.uk:80/publications/bulletins/informed",
+    "http://www.england.nhs.uk:80/publications/bulletins/informed/page/3/",
+    "http://www.england.nhs.uk:80/publications/bulletins/informed/page/7/",
+    "http://www.england.nhs.uk/publications/bulletins/ld-bulletin/",
+    "http://www.england.nhs.uk/publications/bulletins/liaison-and-diversion-bulletin/",
+    "http://www.england.nhs.uk:80/publications/bulletins/nhs-news/",
+    "http://www.england.nhs.uk/publications/bulletins/specialised-comms-bulletin/",
+    "https://www.england.nhs.uk/publications/business-plan/)",
+    "https://www.england.nhs.uk/publications/business-plan/our-",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/10-",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-tive-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/3-deliver-more-elec-tive-care-to-tackle-the-elective-backlog-reduce-long-waits-and-improve-performance-against-cancer-waiting-times-standards/",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/4-improve-the-responsiveness-of-urgent-and-emergency-care-and-increase-its-capac-ity/",
+    "https://www.england.nhs.uk/publications/business-plan/our-2022-23-business-plan/our-",
+    "https://digital.nhs.uk/services)",
+    "https://digital.nhs.uk/services-SSD",
+    "https://digital.nhs.uk/services.nhs-login",
+    "https://digital.nhs.uk/services/%22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAgMTQwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeD0iMHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB5PSIwcHgiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtkaXNwbGF5Om5vbmU7fQoJLnN0MXtkaXNwbGF5OmlubGluZTtmaWxsOiMyMzFmMjA7fQoJLnN0MntmaWxsOiMyMzFmMjA7fQoJLnN0M3tmaWxsOm5vbmU7c3Ryb2tlOiMyMzFmMjA7c3Ryb2tlLXdpZHRoOjEuOTI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30KCS5zdDR7ZmlsbDojMjMxZjIwO30KCS5zdDV7ZmlsbDojMjMxZjIwO30KCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMjMxZjIwO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30KPC9zdHlsZT4KPGcgY2xhc3M9InN0MCI+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzAsNi45NWw1NCwzMS41djYzLjExbC01NCwzMS41bC01NC0zMS41VjM4LjQ1TDcwLDYuOTUgTTcwLDBMMTAsMzV2NzBsNjAsMzVsNjAtMzVWMzVMNzAsMEw3MCwweiIvPgo8L2c+CjxnPgoJPHBhdGggY2xhc3M9InN0MiIgZD0iTTcxLjI1LDk3LjYxaC0yLjc4bC01LjIxLDcuMTVjLTEyLjA4LTMuNTQtMTcuMTUtNy4yMi0yNC4yNC0xNy42NGw1LjE0LTcuMTVsLTAuODMtMi42NEwzNSw3NC42M2wtMC4xNC00LjQ0ICAgYy0wLjI4LTkuOTMsMy40Ny0xNi40Niw5LjM4LTI0LjFsOC4zMywyLjcxbDIuMjktMS42N3YtOC43NWM0LjkzLTEuODEsOS43Mi0zLjE5LDE1LTMuMTljNS4yOCwwLDEwLjA3LDEuMzksMTUsMy4xOXY4Ljc1ICAgbDIuMjksMS42N2w4LjMzLTIuNzFjNS45LDcuNjQsOS42NSwxNC4xNyw5LjM3LDI0LjFsLTAuMTQsNC40NGwtOC4zMywyLjcxbC0wLjgzLDIuNjRsNS4xNCw3LjE1ICAgYy03LjA4LDEwLjQyLTEyLjE1LDE0LjEtMjQuMjQsMTcuNjRMNzEuMjUsOTcuNjF6IE01MS4zOSw4Ny4wNmMyLjI5LDIuNSw1LjA3LDQuNTEsOC4xMiw1LjlsNC4zNy02LjA0ICAgYzEuOTQsMC4zNSwzLjk2LDAuNzYsNS45NywwLjc2YzIuMDEsMCw0LjAzLTAuNDIsNS45Ny0wLjc2bDQuMzgsNi4wNGMzLjA2LTEuMzksNS44My0zLjQsOC4xMi01LjlsLTQuNDQtNi4wNCAgIGMyLjY0LTQuOTMsMi45Mi01LjgzLDMuNjgtMTEuMzJsNy4xNS0yLjM2Yy0wLjQyLTMuMzMtMS40Ni02LjUzLTMuMTItOS40NGwtNy4wOCwyLjI5Yy0zLjg5LTQuMDMtNC42NS00LjU4LTkuNjUtNy4wM",
+    "https://digital.nhs.uk/services/%22data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxNDAgMTQwOyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTQwIDE0MCIgeD0iMHB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB5PSIwcHgiPgo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJLnN0MHtkaXNwbGF5Om5vbmU7fQoJLnN0MXtkaXNwbGF5OmlubGluZTtmaWxsOiMyMzFmMjA7fQoJLnN0MntmaWxsOiMyMzFmMjA7fQoJLnN0M3tmaWxsOm5vbmU7c3Ryb2tlOiMyMzFmMjA7c3Ryb2tlLXdpZHRoOjEuOTI7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEwO30KCS5zdDR7ZmlsbDojMjMxZjIwO30KCS5zdDV7ZmlsbDojMjMxZjIwO30KCS5zdDZ7ZmlsbDpub25lO3N0cm9rZTojMjMxZjIwO3N0cm9rZS13aWR0aDo1O3N0cm9rZS1taXRlcmxpbWl0OjEwO30KPC9zdHlsZT4KPGcgY2xhc3M9InN0MCI+Cgk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNzAsNi45NWw1NCwzMS41djYzLjExbC01NCwzMS41bC01NC0zMS41VjM4LjQ1TDcwLDYuOTUgTTcwLDBMMTAsMzV2NzBsNjAsMzVsNjAtMzVWMzVMNzAsMEw3MCwweiIvPgo8L2c+Cjxwb2x5Z29uIGNsYXNzPSJzdDUiIHBvaW50cz0iNzEuODMsNTUuNjQgNjQuODMsNjIuMiA2Mi4zMyw2OS4xNSA2OC41NSw3Ny43MiA4MS4wMSw3OS4yNSA5Mi4zOCw3Mi45MSA5NC43OSw2OC41NCAiLz4KPGc+Cgk8Zz4KCQk8cGF0aCBjbGFzcz0ic3QyIiBkPSJNODQuMTQsODIuMTljLTAuMTQsMy4zMy0xLjMyLDYuNTMtMy40LDkuMWMtMi4xNSw2LjY3LTguNTQsMTEuMDQtMTUuNDksMTEuMDRINDcuOTUgICAgYy01LjE0LDAtMTAuMjgtMS40Ni0xNS0zLjQ3bC0xMCwwLjAyVjUyLjMzaDUuNzZjMS4wNC0xLjgsMi4yOS0zLjYxLDMuMjYtNS40MmMwLjQyLTAuNzYsMC44My0xLjUzLDAuOTctMi4zNiAgICBjMC4yMS0xLjM5LDAuMjgtMi42NCwwLjc2LTQuMDNjMS44MS00Ljg2LDYuNTMtOC4xOSwxMS43NC04LjE5YzkuNTgsMCwxNi4yNSw1LjgzLDE2LjI1LDE1Ljc2YzAsMS40Ni0wLjA3LDIuOTItMC4yOCw0LjMxICAgIGMwLjE2LDAuMDIsOC4zMSwwLjA0LDguNDYsMC4wNmM3LjY0LDEuMDQsMTMuOTIsNy40NiwxNC4yNiwxNS4yOWMxLjE4LDIuMjIsMS44MSw0LjcyLDEuODEsNy4yMlM4NS4zMiw3OS45Nyw4NC4xNCw4Mi4xOXogICAgIE03My43Myw3MC41MmMwLjI4LTAuNjIsMC40Mi0xLjM5LDAuNDItMi4xNWMwLTMuNC0zLjE5LTYuMDQtNi40Ni02LjA0SDQ2LjdjMi41LTQuOTMsNS04L",
+    "https://digital.nhs.uk/services/--border-color",
+    "https://digital.nhs.uk/services/0%20,%200%20,%200",
+    "https://digital.nhs.uk/services/0,%200,%200",
+    "https://digital.nhs.uk/services/1939-register-service",
+    "https://digital.nhs.uk/services/255%20,%20255%20,%20255",
+    "https://digital.nhs.uk/services/255,%20255,%20255",
+    "https://digital.nhs.uk/services/adjust/falsify",
+    "https://digital.nhs.uk/services/adoption-registration-service",
+    "http://digital.nhs.uk/services/adoption-registration-service/death-registration-",
+    "http://digital.nhs.uk/services/adoption-registration-service/hereditary-medical-",
+    "http://digital.nhs.uk:80/services/adoptionregistration",
+    "http://digital.nhs.uk/services/ai-knowledge-repository.%E2%80%94%E2%80%94%E2%80%94",
+    "https://digital.nhs.uk/services/ai-knowledge-repository/case-studies/ai-in-adult-social-care",
+    "https://digital.nhs.uk/services/ai-knowledge-repository/develop-ai$",
+    "https://digital.nhs.uk/services/ai-knowledge-repository/understand-ai",
+    "http://digital.nhs.uk/services/benefits-",
+    "https://digital.nhs.uk/services/birth-",
+    "https://digital.nhs.uk/services/birth-noti",
+    "https://digital.nhs.uk/services/birth-noti%EF%AC%81ca-",
+    "http://digital.nhs.uk/services/birth-noti%EF%AC%81ca-tion-service",
+    "https://digital.nhs.uk/services/birth-noti%EF%AC%81cation-service",
+    "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-child-health/appendices",
+    "https://digital.nhs.uk/services/birth-notification-service/birth-notification-application-guide-for-maternity/appendix-a---exporting-the-birth-notifications-to-a-file",
+    "https://digital.nhs.uk/services/booking-",
+    "https://digital.nhs.uk/services/booking-and",
+    "https://digital.nhs.uk/services/booking-and-referral-standard/booking-and-referral-standard-implementation-guide/bars-applications",
+    "http://digital.nhs.uk/services/booking-and-referral-standard/booking-and-referral-standard-implementation-guide/bars-core",
+    "https://digital.nhs.uk/services/booking-and-referral-standard/supplier-status",
+    "https://digital.nhs.uk/services/calculating-",
+    "https://digital.nhs.uk/services/calculating-quality-",
+    "https://digital.nhs.uk/services/calculating-quality-reporting-",
+    "https://digital.nhs.uk/services/calculating-quality-reporting-service-bureau",
+    "http://digital.nhs.uk/services/care-identity-",
+    "https://digital.nhs.uk/services/care-identity-service",
+    "https://digital.nhs.uk/services/care-identity-service/applications-and-",
+    "https://digital.nhs.uk/data-and-information%E2%80%A2",
+    "https://digital.nhs.uk/data-and-information)",
+    "http://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult",
+    "https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-",
+    "https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatricmorbidity-%0Asurvey-survey-of-mental-health-and-wellbeing-england-",
+    "https://digital.nhs.uk/data-and-information/%0Apublications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatricmorbidity-%0Asurvey-survey-of-mental-health-and-wellbeing-england-2014%0A",
+    "https://digital.nhs.uk/data-and-information/%0Bpublications/statistical/hospital-outpatient-activity/%0B2019-20",
+    "http://digital.nhs.uk/data-and-information/%20data-tools-and-services/data-services/hospital-episode-statistics/%20hospital-episode-statistics-data-dictionary",
+    "http://digital.nhs.uk/data-and-information/%20publications/%20statistical/%20national-diabetes-audit/national-diabetes-audit-2009-10",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/appointments-in-general-practice",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/appointments-in-general-practice/%20april-2019",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/child-death-reviews/2019/content",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/hospital-admitted-patientcare-activity/2017-18",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/mental-health-of-children-and-young-people-in-england/2020-wave-1-follow-up",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/nhs-sickness-absence-rates",
+    "https://digital.nhs.uk/data-and-information/%20publications/statistical/psychological-therapies-report-on-the-use-of-iapt-services/%20psychological-therapies-annual-report-on-the-use-of-iapt-services-england-2016-17",
+    "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/",
+    "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supple",
+    "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-inform",
+    "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/admissions-to-hospital-for-dog-bite-injuries",
+    "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/admissions-to-hospital-for-dog-bite-injuries2",
+    "http://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/leavers-and-joiners/leavers-",
+    "https://digital.nhs.uk/data-and-information/%EF%AC%81nd-data-and-publications/supplementary-information/2019-supplementary-information-%EF%AC%81les/leavers-and-joiners/leavers-from-the-nhs-by-age-and-reason-for-leaving",
+    "https://digital.nhs.uk/data-and-information/*As",
+    "https://digital.nhs.uk/data-and-information/.../statistical/statistics-on-alcohol/2018",
+    "https://digital.nhs.uk/data-and-information/areas-",
+    "https://digital.nhs.uk/data-and-information/areas-of",
+    "https://digital.nhs.uk/data-and-information/areas-of-",
+    "http://digital.nhs.uk/data-and-information/areas-of-inter",
+    "http://digital.nhs.uk/data-and-information/areas-of-inter-est/workforce?area=secondary-care-publications",
+    "http://digital.nhs.uk/data-and-information/areas-of-interest/estates-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/hospital-estates-and-facilities-statistics",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assess-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assess-ments-of-the-care-environment-place",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-",
+    "http://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities/patient-led-assessments-of-the-care-environment-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/estates-and-facilities?area=data-definitions",
+    "http://digital.nhs.uk/data-and-information/areas-of-interest/hospital",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts)",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-2-enhancing-quality-of-life-for-people-with-long-term-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-2-enhancing-quality-of-life-for-people-with-long-term-conditions",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-3-helping-people-to-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts/domain-4-ensuring-people-have-a-positive-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accounts148",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-care/quality-accountsIn",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/hospital-carehttps://digital.nhs.uk/data-and-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/pr",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescrib-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescrib-ing/practice-level-prescribing-in-england-a-summary",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary,2019",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary,2019.[Online",
+    "http://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-",
+    "http://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary/practice-level-prescribing-data-more-information3BNF",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing/practice-level-prescribing-in-england-a-summary[40",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing15",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribing15.XTITSA:",
+    "https://digital.nhs.uk/data-and-information/areas-of-interest/prescribingSelf"
+  ],
+  "duplicate_pairs_created": 30,
+  "last_updated": "2026-02-03T09:51:20.148798"
+}

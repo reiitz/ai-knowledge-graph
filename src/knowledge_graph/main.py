@@ -192,9 +192,17 @@ def get_unique_entities(triples):
         if not isinstance(triple, dict):
             continue
         if "subject" in triple:
-            entities.add(triple["subject"])
+            subj = triple["subject"]
+            if isinstance(subj, list):
+                entities.update(subj)
+            else:
+                entities.add(subj)
         if "object" in triple:
-            entities.add(triple["object"])
+            obj = triple["object"]
+            if isinstance(obj, list):
+                entities.update(obj)
+            else:
+                entities.add(obj)
     return entities
 
 def main():

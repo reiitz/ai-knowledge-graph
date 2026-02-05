@@ -18,6 +18,7 @@ Cross-reference with pipeline duplicate detection:
   KG MEDIUM                            → AMBIGUOUS (send to Phi-3)
 """
 
+import csv
 import json
 from pathlib import Path
 from collections import defaultdict
@@ -30,6 +31,7 @@ PROJECT_DIR = SCRIPT_DIR.parent
 DATA_DIR = PROJECT_DIR / "data"
 KG_OUTPUT_FILE = DATA_DIR / "nhs-knowledge-graph.json"
 DEDUP_EVAL_FILE = DATA_DIR / "deduplication-evaluation.json"
+DEDUP_CSV_FILE = DATA_DIR / "deduplication-scores.csv"
 
 # Thresholds from TESTING_PLAN.md
 HIGH_SIMILARITY = 0.80
@@ -228,6 +230,32 @@ def print_report(results: dict):
             print()
 
 
+def save_csv(results: dict):
+    """Export all pair scores and classifications to CSV."""
+    with open(DEDUP_CSV_FILE, 'w', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow([
+            'page_a', 'title_a', 'page_b', 'title_b',
+            'entity_similarity', 'predicate_similarity',
+            'combined_score', 'classification', 'shared_entities'
+        ])
+
+        for pair in results['pairs']:
+            writer.writerow([
+                pair['page_a'],
+                pair.get('title_a', ''),
+                pair['page_b'],
+                pair.get('title_b', ''),
+                pair.get('entity_similarity', 0.0),
+                pair.get('predicate_similarity', 0.0),
+                pair.get('combined_score', 0.0),
+                pair.get('classification', ''),
+                '; '.join(pair.get('shared_entities', []))
+            ])
+
+    print(f"CSV saved to: {DEDUP_CSV_FILE}")
+
+
 def main():
     print("Loading knowledge graph output...")
     kg_data = load_kg_output()
@@ -243,6 +271,8 @@ def main():
     with open(DEDUP_EVAL_FILE, 'w') as f:
         json.dump(results, f, indent=2)
     print(f"\nResults saved to: {DEDUP_EVAL_FILE}")
+
+    save_csv(results)
 
     print_report(results)
 

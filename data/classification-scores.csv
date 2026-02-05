@@ -1,0 +1,286 @@
+page_id,title,triple_count,entity_count,coherence_score,routing,matched_categories
+page_0001,NHS England » Social prescribing,4,6,1.0,COHERENT,National priorities; Recruitment format; Tags
+page_0004,NHS England » Service specifications,4,5,0.76,COHERENT,Training type; National priorities; Recruitment format; Tags
+page_0005,NHS England » 10 Year Workforce Plan call for evidence,5,6,0.7,COHERENT,National priorities; Publication type
+page_0011,NHS England » Ed Smith confirmed as Audit Committee Chair of NHS Commissioning Board Authority,3,3,0.6,AMBIGUOUS,National priorities
+page_0012,Ciarán Devane confirmed as Non-Executive Director of NHS Commissioning Board Authority | NHS England,3,4,0.7,COHERENT,National priorities; Career stage
+page_0013,NHS England » Ciarán Devane confirmed as Non-Executive Director of NHS Commissioning Board Authority,3,3,0.6,AMBIGUOUS,National priorities
+page_0014,Board meeting – 2 February 2012 | NHS England,3,3,0.8,COHERENT,National priorities; Career stage; Event type
+page_0018,Chief Nursing Officer appointed | NHS England,5,8,0.775,COHERENT,Career stage; Region
+page_0019,NHS England » Chief Nursing Officer appointed,3,5,0.76,COHERENT,Career stage; Region
+page_0021,Board meeting – 13 April 2012 | NHS England,3,6,0.9,COHERENT,Tags; National priorities; Career stage; Event type
+page_0025,"Bulletin for proposed CCGs – Issue 13, 1 May 2012 | NHS England",2,4,0.7,COHERENT,Topic; Recruitment format; Tags
+page_0030,Commissioning support services: Outcome of Checkpoint 2 | NHS England,3,6,0.8,COHERENT,Tags; National priorities; Career stage; Publication type
+page_0031,Preparation for commissioning picks up pace – Barbara Hakin | NHS England,3,8,0.82,COHERENT,Profession; Tags; National priorities; Clinical discipline; Career stage
+page_0032,The Power of Information | NHS England,3,3,0.933,COHERENT,National priorities; Topic; Tags
+page_0033,CCG authorisation waves agreed | NHS England,3,4,0.7,COHERENT,Career stage; Event type
+page_0034,Great Expectations – Johnny Marshall | NHS England,3,6,0.667,AMBIGUOUS,Training type; National priorities; Career stage; Tags
+page_0035,Application waves for CCG authorisation | NHS England,3,5,0.0,CONFLICT,
+page_0036,Board meeting – 31 May 2012 | NHS England,3,5,0.72,COHERENT,Tags; National priorities; Region; Career stage; Event type
+page_0037,"Bulletin for proposed CCGs – Issue 14, 24 May 2012 | NHS England",3,6,0.6,AMBIGUOUS,News type; National priorities
+page_0038,Proposed CCG configuration and member practices published | NHS England,2,4,0.7,COHERENT,Career stage; Region
+page_0039,National Director for Patients and Information appointed | NHS England,3,3,0.8,COHERENT,Career stage; Recruitment format; Region; Tags
+page_0040,Checkpoint 2 customer survey  | NHS England,2,4,0.407,AMBIGUOUS,Topic; Tags
+page_0041,"Commissioning Support Bulletin – Issue 2, 28 May 2012 | NHS England",3,6,0.667,AMBIGUOUS,News type; Recruitment format; Tags
+page_0042,Landmark moment on the road to authorisation – Barbara Hakin | NHS England,3,6,0.7,COHERENT,Clinical discipline; National priorities; Region; Tags
+page_0043,NHS England » Board meeting – 31 May 2012,3,6,0.964,COHERENT,Tags; Training qualification; Career stage; Event type
+page_0044,NHS England » Clinical commissioning groups: proposed configurations agreed,3,5,0.76,COHERENT,Topic; Career stage
+page_0045,NHS England » Proposed CCG configuration and member practices published,2,4,0.7,COHERENT,National priorities; Topic; Career stage; Publication type
+page_0046,NHS England » CCG authorisation waves agreed,3,5,0.64,AMBIGUOUS,Career stage; Event type
+page_0048,NHS England » Landmark moment on the road to authorisation – Barbara Hakin,3,6,0.867,COHERENT,Tags; National priorities; Topic; Region; Clinical discipline
+page_0049,NHS England » National Director for Patients and Information appointed,2,3,0.8,COHERENT,Career stage; Recruitment format; Region; Tags
+page_0051,NHS England » Regional Directors appointed,5,10,0.857,COHERENT,Tags; National priorities; Recruitment format; Region; Career stage
+page_0052,NHS England » The Power of Information,3,3,0.933,COHERENT,National priorities; Topic; Tags
+page_0054,Authorisation assessors guide published | NHS England,3,5,0.64,AMBIGUOUS,Topic; Career stage
+page_0055,"NHS England » Skills and behaviours to engage, motivate and lead others (including across your CCG membership)",3,5,0.88,COHERENT,Tags; National priorities; Recruitment format; Career stage; Event type
+page_0067,NHS England » Awareness and skills to ensure the financial affairs of the CCG are well managed,3,5,0.76,COHERENT,Tags; National priorities; Recruitment format; Clinical discipline; Publication type
+page_0069,"NHS England » Understanding and skill to identify requirements, secure support and monitor performance",3,6,0.9,COHERENT,Training type; Tags; National priorities; Recruitment format; Region; Clinical discipline; Career stage; Publication type
+page_0070,"NHS England » Knowledge of the issues involved in partnering with officers and members in local government, and in giving public account for CCG decisions. Understanding of the importance of effective relationships. Skills in presenting plans to a public committee",3,5,0.88,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Publication type
+page_0075,Single Operating Model for Commissioning Primary Care | NHS England,2,4,1.0,COHERENT,Profession; Tags; National priorities; Topic; Region; Clinical discipline; Career stage
+page_0076,Who’s inside the tent? – Johnny Marshall | NHS England,3,5,0.52,AMBIGUOUS,Profession; Clinical discipline; National priorities; Region
+page_0079,NHS England » Single Operating Model for Commissioning Primary Care,3,6,0.9,COHERENT,Clinical discipline; Topic; Career stage; Tags
+page_0080,Full set of first wave authorisation applications received on time  | NHS England,3,6,0.6,AMBIGUOUS,Recruitment format; Career stage; Region; Tags
+page_0081,Our NHS care objectives: a draft mandate to the NHS Commissioning Board | NHS England,3,6,0.9,COHERENT,National priorities; Career stage; Region
+page_0082,"Bulletin for proposed CCGs – Issue 16, 4 July 2012 | NHS England",3,4,0.55,AMBIGUOUS,News type
+page_0083,CCG clinical leaders invited to join new commissioning assembly | NHS England,3,6,0.9,COHERENT,Profession; Training type; Tags; Topic; Career stage
+page_0084,Your chance to work with the NHS to help challenge and shape the health system of the future | NHS England,3,5,0.712,COHERENT,National priorities; Career stage; Tags
+page_0085,The Matrix – Johnny Marshall | NHS England,2,4,0.85,COHERENT,Tags; National priorities; Topic; Recruitment format; Publication type
+page_0086,NHS Commissioning Board Authority recruits Very Senior Managers (VSM) | NHS England,3,6,0.8,COHERENT,Tags; Topic; Recruitment format; Clinical discipline; Career stage; Publication type
+page_0088,Board Authority appoints first CSS managing directors and announces decision to host | NHS England,3,5,0.52,AMBIGUOUS,Career stage
+page_0091,Moving on at pace – Barbara Hakin | NHS England,3,5,0.592,AMBIGUOUS,Recruitment format; Tags
+page_0093,Appointment of the first local area team directors | NHS England,6,12,0.7,COHERENT,National priorities; Career stage; Region
+page_0095,The Local Health Resilience Partnerships: Implementation information and joint resource pack | NHS England,3,6,0.8,COHERENT,Tags; National priorities; Topic; Clinical discipline; Publication type
+page_0096,Our commitment to improve – Jane Cummings | NHS England,3,5,0.88,COHERENT,Profession; National priorities; Region; Tags
+page_0100,NHS England » Board Authority appoints first CSS managing directors and announces decision to host,3,2,0.7,COHERENT,Career stage
+page_0101,NHS England » Operations directorate: key directors appointed,3,6,0.764,COHERENT,Topic; Recruitment format; Region; Clinical discipline; Career stage; Publication type
+page_0102,NHS England » Full set of first wave authorisation applications received on time,3,4,0.55,AMBIGUOUS,Career stage
+page_0104,NHS England » The Local Health Resilience Partnerships: Implementation information and joint resource pack,3,5,0.88,COHERENT,Clinical discipline; National priorities; Tags
+page_0105,NHS England » The Local Health Resilience Partnerships: Implementation information and joint resource pack,2,4,0.85,COHERENT,Clinical discipline; National priorities; Tags
+page_0109,NICE reveals its recommended measures for the NHS Commissioning Outcomes Framework | NHS England,3,6,0.9,COHERENT,Tags; National priorities; Topic; Career stage; Publication type
+page_0111,Insights from scenario workshop published | NHS England,3,6,0.6,AMBIGUOUS,Tags; Recruitment format; Region; Career stage; Publication type
+page_0114,A new relationship between citizens and the NHS begins … – Roz Davies | NHS England,2,3,0.8,COHERENT,Topic; Career stage; Tags
+page_0116,"Bulletin for proposed CCGs – Issue 19, 24 August 2012 | NHS England",3,4,0.65,AMBIGUOUS,Profession; Training type; Topic; News type
+page_0117,"Citius, Altius, Fortius – Johnny Marshall | NHS England",3,5,0.76,COHERENT,Profession; Recruitment format; Region; Tags
+page_0118,Introducing the NHS.UK Alpha | NHS.UK Alpha,3,6,0.6,AMBIGUOUS,National priorities; Career stage; Tags
+page_0119,NHS.UK: tackling the big questions | NHS.UK Alpha,3,6,0.7,COHERENT,Profession; National priorities; Publication type; Tags
+page_0121,Home - NHS Digital,3,5,0.76,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0124,Home - NHS Digital,3,5,0.72,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0125,Home - NHS Digital,3,5,0.76,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0126,Home - NHS England Digital,3,6,1.0,COHERENT,National priorities; Career stage; Publication type; Tags
+page_0127,Home - NHS Digital,3,5,0.347,CONFLICT,Clinical discipline
+page_0129,Home - NHS Digital,3,5,0.76,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0131,Home - NHS Digital,3,5,0.76,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0132,Home - NHS Digital,3,6,0.8,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0133,Home - NHS Digital,3,5,0.88,COHERENT,Profession; Tags; National priorities; Topic; Clinical discipline
+page_0134,Home - NHS Digital,1,2,0.7,COHERENT,Tags
+page_0135,Home - NHS Digital,3,5,0.76,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0136,Home - NHS Digital,3,5,0.88,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0139,Home - NHS Digital,3,6,0.767,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0143,Home - NHS Digital,3,5,0.72,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0145,Accessibility - NHS Digital,3,4,0.809,COHERENT,National priorities; Career stage; Region; Tags
+page_0147,GPES Data for Pandemic Planning and Research – Data Protection Impact Assessment PDF - disproportionate burden assessment - NHS Digital,3,5,1.0,COHERENT,National priorities; Topic; Publication type; Tags
+page_0148,Historic PDF conversion: Disproportionate burden assessment - NHS Digital,4,6,0.828,COHERENT,National priorities; Career stage; Publication type; Tags
+page_0150,NHS App disproportionate burden assessment - NHS Digital,4,7,0.829,COHERENT,National priorities; Recruitment format; Publication type; Tags
+page_0151,Breaking down barriers - women in IT - NHS Digital,3,5,0.76,COHERENT,Recruitment format; Tags
+page_0153,Emma Summers - NHS Digital,3,5,0.64,AMBIGUOUS,Training type; Tags
+page_0157,Sally Bogg - NHS Digital,3,3,0.6,AMBIGUOUS,Tags
+page_0161,Careers - NHS Digital,2,4,0.97,COHERENT,Profession; National priorities; Tags
+page_0163,Shadow Me Programme - NHS Digital,3,4,1.0,COHERENT,Tags; Training type; Publication type
+page_0165,Apprenticeship scheme - NHS Digital,3,6,0.849,COHERENT,Training type; National priorities; Tags
+page_0166,Graduate scheme - NHS Digital,3,4,0.812,COHERENT,Training type; Tags
+page_0168,Product and delivery management graduate scheme - NHS Digital,3,4,0.85,COHERENT,Recruitment format; Tags
+page_0169,Summer internships - NHS Digital,3,4,0.7,COHERENT,Publication type; Tags
+page_0170,Trainee stories - NHS Digital,3,5,0.64,AMBIGUOUS,National priorities; Recruitment format; Tags
+page_0171,User centred design graduate scheme - NHS Digital,3,6,1.0,COHERENT,National priorities; Topic; Publication type; Tags
+page_0172,Working at NHS Digital - NHS Digital,2,3,1.0,COHERENT,National priorities; Recruitment format; Tags
+page_0173,Contact us - NHS Digital,3,6,0.9,COHERENT,Profession; Clinical discipline; National priorities; Tags
+page_0177,Disclosure Log - NHS Digital,3,3,0.8,COHERENT,National priorities; Tags
+page_0178,Freedom of information request NIC-563233-P5Y0W - NHS Digital,3,5,0.88,COHERENT,Profession; Tags; National priorities; Topic; Recruitment format; Region; Publication type
+page_0179,Freedom of information request NIC-422731-F5H0J - NHS Digital,5,2,0.7,COHERENT,Tags
+page_0183,Freedom of Information disclosure log March 2021 - NHS Digital,4,7,0.829,COHERENT,Region; Tags
+page_0184,Freedom of information request NIC-440206-R0L0Q - NHS Digital,3,5,0.76,COHERENT,Tags; Recruitment format; Region; Publication type
+page_0185,Freedom of information request NIC-440574-D9V9P - NHS Digital,3,6,0.7,COHERENT,Profession; Tags
+page_0189,Freedom of information request NIC-409137-W1S2H - NHS Digital,3,4,1.0,COHERENT,Profession; Career stage; Tags
+page_0192,Cookies we use on our site - NHS Digital,3,5,0.76,COHERENT,National priorities; Publication type
+page_0197,Annual inclusion report 2021-22 - NHS Digital,3,5,1.0,COHERENT,Profession; Tags; Region; Publication type
+page_0201,Our pay gaps - NHS England Digital,3,6,0.7,COHERENT,National priorities; Recruitment format; Career stage; Publication type
+page_0204,Workforce Disability Equality Standard (WDES) - NHS England Digital,4,7,0.743,COHERENT,National priorities; Recruitment format; Publication type; Tags
+page_0206,A look at the diversity of our workforce today - NHS Digital,3,5,0.64,AMBIGUOUS,Tags; National priorities; Publication type
+page_0208,Our workforce demographics 2018 - NHS Digital,3,6,0.9,COHERENT,Tags; National priorities; Recruitment format; Region; Clinical discipline; Publication type
+page_0211,"Data we collect, analyse, publish and share - NHS Digital",3,5,0.88,COHERENT,Tags; National priorities; Publication type
+page_0212,Digital inclusion for health and social care - NHS Digital,3,6,0.9,COHERENT,Training type; Tags; National priorities; Topic; Region; Publication type
+page_0217,Who we can work with - NHS Digital,2,4,0.85,COHERENT,Clinical discipline; National priorities; Topic; Tags
+page_0218,"Digital, research, informatics and virtual environments (DRIVE) partnership - NHS Digital",3,6,0.7,COHERENT,Training type; Delivery method; Tags; National priorities; Publication type
+page_0220,Data Provision Notices (DPNs) - NHS Digital,3,6,0.7,COHERENT,Tags; Recruitment format; Publication type
+page_0222,Adult Social Care Data Collections - NHS Digital,3,6,0.9,COHERENT,Tags; National priorities; Recruitment format; Region; Publication type
+page_0223,Adult social care management system coronavirus (COVID-19) status collection - NHS Digital,3,6,1.0,COHERENT,Tags; National priorities; Recruitment format; Clinical discipline; Publication type
+page_0224,Alcohol Dependence Programme Patient Level Data Collection - NHS England Digital,3,6,0.8,COHERENT,Profession; Tags; National priorities; Topic; Publication type
+page_0225,Ambulance Data Set Pilot (ADS) Data Provision Notice - NHS Digital,3,6,1.0,COHERENT,Profession; Tags; National priorities; Recruitment format; Region; Clinical discipline; Publication type
+page_0227,Board Vacancies and Commercial Spend - NHS Digital,3,4,1.0,COHERENT,Profession; Tags; National priorities; Topic; Region; Career stage
+page_0228,Breast and cosmetic implant registry (NHS and private providers) Data Provision Notice - NHS Digital,3,5,1.0,COHERENT,Tags; National priorities; Topic; Region; Publication type
+page_0229,Breast and Cosmetic Implant Registry for Northern Ireland - NHS Digital,2,3,1.0,COHERENT,Tags; National priorities; Topic; Region; Publication type
+page_0230,Cancer Pathways Analysis - NHS Digital,3,5,0.88,COHERENT,Training type; Tags; National priorities; Recruitment format; Region; Clinical discipline; Publication type
+page_0238,GPES Cardiovascular Disease Prevention Audit - NHS Digital,3,5,0.93,COHERENT,Tags; National priorities; Recruitment format; Region; Publication type
+page_0244,Client-Level Adult Social Care Data (No. 2) - NHS Digital,3,6,1.0,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Publication type
+page_0245,Cloud-based telephony - NHS England Digital,3,6,1.0,COHERENT,Tags; National priorities; Region; Clinical discipline; Publication type
+page_0246,Cloud-based telephony - NHS England Digital,3,5,1.0,COHERENT,Tags; National priorities; Region; Clinical discipline; Publication type
+page_0247,COVID-19 at-risk patients Data Provision Notices - NHS Digital,3,6,1.0,COHERENT,Tags; National priorities; Topic; Region; Publication type
+page_0248,COVID-19 at-risk patients Data Provision Notices - NHS Digital,3,6,1.0,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Clinical discipline
+page_0249,COVID-19 at-risk patients Data Provision Notices - NHS Digital,3,6,0.9,COHERENT,National priorities; Topic; Tags
+page_0251,COVID-19 at-risk patients Data Provision Notices - NHS Digital,1,2,1.0,COHERENT,Topic; Tags
+page_0254,COVID-19 At Risk Patients - NHS Digital,3,4,1.0,COHERENT,National priorities; Region; Publication type; Tags
+page_0255,COVID-19 At Risk Patients - NHS Digital,3,4,1.0,COHERENT,National priorities; Region; Publication type; Tags
+page_0258,COVID-19 At Risk Patients - NHS Digital,3,5,1.0,COHERENT,National priorities; Region; Tags
+page_0259,COVID-19 at-risk patients Data Provision Notices - NHS Digital,3,5,1.0,COHERENT,National priorities; Topic; Publication type; Tags
+page_0261,COVID-19 Situation Reports - NHS Digital,3,6,0.9,COHERENT,Tags; National priorities; Topic; Career stage; Publication type
+page_0262,COVID-19 Unpaid Carers Data - NHS Digital,3,6,0.9,COHERENT,Training type; Tags; National priorities; Recruitment format; Region; Clinical discipline; Publication type
+page_0263,COVID-19 Vaccine Data - NHS Digital,3,5,1.0,COHERENT,Training type; Tags; National priorities; Recruitment format; Region; Publication type
+page_0264,COVID-19 Vaccine Data transparency notice - NHS Digital,3,5,0.833,COHERENT,Tags; Recruitment format; Publication type
+page_0267,CP-IS extract to NHS England for Coronavirus (COVID-19) child health safeguarding actions - NHS Digital,3,2,0.7,COHERENT,Tags; National priorities; Recruitment format; Region; Clinical discipline
+page_0268,Data Services for Commissioners Data Provision Notice - NHS Digital,3,6,1.0,COHERENT,Training type; Tags; National priorities; Topic; Publication type
+page_0270,Diabetes Transition and Young Adult Care Pilots – Evaluation - NHS England Digital,3,6,0.9,COHERENT,Clinical discipline; National priorities; Tags
+page_0271,Electronic Prescribing and Medicines Administration (EPMA) Data - NHS Digital,3,2,1.0,COHERENT,Clinical discipline; Tags
+page_0274,General Practice and Primary Care Network Workforce - NHS Digital,2,3,1.0,COHERENT,National priorities; Recruitment format; Region; Clinical discipline; Publication type
+page_0275,General Practice Data for Planning and Research - NHS Digital,3,5,1.0,COHERENT,Tags; National priorities; Topic; Clinical discipline; Publication type
+page_0277,GP appointments data collection in support of winter pressures version 2: categorisation - NHS Digital,3,5,1.0,COHERENT,Tags; National priorities; Recruitment format; Region; Clinical discipline; Publication type
+page_0279,GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital,3,5,0.76,COHERENT,Tags; National priorities; Topic; Clinical discipline; Publication type
+page_0281,GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital,3,6,1.0,COHERENT,Clinical discipline; National priorities; Publication type; Tags
+page_0284,GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital,3,4,0.7,COHERENT,Clinical discipline; National priorities; Publication type; Tags
+page_0286,Health Education England’s inaugural Board meeting | Health Education England,3,5,0.64,AMBIGUOUS,National priorities; Recruitment format; Region; Career stage; Event type
+page_0287,Ian Cumming confirmed as Chief Executive of Health Education England | Health Education England,3,4,0.55,AMBIGUOUS,National priorities; Region
+page_0288,HEE appoints its senior management team | Health Education England,3,4,0.55,AMBIGUOUS,National priorities; Topic; Region
+page_0289,Three Non-Executive Directors appointed | Health Education England,3,4,0.0,CONFLICT,
+page_0290,BTBC steps forward | Health Education England,3,6,0.86,COHERENT,Training type; National priorities; Tags
+page_0291,Testing out technology | Health Education England,3,6,0.762,COHERENT,Event type; Profession; Training type; Tags; National priorities; Topic; Career stage; Publication type
+page_0292,Medical Director appointed | Health Education England,3,4,0.7,COHERENT,National priorities; Region
+page_0293,Our Strategic Intent | Health Education England,3,5,0.64,AMBIGUOUS,National priorities; Career stage; Region
+page_0296,HEE recommends authorisation of 13 Local Education and Training Boards | Health Education England,3,4,0.85,COHERENT,Training type; Career stage; Recruitment format
+page_0297,Health Education England » Health Education England to pilot healthcare experience for aspirant nurses before university,3,5,0.88,COHERENT,Profession; Training type; Tags; National priorities; Career stage
+page_0299,Health Education England » Shadowing for Foundation Year 1 (F1) Doctors,3,6,0.6,AMBIGUOUS,National priorities; Tags
+page_0301,Health Education England » Top nurses to oversee pilots on pre-degree care experience,3,6,0.9,COHERENT,Profession; National priorities; Recruitment format; Region
+page_0303,Health Education England » New national dementia training launched for healthcare staff,3,6,0.9,COHERENT,National priorities; Topic; Tags
+page_0305,Health Education England » Help support and shape workforce planning within the NHS,3,4,0.7,COHERENT,National priorities; Career stage; Region; Publication type
+page_0306,Health Education England » Designing HEE’s new Multi Professional Advisory Body (MPAB),2,4,0.85,COHERENT,Clinical discipline; Publication type; Tags
+page_0307,Health Education England » Celebrating our people – 65 years of NHS workforce development,3,5,0.64,AMBIGUOUS,Tags; National priorities; Recruitment format; Region; Career stage
+page_0309,Health Education England » Health Education West Midlands wins top national patient safety award,3,4,1.0,COHERENT,Profession; Tags; National priorities; Region; Clinical discipline
+page_0310,Health Education England » HEE responds to the Don Berwick report,3,6,0.6,AMBIGUOUS,National priorities; Topic; Region
+page_0311,Health Education England » HEE welcomes new generation of doctors,3,5,0.76,COHERENT,National priorities; Region
+page_0313,Health Education England »  Pre-nursing experience pilots recruit aspirant nurses to get caring experience,3,6,0.9,COHERENT,Training type; National priorities; Event type; Tags
+page_0314,Health Education England » New Non-Executive Director announced for HEE,3,4,0.85,COHERENT,Clinical discipline; National priorities; Region
+page_0316,Health Education England » Supplying pharmacy graduates – a consultation,3,5,0.72,COHERENT,Clinical discipline; National priorities; Publication type; Tags
+page_0321,Health Education England » Postgraduate Dean receives award for surgical education and training,3,5,0.36,CONFLICT,National priorities; Tags
+page_0322,Health Education England » HEE supports improved training for paramedics,3,6,0.9,COHERENT,Training type; Tags; National priorities; Topic; Recruitment format; Region
+page_0323,Health Education England » HEE supports improved training for paramedics,3,6,0.867,COHERENT,Tags; National priorities; Topic; Region; Clinical discipline; Career stage; Publication type
+page_0324,Health Education England » HEE supports fourteen areas leading the way in delivering better joined up care.,4,8,0.625,AMBIGUOUS,National priorities; Recruitment format; Tags
+page_0325,Health Education England » HEE Chief Executive on Francis Response,3,6,0.76,COHERENT,Profession; National priorities; Region
+page_0326,"Health Education England » HEE delivers dementia awareness training to more than 100,000 staff to improve care for patients",3,6,0.7,COHERENT,National priorities; Region
+page_0327,Health Education England » Non-surgical cosmetic interventions: Call for Evidence,3,4,0.7,COHERENT,National priorities; Recruitment format; Region; Tags
+page_0330,Health Education England » Aspirant nurses describe journey so far on pioneering care pilots,1,2,1.0,COHERENT,Profession; National priorities; Region
+page_0331,Health Education England » Broadening the Foundation Programme report,3,5,0.76,COHERENT,Training type; National priorities; Topic; Region; Clinical discipline; Publication type
+page_0333,Health Education England » Consultation skills for pharmacy practice framework launched,3,5,0.76,COHERENT,National priorities; Region; Publication type; Tags
+page_0334,Health Education England » New values mapping tool launched,3,4,0.55,AMBIGUOUS,Training type; Tags
+page_0335,Health Education England » Government and NHS discuss expansion of healthcare army reservists,3,5,0.64,AMBIGUOUS,Training type; National priorities; Career stage; Region
+page_0336,Health Education England » Government and NHS discuss expansion of healthcare army reservists,3,6,0.7,COHERENT,Training type; Tags; National priorities; Recruitment format; Region
+page_0339,NHS England » Board Meeting – 9 December 2011,3,6,0.76,COHERENT,Training type; National priorities; Career stage; Event type
+page_0340,NHS England » NHS Commissioning Board Special Health Authority announces designate executive directors at first meeting,3,5,0.64,AMBIGUOUS,Recruitment format; National priorities; Career stage; Region
+page_0343,NHS England » Equality Analysis of NHS Commissioning Board Authority Functions,3,6,1.0,COHERENT,Tags; National priorities; Recruitment format; Career stage; Event type
+page_0344,Commissioning Outcomes Framework consultation  | NHS England,3,4,0.79,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Publication type
+page_0345,National Director of Finance appointed | NHS England,3,4,0.85,COHERENT,Region; Recruitment format; Career stage; Tags
+page_0346,NHS England » Commissioning Outcomes Framework consultation,3,5,0.712,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Publication type
+page_0347,NHS England » Commissioning intelligence report,3,6,0.9,COHERENT,Tags; Topic; Publication type
+page_0348,NHS England » National Director of Finance appointed,3,5,0.76,COHERENT,Recruitment format; Career stage; Region; Tags
+page_0350,NHS England » Board meeting – 13 April 2012,3,6,0.9,COHERENT,Tags; National priorities; Career stage; Event type
+page_0351,Wave 1 applications for CCG authorisation | NHS England,3,4,0.85,COHERENT,Topic; Career stage
+page_0353,CCG indicative running cost allowances | NHS England,3,6,0.9,COHERENT,Tags; National priorities; Region; Career stage; Event type
+page_0356,Secretary of State’s second accountability meeting with the Commissioning Board Authority | NHS England,4,5,0.64,AMBIGUOUS,National priorities; Event type; Publication type
+page_0357,Clinical commissioning groups: proposed configurations agreed | NHS England,3,5,0.88,COHERENT,National priorities; Topic; Recruitment format; Region; Career stage
+page_0358,NHS England » Secretary of State’s second accountability meeting with the Commissioning Board Authority,3,4,0.7,COHERENT,Career stage; Publication type; Event type
+page_0359,NHS England » Briefing note on CCG indicative running cost allowances,3,6,0.6,AMBIGUOUS,Recruitment format; Career stage; Region; Publication type
+page_0361,NHS England » CCG indicative running cost allowances,2,4,0.7,COHERENT,Career stage; Event type
+page_0362,NHS England » Transfer of Patient Safety function to the NHS Commissioning Board Authority,3,4,0.85,COHERENT,Tags; National priorities; Recruitment format; Region; Clinical discipline; Career stage; Publication type
+page_0363,NHS England » Wave 1 applications for CCG authorisation,3,6,0.7,COHERENT,Topic; Career stage
+page_0364,NHS England » Videos of the Board meeting held on 31 May 2012,3,6,0.9,COHERENT,Training type; National priorities; Publication type; Career stage; Event type
+page_0365,NHS England » Awareness and skills to ensure the CCG will be able to undertake procurement in accordance with best practice,3,6,1.0,COHERENT,Profession; Training type; Tags; Topic; Publication type; Career stage; Event type
+page_0367,"NHS England » Skills in crafting messages for patients and public, capability in handling interviews with the Press",3,6,1.0,COHERENT,Recruitment format; Career stage; Tags
+page_0369,Awareness of and plans for succession planning and talent management | NHS England,3,6,0.8,COHERENT,Profession; Tags; National priorities; Career stage; Publication type
+page_0370,New web tool signposts learning and development opportunities | NHS England,3,6,0.862,COHERENT,National priorities; Topic; Career stage; Tags
+page_0371,New director appointments to the NHS Commissioning Board | NHS England,2,3,0.6,AMBIGUOUS,Career stage
+page_0372,Choice and Competition Framework | NHS England,3,5,0.88,COHERENT,Tags; National priorities; Publication type; Career stage; Event type
+page_0373,NHS Commissioning Board Authority at the NHS Confederation Annual Conference | NHS England,3,5,0.0,CONFLICT,
+page_0374,eXhibition eXchange at Commissioning 2012 | NHS England,2,4,0.7,COHERENT,Profession; Career stage
+page_0375,NHS England » New web tool signposts learning and development opportunities,3,6,0.962,COHERENT,National priorities; Topic; Career stage; Tags
+page_0377,NHS England » eXhibition eXchange at Commissioning 2012,3,6,1.0,COHERENT,Tags; Region; Clinical discipline; Career stage; Publication type
+page_0378,NHS England » New director appointments to the NHS Commissioning Board,2,3,0.0,CONFLICT,
+page_0379,NHS England » New director appointments to the NHS Commissioning Board,3,4,0.0,CONFLICT,
+page_0380,Annual Report and Accounts 2011/12 published | NHS England,3,5,1.0,COHERENT,Topic; Career stage; Publication type
+page_0381,Strategic clinical networks | NHS England,3,6,1.0,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Clinical discipline; Career stage; Publication type
+page_0383,NHS England » Annual report,3,4,0.7,COHERENT,Career stage; Region; Publication type
+page_0385,NHS England » Babies to get new test for eye cancer in the womb to save their sight,3,6,0.5,AMBIGUOUS,Clinical discipline; National priorities
+page_0386,NHS England » The new Congenital Heart Disease review,3,5,0.712,COHERENT,National priorities; Region; Tags
+page_0390,NHS England » Bulletins,2,4,0.85,COHERENT,News type; Tags; National priorities; Recruitment format; Region; Publication type
+page_0393,NHS England » Health visitors bulletin,2,3,1.0,COHERENT,News type; National priorities; Region; Publication type
+page_0398,NHS England » Business as usual,3,2,0.0,CONFLICT,
+page_0400,NHS England » Our 2022/23 business plan,2,4,0.55,AMBIGUOUS,Region; Publication type
+page_0401,"NHS England » 1. Support the NHS to attract and retain more people, working differently in a compassionate and inclusive culture",3,6,0.767,COHERENT,Profession; Tags; National priorities; Recruitment format; Region; Publication type
+page_0402,NHS England » 10. Improve productivity and reduce variation across the health system,3,6,0.8,COHERENT,Training type; National priorities; Recruitment format; Region; Career stage; Publication type
+page_0403,NHS England » 2. Continue to lead the NHS in responding to COVID-19 ever more effectively,4,6,0.7,COHERENT,Clinical discipline; Topic; Career stage; Tags
+page_0405,NHS England » 2. Continue to lead the NHS in responding to COVID-19 ever more effectively,2,3,1.0,COHERENT,National priorities; Tags
+page_0406,NHS England » 2. Continue to lead the NHS in responding to COVID-19 ever more effectively,4,6,0.7,COHERENT,Clinical discipline; Topic; Career stage; Tags
+page_0408,"NHS England » 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",1,2,0.7,COHERENT,Tags
+page_0409,"NHS England » 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",3,3,0.6,AMBIGUOUS,Tags
+page_0410,"NHS England » 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",3,4,0.7,COHERENT,Tags; Career stage; Publication type
+page_0411,"NHS England » 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",3,6,0.8,COHERENT,Tags; National priorities; Publication type
+page_0413,NHS England » 4. Improve the responsiveness of urgent and emergency care and increase its capacity,3,4,0.55,AMBIGUOUS,Publication type
+page_0414,NHS England » 4. Improve the responsiveness of urgent and emergency care and increase its capacity,3,4,0.7,COHERENT,National priorities; Publication type; Tags
+page_0415,NHS England » 4. Improve the responsiveness of urgent and emergency care and increase its capacity,3,5,0.88,COHERENT,Tags; National priorities; Topic; Region; Clinical discipline
+page_0416,NHS England » 4. Improve the responsiveness of urgent and emergency care and increase its capacity,3,3,0.6,AMBIGUOUS,Region
+page_0417,NHS England » 5. Improve access to primary care,3,6,0.9,COHERENT,Profession; Tags; National priorities; Topic; Recruitment format; Region; Clinical discipline
+page_0418,NHS England » 5. Improve access to primary care,3,5,0.76,COHERENT,Profession; Tags; National priorities; Topic; Region
+page_0420,NHS England » 7. Deliver improvements in maternity care,3,5,0.84,COHERENT,Tags; National priorities; Topic; Recruitment format; Region
+page_0423,NHS England » Foreword from our chair,3,6,0.771,COHERENT,Region; Tags
+page_0424,NHS England » Introduction from our chief executive,3,6,0.9,COHERENT,News type; Tags; National priorities; Recruitment format; Region; Publication type; Event type
+page_0425,Services - NHS Digital,2,3,0.923,COHERENT,Delivery method; Tags; National priorities; Recruitment format; Publication type
+page_0426,Systems and services - NHS Digital,3,4,0.85,COHERENT,Training type; Tags; National priorities; Clinical discipline; Publication type
+page_0429,Acute Data Alignment Programme (ADAPt) - NHS Digital,3,4,0.85,COHERENT,Training type; Tags; National priorities; Clinical discipline; Publication type
+page_0430,Acute Data Alignment Programme (ADAPt) - Piloting private healthcare data in NHS Digital - NHS Digital,3,5,0.88,COHERENT,Training type; Tags; National priorities; Clinical discipline; Publication type
+page_0431,Acute Data Alignment Programme (ADAPt) - NHS Digital,3,4,0.85,COHERENT,Training type; Tags; Recruitment format; Clinical discipline; Publication type
+page_0435,Add or correct your contact details service - NHS Digital,3,6,0.9,COHERENT,Profession; Tags; National priorities; Topic; Recruitment format
+page_0440,Case studies - NHS England Digital,2,4,0.792,COHERENT,Tags; National priorities; Publication type
+page_0443,Spread and scale AI - NHS England Digital,3,5,0.76,COHERENT,Tags; Recruitment format; Career stage; Publication type
+page_0445,API platform - NHS England Digital,3,5,1.0,COHERENT,Profession; Tags; National priorities; Topic; Region
+page_0446,Building healthcare APIs - NHS England Digital,3,5,0.88,COHERENT,National priorities; Region; Tags
+page_0447,Developer integration survey - January 2023 - NHS Digital,3,6,0.7,COHERENT,Training type; National priorities; Recruitment format; Tags
+page_0448,Artificial data pilot - NHS Digital,3,6,0.7,COHERENT,Tags; Publication type
+page_0450,Better Connectivity for Health and Care (BC4HC) - NHS Digital,3,6,0.9,COHERENT,Profession; Training type; National priorities; Tags
+page_0451,Birth notification service - NHS Digital,3,6,0.8,COHERENT,National priorities; Topic; Region; Tags
+page_0455,The birth notification process - NHS Digital,3,5,0.0,CONFLICT,
+page_0457,Things to know about the Birth Notification Application - NHS Digital,3,6,0.7,COHERENT,National priorities; Career stage; Recruitment format
+page_0458,Birth Notification Application guide for maternity - NHS Digital,3,4,0.7,COHERENT,Clinical discipline; Tags
+page_0459,Accessing the Birth Notification Application - NHS Digital,3,6,1.0,COHERENT,National priorities; Recruitment format; Tags
+page_0462,Registering a birth - NHS Digital,2,4,0.946,COHERENT,Clinical discipline; National priorities; Topic; Tags
+page_0463,Things to know about the Birth Notification Application - NHS Digital,3,6,0.8,COHERENT,National priorities; Career stage; Recruitment format
+page_0464,Birth Notification Application (BNA) - quick reference guide - NHS Digital,3,5,0.832,COHERENT,National priorities; Recruitment format; Publication type; Tags
+page_0465,Blueprinting - NHS England Digital,3,5,0.88,COHERENT,Training type; Tags; National priorities; Recruitment format; Region
+page_0466,Booking and Referral Standard - NHS Digital,3,3,0.8,COHERENT,Recruitment format; Tags
+page_0467,Information governance - NHS England Digital,3,6,0.969,COHERENT,Tags; National priorities; Recruitment format; Clinical discipline; Publication type
+page_0470,Supplier status: all suppliers and applications - NHS Digital,3,6,0.7,COHERENT,News type; Training type; Tags; National priorities; Recruitment format; Clinical discipline
+page_0471,Supplier status: Ambulance service referral (including validation) - NHS Digital,3,4,1.0,COHERENT,Profession; Recruitment format; Tags
+page_0473,Supplier status: Emergency department referral (and booking) - NHS Digital,3,5,0.88,COHERENT,Clinical discipline; National priorities; Recruitment format; Tags
+page_0474,Supplier status: GP to Pharmacy CPCS Minor Illness - NHS Digital,3,2,0.7,COHERENT,Clinical discipline; National priorities; Recruitment format
+page_0475,Bureau Service Portal - NHS Digital,3,6,0.9,COHERENT,Tags; National priorities; Recruitment format; Region; Publication type
+page_0476,Calculating Quality Reporting Service (CQRS) - NHS Digital,3,4,0.961,COHERENT,Profession; Training type; Tags; National priorities; Clinical discipline; Publication type
+page_0477,Calculating Quality Reporting Service (CQRS) releases - NHS Digital,3,4,0.94,COHERENT,News type; Profession; Tags; Career stage; Publication type
+page_0478,CQRS user guides - NHS Digital,3,6,1.0,COHERENT,National priorities; Recruitment format; Publication type; Tags
+page_0479,Enhanced services 2019-2020 CQRS manual entry user guide - NHS Digital,3,5,0.88,COHERENT,Clinical discipline; National priorities; Publication type; Tags
+page_0480,Full QOF manual entry guide In the event the automated extract fails - NHS Digital,3,6,0.5,AMBIGUOUS,Tags
+page_0482,Calculating Quality Reporting Service (CQRS) - NHS Digital,3,6,1.0,COHERENT,Profession; Tags; National priorities; Topic; Region; Clinical discipline; Publication type
+page_0486,NHS Surplus Land data collection - NHS England Digital,3,5,0.88,COHERENT,News type; Training type; Tags; National priorities; Publication type
+page_0488,Patient-Led Assessments of the Care Environment (PLACE) - NHS Digital,3,5,0.88,COHERENT,National priorities; Recruitment format; Tags
+page_0489,Patient-led assessments of the care environment dementia-friendly environments: guidance for assessors - NHS England Digital,3,7,0.914,COHERENT,Tags; National priorities; Topic; Clinical discipline; Publication type
+page_0490,Guidance and information for patient assessors - NHS England Digital,2,3,0.8,COHERENT,National priorities; Publication type; Tags
+page_0493,Domain 1 - Preventing people from dying prematurely - NHS Digital,3,6,0.6,AMBIGUOUS,Training type; Region; Clinical discipline; Tags
+page_0495,Domain 4 - Ensuring people have a positive experience of care - NHS Digital,2,4,0.957,COHERENT,National priorities; Recruitment format; Region; Tags
+page_0496,Domain 5 - Treating and caring for people in a safe environment and protecting them from avoidable harm - NHS Digital,3,6,0.9,COHERENT,Topic; Publication type; Tags
+page_0497,Maternity and Neonatal Data Hub - NHS Digital,3,6,1.0,COHERENT,Tags; National priorities; Topic; Recruitment format; Region; Publication type
+page_0498,Prescribing - NHS Digital,3,6,0.9,COHERENT,Profession; Tags; National priorities; Recruitment format; Region; Publication type
+page_0502,Primary care - NHS Digital,3,9,0.933,COHERENT,Clinical discipline; National priorities; Tags

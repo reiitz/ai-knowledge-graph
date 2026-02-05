@@ -25,21 +25,17 @@ def call_llm(model, user_prompt, api_key, system_prompt=None, max_tokens=1000, t
     }
     
     messages = []
-    
+
+    # Merge system prompt into user prompt for compatibility with local LLMs
+    # that don't support the system role (like Mistral in LM Studio)
     if system_prompt:
-        messages.append({
-            'role': 'system',
-            'content': system_prompt
-        })
-    
+        combined_prompt = f"{system_prompt}\n\n{user_prompt}"
+    else:
+        combined_prompt = user_prompt
+
     messages.append({
         'role': 'user',
-        'content': [
-            {
-                'type': 'text',
-                'text': user_prompt
-            }
-        ]
+        'content': combined_prompt
     })
     
     payload = {
@@ -52,7 +48,8 @@ def call_llm(model, user_prompt, api_key, system_prompt=None, max_tokens=1000, t
     response = requests.post(
         base_url,
         headers=headers,
-        json=payload
+        json=payload,
+        timeout=300  # 5 minute timeout for slow local LLMs
     )
     
     if response.status_code == 200:
