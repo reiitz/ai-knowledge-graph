@@ -1,8 +1,8 @@
 {
   "metadata": {
     "created": "2026-02-04",
-    "total_pages": 285,
-    "total_triples": 840
+    "total_pages": 362,
+    "total_triples": 1060
   },
   "pages": {
     "page_0001": {
@@ -1428,6 +1428,391 @@
     "page_0502": {
       "id": "page_0502",
       "title": "Primary care - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0002": {
+      "id": "page_0002",
+      "title": "NHS England \u00bb Perinatal mental health",
+      "triple_count": 1
+    },
+    "page_0024": {
+      "id": "page_0024",
+      "title": "NHS England \u00bb Authorisation: Final draft guide published and next steps outlined",
+      "triple_count": 3
+    },
+    "page_0047": {
+      "id": "page_0047",
+      "title": "NHS England \u00bb Checkpoint 2 customer survey",
+      "triple_count": 2
+    },
+    "page_0050": {
+      "id": "page_0050",
+      "title": "NHS England \u00bb Commissioning support services: Outcome of Checkpoint 2",
+      "triple_count": 3
+    },
+    "page_0058": {
+      "id": "page_0058",
+      "title": "NHS England \u00bb Skills to create and implement service redesign which incorporate improvements and innovation in access, quality, safety and patient experience across pathways",
+      "triple_count": 3
+    },
+    "page_0059": {
+      "id": "page_0059",
+      "title": "NHS England \u00bb Select and use data about population needs and service utilisation, together with professional knowledge and patient experiences, as the basis for prioritising commissioning plans",
+      "triple_count": 3
+    },
+    "page_0062": {
+      "id": "page_0062",
+      "title": "NHS England \u00bb Skills in securing improved patient experience in all aspects of commissioning",
+      "triple_count": 3
+    },
+    "page_0065": {
+      "id": "page_0065",
+      "title": "NHS England \u00bb Understanding of integrated governance and awareness of components of good integrated governance responsibilities (individual and corporate)",
+      "triple_count": 3
+    },
+    "page_0066": {
+      "id": "page_0066",
+      "title": "NHS England \u00bb Knowledge of the responsibilities around agreeing and implementing their approach to management of risk, research governance, information governance, duty to promote innovation and sustainability",
+      "triple_count": 3
+    },
+    "page_0071": {
+      "id": "page_0071",
+      "title": "NHS England \u00bb Skills and behaviours to plan and implement successful and sustainable change",
+      "triple_count": 3
+    },
+    "page_0073": {
+      "id": "page_0073",
+      "title": "Bulletin for proposed CCGs \u2013 Issue 15, 14 June 2012 | NHS England",
+      "triple_count": 3
+    },
+    "page_0074": {
+      "id": "page_0074",
+      "title": "Next stop Stockholm \u2026 \u2013 Johnny Marshall | NHS England",
+      "triple_count": 3
+    },
+    "page_0077": {
+      "id": "page_0077",
+      "title": "NHS England \u00bb Choice and Competition Framework",
+      "triple_count": 3
+    },
+    "page_0092": {
+      "id": "page_0092",
+      "title": "Jaws in Space \u2013 Johnny Marshall | NHS England",
+      "triple_count": 2
+    },
+    "page_0094": {
+      "id": "page_0094",
+      "title": "Operations directorate: key directors appointed | NHS England",
+      "triple_count": 3
+    },
+    "page_0097": {
+      "id": "page_0097",
+      "title": "NHS England \u00bb Board meeting \u2013 19 July 2012",
+      "triple_count": 3
+    },
+    "page_0099": {
+      "id": "page_0099",
+      "title": "NHS England \u00bb CCG clinical leaders invited to join new commissioning assembly",
+      "triple_count": 3
+    },
+    "page_0106": {
+      "id": "page_0106",
+      "title": "NHS England \u00bb Proposals for authorisation conditions and support published",
+      "triple_count": 3
+    },
+    "page_0108": {
+      "id": "page_0108",
+      "title": "NHS England \u00bb NHS Commissioning Board Authority recruits Very Senior Managers (VSM)",
+      "triple_count": 4
+    },
+    "page_0113": {
+      "id": "page_0113",
+      "title": "Board Authority provides more detail on commissioning support hosting and governance | NHS England",
+      "triple_count": 3
+    },
+    "page_0120": {
+      "id": "page_0120",
+      "title": "Home - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0123": {
+      "id": "page_0123",
+      "title": "Home - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0128": {
+      "id": "page_0128",
+      "title": "Home - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0149": {
+      "id": "page_0149",
+      "title": "Historical PDF conversion: Disproportionate burden assessment - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0159": {
+      "id": "page_0159",
+      "title": "Using Facebook ads to increase referrals to psychological therapies in Essex - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0164": {
+      "id": "page_0164",
+      "title": "About the Academy at NHS Digital - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0174": {
+      "id": "page_0174",
+      "title": "Contact us - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0180": {
+      "id": "page_0180",
+      "title": "Freedom of Information request NIC-690159-K8H4Z - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0188": {
+      "id": "page_0188",
+      "title": "Freedom of Information disclosure log November 2020 - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0199": {
+      "id": "page_0199",
+      "title": "Creating the best and most inclusive place to work - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0209": {
+      "id": "page_0209",
+      "title": "Anti-fraud, bribery, and corruption - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0226": {
+      "id": "page_0226",
+      "title": "Assuring Transformation - NHS Digital",
+      "triple_count": 2
+    },
+    "page_0237": {
+      "id": "page_0237",
+      "title": "GPES Cardiovascular Disease Prevention Audit - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0239": {
+      "id": "page_0239",
+      "title": "GPES Cardiovascular Disease Prevention Audit - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0240": {
+      "id": "page_0240",
+      "title": "Cardiovascular Disease Prevention (CVDPREVENT) Audit - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0241": {
+      "id": "page_0241",
+      "title": "Cardiovascular Disease Prevention (CVDPREVENT) Audit - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0250": {
+      "id": "page_0250",
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0252": {
+      "id": "page_0252",
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0253": {
+      "id": "page_0253",
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0260": {
+      "id": "page_0260",
+      "title": "COVID-19 At Risk Patients - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0272": {
+      "id": "page_0272",
+      "title": "Hospital Electronic Prescribing and Medicines Administration (HEPMA) Data - Scotland - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0276": {
+      "id": "page_0276",
+      "title": "GP Appointments Data - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0280": {
+      "id": "page_0280",
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0282": {
+      "id": "page_0282",
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0285": {
+      "id": "page_0285",
+      "title": "Health Education England | Excellence in education and training, quality in patient care",
+      "triple_count": 3
+    },
+    "page_0298": {
+      "id": "page_0298",
+      "title": "Health Education England \u00bb HEE approves authorisation of 13 Local Education and Training Boards",
+      "triple_count": 3
+    },
+    "page_0302": {
+      "id": "page_0302",
+      "title": "Health Education England \u00bb Health Education England support for integrated care initiative",
+      "triple_count": 2
+    },
+    "page_0320": {
+      "id": "page_0320",
+      "title": "Health Education England \u00bb Postgraduate Dean receives award for surgical education and training",
+      "triple_count": 3
+    },
+    "page_0329": {
+      "id": "page_0329",
+      "title": "Health Education England \u00bb HEE launches first national consultation on a NHS bands 1-4 workforce strategy",
+      "triple_count": 3
+    },
+    "page_0341": {
+      "id": "page_0341",
+      "title": "NHS England \u00bb NHS Commissioning Board Special Health Authority announces designate executive directors at first meeting",
+      "triple_count": 3
+    },
+    "page_0342": {
+      "id": "page_0342",
+      "title": "Equality Analysis of NHS Commissioning Board Authority Functions | NHS England",
+      "triple_count": 4
+    },
+    "page_0354": {
+      "id": "page_0354",
+      "title": "Briefing note on CCG indicative running cost allowances | NHS England",
+      "triple_count": 3
+    },
+    "page_0368": {
+      "id": "page_0368",
+      "title": "NHS England \u00bb Understanding of duties under The Equality Act. Skills in using Equality Delivery System",
+      "triple_count": 3
+    },
+    "page_0376": {
+      "id": "page_0376",
+      "title": "NHS England \u00bb NHS Commissioning Board Authority at the NHS Confederation Annual Conference",
+      "triple_count": 3
+    },
+    "page_0384": {
+      "id": "page_0384",
+      "title": "NHS England \u00bb Where can I find out more?",
+      "triple_count": 3
+    },
+    "page_0387": {
+      "id": "page_0387",
+      "title": "NHS England \u00bb Diffusing innovation in healthcare",
+      "triple_count": 3
+    },
+    "page_0392": {
+      "id": "page_0392",
+      "title": "NHS England \u00bb Contribute",
+      "triple_count": 2
+    },
+    "page_0395": {
+      "id": "page_0395",
+      "title": "NHS England \u00bb The month",
+      "triple_count": 3
+    },
+    "page_0396": {
+      "id": "page_0396",
+      "title": "NHS England \u00bb Busiest November ever as new figures show pressures on NHS staff",
+      "triple_count": 3
+    },
+    "page_0397": {
+      "id": "page_0397",
+      "title": "NHS England \u00bb Our funding",
+      "triple_count": 3
+    },
+    "page_0404": {
+      "id": "page_0404",
+      "title": "NHS England \u00bb 2. Continue to lead the NHS in responding to COVID-19 ever more effectively",
+      "triple_count": 3
+    },
+    "page_0407": {
+      "id": "page_0407",
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 3
+    },
+    "page_0412": {
+      "id": "page_0412",
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 1
+    },
+    "page_0422": {
+      "id": "page_0422",
+      "title": "NHS England \u00bb 9. Drive the integration of care and enable change",
+      "triple_count": 3
+    },
+    "page_0427": {
+      "id": "page_0427",
+      "title": "Access and store digital patient documents - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0428": {
+      "id": "page_0428",
+      "title": "Service updates - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0432": {
+      "id": "page_0432",
+      "title": "Acute Data Alignment Programme (ADAPt) - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0438": {
+      "id": "page_0438",
+      "title": "A&E self-service tool - NHS Digital",
+      "triple_count": 1
+    },
+    "page_0439": {
+      "id": "page_0439",
+      "title": "AI knowledge repository - NHS England Digital",
+      "triple_count": 3
+    },
+    "page_0454": {
+      "id": "page_0454",
+      "title": "Listing and viewing birth notifications - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0456": {
+      "id": "page_0456",
+      "title": "The birth notification process - NHS Digital",
+      "triple_count": 2
+    },
+    "page_0461": {
+      "id": "page_0461",
+      "title": "Listing and viewing birth notifications - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0468": {
+      "id": "page_0468",
+      "title": "Supplier status: 999 AST to CAS for validation - NHS Digital",
+      "triple_count": 2
+    },
+    "page_0472": {
+      "id": "page_0472",
+      "title": "Supplier status: Clinical assessment services referral (and booking) - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0484": {
+      "id": "page_0484",
+      "title": "Areas of interest - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0492": {
+      "id": "page_0492",
+      "title": "Quality Accounts - NHS Digital",
+      "triple_count": 3
+    },
+    "page_0499": {
+      "id": "page_0499",
+      "title": "Practice Level Prescribing in England: a summary - NHS Digital",
       "triple_count": 3
     }
   },
@@ -6528,6 +6913,1337 @@
         "electronically sending prescriptions to pharmacies"
       ],
       "source_page_id": "page_0502"
+    },
+    {
+      "subject": "Perinatal mental illness",
+      "predicate": "affects up to 27% of new and expectant mums",
+      "object": "a wide range of conditions",
+      "source_page_id": "page_0002"
+    },
+    {
+      "subject": "Clinical commissioning group authorisation guide",
+      "predicate": "has been published following its formal ratification at the NHS Commissioning Board Authority (NHS CBA) meeting on April 13, 2012.",
+      "object": "Board meeting",
+      "source_page_id": "page_0024"
+    },
+    {
+      "subject": "Final version of the clinical commissioning group authorisation guide",
+      "predicate": "is scheduled to be published in October 2012 once NHS Commissioning Board is established.",
+      "object": "NHS Commissioning Board establishment",
+      "source_page_id": "page_0024"
+    },
+    {
+      "subject": "Emerging Clinical Commissioning Groups (CCGs)",
+      "predicate": "should use the draft guide as basis for their authorisation applications.",
+      "object": "draft guide",
+      "source_page_id": "page_0024"
+    },
+    {
+      "subject": "proposed CCGs",
+      "predicate": "are very or quite confident that the arrangements they are putting in place for commissioning support will allow them to achieve authorisation.",
+      "object": "authorisation",
+      "source_page_id": "page_0047"
+    },
+    {
+      "subject": "more than half of proposed CCGs",
+      "predicate": "expect to source at least 50% of their commissioning support through NHS CSSs.",
+      "object": "NHS CSSs",
+      "source_page_id": "page_0047"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority",
+      "predicate": "has published the results of Checkpoint 2 for CSSs",
+      "object": "today",
+      "source_page_id": "page_0050"
+    },
+    {
+      "subject": "Checkpoint 2",
+      "predicate": "aims to assess viability and security path for emerging CSSs",
+      "object": "August 2 end by August full business plan development",
+      "source_page_id": "page_0050"
+    },
+    {
+      "subject": "NHS Commissioning Support Services (CSSs)",
+      "predicate": "submitted outline business plans for Checkpoint 2",
+      "object": "twenty five regional NHS commissioning support services and nationwide service",
+      "source_page_id": "page_0050"
+    },
+    {
+      "subject": "These products",
+      "predicate": "will be of help to",
+      "object": [
+        "individual leaders",
+        "senior teams",
+        "extended teams",
+        "whole CCGs"
+      ],
+      "source_page_id": "page_0058"
+    },
+    {
+      "subject": "National Reporting and learning service",
+      "predicate": "is for improving patient safety",
+      "object": null,
+      "source_page_id": "page_0058"
+    },
+    {
+      "subject": "Draft guidance on the roles for clinical commissioning groups and their partners",
+      "predicate": "refers to refreshing JSNA and developing joint health and wellbeth strategies",
+      "object": null,
+      "source_page_id": "page_0058"
+    },
+    {
+      "subject": "Health Investment Network website",
+      "predicate": "provides tools and guides for commissioners to achieve the best health outcomes from every pound invested",
+      "object": "commissioners",
+      "source_page_id": "page_0059"
+    },
+    {
+      "subject": "NHS Institute\u2019s Commissioning to Improve Patient Outcomes workshop",
+      "predicate": "introduces public health data analysis techniques for CCG leaders",
+      "object": "CCG leaders",
+      "source_page_id": "page_0059"
+    },
+    {
+      "subject": "Basic Data module from NHS Alliance Commissioning Academy",
+      "predicate": "helps understand how commissioners can find, validate and use different types of data for various purposes such as needs assessment and service redesign",
+      "object": "commissioners",
+      "source_page_id": "page_0059"
+    },
+    {
+      "subject": "NHS Institute\u2019 end workshop",
+      "predicate": "uses coaching to improve patient experience across pathways and services by applying principles of Experience Based Design.",
+      "object": "individual leaders, senior teams, governing bodies, extended teams and whole CCGs",
+      "source_page_id": "page_0062"
+    },
+    {
+      "subject": "Experience based design for commissioners workshop",
+      "predicate": "introduces the principles and practice of engaging patients and carers in improving pathways and services.",
+      "object": "",
+      "source_page_id": "page_0062"
+    },
+    {
+      "subject": "CCG authorisation \u2013 self certification information pack",
+      "predicate": "supports applicant CCGs in making declarations of compliance by providing choice on page 6.",
+      "object": "",
+      "source_page_id": "page_0062"
+    },
+    {
+      "subject": "Model Constitution Framework for CCGs",
+      "predicate": "is co-produced with the NHS",
+      "object": "to provide a template",
+      "source_page_id": "page_0065"
+    },
+    {
+      "subject": "Framework",
+      "predicate": "brings together all elements of proposed legislation and suggests format to follow",
+      "object": "for emerging Clinical Commissioning Groups (CCGs)",
+      "source_page_id": "page_0065"
+    },
+    {
+      "subject": "governing body committees templates for terms of reference",
+      "predicate": "have been co-produced with the NHS",
+      "object": "to help develop governance structures",
+      "source_page_id": "page_0065"
+    },
+    {
+      "subject": "Towards establishment",
+      "predicate": "Creating responsive and accountable CCGs",
+      "object": "Governance guidance for emerging CCGs",
+      "source_page_id": "page_0066"
+    },
+    {
+      "subject": "Information governance training tool",
+      "predicate": "enables organisations to meet annual training requirements mandated for all of the public sector by government",
+      "object": "The online resource consists of a range of materials to accommodate your training needs and preferences.",
+      "source_page_id": "page_0066"
+    },
+    {
+      "subject": "A guide to sustainable development for CCGs",
+      "predicate": "is designed to help CCGs establish commissioning structures and processes that will deliver business profitability, longevity and resilience.",
+      "object": "Produced by the RCGP and the NHS Sustainable Development Unit",
+      "source_page_id": "page_0066"
+    },
+    {
+      "subject": "NHS Institute\u2019s Leading improvement in quality and safety workshops",
+      "predicate": "are designed to develop skills and confidence in leading change for extended teams using proven tools like the NHS Change Model.",
+      "object": "individual leaders, senior teams",
+      "source_page_id": "page_0071"
+    },
+    {
+      "subject": "NHS Institute\u2019s Thinking differently for commissioners one-day workshop",
+      "predicate": "coaches on creative problem solving tools specifically tailored to challenges in the healthcare sector.",
+      "object": "commissioners and NHS staff involved with planning, budgeting, purchasing or contracting",
+      "source_page_id": "page_0071"
+    },
+    {
+      "subject": "NHS Institute\u2019s Leadership Series-Leading Change workshop",
+      "predicate": "provides training on using a new model to implement large scale change in healthcare organizations.",
+      "object": "healthcare leaders and managers",
+      "source_page_id": "page_0071"
+    },
+    {
+      "subject": "NHS initiative",
+      "predicate": "signposts learning and development opportunities",
+      "object": "new web tool",
+      "source_page_id": "page_0073"
+    },
+    {
+      "subject": "CCG remuneration guidance update",
+      "predicate": "is part of the NHS text content",
+      "object": "",
+      "source_page_id": "page_0073"
+    },
+    {
+      "subject": "authorisation process for waves two and three",
+      "predicate": "has key elements put in place",
+      "object": "The Functions of Clinical Commissioning Groups published",
+      "source_page_id": "page_0073"
+    },
+    {
+      "subject": "NHS",
+      "predicate": "is moving away from old centralized authority",
+      "object": "Department of Health",
+      "source_page_id": "page_0074"
+    },
+    {
+      "subject": "new central authority (NHSCB)",
+      "predicate": "has a subsidiary function performing tasks not effectively done at local level",
+      "object": null,
+      "source_page_id": "page_0074"
+    },
+    {
+      "subject": "EU themes",
+      "predicate": "took centre stage in the FDG meeting this week",
+      "object": null,
+      "source_page_id": "page_0074"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority (NHS CBA)",
+      "predicate": "is keen to hear views on the development of a Choice and Competition Framework at NHS Confederation Conference",
+      "object": "stakeholders",
+      "source_page_id": "page_0077"
+    },
+    {
+      "subject": "Choice and Competition Framework",
+      "predicate": "aims to help commissioners understand when competition could be used effectively for patient outcomes",
+      "object": "commissioners",
+      "source_page_id": "page_0077"
+    },
+    {
+      "subject": "Health and Social Care Act 2012",
+      "predicate": "requires the promotion of good practice and protection of patient choice by commissioners",
+      "object": "NHS Commissioning Board Authority (NHS CBA)",
+      "source_page_id": "page_0077"
+    },
+    {
+      "subject": "NHS CB",
+      "predicate": "needs to ensure",
+      "object": "placing billions of pounds into the hands of CCGs is not akin to Other People\u2019s Money",
+      "source_page_id": "page_0092"
+    },
+    {
+      "subject": "approach towards funding for CCG authorisation",
+      "predicate": "is considered clumsy by NHS Confederation delegates",
+      "object": null,
+      "source_page_id": "page_0092"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority",
+      "predicate": "has announced the appointment of two director posts in national leadership team of Operations Directorate.",
+      "object": "",
+      "source_page_id": "page_0094"
+    },
+    {
+      "subject": "Ann Sutton",
+      "predicate": "is appointed as Director of NHS Commissioning (Corporate).",
+      "object": "",
+      "source_page_id": "page_0094"
+    },
+    {
+      "subject": "Lyn Simpson",
+      "predicate": "is appointed as Director of NHS Operations and Delivery (Corporate).",
+      "object": "",
+      "source_page_id": "page_0094"
+    },
+    {
+      "subject": "public board meeting",
+      "predicate": "will take place on Thursday 19 th July 2012",
+      "object": "from 1.15pm to 3.00pm in Quarry House, Quarry Hill, Leeds LS2 7UE",
+      "source_page_id": "page_0097"
+    },
+    {
+      "subject": "public board meeting registration",
+      "predicate": "is limited and requires prior action by interested parties",
+      "object": "contact commissioningboard@nhs.net or call 0113 254 6515 before noon on Wednesday 18th July",
+      "source_page_id": "page_0097"
+    },
+    {
+      "subject": "public board meeting attendance policy",
+      "predicate": "allows members of the public to attend meetings as observers but not for discussion participation",
+      "object": "questions submitted via this website won\u2019t be passed on at Board meetings",
+      "source_page_id": "page_0097"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority Chief Executive David Nicholson",
+      "predicate": "has written to emerging CCG leaders this week",
+      "object": "one senior clinical lead from each CCG",
+      "source_page_id": "page_0099"
+    },
+    {
+      "subject": "David Nicholson and a \u2018design group\u2019 of 15 CCG clinical leaders",
+      "predicate": "have worked together",
+      "object": "to identify key principles on which the relationships between CCGs and NHSCB will depend",
+      "source_page_id": "page_0099"
+    },
+    {
+      "subject": "The proposal for collaboration forward",
+      "predicate": "builds upon feedback from emerging CCG clinical leaders at workshops in December 2011 and January 2012",
+      "object": "and has been tested more widely in informal discussions since",
+      "source_page_id": "page_0099"
+    },
+    {
+      "subject": "Proposals",
+      "predicate": "have been published today to the NHS Commissioning Board Authority for approval at its board meeting on July 19, 2dey 2012.",
+      "object": "NHS CB",
+      "source_page_id": "page_0106"
+    },
+    {
+      "subject": "The report identifies four key governance issues",
+      "predicate": "for authorisation processes within the NHS Commissioning Board (NHS CB).",
+      "object": "four key governance issues and recommended approaches to each.",
+      "source_page_id": "page_0106"
+    },
+    {
+      "subject": "A new sub-committee of the NHS CB will meet from October 2012.",
+      "predicate": "to make all authorisation decisions for CCGs.",
+      "object": "a new sub-committee meeting in October 2012",
+      "source_page_id": "page_0106"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority",
+      "predicate": "is pleased to announce",
+      "object": "Very Senior Managers (VSM) posts recruitment",
+      "source_page_id": "page_0108"
+    },
+    {
+      "subject": "Rosamond Roughton",
+      "predicate": "will be Director for",
+      "object": "Commissioning Systems and Strategy, responsible for the translation of NHS Commissioning Board strategy into commissioning system development and directorate running.",
+      "source_page_id": "page_0108"
+    },
+    {
+      "subject": "John Bewick",
+      "predicate": "will provide overall leadership to develop CCGs with a framework for improving their effectiveness.",
+      "object": "Clinical Commissioning Group (CCG) Development",
+      "source_page_id": "page_0108"
+    },
+    {
+      "subject": "Ben Dyson",
+      "predicate": "will lead on the design of commissioning enablers, including standard contracts and incentives strategy development for CCGs within NHS Commissioning Board. Will also be leading primary care strategies.",
+      "object": "Commissioning Policy and Primary Care",
+      "source_page_id": "page_0108"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority",
+      "predicate": "originally asked CSUs to use in their planning assumptions for 2013-14",
+      "object": "50p per head figure",
+      "source_page_id": "page_0113"
+    },
+    {
+      "subject": "National Director Dame Barbara Hakin",
+      "predicate": "provided an update on the hosting charge required by NHS Commissioning Board (NHS CB)",
+      "object": "less than 50p per head figure",
+      "source_page_id": "page_0113"
+    },
+    {
+      "subject": "Hosting Charge",
+      "predicate": "will cover costs of work done to assure, develop and externalise commissioning support units (CSUs)",
+      "object": "$",
+      "source_page_id": "page_0113"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "collects data from",
+      "object": "GP practices",
+      "source_page_id": "page_0120"
+    },
+    {
+      "subject": "cyber security team",
+      "predicate": "monitors and protects devices across the NHS",
+      "object": "to help lead cyber response",
+      "source_page_id": "page_0120"
+    },
+    {
+      "subject": "services provided by NHS Digital",
+      "predicate": "have near-perfect average availability in 2decade",
+      "object": "across more than 100 systems",
+      "source_page_id": "page_0120"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is helping to support the front line of the NHS in responding to coronavirus (COVID-19)",
+      "object": "with systems, services, and data",
+      "source_page_id": "page_0123"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "collects, processes and publishes data from across the health and social care system in England",
+      "object": "",
+      "source_page_id": "page_0123"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "has interactive data dashboards covering a range of topics including coronavirus-related ones",
+      "object": "",
+      "source_page_id": "page_0123"
+    },
+    {
+      "subject": "NHS staff support",
+      "predicate": "people get the best care",
+      "object": "",
+      "source_page_id": "page_0128"
+    },
+    {
+      "subject": "Data and information collection from GP practices",
+      "predicate": "supports care and research",
+      "object": "",
+      "source_page_id": "page_0128"
+    },
+    {
+      "subject": "Interactive data dashboards publication by NHS",
+      "predicate": "explore more about patient data",
+      "object": "",
+      "source_page_id": "page_0128"
+    },
+    {
+      "subject": "Historical PDF conversion assessment",
+      "predicate": "relates to documents no longer in active use only",
+      "object": "",
+      "source_page_id": "page_0149"
+    },
+    {
+      "subject": "NHS site commitment",
+      "predicate": "to making all active documentation fully accessible, as HTML web pages",
+      "object": "",
+      "source_page_id": "page_0149"
+    },
+    {
+      "subject": "Benefits of converting PDFs into accessible formats",
+      "predicate": "",
+      "object": "making these PDFs more usable for people with disabilities and enabling better data sharing",
+      "source_page_id": "page_0149"
+    },
+    {
+      "subject": "NHS team at Mid Essex CCG",
+      "predicate": "recognised under-target referrals into Health in Mind service as an issue",
+      "object": "Health in Mind service",
+      "source_page_id": "page_0159"
+    },
+    {
+      "subject": "Mid Essex CCG commissioners",
+      "predicate": "were unhappy with the utilisation of a great psychological therapy service",
+      "object": "Health in Mind service",
+      "source_page_id": "page_0159"
+    },
+    {
+      "subject": "NHS team at Mid Essex CCG",
+      "predicate": "decided to trial digital-led solution using Facebook ads for increasing referrals",
+      "object": "Facebook ads",
+      "source_page_id": "page_0159"
+    },
+    {
+      "subject": "NHS Digital Academy",
+      "predicate": "is responsible for ensenerving NHS Digital attract and develop high quality trainees.",
+      "object": "high quality trainees",
+      "source_page_id": "page_0164"
+    },
+    {
+      "subject": "NHS Digital Academy",
+      "predicate": "engages with students, school leavers and people looking for a career as sources of talent.",
+      "object": "students, school leavers and individuals seeking careers",
+      "source_page_id": "page_0164"
+    },
+    {
+      "subject": "NHS Digital Academy",
+      "predicate": "provides the best experience, training and support to all trainees working on improving quality through innovation.",
+      "object": "all trainees",
+      "source_page_id": "page_0164"
+    },
+    {
+      "subject": "NHS App team",
+      "predicate": "provide support for NHS App or login issues",
+      "object": "www.nhs.uk",
+      "source_page_id": "page_0174"
+    },
+    {
+      "subject": "Contact the NHS App team",
+      "predicate": "needed to contact relevant team about help with NHS App",
+      "object": "www.nhs.uk",
+      "source_page_id": "page_0174"
+    },
+    {
+      "subject": "119 service",
+      "predicate": "provide assistance for Covid Pass enquiries",
+      "object": "Contact the 119 service",
+      "source_page_id": "page_0174"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "has considered the request for information on NHS Number formats and periods of validity.",
+      "object": "the Freedom of Information Act 2000 (FOIA)",
+      "source_page_id": "page_0180"
+    },
+    {
+      "subject": "Freedom of Information request to provide more information about the format of NHS numbers",
+      "predicate": "is related to a specific period before the introduction of current formats in 1995/1996.",
+      "object": "no specific guidance on NHS Number formats prior to this time",
+      "source_page_id": "page_0180"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "confirms possession of requested information about differing number structures and periods they applied to.",
+      "object": "the Freedom of Information Act 2000 (FOIA)",
+      "source_page_id": "page_0180"
+    },
+    {
+      "subject": "NHS Hospital and Community Health Services",
+      "predicate": "have data on figures for all Doctors and GPs.",
+      "object": "",
+      "source_page_id": "page_0188"
+    },
+    {
+      "subject": "Freedom of information request NIC-409216-G6K7X",
+      "predicate": "requests pectus excavatum procedures performed by NHS trust hospitals.",
+      "object": "",
+      "source_page_id": "page_0188"
+    },
+    {
+      "subject": "NHS Digital and the department of the Home Office responsible for functions relating to immigration",
+      "predicate": "received record tracing requests per month from May 2018 to September 2020.",
+      "object": "",
+      "source_page_id": "page_0188"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "aims to be the best and most inclusive place to work",
+      "object": "for everyone",
+      "source_page_id": "page_0199"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "maintains its commitment despite adaptations needed since 2020",
+      "object": "to create an inclusive employee experience",
+      "source_page_id": "page_0199"
+    },
+    {
+      "subject": "staff networks",
+      "predicate": "continue to play a key role in progress towards inclusion goals",
+      "object": "for NHS Digital",
+      "source_page_id": "page_0199"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is committed to applying the highest standards of ethical conduct and behaviour",
+      "object": "the prevention of fraud, bribery and corruption",
+      "source_page_id": "page_0209"
+    },
+    {
+      "subject": "Bribery Act 2curent law in England & Wales",
+      "predicate": "came into effect on July 1st, 2011",
+      "object": "with the aim of tackling bribery and corruption in both private and public sectors",
+      "source_page_id": "page_0209"
+    },
+    {
+      "subject": "Bribery Act 2curent law in England & Wales",
+      "predicate": "defines bribery as giving or receiving a financial or other advantage for improperly performing a relevant function or activity",
+      "object": "",
+      "source_page_id": "page_0209"
+    },
+    {
+      "subject": "NHS England",
+      "predicate": "has directed NHS Digital to establish a data collection",
+      "object": "to monitor patients with a diagnosed learning disability and/or autism spectrum disorder in an inpatient hospital setting",
+      "source_page_id": "page_0226"
+    },
+    {
+      "subject": "Winterbourne View Hospital review",
+      "predicate": "led to the publication of Building the Right Support by NHS England",
+      "object": "which gives commissioners a clear framework for developing community services",
+      "source_page_id": "page_0226"
+    },
+    {
+      "subject": "NHS England",
+      "predicate": "has directed",
+      "object": "NHS Digital to collect and analyse data",
+      "source_page_id": "page_0237"
+    },
+    {
+      "subject": "CVD PREVENT Audit",
+      "predicate": "is a new national primary care audit being commissioned by NHS England",
+      "object": null,
+      "source_page_id": "page_0237"
+    },
+    {
+      "subject": "Cardiovascular disease ( CVD )",
+      "predicate": "causes a quarter of all deaths in the UK and is the largest cause of premature mortality in deprived areas.",
+      "object": null,
+      "source_page_id": "page_0237"
+    },
+    {
+      "subject": "NHS England",
+      "predicate": "has directed",
+      "object": "NHS Digital",
+      "source_page_id": "page_0239"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is to collect and analyse data for the CVD PREVENT Audit",
+      "object": "Cardiovascular Disease Prevention Data",
+      "source_page_id": "page_0239"
+    },
+    {
+      "subject": "CVDPREVENT Audit",
+      "predicate": "supports implementation of NHS Long Term Plan, General Medical Services contract, national CVD Prevention programme",
+      "object": "N/A",
+      "source_page_id": "page_0239"
+    },
+    {
+      "subject": "CVDPREVENT Audit",
+      "predicate": "is a national primary care audit that supports the implementation of NHS Long Term Plan, GP Contract and CVD Prevention programme.",
+      "object": "The Cardiovascular Disease Prevention (CVDPREVENT) Audit",
+      "source_page_id": "page_0240"
+    },
+    {
+      "subject": "NHS Long Term Plan",
+      "predicate": "identifies CVD as a clinical priority where lives can be saved by the NHS over next 10 years.",
+      "object": "The Cardiovascular Disease Prevention (CVDPREVENT) Audit",
+      "source_page_id": "page_0240"
+    },
+    {
+      "subject": "NHS England, OHID and HQIP",
+      "predicate": "commissioned CVDPREVENT Audit in partnership with NHS Benchmarking Network.",
+      "object": "The Cardiovascular Disease Prevention (CVDPREVENT) Audit",
+      "source_page_id": "page_0240"
+    },
+    {
+      "subject": "Cardiovascular Disease Prevention (CVDPREVENT) Audit",
+      "predicate": "is commissioned and delivered by several partners including NHS England, the Office for Health Improvement and Disparities (OHID), HQIP, and its provider \u2013 NHS Benchmarking Network.",
+      "object": "",
+      "source_page_id": "page_0241"
+    },
+    {
+      "subject": "NHS Long Term Plan",
+      "predicate": "identifies CVD as a clinical priority where lives can be saved by the NHS over the next 10 years.",
+      "object": "",
+      "source_page_id": "page_0241"
+    },
+    {
+      "subject": "CVD causes in UK",
+      "predicate": "causes a quarter of all deaths and is the largest cause of premature mortality, especially in deprived areas.",
+      "object": "",
+      "source_page_id": "page_0241"
+    },
+    {
+      "subject": "Department of Health and Social Care",
+      "predicate": "has directed NHS Digital to collect data for the purpose of direct care in response to COVID-19 spread.",
+      "object": "identify who may be clinically extremely vulnerable if they contract COVID-19.",
+      "source_page_id": "page_0250"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "will analyze and link collected patient data with other NHS Digital held data to identify a Shielded Patient List.",
+      "object": "a list of patients identified as clinically extremely vulnerable due to potential severe outcomes from COVID-19.",
+      "source_page_id": "page_0250"
+    },
+    {
+      "subject": "Shielded Patient List",
+      "predicate": "will advise shielding measures for the individuals on it.",
+      "object": "clinically extremely vulnerable at-risk patients who are identified through data analysis and linkage with other NHS Digital held patient information.",
+      "source_page_id": "page_0250"
+    },
+    {
+      "subject": "Department of Health and Social Care",
+      "predicate": "has directed NHS Digital to collect data for the purpose of direct care in response to COVID-19 spread.",
+      "object": "to identify who may be clinically extremely vulnerable if they contract COVID-19.",
+      "source_page_id": "page_0252"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is tasked with collecting and analysing required data comprising patients registered at GP practices in England and criminal justice system registrants.",
+      "object": "to identify a Shielded Patient List of clinically extremely vulnerable patients who will be advised to take shielding measures.",
+      "source_page_id": "page_0252"
+    },
+    {
+      "subject": "Shielded Patient List",
+      "predicate": "will consist of individuals identified as being at high risk if they contract COVID-19.",
+      "object": "who are expected to follow the advice and take necessary precautions for their safety.",
+      "source_page_id": "page_0252"
+    },
+    {
+      "subject": "Department of Health and Social Care",
+      "predicate": "has directed NHS Digital to collect data for the purpose of direct care in response to COVID-19 spread.",
+      "object": "to identify who may be clinically extremely vulnerable if they contract COVID-19.",
+      "source_page_id": "page_0253"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is tasked with analyzing and linking collected patient data",
+      "object": "with other NHS Digital held data to create a Shielded Patient List of clinically extremely vulnerable patients.",
+      "source_page_id": "page_0253"
+    },
+    {
+      "subject": "Shielded Patient List",
+      "predicate": "includes individuals identified as being at high risk if they contract COVID-19.",
+      "object": "who will be advised to take shielding measures to protect themselves from the virus.",
+      "source_page_id": "page_0253"
+    },
+    {
+      "subject": "Department of Health and Social Care",
+      "predicate": "has directed NHS Digital to collect data for COVID-19 risk assessment in England.",
+      "object": "registered patients at GP practices",
+      "source_page_id": "page_0260"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is required to submit the collected patient data on an ongoing basis.",
+      "object": "identify more at risk of serious illness from COVID-19, suitable for treatment and vaccination.",
+      "source_page_id": "page_0260"
+    },
+    {
+      "subject": "registered patients in England",
+      "predicate": "are part of two extracts needed by NHS Digital to assess the impact of COVID-19.",
+      "object": "patients registered at GP practices and on HJIS serving detained estate",
+      "source_page_id": "page_0260"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is requested to collect and analyse HEPMA data from NHS Health Boards in Scotland for COVID-19 purposes.",
+      "object": "National Services Scotland (NSS)",
+      "source_page_id": "page_0272"
+    },
+    {
+      "subject": "HEPMA data collection request",
+      "predicate": "includes information on what medicines have been prescribed, how and when the medicine was taken by the patient, indications for prescribing if available, CHI number of the patient, and stage of the patient\u2019s journey through the hospital.",
+      "object": "NHS Health Boards in Scotland",
+      "source_page_id": "page_0272"
+    },
+    {
+      "subject": "Collected data",
+      "predicate": "will be disseminated back to NSS to support the NHS response to COVID-19 pandemic.",
+      "object": "National Services Scotland (NSS)",
+      "source_page_id": "page_0272"
+    },
+    {
+      "subject": "GP Appointments Data collection",
+      "predicate": "was started to collect information regarding appointments in general practice, now delivered through Primary Care Networks (PCNs)",
+      "object": "in England",
+      "source_page_id": "page_0276"
+    },
+    {
+      "subject": "Understanding of capacity and utilisation of primary care services",
+      "predicate": "is acknowledged as limited",
+      "object": "by NHS services during winter and other holiday periods",
+      "source_page_id": "page_0276"
+    },
+    {
+      "subject": "NHS England",
+      "predicate": "has been directed by the Secretary of State for Health and Social Care to collect a transactional level dataset",
+      "object": "on GP Appointments Data",
+      "source_page_id": "page_0276"
+    },
+    {
+      "subject": "General Practice data collection",
+      "predicate": "is requested to provide a solution for COVID-19 purposes",
+      "object": "NHS Digital, joint co-chairs of the Joint GP IT Committee",
+      "source_page_id": "page_0280"
+    },
+    {
+      "subject": "Joint GP IT Committee",
+      "predicate": "includes representatives from British Medical Association and Royal College of General Practitioners",
+      "object": "British Medical Association, Royal College of General Practitioners",
+      "source_page_id": "page_0280"
+    },
+    {
+      "subject": "General Practice data sharing during COVID-19 pandemic",
+      "predicate": "is being done under legal notices issued by the Secretary of State",
+      "object": "Secretary of State, Health Service (Control of Patient Information) Regulations 2002",
+      "source_page_id": "page_0280"
+    },
+    {
+      "subject": "General Practice data collection",
+      "predicate": "is requested to provide a tactical solution during the COVID-19 pandemic period",
+      "object": "NHS Digital",
+      "source_page_id": "page_0282"
+    },
+    {
+      "subject": "Joint GP IT Committee co-chairs",
+      "predicate": "have issued legal notices under Regulation 3(4) of COPI for General Practice data sharing",
+      "object": "Secretary of State",
+      "source_page_id": "page_0282"
+    },
+    {
+      "subject": "General Practice burden and responsibility during COVID-19 pandemic",
+      "predicate": "is relieved by providing tactical solution to meet the demand for shared GPES Data",
+      "object": "NHS Digital",
+      "source_page_id": "page_0282"
+    },
+    {
+      "subject": "Health Education England",
+      "predicate": "is responsible for ensuring that education and training drives the highest quality public health outcomes.",
+      "object": "public health",
+      "source_page_id": "page_0285"
+    },
+    {
+      "subject": "Health Education England",
+      "predicate": "places providers of NHS services in firm control to plan and develop workforce within a national framework and consistent standards.",
+      "object": "NHS service providers",
+      "source_page_id": "page_0285"
+    },
+    {
+      "subject": "Staff availability with right skills and knowledge at the right time",
+      "predicate": "is ensured by Health Education England for evolving needs of healthcare system.",
+      "object": "healthcare workforce",
+      "source_page_id": "page_0285"
+    },
+    {
+      "subject": "Health Education England (HEE)",
+      "predicate": "has approved the establishment of",
+      "object": [
+        "13 Local Education and Training Boards (LETBs)"
+      ],
+      "source_page_id": "page_0298"
+    },
+    {
+      "subject": "13 Local Education and Training Boards (LETBs)",
+      "predicate": "will take on their functions from",
+      "object": [
+        "1 April"
+      ],
+      "source_page_id": "page_0298"
+    },
+    {
+      "subject": "Local providers of NHS services representatives in LETB boards",
+      "predicate": "are involved with HEE Board meetings for authorization",
+      "object": [
+        "authorized today after undergoing a rigorous assessment process"
+      ],
+      "source_page_id": "page_0298"
+    },
+    {
+      "subject": "health care and support services",
+      "predicate": "must be person-centred, coordinated, tailored to individual needs and preferences",
+      "object": "integrated",
+      "source_page_id": "page_0302"
+    },
+    {
+      "subject": "local areas of NHS England",
+      "predicate": "have succeeded in integrating health, care and support services too often despite the national system",
+      "object": "successful integration",
+      "source_page_id": "page_0302"
+    },
+    {
+      "subject": "Professor Davinder Sandhu",
+      "predicate": "has been awarded the Bruce Medal by The Royal College of Surgeons of Edinburgh in recognition for his contribution to surgical education.",
+      "object": "The Robertson Award",
+      "source_page_id": "page_0320"
+    },
+    {
+      "subject": "Bruce Medal was established by The Royal College of Surgeons of Edinburgh",
+      "predicate": "in memory of a former President, the late Sir John Bruce",
+      "object": "Sir John Bruce",
+      "source_page_id": "page_0320"
+    },
+    {
+      "subject": "Professor Sandhu received the award at a ceremony on Friday 06 September 2013.",
+      "predicate": "received from The Royal College of Surgeons of Edinburgh",
+      "object": "The Bruce Medal",
+      "source_page_id": "page_0320"
+    },
+    {
+      "subject": "Health Education England (HEE)",
+      "predicate": "has launched a consultation to hear views about developing staff in roles banded 1-4.",
+      "object": "The closing date for feedback is 24 March 2decade, 2014.",
+      "source_page_id": "page_0329"
+    },
+    {
+      "subject": "staff in bands 1-4",
+      "predicate": "make up around 40 per cent of the NHS\u2019s workforce and are responsible for an estimated 60 per cent of direct patient contact.",
+      "object": null,
+      "source_page_id": "page_0329"
+    },
+    {
+      "subject": "this group (band 1-4 staff)",
+      "predicate": "receives only around 5 per cent of the whole training budget",
+      "object": null,
+      "source_page_id": "page_0329"
+    },
+    {
+      "subject": "NHS Commissioning Board Special Health Authority",
+      "predicate": "has appointed",
+      "object": "Professor Sir Bruce Keogh",
+      "source_page_id": "page_0341"
+    },
+    {
+      "subject": "Malcolm Grant",
+      "predicate": "made the announcement about",
+      "object": "the appointment of Professor Sir Bruce as designate national medical director for NHS Commissioning Board Authority",
+      "source_page_id": "page_0341"
+    },
+    {
+      "subject": "Sir Bruce",
+      "predicate": "is one of our first appointments to lead clinical leadership in future commissioning arrangements and build a clinically led system focused on outcomes.",
+      "object": null,
+      "source_page_id": "page_0341"
+    },
+    {
+      "subject": "NHS Commissioning Board Special Health Authority",
+      "predicate": "has been established to assess impact on equality",
+      "object": "people sharing the protected characteristics covered by the Equality Act",
+      "source_page_id": "page_0342"
+    },
+    {
+      "subject": "Equality Analysis report",
+      "predicate": "examines limited functions of NHS Commissioning Board Special Health Authority",
+      "object": "compliance with the Equality Act 2010 and Public Sector Equality Duty",
+      "source_page_id": "page_0342"
+    },
+    {
+      "subject": "NHS Commissioning Board Special Health Authority establishment",
+      "predicate": "likely not to impact negatively on people sharing protected characteristics covered by the Act",
+      "object": null,
+      "source_page_id": "page_0342"
+    },
+    {
+      "subject": "NHS Commissioning Board Special Health Authority future functions design",
+      "predicate": "offers excellent opportunities for advancing equality",
+      "object": "fairness and equity in its establishment from the outset",
+      "source_page_id": "page_0342"
+    },
+    {
+      "subject": "NHS Commissioning Board Authority",
+      "predicate": "has published a briefing note on the indicative running costs allowances for CCGs",
+      "object": "for 2013-14",
+      "source_page_id": "page_0354"
+    },
+    {
+      "subject": "running cost allowance limit",
+      "predicate": "is set at up to \u00a325 per head of population per year",
+      "object": "",
+      "source_page_id": "page_0354"
+    },
+    {
+      "subject": "NHS funding",
+      "predicate": "focuses on providing high quality services for patients and the public.",
+      "object": "",
+      "source_page_id": "page_0354"
+    },
+    {
+      "subject": "CCG authorisation process",
+      "predicate": "allows self-certification of compliance with equality duties",
+      "object": "individual leaders, senior teams and governing bodies",
+      "source_page_id": "page_0368"
+    },
+    {
+      "subject": "Equality Delivery System (EDS)",
+      "predicate": "helps organisations identify local needs and priorities for seldom-heard populations",
+      "object": "NHS commissioners to shape services around people\u2019s specific circumstances",
+      "source_page_id": "page_0368"
+    },
+    {
+      "subject": "Essential guide to the public sector equality duty",
+      "predicate": "meets requirements of various frameworks including Equality Duty, NHS Constitution, Outcomes Framework and CQC Essential Standards",
+      "object": "NHS organisations",
+      "source_page_id": "page_0368"
+    },
+    {
+      "subject": "Andrew Lansley",
+      "predicate": "is Secretary of State for Health at the NHS Confederation annual conference and exhibition",
+      "object": "NHS CBA stand D32",
+      "source_page_id": "page_0376"
+    },
+    {
+      "subject": "Jane Cummings",
+      "predicate": "is Chief Nursing Officer on our stand with Andrew Lansley at the NHS Confederation annual conference and exhibition",
+      "object": "NHS CBA stand D32",
+      "source_page_id": "page_0376"
+    },
+    {
+      "subject": "Prof Malcolm Grant",
+      "predicate": "chairs Building the New System panel session at the event",
+      "object": "panel discussion on Friday 22nd June, NHS Confederation annual conference and exhibition",
+      "source_page_id": "page_0376"
+    },
+    {
+      "subject": "NHS England",
+      "predicate": "provides resources for involving people with learning disabilities or autism in work",
+      "object": "involving individuals",
+      "source_page_id": "page_0384"
+    },
+    {
+      "subject": "Paying expenses policy",
+      "predicate": "helps cover involvement costs of persons with a learning disability, autism or both",
+      "object": "covered expenses",
+      "source_page_id": "page_0384"
+    },
+    {
+      "subject": "NHS England",
+      "predicate": "encourages public authorities to involve people in developing services through films and easy read articles",
+      "object": "public engagement",
+      "source_page_id": "page_0384"
+    },
+    {
+      "subject": "Britain",
+      "predicate": "has tradition of leading medical innovation in the world.",
+      "object": "medical innovation",
+      "source_page_id": "page_0387"
+    },
+    {
+      "subject": "Edward Jenner",
+      "predicate": "invented smallpox vaccine, saving more lives than lost in all wars.",
+      "object": "smallpox vaccine and war casualties",
+      "source_page_id": "page_0387"
+    },
+    {
+      "subject": "Sir Ronald Ross",
+      "predicate": "won the first British Nobel Prize for Medicine and Physiology by discovering malaria was carried by mosquitoes.",
+      "object": "Nobel Prize in Medicine, Mosquito-borne disease discovery",
+      "source_page_id": "page_0387"
+    },
+    {
+      "subject": "NHS News format",
+      "predicate": "must follow",
+      "object": "provided guidelines",
+      "source_page_id": "page_0392"
+    },
+    {
+      "subject": "Blogs Bulletins Contributions",
+      "predicate": "are crafted into an overview of no more than",
+      "object": "100 words",
+      "source_page_id": "page_0392"
+    },
+    {
+      "subject": "NHS news bulletin",
+      "predicate": "is published on the last Thursday of every month",
+      "object": null,
+      "source_page_id": "page_0395"
+    },
+    {
+      "subject": "Subscribe to receive NHS updates by email",
+      "predicate": "can be done for latest news and information",
+      "object": null,
+      "source_page_id": "page_0395"
+    },
+    {
+      "subject": "Twitter registration link",
+      "predicate": "is provided for Innovation #Expo14NHS delegates to sign up",
+      "object": null,
+      "source_page_id": "page_0395"
+    },
+    {
+      "subject": "NHS staff",
+      "predicate": "answered the highest number of calls for any November on record",
+      "object": "999 calls",
+      "source_page_id": "page_0396"
+    },
+    {
+      "subject": "November last year",
+      "predicate": "had half a million fewer A&E attendances than this November",
+      "object": "A&E attendances",
+      "source_page_id": "page_0396"
+    },
+    {
+      "subject": "NHS 111 services demand in November",
+      "predicate": "remained high with almost 1.4 million calls answered",
+      "object": "calls",
+      "source_page_id": "page_0396"
+    },
+    {
+      "subject": "Our commissioning budget for 2022/23 excluding drawdown of previous years\u2019 surpluses",
+      "predicate": "is \u00a3153 billion",
+      "object": "fund",
+      "source_page_id": "page_0397"
+    },
+    {
+      "subject": "We are responsible",
+      "predicate": "for using this money wisely, fairly and transparently",
+      "object": "to secure the best possible outcomes for both patients and taxpayer",
+      "source_page_id": "page_0397"
+    },
+    {
+      "subject": "Most of our funding (\u00a3107.8 billion)",
+      "predicate": "is allocated to commissioning local health services",
+      "object": "local health services",
+      "source_page_id": "page_0397"
+    },
+    {
+      "subject": "Our focus in 2term/23",
+      "predicate": "will be reducing the impact of COVID-19 on wider health and care services to allow the NHS to continue service delivery and system transformation.",
+      "object": "",
+      "source_page_id": "page_0404"
+    },
+    {
+      "subject": "NHS",
+      "predicate": "will need to remain prepared in case of future waves of the pandemic.",
+      "object": "",
+      "source_page_id": "page_0404"
+    },
+    {
+      "subject": "National Incident Co-ordination Centre",
+      "predicate": "is maintained for managing response effectively and ensuring readiness against any new outbreaks or variants.",
+      "object": "",
+      "source_page_id": "page_0404"
+    },
+    {
+      "subject": "NHS",
+      "predicate": "is committed to delivering more planned hospital activity",
+      "object": "for the longest waiting patients across elective care and cancer",
+      "source_page_id": "page_0407"
+    },
+    {
+      "subject": "Delivery plan for tackling COVID-19 backlog of elective care",
+      "predicate": "aims to ensure that by April 2term, no one waits longer than 18 months",
+      "object": "",
+      "source_page_id": "page_0407"
+    },
+    {
+      "subject": "NHS providers",
+      "predicate": "are working with the NHS on accelerating diagnostic pathways through community diagnostic centres",
+      "object": "",
+      "source_page_id": "page_0407"
+    },
+    {
+      "subject": "patients",
+      "predicate": "are currently experiencing longer waits for treatments due to the pandemic.",
+      "object": "pandemic",
+      "source_page_id": "page_0412"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "is working with colleagues in NHS Digital ahead of incorporation into NHS England next year.",
+      "object": "",
+      "source_page_id": "page_0422"
+    },
+    {
+      "subject": "Government\u2019s Digital Health And Care Plan",
+      "predicate": "will set out a vision and action plan for digital transformation.",
+      "object": "",
+      "source_page_id": "page_0422"
+    },
+    {
+      "subject": "NHS Digital",
+      "predicate": "has commitments to invest in foundations of digital maturity, such as electronic records, infrastructure and connectivity across health and social care.",
+      "object": "",
+      "source_page_id": "page_0422"
+    },
+    {
+      "subject": "Lloyd George records",
+      "predicate": "are scanned and uploaded into the National Document Repository",
+      "object": "NDR",
+      "source_page_id": "page_0427"
+    },
+    {
+      "subject": "GP staff",
+      "predicate": "can view Lloyd George records in NDR to fulfil access requests",
+      "object": "NDR",
+      "source_page_id": "page_0427"
+    },
+    {
+      "subject": "Lloyd George paper records",
+      "predicate": "are stored and retrieved digitally by GP practices I-HouseStyle-140x175",
+      "object": "Access and store digital patient documents service",
+      "source_page_id": "page_0427"
+    },
+    {
+      "subject": "Service updates",
+      "predicate": "See the latest service updates for Access and store digital patient documents service.",
+      "object": null,
+      "source_page_id": "page_0428"
+    },
+    {
+      "subject": "Access and store digital patient documents service",
+      "predicate": "has undergone performance and security improvements in release 1.5.19 on July 7, 2025.",
+      "object": null,
+      "source_page_id": "page_0428"
+    },
+    {
+      "subject": "gov.uk design components",
+      "predicate": "have been updated for the Access and store digital patient documents service to provide a consistent look and feel across government websites.",
+      "object": null,
+      "source_page_id": "page_0428"
+    },
+    {
+      "subject": "Acute Data Alignment Programme (ADAPt)",
+      "predicate": "is a joint programme between NHS Digital and the Private Healthcare Information Network (PHIN)",
+      "object": "to adopt common standards for data collections, performance measure methodologies and reporting systems across both sectors",
+      "source_page_id": "page_0432"
+    },
+    {
+      "subject": "Acute Data Alignment Programme (ADAPt)",
+      "predicate": "aims to make care quality more visible",
+      "object": "where private healthcare has been received",
+      "source_page_id": "page_0432"
+    },
+    {
+      "subject": "patient records",
+      "predicate": "will become complete through the programme",
+      "object": "private and NHS sectors",
+      "source_page_id": "page_0432"
+    },
+    {
+      "subject": "Patients using the A&E self-service tool",
+      "predicate": "answer questions about their reason for hospital visit and symptoms to be directed appropriately",
+      "object": "A&E or other urgent care services in the area, depending on the answers given",
+      "source_page_id": "page_0438"
+    },
+    {
+      "subject": "AI knowledge repository",
+      "predicate": "has the potential to make a significant difference in health and care settings.",
+      "object": "",
+      "source_page_id": "page_0439"
+    },
+    {
+      "subject": "NHS England AI Team",
+      "predicate": "aims to lead the NHS in harnessing AI innovations for ethical, efficient deployment that delivers enhanced outcomes and system efficiencies while upholding transparency, trust, patient safety.",
+      "object": "",
+      "source_page_id": "page_0439"
+    },
+    {
+      "subject": "NHS England AI Team",
+      "predicate": "seeks to improve the service by completing a feedback survey.",
+      "object": "",
+      "source_page_id": "page_0439"
+    },
+    {
+      "subject": "Birth Notification Application (BNA)",
+      "predicate": "is part of the guide for child health",
+      "object": "",
+      "source_page_id": "page_0454"
+    },
+    {
+      "subject": "Listing and viewing birth notifications",
+      "predicate": "are predominantly performed by child health units",
+      "object": "",
+      "source_page_id": "page_0454"
+    },
+    {
+      "subject": "Maternity units",
+      "predicate": "may also use this functionality to list and view birth notifications",
+      "object": "",
+      "source_page_id": "page_0454"
+    },
+    {
+      "subject": "Birth Notification Application guide for child health",
+      "predicate": "is part of",
+      "object": "Part 4",
+      "source_page_id": "page_0456"
+    },
+    {
+      "subject": "Step 1 \u2013 Find the Mother",
+      "predicate": "requires before Allocate option is available",
+      "object": "At least one attempt to find the mother has been made",
+      "source_page_id": "page_0456"
+    },
+    {
+      "subject": "Birth Notification Application guide for maternity",
+      "predicate": "is part of",
+      "object": "Part 5",
+      "source_page_id": "page_0461"
+    },
+    {
+      "subject": "Listing and viewing birth notifications",
+      "predicate": "can be performed by",
+      "object": "child health units",
+      "source_page_id": "page_0461"
+    },
+    {
+      "subject": "Maternity units",
+      "predicate": "may also use this functionality for",
+      "object": "listing and viewing birth notifications",
+      "source_page_id": "page_0461"
+    },
+    {
+      "subject": "Supplier status",
+      "predicate": "is listed on NHS website for validation of Referral into UEC as per Application 4.",
+      "object": "999 AST to CAS",
+      "source_page_id": "page_0468"
+    },
+    {
+      "subject": "Referrals into UEC for validation (Application 4)",
+      "predicate": "are part of the Booking and Referral Standard implementation status checklist on NHS website.",
+      "object": "Not started",
+      "source_page_id": "page_0468"
+    },
+    {
+      "subject": "Supplier status",
+      "predicate": "See which IT system suppliers currently offer the Booking and Referral Standard (BaRS) for referrals (and booking) into clinical assessment services.",
+      "object": "NHS",
+      "source_page_id": "page_0472"
+    },
+    {
+      "subject": "Page contents",
+      "predicate": "As a care provider, you may be interested to see whether your current IT system supplier is working towards offering this capability.",
+      "object": "care providers",
+      "source_page_id": "page_0472"
+    },
+    {
+      "subject": "Status key",
+      "predicate": "The status of the development for those still implementing the Standard in their systems can be seen as Not started or Engagement, Development, Assurance and Ready stages.",
+      "object": "NHS",
+      "source_page_id": "page_0472"
+    },
+    {
+      "subject": "Areas of interest",
+      "predicate": "find our data and publications by selecting your area of interest.",
+      "object": "These pages combine our data sets, data collections, publications and clinical audits into one place based on your area of interest.",
+      "source_page_id": "page_0484"
+    },
+    {
+      "subject": "internal Hospital care",
+      "predicate": "has a variety of information covering all aspects of secondary care which can help you plan, monitor and improve services.",
+      "object": null,
+      "source_page_id": "page_0484"
+    },
+    {
+      "subject": "internal Prescribing",
+      "predicate": "Find links to all our prescribing publications and data, plus supporting information and useful websites.",
+      "object": null,
+      "source_page_id": "page_0484"
+    },
+    {
+      "subject": "Quality Accounts",
+      "predicate": "are annual reports about the quality of services provided by an NHS healthcare service.",
+      "object": "NHS healthcare providers",
+      "source_page_id": "page_0492"
+    },
+    {
+      "subject": "Links to data for mandatory indicators are set out below and also in the left hand navigation list",
+      "predicate": "enables trusts easy access to the latest data.",
+      "object": "trusts nationally reported on these indicators.",
+      "source_page_id": "page_0492"
+    },
+    {
+      "subject": "Trusts will be required to report their performance against mandatory indicators for at least the last two reporting periods, national average and supporting commentary",
+      "predicate": "intends that trusts should present this information.",
+      "object": "NHS Outcomes Framework",
+      "source_page_id": "page_0492"
+    },
+    {
+      "subject": "Practice level prescribing data",
+      "predicate": "is released on the 24th of the month or the first working day afterwards.",
+      "object": "For example September 2018 data will be published on Monday 26 November 2018.",
+      "source_page_id": "page_0499"
+    },
+    {
+      "subject": "Practice level prescribing information",
+      "predicate": "is presented at presentation level for each medicine, dressing and appliance that has been subsequently dispensed in the community.",
+      "object": "The total number of items prescribed and dispensed; The total net ingredient cost; The total actual cost; The total quantity.",
+      "source_page_id": "page_0499"
+    },
+    {
+      "subject": "Practice Level Prescribing data",
+      "predicate": "does not cover certain aspects.",
+      "object": "...",
+      "source_page_id": "page_0499"
     }
   ]
 }
