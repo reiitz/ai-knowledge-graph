@@ -39,10 +39,11 @@ def process_with_llm(config, input_text, debug=False):
     max_tokens = config["llm"]["max_tokens"]
     temperature = config["llm"]["temperature"]
     base_url = config["llm"]["base_url"]
-    
+    timeout = config["llm"].get("timeout", 300)
+
     # Process with LLM
     metadata = {}
-    response = call_llm(model, user_prompt, api_key, system_prompt, max_tokens, temperature, base_url)
+    response = call_llm(model, user_prompt, api_key, system_prompt, max_tokens, temperature, base_url, timeout=timeout)
     
     # Print raw response only if debug mode is on
     if debug:
