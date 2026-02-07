@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "evaluated_at": "2026-02-05T09:03:56.527471",
-    "total_pages": 285,
-    "total_triples": 840,
+    "evaluated_at": "2026-02-05T20:37:03.740046",
+    "total_pages": 362,
+    "total_triples": 1060,
     "thresholds": {
       "coherent": 0.7,
       "ambiguous": 0.4
@@ -15,21 +15,21 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "needs",
-        "people",
         "long",
-        "health",
+        "wellbeing",
+        "social",
         "na",
         "care",
-        "wellbeing",
-        "term",
         "services",
-        "personalised"
+        "people",
+        "social care",
+        "personalised",
+        "needs"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Recruitment format",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -39,18 +39,18 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "standard",
-        "development needs",
+        "core",
         "mental",
         "development",
-        "core",
+        "standard",
+        "development needs",
         "service"
       ],
       "matched_categories": [
-        "Training type",
         "National priorities",
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Training type",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -60,13 +60,13 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "plan",
+        "public",
         "health",
-        "public"
+        "plan"
       ],
       "matched_categories": [
-        "National priorities",
-        "Publication type"
+        "Publication type",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -93,8 +93,8 @@
         "board"
       ],
       "matched_categories": [
-        "National priorities",
-        "Career stage"
+        "Career stage",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -117,14 +117,14 @@
       "coherence_score": 0.8,
       "entity_count": 3,
       "matched_entities": [
+        "public",
         "meeting",
-        "board",
-        "public"
+        "board"
       ],
       "matched_categories": [
-        "National priorities",
+        "Event type",
         "Career stage",
-        "Event type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -134,16 +134,16 @@
       "coherence_score": 0.775,
       "entity_count": 8,
       "matched_entities": [
-        "england",
         "north",
-        "board",
         "north west",
         "west",
-        "east of england"
+        "england",
+        "east of england",
+        "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Region"
+        "Region",
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -153,18 +153,18 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "south east",
-        "england",
         "north",
-        "south west",
-        "board",
         "north west",
         "west",
-        "east of england"
+        "england",
+        "east of england",
+        "south west",
+        "board",
+        "south east"
       ],
       "matched_categories": [
-        "Career stage",
-        "Region"
+        "Region",
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -174,17 +174,17 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
+        "inter",
         "open",
         "board",
-        "inter",
-        "public"
+        "public",
+        "meeting"
       ],
       "matched_categories": [
+        "Event type",
         "Tags",
-        "National priorities",
         "Career stage",
-        "Event type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -199,9 +199,9 @@
         "na"
       ],
       "matched_categories": [
+        "Tags",
         "Topic",
-        "Recruitment format",
-        "Tags"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -218,10 +218,10 @@
         "service"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "National priorities",
         "Career stage",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -231,23 +231,23 @@
       "coherence_score": 0.82,
       "entity_count": 8,
       "matched_entities": [
-        "practice",
-        "general practice",
-        "patient",
-        "outcomes",
-        "advanced practice",
-        "evidence",
-        "any",
-        "practitioners",
         "base",
-        "services"
+        "access",
+        "communities",
+        "advanced practice",
+        "best practice",
+        "evidence",
+        "patient",
+        "services",
+        "any",
+        "practice"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
         "Clinical discipline",
-        "Career stage"
+        "Career stage",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -257,17 +257,17 @@
       "coherence_score": 0.933,
       "entity_count": 3,
       "matched_entities": [
-        "people",
         "information",
-        "transformation",
-        "patient information",
+        "management",
         "improvement",
-        "management"
+        "people",
+        "patient information",
+        "transformation"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Topic",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -281,8 +281,8 @@
         "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Event type"
+        "Event type",
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -299,10 +299,10 @@
         "training"
       ],
       "matched_categories": [
+        "Tags",
         "Training type",
-        "National priorities",
         "Career stage",
-        "Tags"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -321,18 +321,18 @@
       "coherence_score": 0.72,
       "entity_count": 5,
       "matched_entities": [
-        "meeting",
         "open",
-        "board",
         "west",
-        "public"
+        "board",
+        "public",
+        "meeting"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
         "Region",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -342,8 +342,8 @@
       "coherence_score": 0.6,
       "entity_count": 6,
       "matched_entities": [
-        "practice",
-        "bulletin"
+        "bulletin",
+        "practice"
       ],
       "matched_categories": [
         "News type",
@@ -362,8 +362,8 @@
         "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Region"
+        "Region",
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -374,16 +374,16 @@
       "entity_count": 3,
       "matched_entities": [
         "national",
-        "patient",
-        "na",
         "information",
+        "na",
+        "patient",
         "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Recruitment format",
         "Region",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -393,14 +393,14 @@
       "coherence_score": 0.407,
       "entity_count": 4,
       "matched_entities": [
-        "evaluation",
-        "optimisation",
+        "collaboration",
         "authentication",
-        "collaboration"
+        "evaluation",
+        "optimisation"
       ],
       "matched_categories": [
-        "Topic",
-        "Tags"
+        "Tags",
+        "Topic"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -411,13 +411,13 @@
       "entity_count": 6,
       "matched_entities": [
         "bulletin",
-        "access",
-        "na"
+        "na",
+        "access"
       ],
       "matched_categories": [
+        "Tags",
         "News type",
-        "Recruitment format",
-        "Tags"
+        "Recruitment format"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -427,17 +427,17 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "acute care common stem",
-        "practice",
         "england",
-        "communities of practice",
-        "stem"
+        "stem",
+        "practice",
+        "acute care common stem",
+        "communities of practice"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "National priorities",
         "Region",
-        "Tags"
+        "Tags",
+        "Clinical discipline",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -447,18 +447,18 @@
       "coherence_score": 0.964,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
+        "inter",
         "open",
-        "board",
         "vocational",
         "conference",
-        "inter"
+        "board",
+        "meeting"
       ],
       "matched_categories": [
+        "Event type",
         "Tags",
         "Training qualification",
-        "Career stage",
-        "Event type"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -483,18 +483,18 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
-        "practice",
-        "plan",
-        "first",
-        "board",
         "planning",
-        "time"
+        "first",
+        "plan",
+        "time",
+        "board",
+        "practice"
       ],
       "matched_categories": [
-        "National priorities",
+        "Publication type",
         "Topic",
         "Career stage",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -508,8 +508,8 @@
         "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Event type"
+        "Event type",
+        "Career stage"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -519,22 +519,22 @@
       "coherence_score": 0.867,
       "entity_count": 6,
       "matched_entities": [
-        "practice",
-        "england",
-        "communities of practice",
-        "services",
         "clinical",
-        "west",
-        "service",
+        "england",
         "east of england",
-        "stem"
+        "west",
+        "services",
+        "stem",
+        "practice",
+        "service",
+        "communities of practice"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
+        "Clinical discipline",
         "Region",
-        "Clinical discipline"
+        "Topic",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -545,16 +545,16 @@
       "entity_count": 3,
       "matched_entities": [
         "national",
-        "patient",
-        "na",
         "information",
+        "na",
+        "patient",
         "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Recruitment format",
         "Region",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -564,23 +564,23 @@
       "coherence_score": 0.857,
       "entity_count": 10,
       "matched_entities": [
-        "young",
-        "midlands",
-        "na",
-        "england",
         "north",
-        "regional",
-        "board",
+        "midlands",
+        "south",
         "north west",
+        "england",
+        "na",
         "west",
-        "primary care"
+        "board",
+        "regional",
+        "young"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Career stage"
+        "Career stage",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -590,17 +590,17 @@
       "coherence_score": 0.933,
       "entity_count": 3,
       "matched_entities": [
-        "people",
         "information",
-        "transformation",
-        "patient information",
+        "management",
         "improvement",
-        "management"
+        "people",
+        "patient information",
+        "transformation"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Topic",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -626,17 +626,17 @@
       "entity_count": 5,
       "matched_entities": [
         "workshop",
-        "people",
+        "leader",
         "na",
-        "leadership",
-        "leader"
+        "people",
+        "leadership"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -646,21 +646,21 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
+        "inter",
+        "review",
+        "management",
         "na",
         "occupational frameworks",
-        "term",
+        "stem",
         "framework",
-        "review",
-        "inter",
-        "management",
-        "stem"
+        "term"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Clinical discipline",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -671,25 +671,25 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "health",
-        "quality",
-        "na",
         "information",
-        "systems",
-        "self",
-        "leadership",
+        "wellbeing",
+        "review",
+        "na",
+        "leader",
         "development",
-        "board"
+        "systems",
+        "board",
+        "stem"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
+        "Region",
+        "Training type",
         "Career stage",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -699,24 +699,24 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "national",
-        "guidance",
-        "health",
-        "na",
+        "clinical",
         "north",
+        "national",
         "wellbeing",
         "north west",
-        "clinical",
         "west",
+        "guidance",
+        "na",
+        "roles",
         "learning"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Topic",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -726,25 +726,25 @@
       "coherence_score": 1.0,
       "entity_count": 4,
       "matched_entities": [
-        "patient",
         "england",
-        "systems",
-        "primary care",
+        "primary",
         "care",
-        "board",
+        "patient",
         "services",
-        "service",
+        "stem",
+        "board",
         "dementia",
-        "nurses"
+        "nurses",
+        "systems"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Region",
         "Clinical discipline",
-        "Career stage"
+        "Region",
+        "Career stage",
+        "Topic",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -754,17 +754,17 @@
       "coherence_score": 0.52,
       "entity_count": 5,
       "matched_entities": [
-        "health",
-        "england",
         "public health professionals",
-        "public health",
-        "public"
+        "england",
+        "public",
+        "health",
+        "public health"
       ],
       "matched_categories": [
-        "Profession",
+        "Region",
         "Clinical discipline",
-        "National priorities",
-        "Region"
+        "Profession",
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -774,17 +774,17 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "systems",
-        "any",
-        "board",
         "dementia",
-        "stem"
+        "stem",
+        "board",
+        "any",
+        "systems"
       ],
       "matched_categories": [
         "Clinical discipline",
-        "Topic",
+        "Tags",
         "Career stage",
-        "Tags"
+        "Topic"
       ],
       "routing": "COHERENT"
     },
@@ -794,16 +794,16 @@
       "coherence_score": 0.6,
       "entity_count": 6,
       "matched_entities": [
-        "na",
         "national",
+        "na",
         "development",
         "board"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Career stage",
         "Region",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "Recruitment format"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -813,18 +813,18 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "people",
-        "health",
         "england",
+        "east of england",
         "care",
         "board",
-        "east of england",
-        "public"
+        "public",
+        "people",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
+        "Region",
         "Career stage",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -847,20 +847,20 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "senior",
-        "collaboration",
-        "formal",
-        "team",
-        "board",
         "clinical",
-        "leader"
+        "team",
+        "formal",
+        "leader",
+        "board",
+        "senior",
+        "collaboration"
       ],
       "matched_categories": [
-        "Profession",
         "Training type",
-        "Tags",
+        "Career stage",
         "Topic",
-        "Career stage"
+        "Tags",
+        "Profession"
       ],
       "routing": "COHERENT"
     },
@@ -875,9 +875,9 @@
         "board"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Career stage",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -887,23 +887,23 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "healthcare",
-        "plan",
-        "health",
-        "na",
-        "professionals",
-        "professional",
-        "services",
         "planning",
+        "plan",
+        "professional",
+        "service",
+        "na",
+        "services",
         "profession",
-        "service"
+        "healthcare",
+        "health",
+        "professionals"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
         "Topic",
-        "Recruitment format",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -913,23 +913,23 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "senior",
+        "clinical",
         "na",
-        "systems",
         "development",
         "board",
+        "stem",
+        "senior",
         "framework",
-        "clinical",
         "strategy",
-        "stem"
+        "systems"
       ],
       "matched_categories": [
-        "Tags",
-        "Topic",
-        "Recruitment format",
         "Clinical discipline",
         "Career stage",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -952,12 +952,12 @@
       "coherence_score": 0.592,
       "entity_count": 5,
       "matched_entities": [
-        "access",
-        "na"
+        "na",
+        "access"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -967,19 +967,19 @@
       "coherence_score": 0.7,
       "entity_count": 12,
       "matched_entities": [
-        "midlands",
-        "yorkshire",
         "long",
-        "england",
         "north",
-        "board",
+        "south",
+        "midlands",
+        "england",
         "east",
-        "south"
+        "board",
+        "yorkshire"
       ],
       "matched_categories": [
-        "National priorities",
+        "Region",
         "Career stage",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -989,21 +989,21 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "plan",
-        "health",
-        "emergency",
         "planning",
-        "social",
+        "emergency",
         "partnership",
+        "social",
+        "plan",
+        "care",
         "social care",
-        "care"
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Clinical discipline",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1013,18 +1013,18 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "patient",
         "england",
-        "profession",
+        "patient",
+        "care",
         "improvement",
-        "nurses",
-        "care"
+        "profession",
+        "nurses"
       ],
       "matched_categories": [
-        "Profession",
-        "National priorities",
         "Region",
-        "Tags"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1047,22 +1047,22 @@
       "coherence_score": 0.764,
       "entity_count": 6,
       "matched_entities": [
+        "consultation",
         "national",
+        "planning",
+        "emergency",
         "plan",
         "na",
-        "emergency",
         "board",
-        "framework",
-        "planning",
-        "consultation"
+        "framework"
       ],
       "matched_categories": [
-        "Topic",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
+        "Region",
         "Career stage",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -1085,18 +1085,18 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "health",
         "emergency",
-        "care",
-        "social",
         "partnership",
+        "social",
+        "care",
+        "stem",
         "social care",
-        "stem"
+        "health"
       ],
       "matched_categories": [
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1106,16 +1106,16 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "health",
         "emergency",
         "partnership",
         "nhs and healthcare systems",
-        "stem"
+        "stem",
+        "health"
       ],
       "matched_categories": [
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1125,23 +1125,23 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "health",
-        "outcomes",
-        "information",
-        "board",
-        "services",
-        "framework",
         "clinical",
+        "information",
+        "access",
         "social",
         "service",
-        "data"
+        "care",
+        "board",
+        "services",
+        "social care",
+        "framework"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Career stage",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1152,17 +1152,17 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "na",
-        "development",
         "independent",
-        "leader"
+        "leader",
+        "na",
+        "development"
       ],
       "matched_categories": [
-        "Tags",
-        "Recruitment format",
         "Region",
         "Career stage",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -1172,14 +1172,14 @@
       "coherence_score": 0.8,
       "entity_count": 3,
       "matched_entities": [
-        "open",
         "clinical",
+        "open",
         "board"
       ],
       "matched_categories": [
+        "Tags",
         "Topic",
-        "Career stage",
-        "Tags"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -1189,15 +1189,15 @@
       "coherence_score": 0.65,
       "entity_count": 4,
       "matched_entities": [
-        "scientist",
         "clinical",
         "bulletin",
+        "scientist",
         "scientists"
       ],
       "matched_categories": [
-        "Profession",
         "Training type",
         "Topic",
+        "Profession",
         "News type"
       ],
       "routing": "AMBIGUOUS"
@@ -1208,16 +1208,16 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "team",
         "events",
         "london",
-        "na"
+        "na",
+        "team"
       ],
       "matched_categories": [
-        "Profession",
-        "Recruitment format",
         "Region",
-        "Tags"
+        "Tags",
+        "Profession",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -1227,14 +1227,14 @@
       "coherence_score": 0.6,
       "entity_count": 6,
       "matched_entities": [
-        "innovation",
         "people",
-        "any"
+        "any",
+        "innovation"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Career stage",
-        "Tags"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -1244,19 +1244,19 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "health",
-        "user",
         "team",
-        "services",
         "mental health",
+        "services",
+        "nurses",
         "business",
-        "nurses"
+        "user",
+        "health"
       ],
       "matched_categories": [
-        "Profession",
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1266,22 +1266,22 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "health",
-        "general practice",
-        "advanced practice",
-        "digital",
-        "best practice",
         "healthcare scientists",
+        "advanced practice",
+        "best practice",
+        "care",
+        "nhs digital academy",
+        "health informaticians",
+        "practice",
+        "general practice",
         "practitioners",
-        "health informaticians"
+        "digital"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1291,20 +1291,20 @@
       "coherence_score": 0.72,
       "entity_count": 5,
       "matched_entities": [
+        "advanced practice",
+        "best practice",
         "nhs digital academy",
         "practice",
         "general practice",
-        "advanced practice",
-        "best practice",
-        "surgery",
         "practitioners",
+        "surgery",
         "digital"
       ],
       "matched_categories": [
-        "Profession",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1314,22 +1314,22 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "health",
-        "general practice",
-        "advanced practice",
-        "digital",
-        "best practice",
         "healthcare scientists",
+        "advanced practice",
+        "best practice",
+        "care",
+        "nhs digital academy",
+        "health informaticians",
+        "practice",
+        "general practice",
         "practitioners",
-        "health informaticians"
+        "digital"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1339,22 +1339,22 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "people",
-        "patient",
-        "board",
-        "services",
         "data and statistics",
-        "service",
-        "data",
-        "placements"
+        "inter",
+        "placements",
+        "patient",
+        "nhs digital academy",
+        "services",
+        "people",
+        "practice",
+        "board",
+        "data"
       ],
       "matched_categories": [
-        "National priorities",
-        "Career stage",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1377,20 +1377,20 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
+        "advanced practice",
+        "best practice",
         "nhs digital academy",
         "practice",
         "general practice",
-        "advanced practice",
-        "best practice",
-        "service",
         "practitioners",
-        "digital"
+        "digital",
+        "service"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1400,22 +1400,22 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "health",
-        "general practice",
-        "advanced practice",
-        "digital",
-        "best practice",
         "healthcare scientists",
+        "advanced practice",
+        "best practice",
+        "care",
+        "nhs digital academy",
+        "health informaticians",
+        "practice",
+        "general practice",
         "practitioners",
-        "health informaticians"
+        "digital"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1425,22 +1425,22 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
+        "healthcare scientists",
+        "team",
+        "advanced practice",
+        "best practice",
+        "care",
         "nhs digital academy",
+        "health informaticians",
         "practice",
         "general practice",
-        "health",
-        "advanced practice",
-        "digital",
-        "team",
-        "best practice",
-        "healthcare scientists",
         "practitioners"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1450,23 +1450,23 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
+        "information",
+        "team",
+        "advanced practice",
+        "best practice",
         "nhs digital academy",
+        "patient information",
+        "innovation",
         "practice",
         "general practice",
-        "information",
-        "advanced practice",
-        "team",
-        "transformation",
-        "best practice",
-        "patient information",
-        "innovation"
+        "practitioners"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
+        "Clinical discipline",
         "Topic",
-        "Clinical discipline"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1476,8 +1476,8 @@
       "coherence_score": 0.7,
       "entity_count": 2,
       "matched_entities": [
-        "nhs digital academy",
-        "digital"
+        "digital",
+        "nhs digital academy"
       ],
       "matched_categories": [
         "Tags"
@@ -1490,22 +1490,22 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
+        "healthcare scientists",
+        "advanced practice",
+        "best practice",
+        "care",
         "nhs digital academy",
+        "health informaticians",
         "practice",
         "general practice",
-        "health",
-        "advanced practice",
-        "digital",
-        "best practice",
-        "healthcare scientists",
         "practitioners",
-        "health informaticians"
+        "digital"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1515,21 +1515,21 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
+        "team",
+        "digital",
+        "advanced practice",
+        "best practice",
         "nhs digital academy",
         "practice",
         "general practice",
-        "user",
-        "advanced practice",
-        "team",
-        "best practice",
         "practitioners",
-        "digital"
+        "user"
       ],
       "matched_categories": [
-        "Profession",
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1539,21 +1539,21 @@
       "coherence_score": 0.767,
       "entity_count": 6,
       "matched_entities": [
+        "team",
+        "advanced practice",
+        "best practice",
         "nhs digital academy",
         "practice",
         "general practice",
-        "advanced practice",
-        "team",
-        "best practice",
-        "surgery",
         "practitioners",
+        "surgery",
         "digital"
       ],
       "matched_categories": [
-        "Profession",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1563,20 +1563,20 @@
       "coherence_score": 0.72,
       "entity_count": 5,
       "matched_entities": [
+        "advanced practice",
+        "best practice",
         "nhs digital academy",
         "practice",
         "general practice",
-        "advanced practice",
-        "best practice",
-        "surgery",
         "practitioners",
+        "surgery",
         "digital"
       ],
       "matched_categories": [
-        "Profession",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1586,21 +1586,21 @@
       "coherence_score": 0.809,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "health",
         "information",
-        "digital",
-        "suite",
         "social",
         "west",
+        "care",
+        "nhs digital academy",
+        "suite",
         "social care",
-        "care"
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Career stage",
         "Region",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1610,19 +1610,19 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "research",
-        "plan",
-        "user",
         "planning",
-        "data",
         "access",
-        "public"
+        "plan",
+        "public",
+        "research",
+        "data",
+        "user"
       ],
       "matched_categories": [
-        "National priorities",
-        "Topic",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Topic",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1632,18 +1632,18 @@
       "coherence_score": 0.828,
       "entity_count": 6,
       "matched_entities": [
-        "information",
-        "suite",
         "assessments",
-        "data",
+        "information",
         "access",
-        "public"
+        "suite",
+        "public",
+        "data"
       ],
       "matched_categories": [
-        "National priorities",
-        "Career stage",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1653,16 +1653,16 @@
       "coherence_score": 0.829,
       "entity_count": 7,
       "matched_entities": [
-        "statement",
         "public",
+        "na",
         "access",
-        "na"
+        "statement"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1672,14 +1672,14 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "na",
+        "digital",
         "technology",
-        "digital"
+        "na",
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -1689,13 +1689,13 @@
       "coherence_score": 0.64,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
         "programme",
-        "digital"
+        "digital",
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags"
+        "Tags",
+        "Training type"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -1705,8 +1705,8 @@
       "coherence_score": 0.6,
       "entity_count": 3,
       "matched_entities": [
-        "nhs digital academy",
-        "digital"
+        "digital",
+        "nhs digital academy"
       ],
       "matched_categories": [
         "Tags"
@@ -1719,21 +1719,21 @@
       "coherence_score": 0.97,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "needs",
-        "leavers",
-        "professions",
-        "professionals",
-        "digital literacy",
-        "professional",
         "team",
-        "profession",
-        "blended"
+        "digital literacy",
+        "wider profession",
+        "blended",
+        "professions",
+        "professional",
+        "roles",
+        "needs",
+        "nhs digital academy",
+        "profession"
       ],
       "matched_categories": [
+        "Tags",
         "Profession",
-        "National priorities",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1743,15 +1743,15 @@
       "coherence_score": 1.0,
       "entity_count": 4,
       "matched_entities": [
-        "improvement",
         "programme",
-        "plan",
-        "practitioner training programme"
+        "practitioner training programme",
+        "improvement",
+        "plan"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "Training type",
-        "Publication type"
+        "Training type"
       ],
       "routing": "COHERENT"
     },
@@ -1762,15 +1762,15 @@
       "entity_count": 6,
       "matched_entities": [
         "apprenticeship",
-        "practice",
         "nhs digital academy",
+        "practice",
         "training",
         "digital"
       ],
       "matched_categories": [
+        "Tags",
         "Training type",
-        "National priorities",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1780,14 +1780,14 @@
       "coherence_score": 0.812,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "graduates",
         "training",
-        "digital"
+        "digital",
+        "graduates",
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags"
+        "Tags",
+        "Training type"
       ],
       "routing": "COHERENT"
     },
@@ -1797,16 +1797,16 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "delivery",
-        "na",
-        "roles",
         "management",
+        "na",
+        "delivery",
+        "roles",
+        "nhs digital academy",
         "digital"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -1816,8 +1816,8 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
-        "minutes",
-        "inter"
+        "inter",
+        "minutes"
       ],
       "matched_categories": [
         "Publication type",
@@ -1831,18 +1831,18 @@
       "coherence_score": 0.64,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "na",
-        "professions",
-        "profession",
-        "service",
         "management",
-        "digital"
+        "professions",
+        "na",
+        "nhs digital academy",
+        "profession",
+        "digital",
+        "service"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Recruitment format",
-        "Tags"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -1852,22 +1852,22 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
+        "digital",
+        "career",
+        "care",
         "nhs digital academy",
+        "roles",
+        "services",
         "needs",
         "research",
-        "health",
         "user",
-        "care",
-        "services",
-        "digital skills",
-        "career",
-        "service"
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Topic",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Topic",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1877,19 +1877,19 @@
       "coherence_score": 1.0,
       "entity_count": 3,
       "matched_entities": [
-        "nhs digital academy",
-        "professional networks",
-        "na",
-        "professionals",
         "professional",
+        "na",
+        "nhs digital academy",
         "value",
         "profession",
-        "digital"
+        "digital",
+        "professional networks",
+        "professionals"
       ],
       "matched_categories": [
         "National priorities",
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -1899,20 +1899,20 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "systems",
-        "digital",
-        "team",
-        "services",
-        "stem",
         "general",
-        "service",
-        "public"
+        "team",
+        "stem",
+        "public",
+        "services",
+        "digital",
+        "systems",
+        "service"
       ],
       "matched_categories": [
-        "Profession",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1922,14 +1922,14 @@
       "coherence_score": 0.8,
       "entity_count": 3,
       "matched_entities": [
-        "nhs digital academy",
         "mental",
         "digital",
-        "information"
+        "information",
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "National priorities",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1939,25 +1939,25 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "standard",
-        "guidance",
-        "policy",
-        "na",
-        "england",
         "information",
-        "associate",
+        "england",
         "material",
-        "transformation",
-        "patient information"
+        "improvement",
+        "guidance",
+        "na",
+        "management",
+        "standard",
+        "patient information",
+        "health informaticians"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Recruitment format",
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -1995,16 +1995,16 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "na",
         "data",
         "national",
+        "na",
         "information"
       ],
       "matched_categories": [
-        "Tags",
-        "Recruitment format",
+        "Publication type",
         "Region",
-        "Publication type"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2014,16 +2014,16 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "information",
         "digital literacy",
+        "information",
         "team",
+        "nhs digital academy",
         "patient information",
         "digital"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags"
+        "Tags",
+        "Profession"
       ],
       "routing": "COHERENT"
     },
@@ -2034,14 +2034,14 @@
       "entity_count": 4,
       "matched_entities": [
         "leaver",
-        "doctors",
         "leavers",
-        "information"
+        "information",
+        "doctors"
       ],
       "matched_categories": [
+        "Tags",
         "Profession",
-        "Career stage",
-        "Tags"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -2051,12 +2051,12 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "report",
-        "long"
+        "long",
+        "report"
       ],
       "matched_categories": [
-        "National priorities",
-        "Publication type"
+        "Publication type",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2066,19 +2066,19 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "england",
         "team",
-        "report",
-        "improvement",
+        "england",
         "east of england",
+        "improvement",
+        "nhs digital academy",
+        "report",
         "digital"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
+        "Publication type",
         "Region",
-        "Publication type"
+        "Tags",
+        "Profession"
       ],
       "routing": "COHERENT"
     },
@@ -2089,15 +2089,15 @@
       "entity_count": 6,
       "matched_entities": [
         "children",
-        "report",
+        "na",
         "school",
-        "na"
+        "report"
       ],
       "matched_categories": [
-        "National priorities",
+        "Publication type",
         "Recruitment format",
         "Career stage",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2107,21 +2107,21 @@
       "coherence_score": 0.743,
       "entity_count": 7,
       "matched_entities": [
+        "workforce",
+        "na",
         "nhs digital academy",
         "standard",
         "equality",
-        "na",
-        "quality",
-        "workforce",
         "disability",
         "data",
-        "digital"
+        "digital",
+        "quality"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2132,13 +2132,13 @@
       "entity_count": 5,
       "matched_entities": [
         "workforce",
-        "report",
-        "diversity"
+        "diversity",
+        "report"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "National priorities",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -2148,24 +2148,24 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
+        "base",
         "national",
+        "workforce",
         "statistics",
         "na",
         "electronic",
-        "workforce",
-        "base",
         "stem",
+        "nhs digital academy",
         "data",
         "digital"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2175,19 +2175,19 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "health",
         "information",
-        "digital",
         "social",
-        "data",
+        "care",
+        "nhs digital academy",
         "social care",
-        "care"
+        "data",
+        "digital",
+        "health"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "National priorities",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2197,24 +2197,24 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "people",
-        "health",
         "global health",
-        "east",
-        "self",
-        "care",
-        "digital health leadership",
-        "services",
         "mental health",
-        "report"
+        "social",
+        "care",
+        "east",
+        "report",
+        "services",
+        "people",
+        "self",
+        "social care"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
-        "Topic",
         "Region",
-        "Publication type"
+        "Training type",
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2224,21 +2224,21 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "health",
         "global health",
-        "systems",
-        "transformation",
-        "stem",
-        "sustainability",
         "partnership",
-        "service",
-        "digital"
+        "health",
+        "sustainability",
+        "stem",
+        "transformation",
+        "digital",
+        "systems",
+        "service"
       ],
       "matched_categories": [
         "Clinical discipline",
-        "National priorities",
+        "Tags",
         "Topic",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2248,20 +2248,20 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "research",
         "long",
-        "academic",
         "partnership",
-        "virtual",
         "industry",
+        "academic",
+        "virtual",
+        "research",
         "digital"
       ],
       "matched_categories": [
-        "Training type",
         "Delivery method",
+        "Training type",
+        "Publication type",
         "Tags",
-        "National priorities",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2272,13 +2272,13 @@
       "entity_count": 6,
       "matched_entities": [
         "data",
-        "information",
-        "na"
+        "na",
+        "information"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "Recruitment format",
-        "Publication type"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2289,21 +2289,21 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "na",
-        "england",
-        "services",
         "social",
-        "service",
-        "data",
+        "england",
+        "na",
+        "care",
+        "services",
         "social care",
-        "care"
+        "data",
+        "service"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2313,23 +2313,23 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "na",
-        "digital",
-        "services",
         "social",
-        "covid",
+        "management",
+        "na",
+        "care",
         "stem",
-        "service",
-        "data",
-        "social care"
+        "nhs digital academy",
+        "social care",
+        "services",
+        "covid",
+        "data"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Clinical discipline",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2339,23 +2339,23 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "plan",
-        "long",
-        "health",
-        "patient",
         "health inequalities",
+        "long",
         "team",
-        "term",
+        "plan",
+        "patient",
+        "care",
         "inequalities",
         "impact",
-        "data"
+        "data",
+        "term"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
         "Topic",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2365,25 +2365,25 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "delivery",
-        "nhs digital academy",
         "national",
-        "ambulance service team",
+        "emergency",
+        "ambulance",
+        "england",
         "na",
         "patient",
-        "england",
-        "systems",
-        "emergency",
-        "electronic"
+        "delivery",
+        "electronic",
+        "stem",
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2393,23 +2393,23 @@
       "coherence_score": 1.0,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "talent",
-        "england",
-        "care",
-        "team",
-        "board",
         "clinical",
+        "team",
+        "england",
+        "talent",
         "improvement",
+        "care",
+        "nhs digital academy",
+        "board",
         "digital"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Topic",
         "Region",
-        "Career stage"
+        "Career stage",
+        "Topic",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2419,21 +2419,21 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "plan",
-        "health",
         "cosmetic",
-        "mental health",
-        "east",
         "review",
-        "digital"
+        "mental health",
+        "plan",
+        "east",
+        "nhs digital academy",
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Region",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2443,23 +2443,23 @@
       "coherence_score": 1.0,
       "entity_count": 3,
       "matched_entities": [
-        "nhs digital academy",
-        "plan",
-        "health",
-        "england",
         "cosmetic",
-        "digital",
+        "plan",
         "social",
+        "england",
         "east",
+        "care",
+        "nhs digital academy",
         "social care",
-        "care"
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Region",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2469,25 +2469,25 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "national",
         "long",
-        "health",
-        "patient",
-        "na",
-        "outcomes",
+        "national",
+        "practitioner training programme",
         "england",
-        "cancer",
-        "programme",
-        "term"
+        "na",
+        "patient",
+        "management",
+        "covid",
+        "public",
+        "cancer"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Training type",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2497,20 +2497,20 @@
       "coherence_score": 0.93,
       "entity_count": 5,
       "matched_entities": [
+        "england",
+        "east of england",
+        "na",
         "nhs digital academy",
         "prevention",
-        "na",
-        "england",
         "data",
-        "east of england",
         "digital"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2521,23 +2521,23 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "health",
-        "na",
-        "user",
         "clinical",
         "social",
+        "na",
         "service",
-        "data",
+        "care",
         "social care",
-        "care"
+        "data",
+        "user",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2547,23 +2547,23 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "practice",
-        "general practice",
-        "access",
-        "england",
-        "improvement",
         "base",
         "general",
-        "service",
-        "data",
-        "east of england"
+        "inter",
+        "access",
+        "england",
+        "east of england",
+        "improvement",
+        "practice",
+        "general practice",
+        "data"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2573,21 +2573,21 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
+        "consultation",
+        "general",
+        "base",
+        "england",
+        "east of england",
         "practice",
         "general practice",
-        "england",
-        "base",
-        "general",
-        "consultation",
-        "data",
-        "east of england"
+        "data"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2597,23 +2597,23 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "health",
-        "patient",
-        "england",
-        "digital",
-        "contract",
         "clinical",
         "social",
-        "covid"
+        "contract",
+        "england",
+        "patient",
+        "care",
+        "nhs digital academy",
+        "covid",
+        "social care",
+        "practice"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Region",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2623,24 +2623,24 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "health",
-        "patient",
-        "na",
-        "england",
-        "digital",
         "clinical",
         "social",
-        "stem"
+        "england",
+        "na",
+        "patient",
+        "care",
+        "stem",
+        "nhs digital academy",
+        "social care",
+        "practice"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
+        "Clinical discipline",
         "Region",
-        "Clinical discipline"
+        "Topic",
+        "National priorities",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2650,20 +2650,20 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "health",
-        "patient",
-        "digital",
         "clinical",
         "social",
+        "patient",
+        "care",
         "covid",
+        "nhs digital academy",
         "social care",
-        "care"
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Topic",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2673,14 +2673,14 @@
       "coherence_score": 1.0,
       "entity_count": 2,
       "matched_entities": [
-        "nhs digital academy",
         "clinical",
+        "digital",
         "patient",
-        "digital"
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "Topic",
-        "Tags"
+        "Tags",
+        "Topic"
       ],
       "routing": "COHERENT"
     },
@@ -2690,22 +2690,22 @@
       "coherence_score": 1.0,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "health",
-        "patient",
-        "england",
-        "digital",
         "social",
+        "england",
+        "patient",
+        "care",
+        "nhs digital academy",
         "covid",
+        "social care",
+        "practice",
         "data",
-        "social care"
+        "digital"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region",
         "Publication type",
-        "Tags"
+        "Region",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2715,22 +2715,22 @@
       "coherence_score": 1.0,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "health",
-        "patient",
-        "england",
-        "care",
         "social",
+        "england",
+        "patient",
+        "care",
+        "nhs digital academy",
         "covid",
-        "data",
         "social care",
-        "digital"
+        "data",
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region",
         "Publication type",
-        "Tags"
+        "Region",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2740,19 +2740,19 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "health",
-        "patient",
-        "england",
-        "digital",
         "social",
+        "england",
+        "patient",
+        "care",
+        "nhs digital academy",
         "social care",
-        "care"
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
         "Region",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2762,22 +2762,22 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "health",
-        "patient",
-        "digital",
-        "contract",
         "clinical",
         "social",
+        "contract",
+        "patient",
+        "care",
         "covid",
+        "nhs digital academy",
         "social care",
-        "care"
+        "digital",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Topic",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Topic",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2787,23 +2787,23 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "urgent",
+        "planning",
+        "information",
         "resource",
         "time",
-        "information",
-        "services",
-        "report",
-        "planning",
         "resources",
-        "service",
-        "data"
+        "report",
+        "services",
+        "urgent",
+        "data",
+        "service"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Career stage",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2814,24 +2814,24 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "na",
         "information",
-        "formal training",
-        "foundation",
-        "digital",
         "england",
-        "programme",
+        "na",
+        "foundation",
+        "east of england",
+        "care",
         "covid",
+        "programme",
         "data"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Training type",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2841,24 +2841,24 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "health",
-        "na",
-        "england",
-        "programme",
-        "care",
         "social",
+        "england",
+        "na",
+        "care",
         "covid",
-        "service",
+        "social care",
         "data",
-        "social care"
+        "digital",
+        "health",
+        "service"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Training type",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2868,16 +2868,16 @@
       "coherence_score": 0.833,
       "entity_count": 5,
       "matched_entities": [
-        "patient",
+        "placements",
         "na",
+        "patient",
         "covid",
-        "data",
-        "placements"
+        "data"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "Recruitment format",
-        "Publication type"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -2887,18 +2887,18 @@
       "coherence_score": 0.7,
       "entity_count": 2,
       "matched_entities": [
-        "health",
-        "na",
         "england",
+        "na",
         "covid",
-        "stem"
+        "stem",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
+        "Clinical discipline",
         "Region",
-        "Clinical discipline"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2908,23 +2908,23 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
-        "healthcare",
-        "plan",
-        "health",
-        "patient",
-        "programme",
+        "planning",
         "digital",
-        "term",
+        "plan",
+        "service",
+        "care",
+        "patient",
+        "nhs digital academy",
         "services",
-        "planning"
+        "programme",
+        "healthcare"
       ],
       "matched_categories": [
         "Training type",
-        "Tags",
-        "National priorities",
         "Topic",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2934,20 +2934,20 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "young",
-        "health",
         "information",
+        "social",
         "care",
         "services",
-        "social",
-        "service",
+        "stem",
         "social care",
-        "stem"
+        "young",
+        "health",
+        "service"
       ],
       "matched_categories": [
+        "Tags",
         "Clinical discipline",
-        "National priorities",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2957,14 +2957,14 @@
       "coherence_score": 1.0,
       "entity_count": 2,
       "matched_entities": [
-        "nhs digital academy",
-        "systems",
+        "stem",
         "digital",
-        "stem"
+        "systems",
+        "nhs digital academy"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "Tags"
+        "Tags",
+        "Clinical discipline"
       ],
       "routing": "COHERENT"
     },
@@ -2974,20 +2974,20 @@
       "coherence_score": 1.0,
       "entity_count": 3,
       "matched_entities": [
-        "practice",
         "national",
-        "general practice",
-        "na",
         "workforce",
         "general",
+        "na",
+        "practice",
+        "general practice",
         "data"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Publication type",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -2997,23 +2997,23 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "research",
-        "practice",
-        "nhs digital academy",
+        "planning",
+        "general",
+        "social",
         "plan",
-        "general practice",
-        "health",
-        "advanced clinical practice",
-        "digital",
         "best practice",
-        "planning"
+        "care",
+        "nhs digital academy",
+        "social care",
+        "practice",
+        "research"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Clinical discipline",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3023,24 +3023,24 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "practice",
-        "national",
-        "standard",
-        "general practice",
-        "na",
-        "digital",
         "general",
+        "national",
+        "na",
+        "nhs digital academy",
+        "standard",
+        "public",
+        "practice",
+        "general practice",
         "data",
-        "public"
+        "digital"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -3050,21 +3050,21 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
+        "general",
+        "best practice",
         "nhs digital academy",
         "practice",
         "general practice",
         "advanced clinical practice",
-        "best practice",
-        "general",
         "data",
         "digital"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Clinical discipline",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3074,19 +3074,19 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
+        "general",
         "nhs digital academy",
         "practice",
         "general practice",
         "medical",
-        "general",
         "data",
         "digital"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Clinical discipline",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3096,18 +3096,18 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
+        "general",
         "nhs digital academy",
         "practice",
         "general practice",
-        "general",
         "data",
         "digital"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Clinical discipline",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3117,18 +3117,18 @@
       "coherence_score": 0.64,
       "entity_count": 5,
       "matched_entities": [
-        "meeting",
-        "health",
-        "na",
         "england",
-        "board"
+        "na",
+        "board",
+        "meeting",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Region",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3142,8 +3142,8 @@
         "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region"
+        "Region",
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3153,15 +3153,15 @@
       "coherence_score": 0.55,
       "entity_count": 4,
       "matched_entities": [
+        "east of england",
         "health inequalities",
         "england",
-        "east of england",
         "health"
       ],
       "matched_categories": [
-        "National priorities",
+        "Region",
         "Topic",
-        "Region"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3180,17 +3180,17 @@
       "coherence_score": 0.86,
       "entity_count": 6,
       "matched_entities": [
-        "patient",
-        "programme",
-        "finance",
-        "base",
         "assessments",
-        "care"
+        "base",
+        "patient",
+        "care",
+        "finance",
+        "programme"
       ],
       "matched_categories": [
+        "Tags",
         "Training type",
-        "National priorities",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3200,25 +3200,25 @@
       "coherence_score": 0.762,
       "entity_count": 6,
       "matched_entities": [
-        "needs",
-        "workshop",
+        "planning",
+        "team",
         "plan",
         "experience",
-        "team",
+        "workshop",
+        "leader",
+        "needs",
         "medical",
-        "planning",
-        "training",
-        "leader"
+        "training"
       ],
       "matched_categories": [
-        "Event type",
-        "Profession",
         "Training type",
-        "Tags",
-        "National priorities",
-        "Topic",
         "Career stage",
-        "Publication type"
+        "Event type",
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3228,13 +3228,13 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
-        "medical",
         "england",
-        "health"
+        "health",
+        "medical"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region"
+        "Region",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3249,9 +3249,9 @@
         "board"
       ],
       "matched_categories": [
-        "National priorities",
+        "Region",
         "Career stage",
-        "Region"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3261,8 +3261,8 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "na",
         "training",
+        "na",
         "board"
       ],
       "matched_categories": [
@@ -3278,23 +3278,23 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "healthcare",
-        "experience",
-        "health",
         "first",
-        "value",
+        "inter",
         "academic",
         "time",
+        "care",
+        "value",
         "nurses",
-        "inter",
-        "care"
+        "experience",
+        "healthcare",
+        "health"
       ],
       "matched_categories": [
-        "Profession",
         "Training type",
+        "Career stage",
         "Tags",
-        "National priorities",
-        "Career stage"
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3304,13 +3304,13 @@
       "coherence_score": 0.6,
       "entity_count": 6,
       "matched_entities": [
-        "medical",
         "evidence",
-        "graduates"
+        "graduates",
+        "medical"
       ],
       "matched_categories": [
-        "National priorities",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3321,16 +3321,16 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "health",
-        "na",
         "england",
-        "nurses"
+        "na",
+        "nurses",
+        "health"
       ],
       "matched_categories": [
-        "Profession",
+        "Region",
         "National priorities",
-        "Recruitment format",
-        "Region"
+        "Profession",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -3340,21 +3340,21 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "dementia",
-        "healthcare",
-        "resource",
-        "health",
-        "knowledge for healthcare",
         "social",
-        "electronic resources",
-        "learning",
+        "resource",
+        "nhs and healthcare systems",
+        "care",
+        "dementia",
         "social care",
-        "nhs and healthcare systems"
+        "electronic resources",
+        "knowledge for healthcare",
+        "learning",
+        "healthcare"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Topic",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3364,16 +3364,16 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
+        "first",
         "england",
         "guidance",
-        "health",
-        "first"
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Career stage",
+        "Publication type",
         "Region",
-        "Publication type"
+        "Career stage",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3383,18 +3383,18 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "needs",
-        "decision",
-        "patient",
-        "outcomes",
         "wider",
         "partnership",
-        "stem"
+        "decision",
+        "patient",
+        "stem",
+        "needs",
+        "outcomes"
       ],
       "matched_categories": [
-        "Clinical discipline",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Clinical discipline"
       ],
       "routing": "COHERENT"
     },
@@ -3405,17 +3405,17 @@
       "entity_count": 5,
       "matched_entities": [
         "national",
-        "health",
-        "na",
         "time",
-        "service"
+        "na",
+        "service",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Career stage"
+        "Career stage",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3426,20 +3426,20 @@
       "entity_count": 4,
       "matched_entities": [
         "midlands",
-        "medicine",
-        "health",
-        "patient",
-        "doctors",
         "west",
+        "patient",
         "learning",
-        "awards"
+        "awards",
+        "health",
+        "doctors",
+        "medicine"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
+        "Clinical discipline",
         "Region",
-        "Clinical discipline"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3449,16 +3449,16 @@
       "coherence_score": 0.6,
       "entity_count": 6,
       "matched_entities": [
-        "health",
-        "workforce",
         "health inequalities",
+        "workforce",
+        "east of england",
         "england",
-        "east of england"
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
+        "Region",
         "Topic",
-        "Region"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3468,14 +3468,14 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "workforce",
-        "east of england",
         "england",
-        "health"
+        "health",
+        "east of england",
+        "workforce"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region"
+        "Region",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3485,21 +3485,21 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "healthcare",
+        "higher",
         "experience",
-        "health",
         "evidence",
         "course",
+        "care",
         "value",
         "training",
-        "higher",
-        "care"
+        "healthcare",
+        "health"
       ],
       "matched_categories": [
-        "Training type",
-        "National priorities",
         "Event type",
-        "Tags"
+        "Tags",
+        "Training type",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3509,17 +3509,17 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "health",
+        "mental health",
         "england",
         "foundation",
-        "mental health",
+        "east",
         "london",
-        "east"
+        "health"
       ],
       "matched_categories": [
+        "Region",
         "Clinical discipline",
-        "National priorities",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3529,21 +3529,21 @@
       "coherence_score": 0.72,
       "entity_count": 5,
       "matched_entities": [
-        "circulation",
-        "collaboration",
-        "workforce",
-        "foundation",
-        "conditions",
-        "intelligence",
-        "improvement",
         "consultation",
-        "management"
+        "workforce",
+        "management",
+        "foundation",
+        "improvement",
+        "collaboration",
+        "circulation",
+        "intelligence",
+        "conditions"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Clinical discipline",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3553,14 +3553,14 @@
       "coherence_score": 0.36,
       "entity_count": 5,
       "matched_entities": [
-        "professionals",
+        "professional",
         "professions",
         "profession",
-        "professional"
+        "professionals"
       ],
       "matched_categories": [
-        "National priorities",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "CONFLICT"
     },
@@ -3570,24 +3570,24 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "standard",
-        "health",
-        "na",
-        "england",
-        "professionals",
         "workforce",
+        "england",
         "professional",
+        "na",
+        "standard",
         "armed forces",
         "profession",
-        "training"
+        "training",
+        "gp workforce",
+        "health"
       ],
       "matched_categories": [
+        "Region",
         "Training type",
-        "Tags",
-        "National priorities",
         "Topic",
+        "Tags",
         "Recruitment format",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3597,25 +3597,25 @@
       "coherence_score": 0.867,
       "entity_count": 6,
       "matched_entities": [
-        "health",
+        "base",
         "paediatrics",
         "england",
-        "medicines",
         "evidence",
-        "armed forces",
-        "base",
+        "medicines",
         "report",
+        "armed forces",
+        "college",
         "armed",
-        "college"
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Region",
         "Clinical discipline",
+        "Region",
         "Career stage",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3625,18 +3625,18 @@
       "coherence_score": 0.625,
       "entity_count": 8,
       "matched_entities": [
-        "health",
-        "na",
-        "services",
         "social",
-        "service",
+        "na",
+        "care",
+        "services",
         "social care",
-        "care"
+        "health",
+        "service"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Recruitment format",
-        "Tags"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3646,15 +3646,15 @@
       "coherence_score": 0.76,
       "entity_count": 6,
       "matched_entities": [
-        "england",
         "management professionals",
+        "england",
         "nurses",
         "health"
       ],
       "matched_categories": [
+        "Region",
         "Profession",
-        "National priorities",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3664,15 +3664,15 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "health",
+        "south",
         "england",
-        "south west",
         "west",
-        "south"
+        "south west",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region"
+        "Region",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3682,19 +3682,19 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
-        "health",
-        "na",
-        "england",
         "north",
         "north west",
+        "west",
+        "na",
         "managing",
-        "west"
+        "england",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Tags"
+        "National priorities",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -3709,9 +3709,9 @@
         "health"
       ],
       "matched_categories": [
+        "Region",
         "Profession",
-        "National priorities",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3721,24 +3721,24 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "practice",
-        "general practice",
-        "paediatrics",
-        "health",
-        "england",
-        "programme",
-        "foundation",
         "health inequalities",
+        "paediatrics",
+        "general",
+        "east of england",
+        "england",
+        "foundation",
+        "report",
         "psychiatry",
-        "report"
+        "practice",
+        "general practice"
       ],
       "matched_categories": [
-        "Training type",
-        "National priorities",
-        "Topic",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Training type",
+        "Topic",
+        "Publication type",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3748,17 +3748,17 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "health",
-        "patient",
+        "consultation",
         "england",
+        "patient",
         "pharmacy",
-        "consultation"
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Region",
         "Publication type",
-        "Tags"
+        "Region",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3768,13 +3768,13 @@
       "coherence_score": 0.55,
       "entity_count": 4,
       "matched_entities": [
-        "base",
         "programme",
-        "value"
+        "value",
+        "base"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags"
+        "Tags",
+        "Training type"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3784,19 +3784,19 @@
       "coherence_score": 0.64,
       "entity_count": 5,
       "matched_entities": [
-        "health",
         "scientist training programme",
-        "england",
-        "programme",
         "practitioner training programme",
+        "england",
+        "leader",
+        "programme",
         "training",
-        "leader"
+        "health"
       ],
       "matched_categories": [
+        "Region",
         "Training type",
-        "National priorities",
         "Career stage",
-        "Region"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3806,19 +3806,19 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "capability",
         "national",
-        "na",
-        "training",
         "west",
-        "nhs screening services"
+        "na",
+        "capability",
+        "nhs screening services",
+        "training"
       ],
       "matched_categories": [
+        "Region",
         "Training type",
         "Tags",
-        "National priorities",
         "Recruitment format",
-        "Region"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3828,17 +3828,17 @@
       "coherence_score": 0.76,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
         "first",
-        "board",
         "higher",
-        "public"
+        "board",
+        "public",
+        "meeting"
       ],
       "matched_categories": [
+        "Event type",
         "Training type",
-        "National priorities",
         "Career stage",
-        "Event type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3849,16 +3849,16 @@
       "entity_count": 5,
       "matched_entities": [
         "national",
-        "health",
         "na",
         "board",
-        "medical"
+        "medical",
+        "health"
       ],
       "matched_categories": [
-        "Recruitment format",
+        "Region",
         "National priorities",
         "Career stage",
-        "Region"
+        "Recruitment format"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -3868,20 +3868,20 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
-        "equality",
-        "health",
-        "quality",
         "na",
         "board",
-        "public"
+        "public",
+        "equality",
+        "meeting",
+        "health",
+        "quality"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3892,20 +3892,20 @@
       "entity_count": 4,
       "matched_entities": [
         "national",
-        "health",
-        "na",
-        "outcomes",
-        "cancer",
         "clinical",
-        "framework"
+        "na",
+        "cancer",
+        "framework",
+        "outcomes",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -3915,16 +3915,16 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "board",
         "national",
+        "na",
         "finance",
-        "na"
+        "board"
       ],
       "matched_categories": [
         "Region",
-        "Recruitment format",
+        "Tags",
         "Career stage",
-        "Tags"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -3935,20 +3935,20 @@
       "entity_count": 5,
       "matched_entities": [
         "national",
-        "health",
+        "clinical",
         "na",
-        "outcomes",
         "cancer",
         "framework",
-        "clinical"
+        "outcomes",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Topic",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -3958,15 +3958,15 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "report",
         "clinical",
-        "intelligence",
-        "emerging"
+        "report",
+        "emerging",
+        "intelligence"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "Topic",
-        "Publication type"
+        "Topic"
       ],
       "routing": "COHERENT"
     },
@@ -3976,16 +3976,16 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "na",
         "national",
+        "na",
         "finance",
         "board"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Career stage",
         "Region",
-        "Tags"
+        "Tags",
+        "Career stage",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -3995,17 +3995,17 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
+        "inter",
         "open",
         "board",
-        "inter",
-        "public"
+        "public",
+        "meeting"
       ],
       "matched_categories": [
+        "Event type",
         "Tags",
-        "National priorities",
         "Career stage",
-        "Event type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4030,21 +4030,21 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
-        "patient",
-        "quality",
         "england",
-        "board",
+        "quality",
+        "patient",
         "services",
-        "service",
-        "public"
+        "board",
+        "public",
+        "meeting",
+        "service"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
         "Region",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4054,15 +4054,15 @@
       "coherence_score": 0.64,
       "entity_count": 5,
       "matched_entities": [
-        "minutes",
+        "public",
         "meeting",
         "policy",
-        "public"
+        "minutes"
       ],
       "matched_categories": [
-        "National priorities",
+        "Publication type",
         "Event type",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -4072,19 +4072,19 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "practice",
-        "na",
-        "england",
-        "board",
         "clinical",
-        "east of england"
+        "england",
+        "na",
+        "east of england",
+        "board",
+        "practice"
       ],
       "matched_categories": [
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Career stage"
+        "Career stage",
+        "Topic",
+        "National priorities",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -4094,14 +4094,14 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
-        "minutes",
         "meeting",
+        "minutes",
         "board"
       ],
       "matched_categories": [
-        "Career stage",
         "Publication type",
-        "Event type"
+        "Event type",
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4111,16 +4111,16 @@
       "coherence_score": 0.6,
       "entity_count": 6,
       "matched_entities": [
-        "na",
         "national",
         "statistics",
+        "na",
         "board"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Career stage",
+        "Publication type",
         "Region",
-        "Publication type"
+        "Career stage",
+        "Recruitment format"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -4134,8 +4134,8 @@
         "board"
       ],
       "matched_categories": [
-        "Career stage",
-        "Event type"
+        "Event type",
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4146,21 +4146,21 @@
       "entity_count": 4,
       "matched_entities": [
         "national",
-        "patient",
         "na",
-        "board",
+        "patient",
         "report",
-        "learning",
-        "stem"
+        "stem",
+        "board",
+        "learning"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
+        "Region",
         "Career stage",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4185,18 +4185,18 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
-        "programme",
-        "board",
         "minutes",
-        "public"
+        "board",
+        "public",
+        "meeting",
+        "programme"
       ],
       "matched_categories": [
         "Training type",
-        "National priorities",
-        "Publication type",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Publication type",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4206,25 +4206,25 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "workshop",
         "information",
-        "self",
-        "leadership",
+        "workshop",
         "contract",
+        "leader",
         "board",
-        "academy",
-        "transformation",
         "patient information",
-        "innovation"
+        "self",
+        "innovation",
+        "academy",
+        "transformation"
       ],
       "matched_categories": [
-        "Profession",
         "Training type",
-        "Tags",
+        "Career stage",
+        "Event type",
         "Topic",
         "Publication type",
-        "Career stage",
-        "Event type"
+        "Tags",
+        "Profession"
       ],
       "routing": "COHERENT"
     },
@@ -4234,21 +4234,21 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "delivery",
-        "resource",
-        "na",
-        "best",
-        "service delivery",
-        "leadership",
-        "marketing",
-        "electronic resources",
         "social",
-        "resources"
+        "resource",
+        "best",
+        "resources",
+        "leader",
+        "delivery",
+        "na",
+        "electronic resources",
+        "marketing",
+        "service delivery"
       ],
       "matched_categories": [
-        "Recruitment format",
+        "Tags",
         "Career stage",
-        "Tags"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -4258,22 +4258,22 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "healthcare",
-        "health",
-        "doctors",
-        "board",
-        "business plan",
         "healthcare scientists",
+        "care",
         "nhs and healthcare systems",
+        "board",
         "business",
-        "care"
+        "healthcare",
+        "business plan",
+        "health",
+        "doctors"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
         "Career stage",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4283,22 +4283,22 @@
       "coherence_score": 0.862,
       "entity_count": 6,
       "matched_entities": [
-        "development needs",
-        "resource",
-        "outcomes",
-        "leadership",
-        "development",
         "clinical",
-        "tools",
-        "electronic resources",
+        "resource",
+        "leader",
         "resources",
-        "learning"
+        "development",
+        "electronic resources",
+        "tools",
+        "development needs",
+        "learning",
+        "leadership"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Topic",
         "Career stage",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4321,22 +4321,22 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
+        "social",
+        "conference",
         "evaluation framework",
-        "health",
+        "care",
         "occupational frameworks",
         "board",
-        "framework",
-        "conference",
-        "social",
         "social care",
-        "care"
+        "framework",
+        "health"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Publication type",
         "Career stage",
-        "Event type"
+        "Event type",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4370,21 +4370,21 @@
       "coherence_score": 0.962,
       "entity_count": 6,
       "matched_entities": [
-        "development needs",
-        "access",
-        "outcomes",
-        "leadership",
-        "development",
         "clinical",
+        "access",
+        "leader",
+        "development",
         "tools",
+        "development needs",
         "learning",
-        "leader"
+        "leadership",
+        "outcomes"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Topic",
         "Career stage",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4394,23 +4394,23 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "policy",
-        "senior",
-        "development",
-        "board",
-        "south",
-        "framework",
-        "london",
-        "time",
         "inter",
-        "stem"
+        "south",
+        "time",
+        "development",
+        "stem",
+        "board",
+        "senior",
+        "policy",
+        "framework",
+        "london"
       ],
       "matched_categories": [
-        "Tags",
-        "Region",
         "Clinical discipline",
+        "Region",
         "Career stage",
-        "Publication type"
+        "Publication type",
+        "Tags"
       ],
       "routing": "COHERENT"
     },
@@ -4438,14 +4438,14 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "report",
         "clinical",
+        "report",
         "board"
       ],
       "matched_categories": [
+        "Publication type",
         "Topic",
-        "Career stage",
-        "Publication type"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4455,26 +4455,26 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
+        "planning",
+        "clinical",
         "national",
         "plan",
-        "networks",
         "na",
         "board",
-        "conditions",
-        "clinical",
-        "planning",
+        "stem",
         "loan",
-        "stem"
+        "networks",
+        "conditions"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
-        "Region",
         "Clinical discipline",
+        "Region",
         "Career stage",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4484,14 +4484,14 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
+        "board",
         "england",
-        "report",
-        "board"
+        "report"
       ],
       "matched_categories": [
-        "Career stage",
+        "Publication type",
         "Region",
-        "Publication type"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4516,17 +4516,17 @@
       "coherence_score": 0.712,
       "entity_count": 5,
       "matched_entities": [
-        "people",
         "long",
         "england",
+        "east of england",
         "services",
-        "service",
-        "east of england"
+        "people",
+        "service"
       ],
       "matched_categories": [
-        "National priorities",
         "Region",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4536,24 +4536,24 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "news",
-        "health",
-        "na",
-        "england",
-        "professionals",
-        "events",
-        "professional",
-        "profession",
         "consultation",
-        "east of england"
+        "england",
+        "professional",
+        "east of england",
+        "na",
+        "profession",
+        "news",
+        "events",
+        "health",
+        "professionals"
       ],
       "matched_categories": [
-        "News type",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "News type",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -4563,17 +4563,17 @@
       "coherence_score": 1.0,
       "entity_count": 3,
       "matched_entities": [
-        "health",
-        "news",
-        "letter",
+        "children",
         "england",
-        "children"
+        "letter",
+        "news",
+        "health"
       ],
       "matched_categories": [
-        "News type",
-        "National priorities",
+        "Publication type",
         "Region",
-        "Publication type"
+        "News type",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4593,13 +4593,13 @@
       "entity_count": 4,
       "matched_entities": [
         "england",
-        "plan",
+        "business plan",
         "business",
-        "business plan"
+        "plan"
       ],
       "matched_categories": [
-        "Region",
-        "Publication type"
+        "Publication type",
+        "Region"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -4610,23 +4610,23 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "patient",
-        "na",
-        "workforce",
-        "authentication",
-        "gp workforce",
-        "strategy",
-        "nurses",
         "inter",
-        "care"
+        "authentication",
+        "workforce",
+        "na",
+        "patient",
+        "care",
+        "nurses",
+        "strategy",
+        "gp workforce"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -4637,20 +4637,20 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "na",
-        "programme",
-        "board",
         "review",
+        "na",
+        "care",
+        "board",
         "nhs screening services",
-        "care"
+        "programme"
       ],
       "matched_categories": [
-        "Training type",
-        "National priorities",
-        "Recruitment format",
         "Region",
+        "Training type",
         "Career stage",
-        "Publication type"
+        "Publication type",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4660,19 +4660,19 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
+        "communities",
         "delivery",
+        "stem",
         "any",
         "service delivery",
-        "communities",
         "transformation",
-        "service",
-        "stem"
+        "service"
       ],
       "matched_categories": [
+        "Tags",
         "Clinical discipline",
         "Topic",
-        "Career stage",
-        "Tags"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4682,13 +4682,13 @@
       "coherence_score": 1.0,
       "entity_count": 3,
       "matched_entities": [
-        "communities",
+        "public",
         "term",
-        "public"
+        "communities"
       ],
       "matched_categories": [
-        "National priorities",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4698,19 +4698,19 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
+        "communities",
         "delivery",
+        "stem",
         "any",
         "service delivery",
-        "communities",
         "transformation",
-        "service",
-        "stem"
+        "service"
       ],
       "matched_categories": [
+        "Tags",
         "Clinical discipline",
         "Topic",
-        "Career stage",
-        "Tags"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4746,14 +4746,14 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
+        "time",
         "delivery",
-        "plan",
-        "time"
+        "plan"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "Career stage",
-        "Publication type"
+        "Career stage"
       ],
       "routing": "COHERENT"
     },
@@ -4763,21 +4763,21 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "delivery",
-        "plan",
         "long",
-        "patient",
-        "cancer",
+        "plan",
         "material",
-        "document",
+        "patient",
+        "care",
+        "delivery",
         "covid",
-        "impact",
-        "care"
+        "cancer",
+        "document",
+        "impact"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "National priorities",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4801,13 +4801,13 @@
       "entity_count": 4,
       "matched_entities": [
         "services",
-        "plan",
-        "service"
+        "service",
+        "plan"
       ],
       "matched_categories": [
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4817,23 +4817,23 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "urgent",
-        "patient",
-        "urgent and emergency care",
-        "england",
         "emergency",
-        "service",
-        "services",
         "pathways",
+        "england",
+        "improvement",
+        "patient",
         "covid",
+        "services",
+        "urgent and emergency care",
+        "urgent",
         "impact"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
+        "Clinical discipline",
         "Region",
-        "Clinical discipline"
+        "Topic",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4857,25 +4857,25 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "urgent",
-        "roles",
-        "na",
-        "collaboration",
-        "england",
-        "systems",
         "team",
-        "stem",
+        "access",
+        "england",
+        "east of england",
         "improvement",
-        "east of england"
+        "na",
+        "care",
+        "stem",
+        "roles",
+        "collaboration"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
+        "Clinical discipline",
         "Region",
-        "Clinical discipline"
+        "Topic",
+        "National priorities",
+        "Tags",
+        "Profession",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -4885,19 +4885,19 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
-        "urgent",
-        "england",
-        "team",
-        "east of england",
         "access",
-        "care"
+        "team",
+        "england",
+        "east of england",
+        "care",
+        "urgent"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
+        "Region",
         "Topic",
-        "Region"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4907,22 +4907,22 @@
       "coherence_score": 0.84,
       "entity_count": 5,
       "matched_entities": [
-        "maternity",
-        "na",
         "workforce",
-        "services",
-        "personalised",
         "west",
-        "service",
+        "na",
+        "care",
+        "services",
+        "maternity",
         "neonatal",
-        "care"
+        "service",
+        "personalised"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
+        "Region",
         "Topic",
-        "Recruitment format",
-        "Region"
+        "National priorities",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -4932,13 +4932,13 @@
       "coherence_score": 0.771,
       "entity_count": 6,
       "matched_entities": [
+        "placements",
+        "england",
         "talent",
         "patient",
-        "england",
-        "improvement",
         "east of england",
-        "placements",
-        "management"
+        "management",
+        "improvement"
       ],
       "matched_categories": [
         "Region",
@@ -4952,25 +4952,25 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "meeting",
-        "plan",
-        "patient",
-        "na",
-        "england",
-        "services",
         "pathways",
-        "press",
+        "plan",
+        "england",
+        "na",
+        "east of england",
+        "care",
+        "patient",
+        "services",
         "covid",
-        "service"
+        "press"
       ],
       "matched_categories": [
-        "News type",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
+        "Event type",
+        "News type",
         "Publication type",
-        "Event type"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -4980,21 +4980,21 @@
       "coherence_score": 0.923,
       "entity_count": 3,
       "matched_entities": [
-        "na",
-        "professionals",
-        "physical",
         "professional",
+        "na",
+        "physical",
         "services",
         "profession",
+        "data",
         "service",
-        "data"
+        "professionals"
       ],
       "matched_categories": [
         "Delivery method",
-        "Tags",
         "National priorities",
-        "Recruitment format",
-        "Publication type"
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5005,19 +5005,19 @@
       "entity_count": 4,
       "matched_entities": [
         "information",
-        "systems",
-        "self",
         "services",
-        "service",
+        "stem",
+        "self",
         "data",
-        "stem"
+        "systems",
+        "service"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
         "Clinical discipline",
-        "Publication type"
+        "Training type",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5027,22 +5027,22 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
-        "nhs digital academy",
-        "healthcare",
-        "health",
-        "acute",
         "information",
-        "programme",
+        "digital",
         "care",
+        "acute",
+        "nhs digital academy",
+        "programme",
+        "healthcare",
         "data",
-        "digital"
+        "health"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
         "Clinical discipline",
-        "Publication type"
+        "Training type",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5052,22 +5052,22 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "nhs digital academy",
-        "healthcare",
-        "health",
-        "acute",
         "information",
-        "programme",
         "digital",
+        "care",
+        "acute",
+        "nhs digital academy",
+        "programme",
+        "healthcare",
         "data",
-        "care"
+        "health"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "National priorities",
         "Clinical discipline",
-        "Publication type"
+        "Training type",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5077,20 +5077,20 @@
       "coherence_score": 0.85,
       "entity_count": 4,
       "matched_entities": [
+        "acute",
         "nhs digital academy",
         "standard",
-        "acute",
-        "programme",
-        "data",
         "common",
-        "digital"
+        "programme",
+        "digital",
+        "data"
       ],
       "matched_categories": [
-        "Training type",
-        "Tags",
-        "Recruitment format",
         "Clinical discipline",
-        "Publication type"
+        "Training type",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5100,17 +5100,17 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "na",
-        "team",
-        "services",
         "clinical",
+        "team",
+        "na",
+        "services",
         "service"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
         "Topic",
+        "National priorities",
+        "Tags",
+        "Profession",
         "Recruitment format"
       ],
       "routing": "COHERENT"
@@ -5121,17 +5121,17 @@
       "coherence_score": 0.792,
       "entity_count": 4,
       "matched_entities": [
-        "plan",
         "long",
-        "health",
-        "term",
+        "plan",
+        "care",
         "nhs and healthcare systems",
-        "care"
+        "term",
+        "health"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "National priorities",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5141,19 +5141,19 @@
       "coherence_score": 0.76,
       "entity_count": 5,
       "matched_entities": [
+        "technology",
+        "leader",
+        "na",
+        "use of technology",
         "school leavers",
         "letter",
-        "na",
-        "school college leaver",
-        "use of technology",
-        "technology",
-        "leader"
+        "school college leaver"
       ],
       "matched_categories": [
+        "Publication type",
         "Tags",
-        "Recruitment format",
         "Career stage",
-        "Publication type"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5163,23 +5163,23 @@
       "coherence_score": 1.0,
       "entity_count": 5,
       "matched_entities": [
-        "healthcare",
-        "health",
-        "england",
         "team",
-        "services",
         "healthcare scientists",
         "health academia",
+        "england",
         "service",
+        "care",
+        "services",
         "nhs screening services",
-        "care"
+        "healthcare",
+        "health"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
+        "Region",
         "Topic",
-        "Region"
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5189,18 +5189,18 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "healthcare",
-        "regional skills development networks",
-        "health",
-        "help",
         "england",
+        "care",
         "development",
-        "care"
+        "help",
+        "regional skills development networks",
+        "healthcare",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
         "Region",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5210,19 +5210,19 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
+        "management",
         "na",
-        "professionals",
-        "programme",
-        "development",
         "professional",
+        "development",
         "profession",
-        "management"
+        "programme",
+        "professionals"
       ],
       "matched_categories": [
-        "Training type",
         "National priorities",
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Training type",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5232,13 +5232,13 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "service",
         "data",
-        "artificial"
+        "artificial",
+        "service"
       ],
       "matched_categories": [
-        "Tags",
-        "Publication type"
+        "Publication type",
+        "Tags"
       ],
       "routing": "COHERENT"
     },
@@ -5248,21 +5248,21 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "nhs digital academy",
         "healthcare",
-        "health",
+        "access",
+        "healthcare scientists",
+        "care",
+        "nhs digital academy",
+        "health informaticians",
         "programme",
         "digital",
-        "healthcare scientists",
-        "access",
-        "health informaticians",
-        "care"
+        "health"
       ],
       "matched_categories": [
         "Profession",
+        "Tags",
         "Training type",
-        "National priorities",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5272,21 +5272,21 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "healthcare",
         "long",
-        "health",
+        "life",
+        "england",
         "patient",
         "electronic",
-        "england",
         "service",
-        "life",
-        "care"
+        "care",
+        "healthcare",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
-        "Topic",
         "Region",
-        "Tags"
+        "Tags",
+        "Topic",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5305,14 +5305,14 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
+        "time",
         "na",
-        "health",
-        "time"
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
+        "Recruitment format",
         "Career stage",
-        "Recruitment format"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5322,8 +5322,8 @@
       "coherence_score": 0.7,
       "entity_count": 4,
       "matched_entities": [
-        "service",
         "inter",
+        "service",
         "stem"
       ],
       "matched_categories": [
@@ -5338,15 +5338,15 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "na",
         "user",
+        "na",
         "patient",
         "care"
       ],
       "matched_categories": [
-        "National priorities",
+        "Tags",
         "Recruitment format",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5356,16 +5356,16 @@
       "coherence_score": 0.946,
       "entity_count": 4,
       "matched_entities": [
+        "maternity",
         "infection",
         "authentication",
-        "maternity",
         "stem"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "National priorities",
         "Topic",
-        "Tags"
+        "Clinical discipline",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5375,9 +5375,9 @@
       "coherence_score": 0.8,
       "entity_count": 6,
       "matched_entities": [
-        "na",
         "maternity",
-        "time"
+        "time",
+        "na"
       ],
       "matched_categories": [
         "National priorities",
@@ -5392,17 +5392,17 @@
       "coherence_score": 0.832,
       "entity_count": 5,
       "matched_entities": [
-        "research",
-        "na",
         "searching",
         "advanced practice",
+        "na",
+        "research",
         "advanced"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5413,22 +5413,22 @@
       "entity_count": 5,
       "matched_entities": [
         "national",
-        "experience",
-        "health",
-        "patient",
-        "na",
-        "outcomes",
         "scientist training programme",
-        "programme",
+        "practitioner training programme",
+        "na",
+        "patient",
         "help",
-        "practitioner training programme"
+        "programme",
+        "experience",
+        "digital",
+        "outcomes"
       ],
       "matched_categories": [
+        "Region",
         "Training type",
-        "Tags",
         "National priorities",
-        "Recruitment format",
-        "Region"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5443,8 +5443,8 @@
         "patient"
       ],
       "matched_categories": [
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5454,23 +5454,23 @@
       "coherence_score": 0.969,
       "entity_count": 6,
       "matched_entities": [
-        "practice",
-        "standard",
         "healthcare",
-        "health",
-        "patient",
+        "inter",
+        "placements",
+        "best practice",
         "na",
-        "systems",
-        "digital",
+        "patient",
         "care",
-        "personalised"
+        "stem",
+        "standard",
+        "promotional material"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Clinical discipline",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5480,21 +5480,21 @@
       "coherence_score": 0.7,
       "entity_count": 6,
       "matched_entities": [
-        "release",
+        "care",
+        "stem",
         "standard",
+        "programme",
         "healthcare",
         "health",
-        "programme",
-        "care",
-        "stem"
+        "release"
       ],
       "matched_categories": [
-        "News type",
+        "Clinical discipline",
         "Training type",
-        "Tags",
+        "News type",
         "National priorities",
-        "Recruitment format",
-        "Clinical discipline"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5504,17 +5504,17 @@
       "coherence_score": 1.0,
       "entity_count": 4,
       "matched_entities": [
-        "standard",
+        "ambulance",
         "board development",
-        "ambulance service team",
         "development",
-        "service",
-        "ambulance"
+        "standard",
+        "ambulance service team",
+        "service"
       ],
       "matched_categories": [
+        "Tags",
         "Profession",
-        "Recruitment format",
-        "Tags"
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5524,19 +5524,19 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "capability",
-        "standard",
-        "systems",
+        "inter",
         "emergency",
         "care",
-        "inter",
-        "stem"
+        "stem",
+        "standard",
+        "capability",
+        "systems"
       ],
       "matched_categories": [
         "Clinical discipline",
-        "National priorities",
+        "Tags",
         "Recruitment format",
-        "Tags"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5551,8 +5551,8 @@
         "stem"
       ],
       "matched_categories": [
-        "Clinical discipline",
         "National priorities",
+        "Clinical discipline",
         "Recruitment format"
       ],
       "routing": "COHERENT"
@@ -5564,19 +5564,19 @@
       "entity_count": 6,
       "matched_entities": [
         "national",
-        "health",
         "na",
         "services",
-        "service",
         "data",
-        "digital"
+        "digital",
+        "health",
+        "service"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5586,24 +5586,24 @@
       "coherence_score": 0.961,
       "entity_count": 4,
       "matched_entities": [
+        "networking",
+        "information",
+        "access",
+        "advanced practice",
+        "best practice",
+        "quality",
+        "report",
         "practice",
         "general practice",
-        "networks",
-        "quality",
-        "access",
-        "information",
-        "advanced practice",
-        "report",
-        "best practice",
-        "training"
+        "practitioners"
       ],
       "matched_categories": [
-        "Profession",
-        "Training type",
-        "Tags",
-        "National priorities",
         "Clinical discipline",
-        "Publication type"
+        "Training type",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5613,19 +5613,19 @@
       "coherence_score": 0.94,
       "entity_count": 4,
       "matched_entities": [
-        "release",
-        "postgraduate",
-        "quality",
         "team",
+        "release",
+        "service",
         "report",
-        "service"
+        "quality",
+        "postgraduate"
       ],
       "matched_categories": [
-        "News type",
-        "Profession",
-        "Tags",
         "Career stage",
-        "Publication type"
+        "News type",
+        "Publication type",
+        "Tags",
+        "Profession"
       ],
       "routing": "COHERENT"
     },
@@ -5635,21 +5635,21 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "quality",
+        "inter",
         "na",
-        "user",
+        "quality",
+        "primary",
         "services",
         "report",
-        "service",
+        "user",
         "primary care",
-        "inter",
-        "primary"
+        "service"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5659,21 +5659,21 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
+        "general",
+        "service",
+        "report",
+        "services",
         "practice",
         "general practice",
-        "quality",
         "user",
-        "term",
-        "services",
-        "report",
-        "general",
-        "service"
+        "quality",
+        "term"
       ],
       "matched_categories": [
-        "Clinical discipline",
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Clinical discipline",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5696,25 +5696,25 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "practice",
-        "outcomes",
-        "advanced practice",
+        "information",
+        "best practice",
+        "improvement",
         "framework",
-        "service",
-        "practitioners",
-        "health informaticians",
+        "outcomes",
         "plan",
-        "quality",
-        "information"
+        "england",
+        "covid",
+        "practice",
+        "health informaticians"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Region",
         "Clinical discipline",
-        "Publication type"
+        "Region",
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5724,21 +5724,21 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "release",
-        "health",
-        "programme",
-        "care",
         "social",
-        "data",
+        "care",
+        "public",
         "social care",
-        "public"
+        "data",
+        "health",
+        "release",
+        "programme"
       ],
       "matched_categories": [
-        "News type",
         "Training type",
+        "News type",
+        "Publication type",
         "Tags",
-        "National priorities",
-        "Publication type"
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5748,16 +5748,16 @@
       "coherence_score": 0.88,
       "entity_count": 5,
       "matched_entities": [
-        "standard",
+        "assessments",
         "patient",
         "improvement",
-        "assessments",
-        "care"
+        "care",
+        "standard"
       ],
       "matched_categories": [
         "National priorities",
-        "Recruitment format",
-        "Tags"
+        "Tags",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5767,20 +5767,20 @@
       "coherence_score": 0.914,
       "entity_count": 7,
       "matched_entities": [
-        "research",
-        "people",
         "mental",
-        "dental",
         "development",
+        "dental",
+        "dementia",
+        "people",
         "document",
-        "dementia"
+        "research"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
         "Clinical discipline",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5790,17 +5790,17 @@
       "coherence_score": 0.8,
       "entity_count": 3,
       "matched_entities": [
-        "healthcare",
-        "health",
-        "patient",
-        "independent",
         "assessments",
-        "care"
+        "independent",
+        "patient",
+        "care",
+        "healthcare",
+        "health"
       ],
       "matched_categories": [
-        "National priorities",
         "Publication type",
-        "Tags"
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5811,15 +5811,15 @@
       "entity_count": 6,
       "matched_entities": [
         "england",
+        "patient",
         "specialist",
-        "acute",
-        "patient"
+        "acute"
       ],
       "matched_categories": [
-        "Training type",
         "Region",
+        "Tags",
         "Clinical discipline",
-        "Tags"
+        "Training type"
       ],
       "routing": "AMBIGUOUS"
     },
@@ -5829,21 +5829,21 @@
       "coherence_score": 0.957,
       "entity_count": 4,
       "matched_entities": [
-        "needs",
         "national",
-        "cancer and diagnostics",
-        "patient",
-        "na",
-        "diagnostics",
         "england",
+        "diagnostics",
+        "patient",
+        "east of england",
+        "na",
+        "needs",
         "value",
-        "east of england"
+        "cancer and diagnostics"
       ],
       "matched_categories": [
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Tags"
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5853,14 +5853,14 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "report",
         "infection",
-        "patient"
+        "patient",
+        "report"
       ],
       "matched_categories": [
-        "Topic",
         "Publication type",
-        "Tags"
+        "Tags",
+        "Topic"
       ],
       "routing": "COHERENT"
     },
@@ -5870,24 +5870,24 @@
       "coherence_score": 1.0,
       "entity_count": 6,
       "matched_entities": [
-        "guidance",
-        "maternity",
-        "na",
-        "england",
         "information",
-        "services",
-        "service",
-        "data",
         "neonatal",
-        "public"
+        "england",
+        "na",
+        "guidance",
+        "services",
+        "maternity",
+        "public",
+        "data",
+        "service"
       ],
       "matched_categories": [
-        "Tags",
-        "National priorities",
-        "Topic",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
       ],
       "routing": "COHERENT"
     },
@@ -5897,23 +5897,23 @@
       "coherence_score": 0.9,
       "entity_count": 6,
       "matched_entities": [
-        "policy",
         "national",
-        "na",
-        "england",
-        "information",
-        "team",
-        "pharmacy",
         "community",
-        "public"
+        "team",
+        "information",
+        "england",
+        "na",
+        "public",
+        "policy",
+        "pharmacy"
       ],
       "matched_categories": [
-        "Profession",
-        "Tags",
-        "National priorities",
-        "Recruitment format",
         "Region",
-        "Publication type"
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "Recruitment format"
       ],
       "routing": "COHERENT"
     },
@@ -5923,46 +5923,1627 @@
       "coherence_score": 0.933,
       "entity_count": 9,
       "matched_entities": [
-        "practice",
+        "general",
+        "community",
         "primary",
-        "general practice",
-        "electronic",
         "dental",
-        "systems",
-        "communities of practice",
-        "care",
+        "electronic",
         "services",
-        "electronic resources"
+        "public",
+        "electronic resources",
+        "practice",
+        "stem"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Clinical discipline",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0002": {
+      "title": "NHS England \u00bb Perinatal mental health",
+      "triple_count": 1,
+      "coherence_score": 1.0,
+      "entity_count": 2,
+      "matched_entities": [
+        "mental",
+        "na",
+        "long term conditions",
+        "conditions"
+      ],
+      "matched_categories": [
+        "National priorities",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0024": {
+      "title": "NHS England \u00bb Authorisation: Final draft guide published and next steps outlined",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "board development",
+        "emerging",
+        "na",
+        "board",
+        "marketing",
+        "meeting"
+      ],
+      "matched_categories": [
+        "Career stage",
+        "Event type",
+        "Topic",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0047": {
+      "title": "NHS England \u00bb Checkpoint 2 customer survey",
+      "triple_count": 2,
+      "coherence_score": 0.407,
+      "entity_count": 4,
+      "matched_entities": [
+        "collaboration",
+        "authentication",
+        "evaluation",
+        "optimisation"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Topic"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0050": {
+      "title": "NHS England \u00bb Commissioning support services: Outcome of Checkpoint 2",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "plan",
+        "na",
+        "development",
+        "services",
+        "board",
+        "regional",
+        "business",
+        "business plan",
+        "service"
+      ],
+      "matched_categories": [
+        "Career stage",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0058": {
+      "title": "NHS England \u00bb Skills to create and implement service redesign which incorporate improvements and innovation in access, quality, safety and patient experience across pathways",
+      "triple_count": 3,
+      "coherence_score": 0.881,
+      "entity_count": 7,
+      "matched_entities": [
+        "clinical",
+        "national",
+        "team",
+        "leader",
+        "guidance",
+        "na",
+        "roles",
+        "report",
+        "reproductive",
+        "senior"
+      ],
+      "matched_categories": [
+        "Region",
+        "Career stage",
+        "Topic",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0059": {
+      "title": "NHS England \u00bb Select and use data about population needs and service utilisation, together with professional knowledge and patient experiences, as the basis for prioritising commissioning plans",
+      "triple_count": 3,
+      "coherence_score": 0.956,
+      "entity_count": 5,
+      "matched_entities": [
+        "practitioners",
+        "workshop",
+        "leader",
+        "patient",
+        "common",
+        "school leavers",
+        "academy",
+        "data",
+        "leadership",
+        "leavers"
       ],
       "matched_categories": [
         "Clinical discipline",
+        "Career stage",
+        "Event type",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0062": {
+      "title": "NHS England \u00bb Skills in securing improved patient experience in all aspects of commissioning",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "base",
+        "team",
+        "information",
+        "workshop",
+        "leader",
+        "senior",
+        "self",
+        "experience"
+      ],
+      "matched_categories": [
+        "Training type",
+        "Career stage",
+        "Event type",
+        "Tags",
+        "Profession"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0065": {
+      "title": "NHS England \u00bb Understanding of integrated governance and awareness of components of good integrated governance responsibilities (individual and corporate)",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "emerging",
+        "evaluation framework",
+        "na",
+        "occupational frameworks",
+        "help",
+        "framework",
+        "frameworks",
+        "term"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0066": {
+      "title": "NHS England \u00bb Knowledge of the responsibilities around agreeing and implementing their approach to management of risk, research governance, information governance, duty to promote innovation and sustainability",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "information",
+        "emerging",
+        "resource",
+        "na",
+        "material",
+        "development",
+        "guidance",
+        "needs",
+        "training"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Training type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0071": {
+      "title": "NHS England \u00bb Skills and behaviours to plan and implement successful and sustainable change",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "planning",
+        "healthcare",
+        "team",
+        "plan",
+        "workshop",
+        "contract",
+        "leader",
+        "improvement",
+        "na",
+        "care"
+      ],
+      "matched_categories": [
+        "Career stage",
+        "Event type",
+        "Topic",
         "National priorities",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0073": {
+      "title": "Bulletin for proposed CCGs \u2013 Issue 15, 14 June 2012 | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "guidance"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Topic"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0074": {
+      "title": "Next stop Stockholm \u2026 \u2013 Johnny Marshall | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "mental health"
+      ],
+      "matched_categories": [
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0077": {
+      "title": "NHS England \u00bb Choice and Competition Framework",
+      "triple_count": 3,
+      "coherence_score": 0.836,
+      "entity_count": 5,
+      "matched_entities": [
+        "social",
+        "evaluation framework",
+        "care",
+        "occupational frameworks",
+        "board",
+        "social care",
+        "common",
+        "framework",
+        "practitioners",
+        "health"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Career stage",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0092": {
+      "title": "Jaws in Space \u2013 Johnny Marshall | NHS England",
+      "triple_count": 2,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "people"
+      ],
+      "matched_categories": [
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0094": {
+      "title": "Operations directorate: key directors appointed | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.645,
+      "entity_count": 4,
+      "matched_entities": [
+        "consultation",
+        "board"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0097": {
+      "title": "NHS England \u00bb Board meeting \u2013 19 July 2012",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "public",
+        "meeting",
+        "policy",
+        "board"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Event type",
+        "Career stage",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0099": {
+      "title": "NHS England \u00bb CCG clinical leaders invited to join new commissioning assembly",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "formal",
+        "leader",
+        "board",
+        "collaboration",
+        "senior"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Topic",
+        "Training type",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0106": {
+      "title": "NHS England \u00bb Proposals for authorisation conditions and support published",
+      "triple_count": 3,
+      "coherence_score": 0.764,
+      "entity_count": 6,
+      "matched_entities": [
+        "na",
+        "report",
+        "meeting",
+        "promotional",
+        "professionals"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "National priorities",
+        "Event type",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0108": {
+      "title": "NHS England \u00bb NHS Commissioning Board Authority recruits Very Senior Managers (VSM)",
+      "triple_count": 4,
+      "coherence_score": 0.775,
+      "entity_count": 8,
+      "matched_entities": [
+        "clinical",
+        "na",
+        "primary",
+        "development",
+        "care",
+        "board",
+        "stem",
+        "senior",
+        "policy",
+        "strategy"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Career stage",
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0113": {
+      "title": "Board Authority provides more detail on commissioning support hosting and governance | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "na",
+        "board"
+      ],
+      "matched_categories": [
+        "Region",
+        "Career stage",
+        "Recruitment format"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0120": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "team",
+        "advanced practice",
+        "best practice",
+        "services",
+        "nhs digital academy",
+        "help",
+        "practice",
+        "stem",
+        "general practice",
+        "practitioners"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Clinical discipline",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0123": {
+      "title": "Home - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "stem",
+        "services",
+        "nhs digital academy",
+        "data",
+        "digital",
+        "systems",
+        "service"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Clinical discipline",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0128": {
+      "title": "Home - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "inter",
+        "information",
+        "board",
+        "public",
+        "practice",
+        "data"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Career stage",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0149": {
+      "title": "Historical PDF conversion: Disproportionate burden assessment - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "people",
+        "na",
+        "access",
+        "data"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0159": {
+      "title": "Using Facebook ads to increase referrals to psychological therapies in Essex - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "team",
+        "service"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0164": {
+      "title": "About the Academy at NHS Digital - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "health inequalities",
+        "digital literacy",
+        "career",
+        "school",
+        "nhs digital academy",
+        "leaver",
+        "school leavers",
+        "inequalities",
+        "academy",
+        "digital"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Topic",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0174": {
+      "title": "Contact us - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "team",
+        "service",
+        "services"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0180": {
+      "title": "Freedom of Information request NIC-690159-K8H4Z - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "information",
+        "time",
+        "guidance",
+        "nhs digital academy",
+        "digital"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Career stage"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0188": {
+      "title": "Freedom of Information disclosure log November 2020 - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.85,
+      "entity_count": 4,
+      "matched_entities": [
+        "community",
+        "information",
+        "service",
+        "services",
+        "digital",
+        "health"
+      ],
+      "matched_categories": [
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0199": {
+      "title": "Creating the best and most inclusive place to work - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "networks",
+        "nhs digital academy",
+        "experience",
+        "digital",
+        "professional networks"
+      ],
+      "matched_categories": [
         "Tags"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0209": {
+      "title": "Anti-fraud, bribery, and corruption - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "england",
+        "nhs digital academy",
+        "public",
+        "prevention",
+        "digital"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0226": {
+      "title": "Assuring Transformation - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "inter",
+        "community",
+        "review",
+        "england",
+        "east of england",
+        "patient",
+        "services",
+        "learning",
+        "framework",
+        "disability"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Region",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0237": {
+      "title": "GPES Cardiovascular Disease Prevention Audit - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "england",
+        "na",
+        "east of england",
+        "data",
+        "digital"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Region",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0239": {
+      "title": "GPES Cardiovascular Disease Prevention Audit - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.93,
+      "entity_count": 5,
+      "matched_entities": [
+        "england",
+        "east of england",
+        "na",
+        "nhs digital academy",
+        "prevention",
+        "data",
+        "digital"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0240": {
+      "title": "Cardiovascular Disease Prevention (CVDPREVENT) Audit - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.942,
+      "entity_count": 4,
+      "matched_entities": [
+        "long",
+        "plan",
+        "england",
+        "prevention",
+        "term"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Region",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0241": {
+      "title": "Cardiovascular Disease Prevention (CVDPREVENT) Audit - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "long",
+        "term",
+        "prevention",
+        "plan"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0250": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "information",
+        "social",
+        "contract",
+        "na",
+        "patient",
+        "care",
+        "covid",
+        "nhs digital academy",
+        "patient information"
+      ],
+      "matched_categories": [
+        "Topic",
+        "Publication type",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0252": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "social",
+        "contract",
+        "patient",
+        "care",
+        "covid",
+        "nhs digital academy",
+        "social care",
+        "digital",
+        "health"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Topic",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0253": {
+      "title": "COVID-19 at-risk patients Data Provision Notices - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "clinical",
+        "social",
+        "contract",
+        "patient",
+        "care",
+        "covid",
+        "nhs digital academy",
+        "social care",
+        "data",
+        "digital"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Topic",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0260": {
+      "title": "COVID-19 At Risk Patients - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "social",
+        "england",
+        "na",
+        "patient",
+        "care",
+        "nhs digital academy",
+        "covid",
+        "social care",
+        "practice",
+        "digital"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0272": {
+      "title": "Hospital Electronic Prescribing and Medicines Administration (HEPMA) Data - Scotland - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "na",
+        "services",
+        "nhs digital academy",
+        "board",
+        "data",
+        "digital",
+        "health",
+        "service"
+      ],
+      "matched_categories": [
+        "Region",
+        "Career stage",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0276": {
+      "title": "GP Appointments Data - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "inter",
+        "england",
+        "east of england",
+        "primary",
+        "care",
+        "services",
+        "data",
+        "primary care",
+        "service"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Region",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0280": {
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.9,
+      "entity_count": 6,
+      "matched_entities": [
+        "general",
+        "information",
+        "service",
+        "patient",
+        "covid",
+        "patient information",
+        "practice",
+        "practitioner",
+        "general practice",
+        "medical"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "Career stage",
+        "Publication type",
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0282": {
+      "title": "GPES Data for Pandemic Planning and Research (COVID-19) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "general",
+        "nhs digital academy",
+        "covid",
+        "practice",
+        "general practice",
+        "data",
+        "digital"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "Clinical discipline",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0285": {
+      "title": "Health Education England | Excellence in education and training, quality in patient care",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 5,
+      "matched_entities": [
+        "global health",
+        "health inequalities",
+        "workforce",
+        "public health professionals",
+        "healthcare scientists",
+        "skills",
+        "england",
+        "east of england",
+        "service",
+        "care"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Region",
+        "Career stage",
+        "Topic",
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0298": {
+      "title": "Health Education England \u00bb HEE approves authorisation of 13 Local Education and Training Boards",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "england",
+        "service",
+        "board",
+        "services",
+        "training",
+        "health"
+      ],
+      "matched_categories": [
+        "Region",
+        "Training type",
+        "Career stage",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0302": {
+      "title": "Health Education England \u00bb Health Education England support for integrated care initiative",
+      "triple_count": 2,
+      "coherence_score": 0.805,
+      "entity_count": 4,
+      "matched_entities": [
+        "inter",
+        "literature",
+        "england",
+        "east of england",
+        "undergraduate",
+        "care",
+        "services",
+        "health",
+        "service"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0320": {
+      "title": "Health Education England \u00bb Postgraduate Dean receives award for surgical education and training",
+      "triple_count": 3,
+      "coherence_score": 0.5,
+      "entity_count": 6,
+      "matched_entities": [
+        "college"
+      ],
+      "matched_categories": [
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0329": {
+      "title": "Health Education England \u00bb HEE launches first national consultation on a NHS bands 1-4 workforce strategy",
+      "triple_count": 3,
+      "coherence_score": 0.55,
+      "entity_count": 4,
+      "matched_entities": [
+        "england",
+        "health"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0341": {
+      "title": "NHS England \u00bb NHS Commissioning Board Special Health Authority announces designate executive directors at first meeting",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "national",
+        "na",
+        "board",
+        "medical",
+        "health"
+      ],
+      "matched_categories": [
+        "Region",
+        "Recruitment format",
+        "Career stage",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0342": {
+      "title": "Equality Analysis of NHS Commissioning Board Authority Functions | NHS England",
+      "triple_count": 4,
+      "coherence_score": 0.914,
+      "entity_count": 7,
+      "matched_entities": [
+        "na",
+        "quality",
+        "board",
+        "public",
+        "equality",
+        "people",
+        "report",
+        "health"
+      ],
+      "matched_categories": [
+        "Career stage",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0354": {
+      "title": "Briefing note on CCG indicative running cost allowances | NHS England",
+      "triple_count": 3,
+      "coherence_score": 0.52,
+      "entity_count": 5,
+      "matched_entities": [
+        "board"
+      ],
+      "matched_categories": [
+        "Career stage"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0368": {
+      "title": "NHS England \u00bb Understanding of duties under The Equality Act. Skills in using Equality Delivery System",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "team",
+        "leader",
+        "service",
+        "delivery",
+        "services",
+        "public",
+        "equality",
+        "senior",
+        "people",
+        "stem"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Career stage",
+        "Tags",
+        "Profession",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0376": {
+      "title": "NHS England \u00bb NHS Commissioning Board Authority at the NHS Confederation Annual Conference",
+      "triple_count": 3,
+      "coherence_score": 0.52,
+      "entity_count": 5,
+      "matched_entities": [
+        "conference"
+      ],
+      "matched_categories": [
+        "Event type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0384": {
+      "title": "NHS England \u00bb Where can I find out more?",
+      "triple_count": 3,
+      "coherence_score": 0.76,
+      "entity_count": 5,
+      "matched_entities": [
+        "england",
+        "east of england",
+        "public",
+        "policy",
+        "public health"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Region",
+        "Clinical discipline",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0387": {
+      "title": "NHS England \u00bb Diffusing innovation in healthcare",
+      "triple_count": 3,
+      "coherence_score": 0.767,
+      "entity_count": 6,
+      "matched_entities": [
+        "na",
+        "innovation",
+        "discovery",
+        "medical",
+        "briefing",
+        "medicines optimisation",
+        "medicine"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Topic",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0392": {
+      "title": "NHS England \u00bb Contribute",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "bulletin",
+        "news",
+        "long term conditions"
+      ],
+      "matched_categories": [
+        "News type",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0395": {
+      "title": "NHS England \u00bb The month",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 3,
+      "matched_entities": [
+        "bulletin",
+        "news"
+      ],
+      "matched_categories": [
+        "News type"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0396": {
+      "title": "NHS England \u00bb Busiest November ever as new figures show pressures on NHS staff",
+      "triple_count": 3,
+      "coherence_score": 0.5,
+      "entity_count": 6,
+      "matched_entities": [
+        "service",
+        "services"
+      ],
+      "matched_categories": [
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0397": {
+      "title": "NHS England \u00bb Our funding",
+      "triple_count": 3,
+      "coherence_score": 0.6,
+      "entity_count": 6,
+      "matched_entities": [
+        "global health",
+        "best",
+        "patient",
+        "services",
+        "health",
+        "outcomes",
+        "service"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Topic",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0404": {
+      "title": "NHS England \u00bb 2. Continue to lead the NHS in responding to COVID-19 ever more effectively",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "national",
+        "term",
+        "na"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0407": {
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 3,
+      "coherence_score": 0.64,
+      "entity_count": 5,
+      "matched_entities": [
+        "long",
+        "plan",
+        "patient",
+        "care",
+        "delivery",
+        "covid",
+        "cancer"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0412": {
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "triple_count": 1,
+      "coherence_score": 0.925,
+      "entity_count": 2,
+      "matched_entities": [
+        "academia",
+        "placements",
+        "academic",
+        "patient",
+        "practice"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Topic",
+        "Training type",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0422": {
+      "title": "NHS England \u00bb 9. Drive the integration of care and enable change",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "plan",
+        "care",
+        "nhs digital academy",
+        "digital",
+        "health"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0427": {
+      "title": "Access and store digital patient documents - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.52,
+      "entity_count": 5,
+      "matched_entities": [
+        "access",
+        "patient",
+        "document",
+        "digital",
+        "service"
+      ],
+      "matched_categories": [
+        "Tags"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0428": {
+      "title": "Service updates - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "access",
+        "patient",
+        "services",
+        "document",
+        "service delivery",
+        "digital",
+        "service"
+      ],
+      "matched_categories": [
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0432": {
+      "title": "Acute Data Alignment Programme (ADAPt) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.88,
+      "entity_count": 5,
+      "matched_entities": [
+        "patient",
+        "care",
+        "acute",
+        "stem",
+        "standard",
+        "report",
+        "programme",
+        "healthcare",
+        "systems",
+        "data"
+      ],
+      "matched_categories": [
+        "Clinical discipline",
+        "Training type",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0438": {
+      "title": "A&E self-service tool - NHS Digital",
+      "triple_count": 1,
+      "coherence_score": 1.0,
+      "entity_count": 2,
+      "matched_entities": [
+        "patient",
+        "care",
+        "services",
+        "self",
+        "urgent",
+        "service"
+      ],
+      "matched_categories": [
+        "Tags",
+        "Topic",
+        "Training type",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0439": {
+      "title": "AI knowledge repository - NHS England Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 3,
+      "matched_entities": [
+        "england",
+        "knowledge",
+        "team"
+      ],
+      "matched_categories": [
+        "Region",
+        "Tags",
+        "Profession"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0454": {
+      "title": "Listing and viewing birth notifications - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "maternity",
+        "na"
+      ],
+      "matched_categories": [
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0456": {
+      "title": "The birth notification process - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.7,
+      "entity_count": 4,
+      "matched_entities": [
+        "health",
+        "east"
+      ],
+      "matched_categories": [
+        "Region",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0461": {
+      "title": "Listing and viewing birth notifications - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.7,
+      "entity_count": 6,
+      "matched_entities": [
+        "maternity",
+        "health"
+      ],
+      "matched_categories": [
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0468": {
+      "title": "Supplier status: 999 AST to CAS for validation - NHS Digital",
+      "triple_count": 2,
+      "coherence_score": 0.0,
+      "entity_count": 4,
+      "matched_entities": [],
+      "matched_categories": [],
+      "routing": "CONFLICT"
+    },
+    "page_0472": {
+      "title": "Supplier status: Clinical assessment services referral (and booking) - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.673,
+      "entity_count": 5,
+      "matched_entities": [
+        "placements",
+        "career",
+        "care",
+        "patient",
+        "strategy"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "National priorities"
+      ],
+      "routing": "AMBIGUOUS"
+    },
+    "page_0484": {
+      "title": "Areas of interest - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 4,
+      "matched_entities": [
+        "base",
+        "clinical",
+        "inter",
+        "literature searching",
+        "na",
+        "care",
+        "public",
+        "data"
+      ],
+      "matched_categories": [
+        "Topic",
+        "National priorities",
+        "Publication type",
+        "Tags",
+        "Recruitment format"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0492": {
+      "title": "Quality Accounts - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 1.0,
+      "entity_count": 6,
+      "matched_entities": [
+        "national",
+        "healthcare scientists",
+        "na",
+        "quality",
+        "east",
+        "care",
+        "report",
+        "nhs and healthcare systems",
+        "framework",
+        "data"
+      ],
+      "matched_categories": [
+        "Region",
+        "Publication type",
+        "Profession",
+        "Tags",
+        "Recruitment format",
+        "National priorities"
+      ],
+      "routing": "COHERENT"
+    },
+    "page_0499": {
+      "title": "Practice Level Prescribing in England: a summary - NHS Digital",
+      "triple_count": 3,
+      "coherence_score": 0.8,
+      "entity_count": 6,
+      "matched_entities": [
+        "data",
+        "patient information",
+        "practice",
+        "information"
+      ],
+      "matched_categories": [
+        "Publication type",
+        "Tags",
+        "National priorities"
       ],
       "routing": "COHERENT"
     }
   },
   "summary": {
-    "coherent": 234,
-    "ambiguous": 42,
-    "conflict": 9,
-    "coherent_pct": 82.1,
-    "ambiguous_pct": 14.7,
-    "conflict_pct": 3.2
+    "coherent": 292,
+    "ambiguous": 60,
+    "conflict": 10,
+    "coherent_pct": 80.7,
+    "ambiguous_pct": 16.6,
+    "conflict_pct": 2.8
   },
   "category_coverage": {
-    "National priorities": 195,
-    "Recruitment format": 89,
-    "Tags": 212,
-    "Training type": 40,
-    "Publication type": 112,
-    "Career stage": 88,
-    "Event type": 21,
-    "Region": 104,
-    "Topic": 71,
-    "Profession": 48,
-    "Clinical discipline": 74,
-    "News type": 10,
+    "Tags": 266,
+    "Recruitment format": 113,
+    "National priorities": 253,
+    "Training type": 48,
+    "Publication type": 150,
+    "Career stage": 112,
+    "Event type": 28,
+    "Region": 124,
+    "Topic": 89,
+    "Clinical discipline": 86,
+    "Profession": 61,
+    "News type": 12,
     "Training qualification": 1,
     "Delivery method": 2
   }

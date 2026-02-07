@@ -361,15 +361,9 @@
     "page_0472",
     "page_0484",
     "page_0492",
-    "page_0499"
-  ],
-  "failed_ids": [
-    "page_0003",
-    "page_0006",
-    "page_0007",
-    "page_0008",
-    "page_0009",
+    "page_0499",
     "page_0010",
+    "page_0003",
     "page_0015",
     "page_0016",
     "page_0017",
@@ -478,7 +472,6 @@
     "page_0366",
     "page_0382",
     "page_0388",
-    "page_0389",
     "page_0391",
     "page_0394",
     "page_0399",
@@ -503,8 +496,16 @@
     "page_0491",
     "page_0494",
     "page_0500",
-    "page_0501"
+    "page_0501",
+    "page_0389"
   ],
-  "total_triples": 1060,
-  "last_updated": "2026-02-05T19:33:12.016530"
+  "failed_ids": [],
+  "total_triples": 3331,
+  "last_updated": "2026-02-06T22:15:25.840981",
+  "skipped_ids": [
+    "page_0006",
+    "page_0007",
+    "page_0008",
+    "page_0009"
+  ]
 }
