@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "judged_at": "2026-02-09T16:18:07.430962",
+    "model": "phi3:mini",
+    "task": "deduplication_medium",
+    "total_cases": 32
+  },
+  "summary": {
+    "agree": 9,
+    "disagree": 0,
+    "uncertain": 23,
+    "error": 0,
+    "total": 32
+  },
+  "results": [
+    {
+      "page_a": "page_0256",
+      "page_b": "page_0257",
+      "title_a": "COVID-19 At Risk Patients - NHS Digital",
+      "title_b": "COVID-19 At Risk Patients - NHS Digital",
+      "kg_similarity": "0.784",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share high entity overlap and similar content, minor formatting/date differences suggest they might be different versions of the same page rather than exact duplicates.",
+      "elapsed_s": 71.1
+    },
+    {
+      "page_a": "page_0232",
+      "page_b": "page_0236",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.781",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While they share similar titles and content regarding the CVDPREVENT Audit, without full access to their contents for comparison of minor formatting/date differences, it's not definitive if they are duplicates or different versions with slight variations.",
+      "elapsed_s": 85.2
+    },
+    {
+      "page_a": "page_0235",
+      "page_b": "page_0236",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.768",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While they share substantial content and entities, without full access to their formatting/date differences it's unclear if they represent the same page with minor updates or two distinct pages on related topics.",
+      "elapsed_s": 36.4
+    },
+    {
+      "page_a": "page_0121",
+      "page_b": "page_0135",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.767",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant content overlap and shared entities, minor formatting/date differences could exist that prevent full agreement on them being exact duplicates.",
+      "elapsed_s": 68.6
+    },
+    {
+      "page_a": "page_0124",
+      "page_b": "page_0143",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.767",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content is largely identical, but without more context to determine if there are substantive differences in the information provided on each page that would make them distinct pages.",
+      "elapsed_s": 58.0
+    },
+    {
+      "page_a": "page_0125",
+      "page_b": "page_0135",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.767",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant content overlap, minor formatting/date differences could exist that prevent full agreement on them being exact duplicates.",
+      "elapsed_s": 26.9
+    },
+    {
+      "page_a": "page_0131",
+      "page_b": "page_0135",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.767",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant content overlap, minor formatting/date differences could exist that prevent full agreement on them being exact duplicates.",
+      "elapsed_s": 10.4
+    },
+    {
+      "page_a": "page_0238",
+      "page_b": "page_0239",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.76",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share high entity overlap and similar content, minor formatting/date differences suggest they could be different versions of the same page rather than exact duplicates.",
+      "elapsed_s": 78.7
+    },
+    {
+      "page_a": "page_0235",
+      "page_b": "page_0243",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.757",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share substantial content and entities, there may be minor formatting/date differences that prevent full certainty of them being exact duplicates without further inspection.",
+      "elapsed_s": 34.6
+    },
+    {
+      "page_a": "page_0132",
+      "page_b": "page_0135",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.733",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share similar content regarding NHS Digital's role in data security and healthcare improvement, the specific details such as firewall transactions per day differ slightly between them.",
+      "elapsed_s": 72.2
+    },
+    {
+      "page_a": "page_0344",
+      "page_b": "page_0346",
+      "title_a": "Commissioning Outcomes Framework consultation  | N",
+      "title_b": "NHS England \u00bb Commissioning Outcomes Framework con",
+      "kg_similarity": "0.71",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages discuss NICE's consultation for indicators of the Commissioning Outcomes Framework, minor formatting/date differences and incomplete content suggest they might be different versions rather than exact duplicates.",
+      "elapsed_s": 75.7
+    },
+    {
+      "page_a": "page_0232",
+      "page_b": "page_0235",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.699",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share identical titles, content overviews, and entities related to CVd prevention audit in NHS England, the presence of minor formatting/date differences suggests they might not be exact duplicates but rather similar information on a single topic from different dates or versions.",
+      "elapsed_s": 86.6
+    },
+    {
+      "page_a": "page_0236",
+      "page_b": "page_0243",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.637",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While they share substantial content and entities, minor formatting/date differences could exist that warrant further review to confirm if these pages are exact duplicates.",
+      "elapsed_s": 33.8
+    },
+    {
+      "page_a": "page_0232",
+      "page_b": "page_0243",
+      "title_a": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "title_b": "GPES Cardiovascular Disease Prevention Audit - NHS",
+      "kg_similarity": "0.634",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share substantial content and entities, there may be minor formatting/date differences that prevent full agreement on them being exact duplicates.",
+      "elapsed_s": 33.4
+    },
+    {
+      "page_a": "page_0101",
+      "page_b": "page_0094",
+      "title_a": "NHS England \u00bb Operations directorate: key director",
+      "title_b": "Operations directorate: key directors appointed | ",
+      "kg_similarity": "0.6",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "AGREE - Both pages announce Ann Sutton and Lyn Simpson's appointments to director roles within NHS England, with overlapping content indicating they likely contain the same information despite minor formatting/date differences.",
+      "elapsed_s": 67.4
+    },
+    {
+      "page_a": "page_0371",
+      "page_b": "page_0379",
+      "title_a": "New director appointments to the NHS Commissioning",
+      "title_b": "NHS England \u00bb New director appointments to the NHS",
+      "kg_similarity": "0.58",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content is largely identical, but without more context it's unclear if there are significant differences in formatting/date that would make them distinct pages.",
+      "elapsed_s": 70.9
+    },
+    {
+      "page_a": "page_0138",
+      "page_b": "page_0141",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.576",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant overlap in content, without more context it's unclear if these represent different pages on the same topic with minor variations or completely separate information sources.",
+      "elapsed_s": 72.1
+    },
+    {
+      "page_a": "page_0121",
+      "page_b": "page_0132",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.55",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant overlap in content, minor differences and additional information exist that prevent clear identification as duplicates.",
+      "elapsed_s": 61.2
+    },
+    {
+      "page_a": "page_0124",
+      "page_b": "page_0139",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.55",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant overlap in content, minor differences and additional information exist that prevent clear classification as duplicates.",
+      "elapsed_s": 55.6
+    },
+    {
+      "page_a": "page_0125",
+      "page_b": "page_0132",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.55",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant overlap in content, minor differences exist that suggest they may be related but distinct pages with updates over time.",
+      "elapsed_s": 26.9
+    },
+    {
+      "page_a": "page_0131",
+      "page_b": "page_0132",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.55",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant overlap in content, minor differences exist that suggest they may be related but distinct pages with updates or specific focuses.",
+      "elapsed_s": 10.7
+    },
+    {
+      "page_a": "page_0139",
+      "page_b": "page_0143",
+      "title_a": "Home - NHS Digital",
+      "title_b": "Home - NHS Digital",
+      "kg_similarity": "0.55",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While there is significant overlap in content, it's unclear if minor formatting/date differences exist that would classify them as distinct pages.",
+      "elapsed_s": 62.9
+    },
+    {
+      "page_a": "page_0247",
+      "page_b": "page_0259",
+      "title_a": "COVID-19 at-risk patients Data Provision Notices -",
+      "title_b": "COVID-19 at-risk patients Data Provision Notices -",
+      "kg_similarity": "0.55",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share similar titles, content overlap is ambiguous and may only be partial due to truncation of the contents provided.",
+      "elapsed_s": 68.5
+    },
+    {
+      "page_a": "page_0279",
+      "page_b": "page_0282",
+      "title_a": "GPES Data for Pandemic Planning and Research (COVI",
+      "title_b": "GPES Data for Pandemic Planning and Research (COVI",
+      "kg_similarity": "0.527",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While they share similar titles, content overlap is ambiguous due to potential minor formatting/date differences and incomplete information provided for review.",
+      "elapsed_s": 68.9
+    },
+    {
+      "page_a": "page_0340",
+      "page_b": "page_0341",
+      "title_a": "NHS England \u00bb NHS Commissioning Board Special Heal",
+      "title_b": "NHS England \u00bb NHS Commissioning Board Special Heal",
+      "kg_similarity": "0.527",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share identical titles, content, and entities related to Sir Bruce Keogh' endorsement of his appointment as the designate National Medical Director for NHS Commissioning Board Special Health Authority by Malcolm Grant, minor formatting or date differences could exist.",
+      "elapsed_s": 75.0
+    },
+    {
+      "page_a": "page_0351",
+      "page_b": "page_0363",
+      "title_a": "Wave 1 applications for CCG authorisation | NHS En",
+      "title_b": "NHS England \u00bb Wave 1 applications for CCG authoris",
+      "kg_similarity": "0.527",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content is largely identical, but without more context to determine if there are significant differences in formatting/dates that would make them distinct pages.",
+      "elapsed_s": 76.9
+    },
+    {
+      "page_a": "page_0378",
+      "page_b": "page_0379",
+      "title_a": "NHS England \u00bb New director appointments to the NHS",
+      "title_b": "NHS England \u00bb New director appointments to the NHS",
+      "kg_similarity": "0.525",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content is largely identical, but without more context to determine if there are significant differences in the remaining sections of each page that would affect their status as duplicates.",
+      "elapsed_s": 72.6
+    },
+    {
+      "page_a": "page_0021",
+      "page_b": "page_0350",
+      "title_a": "Board meeting \u2013 13 April 2012 | NHS England",
+      "title_b": "NHS England \u00bb Board meeting \u2013 13 April 2012",
+      "kg_similarity": "0.5",
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - While both pages share identical content, there may be minor formatting differences and they could potentially have different dates if this is an archived version of the page A.",
+      "elapsed_s": 86.4
+    },
+    {
+      "page_a": "page_0032",
+      "page_b": "page_0052",
+      "title_a": "The Power of Information | NHS England",
+      "title_b": "NHS England \u00bb The Power of Information",
+      "kg_similarity": "0.5",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "AGREE - Both pages contain identical content regarding NHS England's ten-year strategy for patient information access and control, with only minor formatting/date differences likely present.",
+      "elapsed_s": 58.2
+    },
+    {
+      "page_a": "page_0033",
+      "page_b": "page_0046",
+      "title_a": "CCG authorisation waves agreed | NHS England",
+      "title_b": "NHS England \u00bb CCG authorisation waves agreed",
+      "kg_similarity": "0.5",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "AGREE - Both pages contain identical titles, content regarding CCG authorisation waves and timing, wave composition details, and the fact that most applicants secured their first choice of wave with some moving to alternatives due to excess applications for wave two; only minor formatting or date differences are likely present.",
+      "elapsed_s": 80.8
+    },
+    {
+      "page_a": "page_0345",
+      "page_b": "page_0348",
+      "title_a": "National Director of Finance appointed | NHS Engla",
+      "title_b": "NHS England \u00bb National Director of Finance appoint",
+      "kg_similarity": "0.5",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "AGREE: Both pages contain identical titles, content regarding Paul Baumann's appointment as National Director of Finance by the NHS Commissioning Board Authority with Sir David Nicholson\u2019s quote and mention that he is currently at NHS London; only minor formatting or date differences are likely.",
+      "elapsed_s": 72.0
+    },
+    {
+      "page_a": "page_0353",
+      "page_b": "page_0361",
+      "title_a": "CCG indicative running cost allowances | NHS Engla",
+      "title_b": "NHS England \u00bb CCG indicative running cost allowanc",
+      "kg_similarity": "0.5",
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "AGREE - Both pages contain identical titles, content regarding CCG indicative running cost allowances for 2013-14 as set by the NHS Commissioning Board Authority with minor differences likely due to formatting or date updates.",
+      "elapsed_s": 75.4
+    }
+  ]
+}

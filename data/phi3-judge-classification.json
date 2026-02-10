@@ -1,0 +1,917 @@
+{
+  "metadata": {
+    "judged_at": "2026-02-09T15:45:53.310390",
+    "model": "phi3:mini",
+    "task": "classification_ambiguous",
+    "total_cases": 90
+  },
+  "summary": {
+    "agree": 1,
+    "disagree": 68,
+    "uncertain": 21,
+    "error": 0,
+    "total": 90
+  },
+  "results": [
+    {
+      "page_id": "page_0011",
+      "title": "NHS England \u00bb Ed Smith confirmed as Audit Committee Chair of NHS Commissioning Board Authority",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because Ed Smith's role as Audit Committee Chair does not pertain to NHS Screening Services but rather to financial and operational oversight within the NHS Commissioning Board Authority.",
+      "elapsed_s": 71.6
+    },
+    {
+      "page_id": "page_0013",
+      "title": "NHS England \u00bb Ciar\u00e1n Devane confirmed as Non-Executive Director of NHS Commissioning Board Authority",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses on Ciar\u00e1n Devane's appointment to improve patient care and develop commissioning systems rather than screening services specifically.",
+      "raw_response": "DISAGREE  \n\nThe content focuses on Ciar\u00e1n Devane's appointment to improve patient care and develop commissioning systems rather than screening services specifically.",
+      "elapsed_s": 69.8
+    },
+    {
+      "page_id": "page_0034",
+      "title": "Great Expectations \u2013 Johnny Marshall | NHS England",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.667,
+      "verdict": "DISAGREE",
+      "reason": "The narrative focuses more on personal reflections and experiences rather than discussing workforce transformation within NHS England.",
+      "raw_response": "DISAGREE  \nThe narrative focuses more on personal reflections and experiences rather than discussing workforce transformation within NHS England.",
+      "elapsed_s": 74.6
+    },
+    {
+      "page_id": "page_0037",
+      "title": "Bulletin for proposed CCGs \u2013 Issue 14, 24 May 2012 | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the content discusses proposed Clinical Commissioning Groups (CCGs) and their configurations rather than NHS Screening Services specifically.",
+      "elapsed_s": 70.4
+    },
+    {
+      "page_id": "page_0040",
+      "title": "Checkpoint 2 customer survey  | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.407,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses customer surveys and commissioning support services for CCGs rather than screening services within NHS England.",
+      "raw_response": "DISAGREE  \n\nThe content discusses customer surveys and commissioning support services for CCGs rather than screening services within NHS England.",
+      "elapsed_s": 72.6
+    },
+    {
+      "page_id": "page_0041",
+      "title": "Commissioning Support Bulletin \u2013 Issue 2, 28 May 2012 | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.667,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses NHS Commissioning Support Bulletins and recruitment for CSSs (Commissioning Support Services), not specifically about screening services within the NHS.",
+      "raw_response": "DISAGREE  \n\nThe content discusses NHS Commissioning Support Bulletins and recruitment for CSSs (Commissioning Support Services), not specifically about screening services within the NHS.",
+      "elapsed_s": 76.7
+    },
+    {
+      "page_id": "page_0046",
+      "title": "NHS England \u00bb CCG authorisation waves agreed",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses Clinical Commissioning Groups (CCGs) and their authorisation waves within NHS England, not screening services.",
+      "raw_response": "DISAGREE  \n\nThe content discusses Clinical Commissioning Groups (CCGs) and their authorisation waves within NHS England, not screening services.",
+      "elapsed_s": 74.2
+    },
+    {
+      "page_id": "page_0054",
+      "title": "Authorisation assessors guide published | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses on Clinical Commissioning Group authorisation and not specifically NHS Screening Services.",
+      "raw_response": "DISAGREE  \n\nThe content focuses on Clinical Commissioning Group authorisation and not specifically NHS Screening Services.",
+      "elapsed_s": 61.5
+    },
+    {
+      "page_id": "page_0076",
+      "title": "Who\u2019s inside the tent? \u2013 Johnny Marshall | NHS England",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.52,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses public health professionals and engagement within NHS England but does not specifically address workforce transformation issues.",
+      "raw_response": "DISAGREE  \n\nThe page content discusses public health professionals and engagement within NHS England but does not specifically address workforce transformation issues.",
+      "elapsed_s": 70.4
+    },
+    {
+      "page_id": "page_0080",
+      "title": "Full set of first wave authorisation applications received on time  | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses CCG authorisation processes and does not pertain to NHS Screening Services specifically.",
+      "raw_response": "DISAGREE  \n\nThe content discusses CCG authorisation processes and does not pertain to NHS Screening Services specifically.",
+      "elapsed_s": 69.9
+    },
+    {
+      "page_id": "page_0082",
+      "title": "Bulletin for proposed CCGs \u2013 Issue 16, 4 July 2012 | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.55,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the content discusses Clinical Commissioning Groups (CCGs) and their authorisation process rather than NHS screening services specifically.",
+      "elapsed_s": 66.5
+    },
+    {
+      "page_id": "page_0088",
+      "title": "Board Authority appoints first CSS managing directors and announces decision to host | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.52,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the content discusses appointments to commissioning support service (CSS) managing director posts and hosting decisions for CSSs by NHS Commissioning Board Authority, which does not align with screening services but rather administrative leadership within healthcare organizations.",
+      "elapsed_s": 73.4
+    },
+    {
+      "page_id": "page_0091",
+      "title": "Moving on at pace \u2013 Barbara Hakin | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.592,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses NHS commissioning services and recruitment for managers, which does not align with screening services typically associated with the \"NHS Screening Services\" category.",
+      "raw_response": "DISAGREE  \n\nThe content discusses NHS commissioning services and recruitment for managers, which does not align with screening services typically associated with the \"NHS Screening Services\" category.",
+      "elapsed_s": 73.2
+    },
+    {
+      "page_id": "page_0102",
+      "title": "NHS England \u00bb Full set of first wave authorisation applications received on time",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.55,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the page content discusses CCG authorisation applications and not NHS Screening Services specifically.",
+      "elapsed_s": 64.5
+    },
+    {
+      "page_id": "page_0111",
+      "title": "Insights from scenario workshop published | NHS England",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on CCG and CSS relationships rather than personalized care specifically.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on CCG and CSS relationships rather than personalized care specifically.",
+      "elapsed_s": 65.4
+    },
+    {
+      "page_id": "page_0116",
+      "title": "Bulletin for proposed CCGs \u2013 Issue 19, 24 August 2012 | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.65,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses clinical commissioning groups and authorisation processes within NHS England but does not specifically mention screening services.",
+      "raw_response": "DISAGREE  \n\nThe content discusses clinical commissioning groups and authorisation processes within NHS England but does not specifically mention screening services.",
+      "elapsed_s": 69.0
+    },
+    {
+      "page_id": "page_0118",
+      "title": "Introducing the NHS.UK Alpha | NHS.UK Alpha",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on digital innovation and service improvement rather than personalized care specifically.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on digital innovation and service improvement rather than personalized care specifically.",
+      "elapsed_s": 65.7
+    },
+    {
+      "page_id": "page_0153",
+      "title": "Emma Summers - NHS Digital",
+      "gemini_category": "Digital skills",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because Emma Summers' role involves data services and systems management rather than digital skills training per se.",
+      "elapsed_s": 62.3
+    },
+    {
+      "page_id": "page_0157",
+      "title": "Sally Bogg - NHS Digital",
+      "gemini_category": "Digital skills",
+      "coherence_score": 0.6,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The coherence score is ambiguous and does not strongly indicate that Sally Bogg's role directly relates to digital skills development as per the taxonomy categories matched.",
+      "elapsed_s": 67.5
+    },
+    {
+      "page_id": "page_0170",
+      "title": "Trainee stories - NHS Digital",
+      "gemini_category": "Digital skills",
+      "coherence_score": 0.64,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The web page content discusses various digital professions and skill sets within NHS Digital but does not explicitly mention \"Digital skills\" as the overarching theme of all stories shared on the site.",
+      "elapsed_s": 70.8
+    },
+    {
+      "page_id": "page_0206",
+      "title": "A look at the diversity of our workforce today - NHS Digital",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.64,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content discusses workforce diversity and inclusion but does not specifically mention transformation strategies related to these topics.",
+      "elapsed_s": 77.8
+    },
+    {
+      "page_id": "page_0286",
+      "title": "Health Education England\u2019s inaugural Board meeting | Health Education England",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.64,
+      "verdict": "AGREE",
+      "reason": "",
+      "raw_response": "AGREE, because the web page content focuses on Health Education England's board meeting related to health academia and governance within NHS priorities in England.",
+      "elapsed_s": 80.5
+    },
+    {
+      "page_id": "page_0287",
+      "title": "Ian Cumming confirmed as Chief Executive of Health Education England | Health Education England",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.55,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content focuses more on leadership and governance within health education rather than academic research specifically associated with \"Health academia.\"",
+      "elapsed_s": 64.0
+    },
+    {
+      "page_id": "page_0288",
+      "title": "HEE appoints its senior management team | Health Education England",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.55,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content focuses more broadly on leadership and education within healthcare rather than specifically academic pursuits in health academia.",
+      "elapsed_s": 60.2
+    },
+    {
+      "page_id": "page_0293",
+      "title": "Our Strategic Intent | Health Education England",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on workforce planning and healthcare improvement rather than academic pursuits in health education.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on workforce planning and healthcare improvement rather than academic pursuits in health education.",
+      "elapsed_s": 62.2
+    },
+    {
+      "page_id": "page_0299",
+      "title": "Health Education England \u00bb Shadowing for Foundation Year 1 (F1) Doctors",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.6,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content focuses more specifically on practical training and induction for F1 doctors rather than broader academic health education topics typically associated with \"Health academia.\"",
+      "elapsed_s": 68.0
+    },
+    {
+      "page_id": "page_0307",
+      "title": "Health Education England \u00bb Celebrating our people \u2013 65 years of NHS workforce development",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The page content focuses on celebrating NHS workforce development and does not specifically relate to screening services.",
+      "raw_response": "DISAGREE  \n\nThe page content focuses on celebrating NHS workforce development and does not specifically relate to screening services.",
+      "elapsed_s": 70.3
+    },
+    {
+      "page_id": "page_0310",
+      "title": "Health Education England \u00bb HEE responds to the Don Berwick report",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The page content focuses more on workforce development and values alignment within NHS training rather than general health academia topics.",
+      "raw_response": "DISAGREE  \n\nThe page content focuses more on workforce development and values alignment within NHS training rather than general health academia topics.",
+      "elapsed_s": 64.2
+    },
+    {
+      "page_id": "page_0324",
+      "title": "Health Education England \u00bb HEE supports fourteen areas leading the way in delivering better joined up care.",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.625,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content discusses coordinated and joined up community services but does not explicitly mention personalized care as its focus.",
+      "elapsed_s": 62.9
+    },
+    {
+      "page_id": "page_0334",
+      "title": "Health Education England \u00bb New values mapping tool launched",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.55,
+      "verdict": "DISAGREE",
+      "reason": "The page content focuses more on values and recruitment rather than workforce transformation as per its title.",
+      "raw_response": "DISAGREE  \n\nThe page content focuses more on values and recruitment rather than workforce transformation as per its title.",
+      "elapsed_s": 64.2
+    },
+    {
+      "page_id": "page_0335",
+      "title": "Health Education England \u00bb Government and NHS discuss expansion of healthcare army reservists",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the content discusses expanding NHS staff as reservists for national defense rather than screening services.",
+      "elapsed_s": 72.6
+    },
+    {
+      "page_id": "page_0340",
+      "title": "NHS England \u00bb NHS Commissioning Board Special Health Authority announces designate executive directors at first meeting",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the page content discusses appointments to leadership roles within NHS Commissioning Board Special Health Authority and does not specifically relate to screening services.",
+      "elapsed_s": 62.6
+    },
+    {
+      "page_id": "page_0356",
+      "title": "Secretary of State\u2019s second accountability meeting with the Commissioning Board Authority | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses accountability meetings and transparency in government relations to NHS but does not specifically mention screening services.",
+      "raw_response": "DISAGREE  \n\nThe content discusses accountability meetings and transparency in government relations to NHS but does not specifically mention screening services.",
+      "elapsed_s": 56.9
+    },
+    {
+      "page_id": "page_0359",
+      "title": "NHS England \u00bb Briefing note on CCG indicative running cost allowances",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content is about Clinical Commissioning Group (CCG) indicative running costs allowances for NHS England and not specifically related to screening services.",
+      "raw_response": "DISAGREE  \n\nThe content is about Clinical Commissioning Group (CCG) indicative running costs allowances for NHS England and not specifically related to screening services.",
+      "elapsed_s": 61.1
+    },
+    {
+      "page_id": "page_0371",
+      "title": "New director appointments to the NHS Commissioning Board | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses NHS Commissioning Board appointments and does not pertain to screening services specifically.",
+      "raw_response": "DISAGREE  \n\nThe content discusses NHS Commissioning Board appointments and does not pertain to screening services specifically.",
+      "elapsed_s": 53.9
+    },
+    {
+      "page_id": "page_0385",
+      "title": "NHS England \u00bb Babies to get new test for eye cancer in the womb to save their sight",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.5,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on genetic testing and treatment for retinoblastoma rather than general screening services offered by NHS Screening Services.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on genetic testing and treatment for retinoblastoma rather than general screening services offered by NHS Screening Services.",
+      "elapsed_s": 71.0
+    },
+    {
+      "page_id": "page_0400",
+      "title": "NHS England \u00bb Our 2022/23 business plan",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.55,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses primarily on strategic goals and improvements across various aspects of healthcare services rather than specifically screening services.",
+      "raw_response": "DISAGREE  \n\nThe content focuses primarily on strategic goals and improvements across various aspects of healthcare services rather than specifically screening services.",
+      "elapsed_s": 56.5
+    },
+    {
+      "page_id": "page_0409",
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses on elective care and reducing waiting times for treatments rather than screening services.",
+      "raw_response": "DISAGREE  \n\nThe content focuses on elective care and reducing waiting times for treatments rather than screening services.",
+      "elapsed_s": 60.3
+    },
+    {
+      "page_id": "page_0413",
+      "title": "NHS England \u00bb 4. Improve the responsiveness of urgent and emergency care and increase its capacity",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.55,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on systemic improvements and capacity planning rather than personalized care approaches.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on systemic improvements and capacity planning rather than personalized care approaches.",
+      "elapsed_s": 60.6
+    },
+    {
+      "page_id": "page_0416",
+      "title": "NHS England \u00bb 4. Improve the responsiveness of urgent and emergency care and increase its capacity",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on systemic improvements and capacity planning rather than individualized patient care approaches typically associated with personalised care.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on systemic improvements and capacity planning rather than individualized patient care approaches typically associated with personalised care.",
+      "elapsed_s": 27.8
+    },
+    {
+      "page_id": "page_0480",
+      "title": "Full QOF manual entry guide In the event the automated extract fails - NHS Digital",
+      "gemini_category": "Medicines optimisation",
+      "coherence_score": 0.5,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content focuses on manual QOF achievement entry for atrial fibrillation registers but does not explicitly mention medicines optimisation within the provided text snippet.",
+      "elapsed_s": 67.2
+    },
+    {
+      "page_id": "page_0493",
+      "title": "Domain 1 - Preventing people from dying prematurely - NHS Digital",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The page content focuses primarily on hospital mortality rates and does not specifically address personalized care aspects of patient treatment within hospitals.",
+      "raw_response": "DISAGREE  \n\nThe page content focuses primarily on hospital mortality rates and does not specifically address personalized care aspects of patient treatment within hospitals.",
+      "elapsed_s": 67.1
+    },
+    {
+      "page_id": "page_0047",
+      "title": "NHS England \u00bb Checkpoint 2 customer survey",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.407,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses customer surveys and commissioning support services for CCGs rather than screening services within NHS Screening Services classification.",
+      "raw_response": "DISAGREE  \n\nThe content discusses customer surveys and commissioning support services for CCGs rather than screening services within NHS Screening Services classification.",
+      "elapsed_s": 69.1
+    },
+    {
+      "page_id": "page_0073",
+      "title": "Bulletin for proposed CCGs \u2013 Issue 15, 14 June 2012 | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses Clinical Commissioning Groups (CCGs) and authorisation processes for NHS services in England but does not specifically mention screening services within the context of the Gemini classification.",
+      "raw_response": "DISAGREE  \n\nThe content discusses Clinical Commissioning Groups (CCGs) and authorisation processes for NHS services in England but does not specifically mention screening services within the context of the Gemini classification.",
+      "elapsed_s": 70.2
+    },
+    {
+      "page_id": "page_0074",
+      "title": "Next stop Stockholm \u2026 \u2013 Johnny Marshall | NHS England",
+      "gemini_category": "Health inequalities",
+      "coherence_score": 0.55,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses system leadership and changes within NHS England but does not specifically address health inequalities as its central theme.",
+      "raw_response": "DISAGREE  \n\nThe content discusses system leadership and changes within NHS England but does not specifically address health inequalities as its central theme.",
+      "elapsed_s": 63.8
+    },
+    {
+      "page_id": "page_0092",
+      "title": "Jaws in Space \u2013 Johnny Marshall | NHS England",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The page content primarily discusses CCG authorisation and governance rather than workforce transformation issues within NHS England.",
+      "raw_response": "DISAGREE  \n\nThe page content primarily discusses CCG authorisation and governance rather than workforce transformation issues within NHS England.",
+      "elapsed_s": 65.0
+    },
+    {
+      "page_id": "page_0094",
+      "title": "Operations directorate: key directors appointed | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.645,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses appointments to director posts within NHS England's Operations Directorate and does not pertain specifically to screening services.",
+      "raw_response": "DISAGREE\n\nThe content discusses appointments to director posts within NHS England's Operations Directorate and does not pertain specifically to screening services.",
+      "elapsed_s": 63.4
+    },
+    {
+      "page_id": "page_0113",
+      "title": "Board Authority provides more detail on commissioning support hosting and governance | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the content discusses commissioning support hosting and governance for CSUs within NHS England, not screening services specifically related to healthcare workers' career stages in different regions of recruitment formats.",
+      "elapsed_s": 73.5
+    },
+    {
+      "page_id": "page_0149",
+      "title": "Historical PDF conversion: Disproportionate burden assessment - NHS Digital",
+      "gemini_category": "Digital skills",
+      "coherence_score": 0.64,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The webpage discusses accessibility and digital conversion but does not explicitly mention \"digital skills.\"",
+      "elapsed_s": 59.0
+    },
+    {
+      "page_id": "page_0320",
+      "title": "Health Education England \u00bb Postgraduate Dean receives award for surgical education and training",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.5,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content focuses primarily on academic and educational contributions within surgical education but does not exclusively represent all aspects of health academia as defined by the taxonomy categories matched.",
+      "elapsed_s": 67.1
+    },
+    {
+      "page_id": "page_0329",
+      "title": "Health Education England \u00bb HEE launches first national consultation on a NHS bands 1-4 workforce strategy",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.55,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content discusses developing staff in bands and improving training but does not explicitly mention workforce transformation as its central theme.",
+      "elapsed_s": 69.2
+    },
+    {
+      "page_id": "page_0341",
+      "title": "NHS England \u00bb NHS Commissioning Board Special Health Authority announces designate executive directors at first meeting",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses appointments to leadership roles within NHS Commissioning Board Special Health Authority and does not pertain specifically to screening services.",
+      "raw_response": "DISAGREE  \n\nThe content discusses appointments to leadership roles within NHS Commissioning Board Special Health Authority and does not pertain specifically to screening services.",
+      "elapsed_s": 63.2
+    },
+    {
+      "page_id": "page_0354",
+      "title": "Briefing note on CCG indicative running cost allowances | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.52,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses CCG indicative running costs allowances and does not pertain to NHS Screening Services specifically.",
+      "raw_response": "DISAGREE  \n\nThe content discusses CCG indicative running costs allowances and does not pertain to NHS Screening Services specifically.",
+      "elapsed_s": 52.1
+    },
+    {
+      "page_id": "page_0376",
+      "title": "NHS England \u00bb NHS Commissioning Board Authority at the NHS Confederation Annual Conference",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.52,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the page content discusses an NHS Commissioning Board Authority at a conference and does not specifically mention \"NHS Screening Services.\"",
+      "elapsed_s": 71.6
+    },
+    {
+      "page_id": "page_0395",
+      "title": "NHS England \u00bb The month",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the content discusses various bulletins and news updates rather than screening services specifically.",
+      "elapsed_s": 66.8
+    },
+    {
+      "page_id": "page_0396",
+      "title": "NHS England \u00bb Busiest November ever as new figures show pressures on NHS staff",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.5,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses NHS staff workload and patient statistics across various services like A&E, elective treatment, and urgent care but does not specifically mention screening services as the focus of this page.",
+      "raw_response": "DISAGREE  \n\nThe content discusses NHS staff workload and patient statistics across various services like A&E, elective treatment, and urgent care but does not specifically mention screening services as the focus of this page.",
+      "elapsed_s": 85.8
+    },
+    {
+      "page_id": "page_0397",
+      "title": "NHS England \u00bb Our funding",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.6,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses funding allocations and priorities for local health services, direct commissioning of various care types including screenings, but does not specifically mention \"NHS Screening Services.\"",
+      "raw_response": "DISAGREE  \n\nThe page content discusses funding allocations and priorities for local health services, direct commissioning of various care types including screenings, but does not specifically mention \"NHS Screening Services.\"",
+      "elapsed_s": 75.3
+    },
+    {
+      "page_id": "page_0407",
+      "title": "NHS England \u00bb 3. Deliver more elective care to tackle the elective backlog, reduce long waits and improve performance against cancer waiting times standards",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.64,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses primarily on elective care and cancer waiting times rather than screening services.",
+      "raw_response": "DISAGREE  \n\nThe content focuses primarily on elective care and cancer waiting times rather than screening services.",
+      "elapsed_s": 64.2
+    },
+    {
+      "page_id": "page_0427",
+      "title": "Access and store digital patient documents - NHS England Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.52,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses digital storage and access for historical Lloyd George records, not screening services as suggested by the classification.",
+      "raw_response": "DISAGREE  \n\nThe page content discusses digital storage and access for historical Lloyd George records, not screening services as suggested by the classification.",
+      "elapsed_s": 54.8
+    },
+    {
+      "page_id": "page_0472",
+      "title": "Supplier status: Clinical assessment services referral (and booking) - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.673,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content discusses IT system suppliers for clinical assessment services referral and booking but does not specifically mention NHS Screening Services as the focus of this web page, making its classification ambiguous in relation to that term.",
+      "elapsed_s": 80.0
+    },
+    {
+      "page_id": "page_0010",
+      "title": "NHS England \u00bb Ed Smith confirmed as Audit Committee Chair of NHS Commissioning Board Authority",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.673,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses Ed Smith's role in auditing and risk management within NHS Commissioning Board Authority rather than screening services.",
+      "raw_response": "DISAGREE  \n\nThe content discusses Ed Smith's role in auditing and risk management within NHS Commissioning Board Authority rather than screening services.",
+      "elapsed_s": 68.6
+    },
+    {
+      "page_id": "page_0020",
+      "title": "NHS England \u00bb National Director: Patient Insight",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.664,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses on patient insight and leadership for improving outcomes in NHS services rather than screening services specifically.",
+      "raw_response": "DISAGREE  \n\nThe content focuses on patient insight and leadership for improving outcomes in NHS services rather than screening services specifically.",
+      "elapsed_s": 69.7
+    },
+    {
+      "page_id": "page_0022",
+      "title": "Authorisation: Final draft guide published and next steps outlined | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.556,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses Clinical Commissioning Group authorizations and NHS England's processes for establishing new commissioners but does not specifically mention screening services within the context of this classification.",
+      "raw_response": "DISAGREE  \n\nThe content discusses Clinical Commissioning Group authorizations and NHS England's processes for establishing new commissioners but does not specifically mention screening services within the context of this classification.",
+      "elapsed_s": 73.4
+    },
+    {
+      "page_id": "page_0053",
+      "title": "NHS England \u00bb Application waves for CCG authorisation",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.492,
+      "verdict": "DISAGREE",
+      "reason": "The content is about CCG authorisation applications and waves which do not align directly with NHS Screening Services topics.",
+      "raw_response": "DISAGREE  \n\nThe content is about CCG authorisation applications and waves which do not align directly with NHS Screening Services topics.",
+      "elapsed_s": 92.2
+    },
+    {
+      "page_id": "page_0078",
+      "title": "NHS England \u00bb Authorisation assessors guide published",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.608,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses CCG authorisation processes and tools for financial governance in NHS England, which does not align with \"NHS Screening Services.\"",
+      "raw_response": "DISAGREE  \n\nThe content discusses CCG authorisation processes and tools for financial governance in NHS England, which does not align with \"NHS Screening Services.\"",
+      "elapsed_s": 66.8
+    },
+    {
+      "page_id": "page_0089",
+      "title": "Board meeting \u2013 19 July 2012 | NHS England",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.664,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses an NHS board meeting and related activities which do not align specifically to screening services as implied by \"NHS Screening Services.\"",
+      "raw_response": "DISAGREE  \n\nThe content discusses an NHS board meeting and related activities which do not align specifically to screening services as implied by \"NHS Screening Services.\"",
+      "elapsed_s": 73.7
+    },
+    {
+      "page_id": "page_0090",
+      "title": "NHS England \u00bb Proposals for authorisation conditions and support published",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.685,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses authorisation governance for Clinical Commissioning Groups (CCGs), not screening services specifically within NHS England's scope of work as per the provided page title and content snippet.",
+      "raw_response": "DISAGREE  \n\nThe content discusses authorisation governance for Clinical Commissioning Groups (CCGs), not screening services specifically within NHS England's scope of work as per the provided page title and content snippet.",
+      "elapsed_s": 77.6
+    },
+    {
+      "page_id": "page_0107",
+      "title": "NHS England \u00bb Your chance to work with the NHS to help challenge and shape the health system of the future",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.67,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses lay assessors for CCGs and does not specifically mention NHS screening services.",
+      "raw_response": "DISAGREE  \n\nThe page content discusses lay assessors for CCGs and does not specifically mention NHS screening services.",
+      "elapsed_s": 64.8
+    },
+    {
+      "page_id": "page_0110",
+      "title": "Jaws in Space 2 \u2013 Johnny Marshall | NHS England",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.644,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses NHS vision and innovation but does not specifically focus on personalized care as its central theme.",
+      "raw_response": "DISAGREE  \n\nThe page content discusses NHS vision and innovation but does not specifically focus on personalized care as its central theme.",
+      "elapsed_s": 76.9
+    },
+    {
+      "page_id": "page_0152",
+      "title": "International Women's Day 2022 - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.676,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on individual career stories and roles within NHS Digital rather than screening services specifically.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on individual career stories and roles within NHS Digital rather than screening services specifically.",
+      "elapsed_s": 74.9
+    },
+    {
+      "page_id": "page_0155",
+      "title": "Orlagh Zielinski - NHS Digital",
+      "gemini_category": "Digital skills",
+      "coherence_score": 0.6,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The web page content discusses Orlagh Zielinski's role in cyber security within NHS Digital but does not explicitly focus on digital skills development as the primary theme of her work or experience.",
+      "elapsed_s": 69.3
+    },
+    {
+      "page_id": "page_0156",
+      "title": "Priyanka Mittal - NHS Digital",
+      "gemini_category": "Digital skills",
+      "coherence_score": 0.64,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The web page content discusses Priyanka Mittal's role in technology within healthcare but does not exclusively focus on digital skills development and application as would be expected from the \"Digital Skills\" classification alone.",
+      "elapsed_s": 71.7
+    },
+    {
+      "page_id": "page_0175",
+      "title": "Feedback and complaints - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.607,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses feedback and complaints about NHS Digital's work but does not specifically mention screening services.",
+      "raw_response": "DISAGREE  \n\nThe page content discusses feedback and complaints about NHS Digital's work but does not specifically mention screening services.",
+      "elapsed_s": 76.1
+    },
+    {
+      "page_id": "page_0194",
+      "title": "Advisory Group for Data minutes - NHS England Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.525,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content discusses meeting minutes of an advisory group but does not specifically mention NHS Screening Services; it is more related to data governance and meetings within the context of digital services in England's National Health Service (NHS).",
+      "elapsed_s": 121.5
+    },
+    {
+      "page_id": "page_0200",
+      "title": "Our diversity and inclusion journey continues - NHS England Digital",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.695,
+      "verdict": "DISAGREE",
+      "reason": "The page content focuses more on diversity and inclusion initiatives rather than workforce transformation as per the classification provided by Gemini.",
+      "raw_response": "DISAGREE  \n\nThe page content focuses more on diversity and inclusion initiatives rather than workforce transformation as per the classification provided by Gemini.",
+      "elapsed_s": 67.6
+    },
+    {
+      "page_id": "page_0205",
+      "title": "Workforce Race Equality Standard (WRES) - NHS England Digital",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.68,
+      "verdict": "DISAGREE",
+      "reason": "The page content focuses primarily on reporting and monitoring workforce diversity rather than transformation initiatives.",
+      "raw_response": "DISAGREE  \n\nThe page content focuses primarily on reporting and monitoring workforce diversity rather than transformation initiatives.",
+      "elapsed_s": 76.1
+    },
+    {
+      "page_id": "page_0207",
+      "title": "Our workforce demographics 2017 - NHS Digital",
+      "gemini_category": "Workforce transformation",
+      "coherence_score": 0.595,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content discusses workforce demographics and gender pay gap analysis but does not explicitly mention transformation strategies related to these aspects within the NHS Digital organization.",
+      "elapsed_s": 85.8
+    },
+    {
+      "page_id": "page_0332",
+      "title": "Health Education England \u00bb Dementia Health and Social Care Stakeholder event",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.627,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content discusses dementia education and training within healthcare but does not exclusively focus on academic research without practical application.",
+      "elapsed_s": 76.9
+    },
+    {
+      "page_id": "page_0337",
+      "title": "Health Education England \u00bb HEE signs international agreement to help train Chinese GPs",
+      "gemini_category": "Health academia",
+      "coherence_score": 0.683,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content focuses more specifically on GP training and international collaboration rather than general health academia topics.",
+      "elapsed_s": 65.2
+    },
+    {
+      "page_id": "page_0352",
+      "title": "Future ambitions \u2013 Jane Cummings | NHS England",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.658,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content discusses tools and approaches for improving patient care quality but does not explicitly mention personalized care as its focus.",
+      "elapsed_s": 56.8
+    },
+    {
+      "page_id": "page_0391",
+      "title": "NHS England \u00bb Revalidation Matters",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.654,
+      "verdict": "DISAGREE",
+      "reason": "The content primarily discusses revalidation matters for NHS practitioners and does not focus specifically on screening services.",
+      "raw_response": "DISAGREE  \n\nThe content primarily discusses revalidation matters for NHS practitioners and does not focus specifically on screening services.",
+      "elapsed_s": 67.9
+    },
+    {
+      "page_id": "page_0399",
+      "title": "NHS England \u00bb Business plan",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.657,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses primarily on NHS England's business priorities and plans for healthcare improvement rather than specifically on screening services.",
+      "raw_response": "DISAGREE  \n\nThe content focuses primarily on NHS England's business priorities and plans for healthcare improvement rather than specifically on screening services.",
+      "elapsed_s": 59.8
+    },
+    {
+      "page_id": "page_0436",
+      "title": "Death registration enquiries - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.696,
+      "verdict": "DISAGREE",
+      "reason": "The page content discusses death registration enquiries and adoption services rather than screening services offered by NHS Digital.",
+      "raw_response": "DISAGREE  \n\nThe page content discusses death registration enquiries and adoption services rather than screening services offered by NHS Digital.",
+      "elapsed_s": 66.3
+    },
+    {
+      "page_id": "page_0444",
+      "title": "API platform - NHS Digital",
+      "gemini_category": "Personalised care",
+      "coherence_score": 0.599,
+      "verdict": "DISAGREE",
+      "reason": "The content focuses more on API development and usage within NHS Digital rather than personalized care directly.",
+      "raw_response": "DISAGREE  \n\nThe content focuses more on API development and usage within NHS Digital rather than personalized care directly.",
+      "elapsed_s": 67.0
+    },
+    {
+      "page_id": "page_0449",
+      "title": "Benefits management - NHS Digital",
+      "gemini_category": "Medicines optimisation",
+      "coherence_score": 0.653,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses benefits management in NHS Digital and does not specifically mention medicines optimisation as its focus.",
+      "raw_response": "DISAGREE  \n\nThe content discusses benefits management in NHS Digital and does not specifically mention medicines optimisation as its focus.",
+      "elapsed_s": 60.6
+    },
+    {
+      "page_id": "page_0453",
+      "title": "Allocate or notify - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.531,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The content discusses birth notification and NHS Number allocation for babies but does not specifically mention screening services within its scope.",
+      "elapsed_s": 65.6
+    },
+    {
+      "page_id": "page_0460",
+      "title": "Entering birth details into another system - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.56,
+      "verdict": "DISAGREE",
+      "reason": "The content discusses entering birth details into another system and is part of maternity services guidance rather than screening services.",
+      "raw_response": "DISAGREE  \n\nThe content discusses entering birth details into another system and is part of maternity services guidance rather than screening services.",
+      "elapsed_s": 62.4
+    },
+    {
+      "page_id": "page_0469",
+      "title": "Supplier status: 999 AST to CAS - NHS Digital",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.664,
+      "verdict": "DISAGREE",
+      "reason": "The page content does not relate to NHS screening services but rather discusses IT system suppliers and their status regarding BaRS for UEC (Application 3).",
+      "raw_response": "DISAGREE  \n\nThe page content does not relate to NHS screening services but rather discusses IT system suppliers and their status regarding BaRS for UEC (Application 3).",
+      "elapsed_s": 71.1
+    },
+    {
+      "page_id": "page_0501",
+      "title": "Practice level prescribing - glossary of terms - NHS Digital",
+      "gemini_category": "Medicines optimisation",
+      "coherence_score": 0.676,
+      "verdict": "UNCERTAIN",
+      "reason": "",
+      "raw_response": "UNCERTAIN - The page content discusses BNF classifications and pseudo chapters for items not included in them but does not specifically mention \"medicines optimisation.\"",
+      "elapsed_s": 79.4
+    },
+    {
+      "page_id": "page_0389",
+      "title": "NHS England \u00bb Improving communication about gender identity services",
+      "gemini_category": "NHS Screening Services",
+      "coherence_score": 0.676,
+      "verdict": "DISAGREE",
+      "reason": "",
+      "raw_response": "DISAGREE, because the page content discusses gender identity services and not screening services for conditions like cancer which would be more aligned with NHS Screening Services.",
+      "elapsed_s": 68.0
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+page_a,page_b,title_a,title_b,kg_similarity,verdict,reason,elapsed_s
+page_0256,page_0257,COVID-19 At Risk Patients - NHS Digital,COVID-19 At Risk Patients - NHS Digital,0.784,UNCERTAIN,,71.1
+page_0232,page_0236,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.781,UNCERTAIN,,85.2
+page_0235,page_0236,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.768,UNCERTAIN,,36.4
+page_0121,page_0135,Home - NHS Digital,Home - NHS Digital,0.767,AGREE,,68.6
+page_0124,page_0143,Home - NHS Digital,Home - NHS Digital,0.767,UNCERTAIN,,58.0
+page_0125,page_0135,Home - NHS Digital,Home - NHS Digital,0.767,AGREE,,26.9
+page_0131,page_0135,Home - NHS Digital,Home - NHS Digital,0.767,AGREE,,10.4
+page_0238,page_0239,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.76,UNCERTAIN,,78.7
+page_0235,page_0243,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.757,UNCERTAIN,,34.6
+page_0132,page_0135,Home - NHS Digital,Home - NHS Digital,0.733,UNCERTAIN,,72.2
+page_0344,page_0346,Commissioning Outcomes Framework consultation  | N,NHS England » Commissioning Outcomes Framework con,0.71,UNCERTAIN,,75.7
+page_0232,page_0235,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.699,UNCERTAIN,,86.6
+page_0236,page_0243,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.637,UNCERTAIN,,33.8
+page_0232,page_0243,GPES Cardiovascular Disease Prevention Audit - NHS,GPES Cardiovascular Disease Prevention Audit - NHS,0.634,AGREE,,33.4
+page_0101,page_0094,NHS England » Operations directorate: key director,Operations directorate: key directors appointed | ,0.6,AGREE,,67.4
+page_0371,page_0379,New director appointments to the NHS Commissioning,NHS England » New director appointments to the NHS,0.58,UNCERTAIN,,70.9
+page_0138,page_0141,Home - NHS Digital,Home - NHS Digital,0.576,UNCERTAIN,,72.1
+page_0121,page_0132,Home - NHS Digital,Home - NHS Digital,0.55,UNCERTAIN,,61.2
+page_0124,page_0139,Home - NHS Digital,Home - NHS Digital,0.55,UNCERTAIN,,55.6
+page_0125,page_0132,Home - NHS Digital,Home - NHS Digital,0.55,UNCERTAIN,,26.9
+page_0131,page_0132,Home - NHS Digital,Home - NHS Digital,0.55,UNCERTAIN,,10.7
+page_0139,page_0143,Home - NHS Digital,Home - NHS Digital,0.55,UNCERTAIN,,62.9
+page_0247,page_0259,COVID-19 at-risk patients Data Provision Notices -,COVID-19 at-risk patients Data Provision Notices -,0.55,UNCERTAIN,,68.5
+page_0279,page_0282,GPES Data for Pandemic Planning and Research (COVI,GPES Data for Pandemic Planning and Research (COVI,0.527,UNCERTAIN,,68.9
+page_0340,page_0341,NHS England » NHS Commissioning Board Special Heal,NHS England » NHS Commissioning Board Special Heal,0.527,UNCERTAIN,,75.0
+page_0351,page_0363,Wave 1 applications for CCG authorisation | NHS En,NHS England » Wave 1 applications for CCG authoris,0.527,UNCERTAIN,,76.9
+page_0378,page_0379,NHS England » New director appointments to the NHS,NHS England » New director appointments to the NHS,0.525,UNCERTAIN,,72.6
+page_0021,page_0350,Board meeting – 13 April 2012 | NHS England,NHS England » Board meeting – 13 April 2012,0.5,UNCERTAIN,,86.4
+page_0032,page_0052,The Power of Information | NHS England,NHS England » The Power of Information,0.5,AGREE,,58.2
+page_0033,page_0046,CCG authorisation waves agreed | NHS England,NHS England » CCG authorisation waves agreed,0.5,AGREE,,80.8
+page_0345,page_0348,National Director of Finance appointed | NHS Engla,NHS England » National Director of Finance appoint,0.5,AGREE,,72.0
+page_0353,page_0361,CCG indicative running cost allowances | NHS Engla,NHS England » CCG indicative running cost allowanc,0.5,AGREE,,75.4
